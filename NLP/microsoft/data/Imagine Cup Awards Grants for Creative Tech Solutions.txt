@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 4, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+The Microsoft Citizenship team announced the five winners of its Imagine Cup grants today and each solution demonstrates some really great thinking. The grand prize winner is a group of students from Germany that designed what they call an “orchestrated traffic control system.” It’s an intriguing approach to  navigation systems that cuts down on gridlock by distributing vehicles across multiple routes.One of my favorites is from a team in Australia that essentially turned a Windows Phone into a stethoscope. What’s especially cool is that parents or caregivers could use this solution to examine the child for symptoms of pneumonia, and upload the data to Windows Azure where it’s diagnosed. The hope is that by diagnosing and treating children in the early stages, we can decrease the fatality rate of childhood pneumonia. Also among the winners was QuadSquad, the Ukrainian team I wrote about a few weeks a go for its work in translating sign language into speech. Like MSR’s work fighting tuberculosis in India, these solutions highlight the potency of mobile technology to help solve a variety of health and social issues. It’s biggest limitation is the designer’s level of creativity and familiarity with the problem they’re trying to solve.For more information on Youth Spark and the winning solutions, check out the Microsoft Citizenship blog and the press release. 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

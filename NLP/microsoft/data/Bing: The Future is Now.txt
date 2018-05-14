@@ -1,0 +1,34 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 25, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+
+Video: Bing and O’Reilly Media: The Future of Search
+ Hot on the heels of the much discussed Farsight Beyond the Search Box event, our Bing team has hooked up with O’Reilly to create a series titled “The Future of Search”. Bold words but that’s the ambition Bing has – to move beyond the ten blue links we’ve become accustomed to. What can we expect from this latest collaboration?Every 3-4 weeks, the editors at O’Reilly will be curating discussions around social search, natural language, and “ the web of things” – aiming to look at where we are now and where we may be going. The first topic is Welcome to the party: Social’s potential and limitations on information retrieval and usage  and includes including Esther Dyson, Rich Skrenta of Blekko and Dr. Chris Ahlberg.  The discussion is underway at http://radar.oreilly.com/future-of-search<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

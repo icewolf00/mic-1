@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 13, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Pretty cool story yesterday on the Microsoft News Center about Autolib, a company in Paris that uses Windows Embedded to  provide customers with a more personalized car-sharing service. Each of its 60,000 customers has a card that contains data about things like their favorite radio stations and what temperature they want the climate control set at. Before getting in, the customer scans their card and the car makes the necessary adjustments. 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

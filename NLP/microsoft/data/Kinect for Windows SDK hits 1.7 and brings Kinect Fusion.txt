@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 18, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+The Kinect for Windows team has been hard at work on improving what is already an amazing experience. If you were lucky enough to attend the Engadget Expand event this weekend in San Fran then you likely got a peek at what’s forthcoming.Since the release of the Kinect for Windows SDK v.1, the team has spent thousands of hours researching how people interact with Kinect for Windows and trying to come up with better ways of doing things.All of that work paid off in a fine-tuned Kinect interaction experience. The camera now has the ability to discern between an open and closed hand and to recognize different hand gestures. This opens the door to a whole new realm of interactive possibilities, like being able to “grip” an image or three-dimensional object and manipulate it, or use a simple push motion to select a button.Along with that, they’ve focused on making sure that any gestures can be completed within the range of human sign language, which leads to an experience that’s more comfortable and more natural. No need to worry about breaking a sweat or throwing out your back.As you’ve seen here before, Kinect for Windows has already had great success being used in a variety of professional settings—top of mind is Audi’s use of Kinect for Windows to help customers with the in-dealership buying decision. It’s also being used within the operating theatre to help surgeons conduct procedures. I expect these improvements will to wider use.The Kinect for Windows blog has additional details on the Kinect for Windows SDK 1.7, which is available today as a free download.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

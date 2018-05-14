@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 9, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+There’s so much happening in Redmond that it’s easy to forget about the breakthroughs taking place elsewhere within the company.  An excellent example is the Microsoft Innovation Lab in Cairo (CMIC), which focuses on research in the areas of mobile multimedia, social media,     machine learning and natural language processing. Part of CMIC’s job is developing new technologies that can be transferred into our products and services,     with a particular emphasis on addressing the needs of customers in the Middle East.   One of the biggest challenges Arabic speakers face is the lack of access to Arabic keyboards – and some people don’t know how to use these keyboards.     This has created a bit of a language barrier in how they communicate on computers, and how they do things such as searching online. CMIC created a handful     of apps to help bridge that gap and they built a new website – Afkar.microsoft.com, where you can download them for free. Specifically, they’ve     developed tools to help create content in multiple languages, to browse the web and to translate.       Because of the language gap I mentioned earlier, many Arab speakers have taken to writing in Arabic phonetically using the English alphabet. This practice takes     place primarily within the confines of text message and, in some cases, on the web. Roughly two years ago, the CMIC team developed an application called     Maren, which essentially provided the same functionality within Windows, so Arabic speakers using this method of communication were no longer limited in their choices. Now CMIC has expanded the capabilities of Maren through the tools available on the Afkar web site:    In addition to the Maren tools, you can also download WikiBhasha Beta, a tool created by Microsoft Research India that allows Arab speakers to create new     articles in Arabic Wikipedia, or to enhance existing articles. CMIC also contributed an instant answer for Bing that gives the prayer times for all the     Arabic capitals, and they contributed to the Bing Translator, which translates 32 languages, including Arabic.     Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+September 1, 2015
+
+									|										
+Allison Linn
+
+Microsoft has released a new computer science curriculum designed for teens who may not have expressed much interest in computer programming – and teachers who don’t necessarily have any background in the field, either.The curriculum, called Creative Coding Through Games And Apps, is available for free to any educator who wants to use it.The course aims to encourage a wide range of students to explore computer science by teaching them to program and publish real apps and games.It teaches kids how to code using Microsoft Touch Develop, a programming language developed by Microsoft researchers. Touch Develop is designed so that even students without any computer science background can quickly learn how to write simple programs.Touch Develop also works on any device that has a modern Internet browser. That means students can write programs on smart phones, tablets, laptops or desktop computers, regardless of the operating system the device is running.It’s the same technology that’s being used for the BBC’s micro:bit program, which is providing every Year 7 student in the UK with a gadget and the tools to program on it.Tom Ball, a research manager in the software engineering group at Microsoft Research who has worked extensively on Touch Develop, first got involved with the team behind the Creative Coding curriculum when they collaborated on Code.org’s Hour of Code project. That’s a program that aims to introduce millions of kids to the basics of programming through simple, introductory coding exercises.Ball said he hopes this new curriculum will introduce kids to the foundations of computer programming, even if they’ve never considered programming in the past.“It’s not so much about learning Touch Develop,” Ball said. “Touch Develop is the vehicle to learning about computer science concepts.”Creative Coding through Games and Apps was designed by computer science teachers, and it comes with prep materials, lesson plans, assignments, homework and other resources. It’s recommended for kids ages 13 and up.The course’s developers say the online and in-class curriculum is intended to work well even for teachers without any computer science background. That’s important because many schools don’t have educators with computer science experience.Microsoft also is working to address that issue through a program called TEALS, part of the company’s YouthSpark initiative, which brings computer science professionals from across the technology industry into high school classrooms as volunteers to teach computer science.Related:Learn more about Creative Coding Through Games And Apps and download the course materials.Find out more about Microsoft Touch DevelopWhere learning is in store: YouthSpark summer camps at the Microsoft StoreMicrosoft’s Jeannette Wing honored for transforming how world views computingMicrosoft and the BBC micro:bit: A million ways to inspire a generationAllison Linn is a senior writer at Microsoft Research. Follow her on Twitter.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

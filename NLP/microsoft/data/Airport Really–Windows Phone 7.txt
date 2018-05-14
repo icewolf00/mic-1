@@ -1,0 +1,35 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 13, 2010
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+
+
+The latest “Really”?” ad from Windows Phone hit the airwaves (well, the interwebs) today. It follows the theme of the initial “Really?” ad by showing the glance and go capability of the phone. It also shows the Telleme voice integration that makes voice search dead simple. In the video you see the voice search issued from Bing but you can also just hold down the Windows key and utter a phrase – like, “dial SteveC” or “pizza” and boom, your phone starts dialing or brings back local search results. I just did the pizza search and got Pagliacci. That’s dinner sorted for tonight. It’s all about natural user interfaces – technology getting out of the way and becoming invisible. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

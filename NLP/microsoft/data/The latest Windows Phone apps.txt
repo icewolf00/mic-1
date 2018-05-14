@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 4, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+The team over at Liveside beat me to a post I’d be planning over the weekend, highlighting the fact that a lot of quality apps that have been added to the Windows Phone Marketplace over the last week – in doing so Liveside flagged several I hadn’t seen. Thanks damaster!Check out their post for the full list but here’s a selection from it that have just made it on to my Mango device.    One I did want to make more of a note of is the new Foursquare application that was quietly (to me at least) refreshed last week. In fact to call it a refresh does the new app an injustice – as the Foursquare blog notes, it’s a “total rebuild of the app”. The team at Foursquare worked with our teams to make optimal use of their API v2 and the result is an extremely elegant app with some great new features, including super fast check-in, leaderboard live tiles and exquisite use of panorama view. I’m personally still on the fence about the whole checking in thing but the app is a great example of what can be done with some thought and creativity with panoramic views in particular. As much as I like the content of the Engadget app, they could learn a few things – I found the social integration wanting with no ability to share posts via Twitter or Facebook and no way to email posts to friends.One app I’m hoping makes an appearance in the near future is Nike+ but for now, I’m pretty happy with the new payload on my device and busy showing friends the benefits of live tiles. Has Apple copied the feature yet? Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

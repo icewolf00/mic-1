@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 4, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’m cooking up a post on Kinect that should drop tomorrow but I couldn’t resist dropping this one in for the moment. The Nordstrom flagship store in Seattle has put Kinect in their windows. You can walk by the store and draw on one window using just the motion of your hands. Available now through April 11. I may head up there tonight and do a little street art…Check out more on the Nordstrom blog[update] I just took a walk up to Nordstrom to check this out first hand. A circumnavigation of the store showed no signs of the installation and I was about to head back disappointed until I saw this image in one window – turns out it’s the window right in front of the Mary Gates plaque. Nice touch.  I played away for a few minutes and noticed the Kinect hidden in a fixture below a Dolce and Gabbana handbag. A few more photos and my YouTube video below. It was pretty cool and even at 9pm people stopped by to watch what I was doing and it started to draw quite a crowd. I hope Nordstrom keep it there beyond the planned April 11th date.  <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 22, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Hardly a day goes by without a new Kinect related project dropping in to my inbox. Last week, a project from the University of Minnesota’s Institute of Child Development in Minneapolis caught my attention given some coverage in New Scientist. Niall Firth wrote about Kinect being used to watch children for early signs of autism.The Shirley G. Moore Laboratory School has deployed five Kinect sensors that observe children at play and uses computer vision techniques to look out for indications of autistic behavior. As the New Scientist piece explains The cameras identify and track children based on their shape and the colour of the clothes they are wearing. The information is fed to three PCs, which run software that logs each child’s activity level – including how they move each of their limbs – and plots it against the room’s average. The system can flag up children who are hyperactive or unusually still – both possible markers for autism. The article goes on to explain that they’re not looking to replace expert human diagnosis but the technology could be a significant assistant in gathering lots of data that can then be analyzed automatically and flag potential issues for further exploration.As if that wasn’t intriguing enough, a small pointer at the end of the piece highlighted another Kinect enabled medical project called MindMaze. Tej Tadi in Lausanne, Switzerland, is developing a system that allows stroke patients to treat themselves from their hospital bed rather than waiting for weekly therapy sessions. More on that soon I hope.The Kinect Effect keeps on going.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

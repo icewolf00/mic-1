@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 22, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+We’ve talked about the home and cities as connected places – how about the rainforest? Why does a rainforest in Brazil have a ton of sensors installed? Read on..When we talk about the great advances that are being made in technology we often talk about the big ideas and the sweeping projects. We don’t always spend as much time thinking about the massive volume of fine details that go into those projects, but in the case of the Atlantic Rainforest Sensor Network that’s where the real work lies. Microsoft Research is working with researchers from Johns Hopkins and the University of Sao Paulo to gather minute-by-minute climate data from a small section of the Brazilian rainforest. These rainforests help regulate climate temperatures, create rainfall and provide a habitat for biodiversity.This is both a fine-scale and a massive-scale undertaking. Fine-scale because there are 600 sensor nodes deployed throughout the Serra do Mar rainforest that are measuring and storing data on temperature, water vapor and solar radiation, at different elevations, above and below the rainforest canopy, every minute — and have been doing so since November 2009. Massive-scale because those individual measurements yield an enormous amount of data about how the climate of this specific area interacts with the global climate – the 600 sensors nodes deliver 18 million observations per month. Understanding the microclimate — through micrometeorology — is essential to understanding the macroclimate.The sensor network is another example of connecting “things” in our physical world to the digital world. It also illustrates some fantastic work in solving specific logistical problems, such as how to ensure that sensitive electronic equipment functions in a wet environment and how to maintain battery life when you can’t be frequently scaling the trees to swap out the power source. The researchers have deployed light-footprint devices and use wireless connectivity to download and relay data for processing so they can avoid intruding on the environment they’re observing.We’ve had sensors in our world for quite some time – think about the door that opens when you approach a store – that’s a motion sensor in action. In your pocket, you very likely have a GPS, digital compass and accelerometer, all of which are connected to the Internet. All of these sensors can start to enable completely new scenarios for making our lives easier. In the case of the rainforest, it’s more of a macro thing – using tiny devices to understand our physical world and tackle some big societal challenges.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

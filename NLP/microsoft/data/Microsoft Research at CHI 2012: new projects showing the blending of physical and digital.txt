@@ -1,0 +1,31 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 7, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+The ACM SIGCHI Conference on Human Factors in Computing Systems is taking place this week in Austin, Texas. It’s more well known as CHI and is the premier international conference on human-computer interaction. CHI is always a highlight of my tech year as the event attracts a wide discipline of skills from the world of design, engineering, management and user experience professionals – and Microsoft Research (MSR) is always there in force.In my coverage last year I focused on why Microsoft Research and our product teams attend the event and why we’re such big supporters. Fundamentally it’s because we firmly believe in the need for collaboration, particularly with academia. Microsoft has always been founded on great partnerships and has always acknowledged that we can’t solve all of the big computing challenges alone.Microsoft Research is contributing 41 papers and five notes this year (94% of which are co-authored with academic partners), spanning areas such as natural user interfaces (NUI), technologies for developing countries, social networking, healthcare, and search. Nine of those papers and notes received an honorable mention from the conference program committee, and Kevin Schofield, general manager and chief operations officer for Microsoft Research, will receive the SIGCHI Lifetime Service Award for his contributions to the growth of the ACM’s Special Interest Group on Computer Human Interaction and for his influence on the community at large. From a personal point of view, it’s great to see Kevin recognized – he’s one of my key partners at Microsoft and helps me navigate the world of MSR on a daily basis.As I’ve noted above, the MSR submissions cover a wide variety of areas though personally I’m drawn to the papers and notes that focus on the blending of physical and digital – it’s a key theme I see emerging across MSR and Microsoft more widely with products such as Bing Translator (in which MSR played a key part). Here are some of the highlights for me related to the trend: As the video below shows, SoundWave is remarkably capable even in a noisy environment and could provide some very natural capabilities such as switching off a screensaver as a user approaches a system – purely by sound.    
+  You may have already seen two other projects MSR is discussing at CHI on this blog – they both fit in to the category of blending physical and digital. Holodesk allows a user to manipulate 3-D, virtual images with your hands and is the work of Otmar Hilliges, David Kim, Malte Weiss and Shahram Izadi from MSR Cambridge, Newcastle University and RWTH Aachen.Back in March last year I posted about MirageBlocks, another project from Hrvoje Benko and Andy Wilson that with Ricardo Jota has developed in to MirageTable. This is another project I’ve had chance to play with first hand and it’s pretty damn cool. It uses a 3D stereoscopic projector to project virtual content on to a curved screen that is then captured by a Kinect sensor. That sensor is also tracking a user’s gaze, which enables the correct perspective views to a single user of the virtual content. I know…that’s hard to fathom but it’s much easier to see in a video, so see below…and it becomes really interesting when you have two MirageTables. (bear in mind these videos are not shown in 3D for clarity of explanation). There are a number of other projects outside of these of course and I’d encourage you to hop over to the Microsoft Research site to find out more. These projects are some of the highlights for me, and I’ll have another post later today on a fascinating project around LCD displays as well as an on the ground view of CHI later in the week from Kevin Schofield, so be sure to check back for that!Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,33 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 20, 2010
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+ I sat in a restaurant in today and watched two people ignore each other for 20 minutes over their lunch. They were engrossed in their phones, tapping away and chuckling to themselves while sat no more than 2 feet from presumably their significant other. What’s worse is I’ve been guilty of this myself on occasion – though thankfully never for a 20 minute duration! That along with a piece by Nick Bilton in the New York Times last week made me pause to consider how much I’ll allow technology to encroach on my Christmas vacation. Like Bilton and Clive Thompson I’m also thinking I need to reconsider my relationship with technology more broadly but for now, the impeding Christmas vacation is going to be a test of whether I can live without constantly being connected so I’ve chosen to avoid technology completely on a  few chosen days. That doesn’t mean Christmas will be free of blogs, tweets and Facebook updates from me – there will just be fewer of them and they’ll be sent when it’s not intruding on time with family and friends. We’ll see if it works out – it does have me thinking about the broader question of whether technology is making us more or less human. Sure, social networking connects me to friends I rarely see and I can keep up with their lives, their kids growing up etc. but is it at the detriment of my own life passing me by? I don’t think so but I’ve had the off comment about being “glued to my computer” so perhaps some adjustments are necessary. What I really want to see is a world where technology can still have the same benefit but without being so intrusive. Back to my hobby horse of natural user interfaces – if technology was making more intelligent decisions on my behalf that’d certainly help. I spend way too much time online just sifting – reading blogs, tweets, news, Facebook updates etc. What I really want is my technology to curate all of this on my behalf and then present it to me intelligently during the gaps of time I have that are most appropriate. Flipboard and Emporia are a step in the right direction for sure. I’m not sure it’s so much time to step away from the computer as it is time for the computer to step a little closer to understanding me. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

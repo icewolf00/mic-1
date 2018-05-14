@@ -1,0 +1,61 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 8, 2010
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Wouldn’t
+it be great if instead of spending hours mining feeds and Twitter each day you
+could just go to a web page and have a personalized stream of news? A
+stream that learns about you over time and continues to get smarter about
+giving you just the right news for you.Yesterday
+at the Neural Information Processing Systems
+Conference in Vancouver, Ralf Herbrich and Jurgen van Gael of FUSE Labs showed the latest version of Project
+Emporia – it goes a long way towards providing this kind of service. This
+research project has come a long way since it was first shown at the Thinking
+Digital conference in the UK earlier this year – an all new HTML5 UI for starters. Project
+Emporia is a recommendation engine for news. Based on the Matchbox
+technology from Microsoft Research, it uses a Bayesian probabilistic
+model to learn the preferences of users for recent news stories. In
+plain English, that means Emporia recommends
+news for you based on news you have read
+earlier – it predicts what you may want to read. When using Emporia
+you can vote a link up or down and that influences what you continue
+to see. From a personal point of view, I wish someone would do this for
+television and stop showing me ads for stuff I really
+don’t need 🙂 In fact there is a whole bunch of things I’d love to see
+this applied to but that’s the topic for another post. Emporia
+mines RSS feeds and all links shared on Twitter – discovering around 1,000,000 articles every day. Not only
+that, it does automatic classification of articles into categories using another Microsoft
+Research technology for classification.  Of course that’s
+not enough for Ralf and team so they’ve developed a system for
+“active learning” to automatically discover links that cannot reliably be
+classified. They sit down and do this manually each night by hand. Just kidding
+– these types of links are automatically sent to Amazon Mechanical Turk for
+labeling, they’re then “spam filtered” and returned the
+classification model to be appropriately categorized.  Fortunately
+all of that big brain stuff happens behind the scenes leaving the user with an
+elegant interface that presents personalized news. I got to play with the app this week and I can report that it works very well indeed. You can see the demo from NIPS at http://emporianips.cloudapp.net/#/topStories – stay tuned for release and some more exciting news I have coming, Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

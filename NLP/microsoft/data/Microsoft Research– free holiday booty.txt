@@ -1,0 +1,33 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 29, 2010
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+In the quiet period before we arrive at 2011, I thought it may be a good chance to alert you to some of the great  free downloads and websites from Microsoft Research. First up is Kodu from our FUSE Labs team. It’s a visual programming language made specifically for creating games and though accessible for children, it’s fun for everyone. Kodu is one of those things I’ve kept saying I should go take a look at but never got around to it so when I saw a demo a few months back from Matt MacLaurin I was hooked. Programming is done in a simulation environment which is a game itself – a far cry from the world of Visual Studio.You can create all kinds of games – racing, strategy, RPG, 1st person shooters and more. You can download the Kodu Game Lab – Technical Preview to get started on the PC or check it out on the Xbox Live Marketplace. UK gamer magazine, EDGE, has a good review.   Next up is AutoCollage, a program that uses computer vision and image processing to create collages of your pictures. The program employs face detection, saliency filters, and other Microsoft research technologies to identify interesting parts of pictures. Advanced object selection and blending technologies are then used to seamlessly combine your images in to an AutoCollage. Find out more on the AutoCollage blog or download and play. The next two are pretty well known but worth a second look.  [View from St Peter’s Basilica over Rome By: PasiM]Photosynth takes your photos, mashes them together and recreates a 3D scene out of them that anyone can view and move around in. There are already thousands of “synths” available to browse and new features such as overhead view continue to push the capabilities. Check out the synths from National Geographic, NASA, and the Obama Inauguration or just head to Photosynth.net to get started. WorldWide Telescope is  a tool for for anyone to view the universe as well as a developer’s tool to produce specialized visualizations of astronomical and planetary data. When I first saw WWT I was blown away and it continues to make me feel proud that Microsoft makes technology like this and gives it away. I’ve never been much of an astronomer – until I saw WWT. It’s beautifully well put together, has amazing depth of information and in my humble opinion, should be on the curriculum in every school. The original rich client has been supplemented with a web client for use on non Windows devices.  Last up is Team Crossword – another cool program from my friends at FUSE Labs. It’s a web based collaborative crossword puzzle with your friends. In Tully’s coffee shops in Seattle you often see a daily paper crossword puzzle stuck to the counter top to while away your time whilst waiting for your drink. Now you can do the same thing online by starting a puzzle and inviting your friends to work together to complete the puzzle of the day.Have fun and see you in 2011!<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

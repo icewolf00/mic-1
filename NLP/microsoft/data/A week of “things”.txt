@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 20, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’ll confess I’m smitten by this whole notion of “The Internet of Things” – it’s a bit like the promised land of web services, sensors networks and cloud computing all wrapped in to one. Last week I gave a presentation to a group of visiting tech bods from Europe and used this slide (again)The way I talk when presenting this slide is to make a quick connection between the data explosion and the ecosystem of computers. For a long time at Microsoft we have talked about Moore’s Law and the advances in hardware but decided on this slide to use ecosystem of computers to represent this notion that computers, or perhaps more accurately CPU’s, are everywhere. They’re causing an explosion in data and vitally, they’re becoming more and more connected. When you take a 1.2Ghz processor and give it 3G/4G capability and make it the size of a postage stamp things start to get pretty interesting. In fact those chips are pretty big when you compare then to a Mew Chip which is so small it can be woven in to paper.Given this, I decided it would be worth having a week on Next dedicated to “things” that are increasingly connected in our world. We’ll cover a wide landscape this week that reaches from the home, to the rainforest and the city. I’ll finish up with some numbers about the amount of connectivity and connections in our world and give a glimpse in to how many devices are powered by Microsoft tech – it’s more than I imagined – from gas pumps to ATM’s, from healthcare systems to high performance cars and to digital signage that makes fast food chains more nimble and save millions of dollars in electricity bills.The Internet of Things came about in the late 90’s and like most technologies it’s taken time to come of age – needing connectivity to get us to the point of integrating the physical world with the digital. We’re seeing some of that happen with Bing but think about it even more locally – imagine being able to search for your lost keys, your shoes or even a parcel being delivered – anything can be connected now. A frequently stated statistic is that every human being is surrounded by 1000 to 5000 objects and I think I’m closer to 5000 than 1000. Being able to locate them at any point in time would be a revelation – as well as saving me a ton of time!Anyhow, I didn’t expect this intro post to run quite so long so I’ll leave it there for now and hope you enjoy the week of things.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 2, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Microsoft Research (MSR) earlier today announced the creation of its newest lab, located in New York City, adding to the existing twelve labs across four continents.Jennifer Chayes, who leads the New England lab, will also head up this new Manhattan-based group that will host 15 world class researchers at the outset. Three of the founding members, David Pennock, Duncan Watts and John Langford previously worked for Yahoo! Research and are all recognized leaders in their respective fields. What struck me about today’s announcement is the fact that they chose Microsoft Research over anywhere else. I’m sure each of them could have elected to work pretty much wherever they liked given their talents.One of the founding members, Duncan Watts, summed up the decision nicely on the Inside Microsoft Research blog: “Microsoft Research is a world-class research organization with a long history and a deeply rooted culture of appreciation for both basic and applied science. “The opportunity to found a new Microsoft Research lab is one that comes along only rarely, and the chance to do it in such a great city as New York is, for me personally, even more special and exciting. It really feels like a once-in-a-career opportunity.” Watts is a former full professor of Sociology at Columbia University and a pioneer of modern network science. His focus on computational and experimental social science is a great complement to the existing skills in the New England Lab and a key area of research for MSR as they explore the dynamics of social science in our increasingly connected world. To get a sense of his work, I’d highly recommend reading this Fast Company piece from a few years back – it’s fascinating stuff that challenges the whole notion of “influentials.”Duncan is joined by David Pennock whose research is at the intersection of computer science and economics. Pennock will serve as assistant managing director of the new lab and perhaps unsurprisingly expects to be working closely with the Online Services Division at Microsoft – the team who own Bing and our advertising assets.The final member of the trio is John Langford whose interests include scalable interactive machine learning.There’s that phrase again – machine learning. It may sound like a buzzword but don’t be fooled in to that trap. It’s one of the secret sauces of computing and has become a very hot topic inside of Microsoft Research and within our product teams. It’s already employed in Kinect, Bing, Windows Phone and many other products and with the rise of Big Data, it’s only going to get more important. At this year’s International Conference on Machine Learning, Langford will serve as the program co-chair and adds to the impressive stable of machine learning experts across MSR.In addition to Pennock, Watts, and Langford, the group of founding members of the New York City lab includes Dan Goldstein and Siddharth Suri, experts in experimental and behavioral social science; Sharad Goel and Jake Hofman, experts in computational social science; and David Rothschild, an expert in economics and prediction markets.This is just the beginning of what promises to be an exciting new lab for MSR and Microsoft – and it’s very timely for two reasons:  Okay, that second reason isn’t that big a deal – but I will be heading to the lab to meet the team, take some photos and explore their work, so you should expect to hear more from them on this blog very soon.In the meantime, you can read more about the New York City lab on the Inside Microsoft Research and in a post by Liz Gannes from All Things D.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

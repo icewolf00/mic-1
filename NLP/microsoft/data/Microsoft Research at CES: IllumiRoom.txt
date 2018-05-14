@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 9, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Earlier this morning at CES, Eric Rudder, Microsoft’s Chief Technology Strategy Officer, joined the Samsung keynote to share Microsoft’s vision for extending computing interactions to any surface in your home. This wasn’t a product launch but I’m excited by the potential shown in the research that we shared.Imagine a space like your kitchen or a classroom achieving that same level of interactivity as your phone – this will happen through a combination of embedded devices and sensors such as Kinect for Windows. Our research demo only covers educational and entertainment scenarios but the possibilities are endless.It’s rare for a company to pull back the curtain and share research in such raw form at the world’s largest technology tradeshow. However, we think it’s vitally important to get the next generation of students excited about Computer Science – and what better way than to show off research that makes gaming more fun! While magicians never share their secrets, researchers have to publish, so, a bit of explanation about the demo is in order. You may have seen interesting 3D-mapped projections over the past few years – Microsoft partners like Nokia and Samsung have both used pre-rendered footage in recent marketing efforts. What’s new in this work is that our researchers used Kinect for Windows to map the room in real-time in order to make projected illusions fully interactive. Most importantly, the effects shown in the video were captured live as they appeared in the living room environment and are not the result of special effects added in post processing.For more on the science behind this demo, check out the MSR IllumiRoom project site from Hrvoje Benko, Andrew Wilson, Eyal Ofek, and Brett Jones – they’ll have more to come at CHI 2013 in April.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

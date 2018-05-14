@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 26, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ One of the features of Windows Phone 7 that impressed me from day 1 was the text entry and the ability to correct my mistakes with surprising accuracy. I saw this demonstrated many times before I eventually had the chance to use it myself and I was skeptical about whether it could handle my poor typing. Here’s an early demo at MIX10 with Joe Belfiore.   It turns out my skepticism was misplaced. Similar to some recent posts I’ve made about Kinect, this was another example of technology transfer from Microsoft Research (MSR) in to a product. I posted a while back on the official Microsoft blog about the role of Microsoft Research and how we split our $9bn+ annual investment in R&D. To recap – only a small portion of that goes to MSR. I often get the question on what MSR contributes and though there are some big visible examples like Kinect, the text input on Windows Phone is another example. To me, it’s no less impressive, just a little less visible. The technology originated as a brainstorm between members of our Mobile Communications Business and several Microsoft Research folks. They wanted to determine if the principles of machine learning could be applied to improving finger input on the soft keyboard. The idea being that by taking a lot of data that shows what corrections are typically made when entering text, you can teach the system to anticipate and auto correct. The more data you have, the more accurate the system becomes. The team didn’t limit themselves to this and worked together to explore everything from typing intelligence and the underlying architecture, to UX and on-screen interaction. The MSR team put together a finger approach not unlike that used for speech recognition determining the right kind of data collection/evaluation and building models to help establish a data driven mindset.  With immediate results from the first prototyping showing 30-40% reductions in input errors they knew they were on the right path.The result is what you see today in Windows Phone 7 – or if you haven’t seen it, check out the video below from ZDNet.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

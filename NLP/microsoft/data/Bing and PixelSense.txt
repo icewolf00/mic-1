@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 26, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I spotted this implementation of the Samsung SUR40 recently on Long Zheng’s blog. Microsoft partner, Stimulant, put together a beautiful video showing the capabilities of the Bing application that built for PixelSense.I showed some of these capabilities in my own demo at CES earlier this year, not least the ability for PixelSense to recognize the orientation of your fingers and present an image that is dependent on that. It’s something a capacitive touch screen doesn’t do as it merely recognizes the touch of your finger – it doesn’t “see” your finger. There is also a nice aspect of blending the physical and digital worlds in the Bing app as you can use Microsoft Tag to take any image presented away with you on your phone.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

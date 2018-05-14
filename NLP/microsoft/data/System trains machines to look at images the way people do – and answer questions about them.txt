@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 24, 2015
+
+									|										
+Athima Chansanchai
+
+A picture, the saying goes, is worth a thousand words. When a person is asked about something in a photo, they’re taking in a lot of details – a lot of words – to answer questions about it.Now, a team of Microsoft researchers, together with colleagues from Carnegie Mellon University, has created a system that uses computer vision, deep learning and language understanding to analyze images and answer questions the same way humans would.The ability to answer questions is critical to developing artificial intelligence tools, and this breakthrough could lead to real-time recommendations and actions that anticipate human needs.The system could power all kinds of applications, such as a warning system for bicyclists. With a mounted camera continuously taking in the environment around the cyclist, the system would keep asking itself questions such as, “What is in the left side behind me?” or “Are any other bikes going to pass me from the left?” or “Are there any runners close to me that I might not see?”The answers could then be automatically translated as suggestions to the biker, such as giving directional recommendations to avoid accidents. The answers can be played back to the biker via a speech synthesizer.The model created by Xiaodong He, Li Deng and Jianfeng Gao – researchers in the Deep Learning Technology Center of Microsoft Research, and Zichao Yang and Alex Smola, a research intern and his advisor from Carnegie Mellon University – applies multi-step reasoning to answer questions about pictures. Take the photo, above, for instance. What if you want to know, “What is sitting in the basket on the bicycle?” Well, first you’d take in the first layer of information, by noticing those specifics – the bike, the basket and what is in the basket. Then a second layer would zero in on the key area in question – the basket – and analyze what’s inside. The answer: Dogs.“As humans, we focus on what’s needed to answer these and other questions,” says He. “With this system, the image goes through deep neural networks, deciding which regions are relevant to the question, and suppressing irrelevant information.”The system takes in information a human set of eyes and brain would, looking at a scene’s action (if there is any) and the relationships among multiple visual objects.“We’re using deep learning in different stages: to extract visual information, to represent the meaning of the question  in natural language, and to focus the attention onto narrower regions of the image in two separate steps in order to seek the precise answer,” says Deng.Though it may sound simple for humans, it’s a lot for a computer to learn language and to find answers in an image. But using deep neural networks, it can. For researchers, language processing is vital in building strong artificial intelligence in computer vision.“It’s taking on a human’s attention capability,” Deng says. “This is the technology that couldn’t have been imagined a few years ago – modeling human behavior to solve problems.”In the research paper that describes this system, this layered approach locks in on visual cues to focus on the most relevant area “to infer the answer progressively,” according to He and Deng. That’s one big step in teaching computers to understand complex scenes, and also to using natural language to train them.This work builds on the team’s previous research, which involved teaching machines to automatically caption images. The researchers say that was an important step in getting to this point because descriptions of scenes, annotated by people, provide meaning to a picture. That helps train the computer to understand the image the way a person would.“In captioning, the machine describes the scene in a general way, but it doesn’t know what you need or what’s important,” says He.Athima Chansanchai
+Microsoft News Center StaffRelated content: Picture this: Microsoft Research project can interpret, caption photosMicrosoft researchers tie for best image captioning contentRecent progress on language and visionA New, Deep-Learning Take on Image RecognitionMicrosoft Researchers’ Algorithm Sets ImageNet Challenge Milestone
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+September 9, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’ve mentioned The Garage a number of times here on Next and Jay Greene also wrote a story recently about some Garage projects recently for Cnet.Today it gives me great pleasure to announce a free download resulting from a Garage project. To recap quickly, The Garage is both a physical space in Building 4 at our Redmond HQ, and a company wide program that encourages grass roots invention, tinkering, ideas and incubation of projects. In The Garage,employees get together after hours to build whatever they dream up and the results are often impressive. 99.9% of the Garage projects either ship as part of a Microsoft project or remain internal, but every once in a while there’s a project that doesn’t fit into any existing Microsoft product which will get a lot of request from employees who want to be able to share it with their friends and families.  In exceptions like this, the Garage community will rally together to and publish it as a standalone public download.That’s what’s happening today with Mouse Without Borders.Mouse Without Borders is a project I’ve been familiar with for the last 6 months or so and it’s a wonderfully useful tool. In a nutshell, it allows you to reach across your PC’s as if they were part of one single desktop. I have two PCs on my desk at work connected to 3 LCD screens and using Mouse Without Borders I can move my mouse between the 3 screens, even though one of them is attached to a different PC from the other two. What’s more, I can move files between the 2 computers simply by dragging them from one desktop to another. In fact you can control up to four computers from a single mouse and keyboard with no extra hardware needed – it’s all software magic, developed by Truong Do who by day is a developed for Microsoft Dynamics. The software is easy to setup and in addition to enabling drag and drop of files, you can lock or log in to all PCs from one PC, and as a whimsical bonus is it allows you to customize your Windows logo screen with the daily image from Bing or a local collection of pictures 🙂 I regularly use it to have one PC dedicated to social media streams while I work away on my other PC connected to two screens. The video above both explains and shows Mouse Without Borders far better than I can using words. The project is testament to the power of The Garage which helped Truong develop the user interface and setup the usability tests that have helped the tool become very accessible and easy to use. As well as that, The Garage and its regular Science Fairs inside Microsoft helped expose the project to 9,000 people before it was ready for external release. Now that day has arrived and I’m delighted to announce here on Next at Microsoft that Mouse Without Borders is ready for download. Download Now [1.1mb]Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

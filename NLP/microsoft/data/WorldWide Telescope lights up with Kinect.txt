@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 13, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+A few weeks ago Microsoft Research held an event on Microsoft Campus called TechFest. We show a lot of new projects and prototypes from our labs (see earlier coverage) but we keep a lot of stuff behind closed doors. There was one demo that blew me away that I couldn’t talk about but now I can as it’s on show at MIX11 and just got demo’ed in the Day 2 keynote and is shown above. Many of you have seen what the enthusiast community has been doing with Kinect – there is an equally passionate community inside Microsoft who are doing things with Kinect. Some of you may be familiar with WorldWide Telescope – the project that brought Scoble to tears. Well those guys have hooked up Kinect to their system and the results, in my opinion, are spectacular. I got to play with these at TechFest and I was stunned…but promised to stay silent. Now you can see it for yourself in the video above. WorldWide Telescope is impressive technology on its own – when you add Kinect to the mix, it’s addictive. You can ride through the galaxy with the wave of a hand – zoom in to a planet, leap across star systems. It’s beautiful. I was going to combine this with a post covering other Day 2 keynote news from MIX but it felt worthy of  a post on its own. I’ll have another post in a few weeks following a long chat I had last week with one of the brain behind WWT – Curtis Wong. He has so much more to show us.For now, it’s time to cry again, Robert. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

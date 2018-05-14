@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 11, 2014
+
+									|										
+David Chen - Microsoft News Center Staff
+
+Weekend adventurers used to return to the office on Mondays with nothing more than tales to vouch for their exploits. That all changed with the availability of first person video made possible by companies like GoPro and iON, which can capture your hiking prowess in 1080p.There’s only one problem: few people (short of your parents and dog) are interested in watching hours of monotonous footage punctuated infrequently by a few seconds of excitement.Johannes Kopf made this discovery shortly after purchasing his first GoPro and strapping it on for a climb in the Cascades. “I wanted to show my friends the full experience of getting up one of these mountains—from basecamp to summit,” says Johannes.But any attempt at speeding up five hours of footage significantly amplified the camera’s slightest movements, making the video unwatchable. And the stabilization techniques currently available were no match for the camera’s constant movement as Johannes scaled the lofty heights.So Johannes spearheaded Hyperlapse, a new project at Microsoft Research, where he works with the Interactive Visual Media Group. That project has culminated in a technical paper being presented Tuesday at SIGGRAPH 2014 in Vancouver.The Interactive Visual Media Group focuses on the areas of computer vision, image processing, and statistical signal processing, specifically as they relate to things like enhancing images and video, 3D reconstruction, image-based modeling and rendering, and highly-accurate correspondence algorithms that are commonly used to “stitch” together images.Drawing upon more than 20 years of institutional knowledge, Johannes and colleagues Michael Cohen and Rick Szeliski developed Hyperlapse, an advanced stabilization technology that virtually eliminates camera shake, creating a fast, smooth visual path through the full length of a video.Standard video stabilization crops out the pixels on the periphery to create consistent frame-to-frame smoothness. But when applied to greatly sped up video, it fails to compensate for the wildly shaking motion.Hyperlapse reconstructs how a camera moves throughout a video, as well as its distance and angle in relation to what’s happening in each frame. Then it plots out a smoother camera path and stitches pixels from multiple video frames to rebuild the scene and expand the field of view.Put another way, it’s akin to the human brain’s ability to fill in blind spots by “hallucinating” on the person’s behalf.As you might imagine, working with raw video involves crunching a fair amount of data, which required a compute cluster to crunch data for several hours to complete for each video. Johannes, Michael and Rick developed a series of new algorithms that lead to a more efficient process without compromising the image quality.  The result is that Hyperlapse can now render a high-speed video in a fraction of the time, using a single PC.Even so, the work isn’t done. Johannes and team are focused on reducing the number of visual artifacts and reducing the time it takes to render a Hyperlapse video. Eventually, they hope to release Hyperlapse to the public, making it easier for people to share their digital memories and weekend exploits.Visit Hyperlapse’s project page to learn more about its technology, and learn more about Microsoft Research’s presence at Siggraph 2014 this year.   
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

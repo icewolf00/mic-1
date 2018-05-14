@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 18, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’ve not paid as much attention to The Random Adventures of Brandon Generator but with episode two appearing this week, my interest was piqued. Award winning filmmaker Edgar Wright (Shaun of the Dead and Hot Fuzz) and illustrator Tommy Lee Edwards (Marvel and Lucasfilm fame) are working with our Internet Explorer team to create a an online story that is driven by the readers.This crowd sourced animated film is about a character called Brandon Generator, a writer/comic book artist suffering from a serious creative block (I can relate to that) who wakes up after a blackout to find all his work done for him. Finding out who left the mystery contributions is left up to the user. A blinking cursor at the end of episode invites the viewers to contribute through artwork, written messages and voice messages.The first episode had thousands of responses, 68 of which are incorporated in to the second episode – and now I’m hooked. In my dream world, I’d like this blog to be written the same way….the Random Adventures of Steve Clayton.Aside from the storytelling there is some impressive HTML5 work at play here that is detailed by the LBi development team in a series of brief notes including How to sync your code with an HTML5 video and Manipulating HTML5 videos, pixel by pixel. The work really shows what’s possible with HTML5 and for me at least, convinces me that applications are all going to go this way over time.Go check out episodes one and two and stay tuned for two more.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

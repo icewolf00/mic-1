@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 19, 2014
+
+									|										
+David Chen - MSFT - Microsoft News Center Staff
+
+If you could see ideas spreading, what would it look like?Amy Robinson wanted to get to the bottom of this question. Robinson is a community member of TED, the annual technology and design conference whose tagline is “Ideas Worth Spreading.” She is also the Creative Director of Eyewire, a crowdsourcing project that has turned the act of mapping the brain (a mouse brain, specifically) into an online game. Eyewire has over 120,000 participants from over 35 countries, who have collectively helped map dozens of brain cells.At this year’s TED conference, currently taking place in Vancouver, B.C., the results of Eyewire are on display in spectacular fashion via a virtual reality tour that uses Oculus Rift. It is the result of a months-long collaboration between Eyewire and Microsoft Research’s Worldwide Telescope (WWT), and it allows users to experience 3D models like never before. The below video demonstrates what TED attendees are seeing this week, albeit in 2D form:How was this collaboration born?Initially, Robinson wanted to display 3D neuron models on a large computer screen and allow users to manipulate them with their hands. But in September 2013, Robinson attended the .Astronomy conference – an annual event held by the astronomy community – and saw some technology that she had to take advantage of.At the conference, Jonathan Fay, principal software architect for WWT, was demonstrating WWT for attendees. WWT collects all the data that we know about the universe from sources such as NASA, JAXA, the ESA, and many other university contributors and makes it accessible to anyone online. While products like Bing Maps have detailed views of Earth, WWT can show you detailed maps of other planets. “We have a map of Mars that’s similar to a map you can get of Earth. We can zoom into tiny craters on Mercury,” Fay explained.Since its creation six years ago, WWT has reached over 12 million people through its website and through its usage in classrooms and planetariums. But Fay was constantly working on new functionality, new features, and new data to augment the service. After experimenting with Oculus Rift, he devised a way for users at .Astronomy to experience WWT using the virtual reality headset.“I was blown away,” Robinson says, describing her first experience in Fay’s creation. She immediately knew she had to try to combine the 3D neuron data from Eyewire with the level of immersion that WWT and Oculus Rift enabled.Robinson provided Fay with some of Eyewire’s 3D neuron data and both worked with their teams for six months to bring the project to life. “We decided to create an Oculus Rift demo that would show outer space scale, in addition to the scale of neurons,” Fay recalled. “You could go on this journey where you could experience a 130-meter space station the size of a football field, then zoom way into some 3D neurons, and explore these two areas where not very many people are able to go to.”“We want to provide a magic ride into these places that most people could only ever go in virtual reality,” Fay added.The end result is a compelling experience, a demo that not only impresses with its technology, but with its brilliant visualization of the data that shows both the vastness of outer space and the intricacy of the brain.“WWT has always used things like GPU engines, immersive environments, and other technologies that are normally territory for gaming,” Fay says. “To a certain extent, WWT’s mission from the beginning was using gaming technology to bring scientific data to the world.”Robinson’s enthusiasm about the project is infectious, as she describes the possibilities this TED installation opens up. “All the neurons that you see are from one single lab,” she says. “But there are thousands of labs around the world, lots of different data sets, hundreds of different neurons that could go into something like WWT. I could see this as a scientific portal into the future, a place where anyone who’s interested in seeing anything inside the brain, in seeing a core component of what makes us human, can have access to it.”“I really don’t see this exhibit at TED as our finale,” she says. “I see it as our start.”
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 29, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’m a big fan of Razorfish – their work is terrific and I’ve long been a fan of their digital outlook report. One of their recent reports, The Razorfish 5 is excellent read and I’d highly recommend it for their take on 5 technologies that will transform your business. However, I think they missed a trick (or two) with the second of these trends – The Interface Revolution. Okay, maybe I’m becoming a bit of a bore on this while Natural User Interface thing (NUI) but my radar was up when I saw the subtitle of the chapter proclaimed the mouse as dead. It may be, one day but not anytime soon. There is far too much inertia in a device that has been with us for over 20 years to proclaim it dead simply because of the rise of touch interfaces. They fall in to the classic trap of assuming that for one technology to flourish, another has to die. History has shown that rarely do technologies die off – they becomes used less but more often adapt and remain used for the things that they’re good at. To be fair, the authors point out that the mouse and keyboard will be around for a while to drive the “niche” GUI applications. That’s quite a big niche and to say there is a mass migration away when Gartner predicts over 400m PC’s with be sold next year (running GUI’s) is a little premature. But, I agree that the shift to NUI is upon us and that touch, speech and gesture are key to this new wave of interfaces. What the report totally missed though is the most dramatic advances with NUI is when these sensory inputs are combined with a host of other factors. These include (but are not limited to) location, the context of what you’re trying to do, the history of what you have previously done, the proximity of other devices, input from a wide range of sensors such as accelerometers, GPS, compasses along with technology such facial recognition and machine learning. When we marry all of these things together we’ll truly begin to see natural user interfaces that anticipate what we’re trying to do and understand our intentions.  Seeing NUI primarily through the lens of touch and focusing simply on the iPad doesn’t do justice to the significance of the change in my opinion. That isn’t a criticism of the iPad which is a fine device and clearly part of the NUI revolution but it only exemplifies touch and to a smaller degree gesture. Though the report touches on Kinect and mentions facial recognition, for me there wasn’t nearly enough to give readers a sense of the gravity of change that is upon us. As I said at the beginning, the report is well worth a read. Just don’t assume it’s going to give you the full picture of NUI. I hope an updated report may do but in the meantime, the NUI 101 post on this blog a few weeks back may help augment your knowledge or Bill Buxton’s TechTalk – NUI – What’s in a Name?// <![CDATA[
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// ]]&gt;Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

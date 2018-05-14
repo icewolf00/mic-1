@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 9, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+A few posts here recently have talked about the rise of data and visualizations as a way to gain insight from the data. As good as visualizations can be, there are some bad ones out there too. Not everyone has the New York Times or Wired visualization team at their disposal so it’s cool to hear that Visual.ly are looking to help other get access to those kind of design chops. We’re all for making data more visual…in fact, I spent an hour with some folks in Microsoft Research on Friday looking at some work they have under way. I’ll have more on that soon. Meantime, you can sign up for early access to visual.ly via FastCo Design<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

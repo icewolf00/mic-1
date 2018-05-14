@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 22, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+[a Fresh Paint creation from my 3 year old daughter – click to see the hi-res version and the level of realism]When I heard about Fresh Paint on Windows 8, I wondered how it would be different from other applications out there that use touch. Many people are familiar with Paint, an application that has been a part of Windows for as long as I can remember so when then Fresh Paint team told me that they’d set out to completely reimagine what painting in the modern age should be — I was intrigued. What I found was a painting application of the kind I (and probably you) have never seen before.Originally created as a prototype for the Materials Lab at New York’s Museum of Modern Art, Fresh Paint has been used by over 56,000 visitors at MoMA. When I installed the release preview of Windows 8, I wanted to check out what got those visitors so engaged, but it wasn’t until my 3 year old daughter started playing with the app that I truly realized it is quite different from any other painting app I’d seen. It’s paint for the modern age, and has a simplicity and realism that is amazing.I began in a very grown up fashion, drawing things like a car, playing with brushes and dabbling with the colors. When my daughter started playing, she did much more – splashing digital paints around on my Samsung tablet with her fingers (just as she would with real paint) and mixing things up like a mini Picasso. While she was busy making mini masterpieces, I was busy noticing how the oils on canvas behaved just like real oil paints. When she combined a red and yellow together, they reacted just like real oils would – creating an orange of course, but it wasn’t a flat orange. It had bits and pieces of red and yellow and built up layers of digital paint. Imagine running your finger over an oil painting and feeling the texture.  Fresh Paint recreates that experience by modeling height, thickness, deposits, mixture of paints, and the properties of paper and canvas. This includes modeling the texture of the surface or canvas as well as the absorption of the fibers of the material. I spoke with some of the team, and they literally painted with real paints on different canvases to make sure the painting modeled real life.What makes this all possible is some very smart math that delivers real time fluid dynamics on screen. Basically, the Fresh Paint engineering team developed a physics engine that simulates how mediums — think paint, pencil and pastels—are applied to a surface such as canvas or paper using a tool like a brush, pencil, etc. This provides a digital experience that is just like you’d get in the analog or real world.All manner of other neat tricks are available, such as the spinning fan to digitally dry your paint, ripples in the water as you clean your brush, and, of course, social sharing via Windows 8 charms bar integration. My own favorite feature is the ability to insert a picture and trace and paint over it – my daughter thinks I’m the next Da Vinci (or Banksy). For me, the best part about Fresh Paint is that it doesn’t expose the complexity of what’s going on behind the scenes to the user. It’s simple. And it’s another great example of a natural user interface (NUI) where technology gets out of the way and allows the user to enjoy the experience. We all intuitively know how to paint, so whether it’s finger painting, moving a mouse, or picking up a capacitive paint brush, the app just works the way you’d expect it real paint to work. Of course because it’s digital there are some advantages over analog painting – you can erase paint easily or even use the “undo” feature to undo the last or last several paint strokes if you don’t want to get rid of everything. You can also use that fan to dry paint instantly. The other big advantage in my house? It’s much less messy than real paint 🙂And that’s precisely what a lot of Windows 8 users have been doing. As of today, Fresh Paint is the #1 app in the Entertainment category in the Windows Store, and when Windows 8 hits general availability in late October, I expect it’ll be one of the most popular apps with adults and kids alike. If you’re already running Windows 8, check it out in the Windows Store. Let the team know what you think by writing your own review and rating the app.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

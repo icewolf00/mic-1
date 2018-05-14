@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 5, 2014
+
+									|										
+Steve Clayton - NEXT - Microsoft News Center Staff
+
+“Now that we can build nearly anything, what should we build and how should we build it, and for whom?”Those words came out of Bill Buxton’s mouth a few years ago while the two of us were talking about the role of design at Microsoft. The Kinect and Kinect SDK had been released just a few months before, and Microsoft was in the midst of a transformation of sorts as more and more designers joined its ranks. Bill’s view was that these designers would play a critical role in answering that question.Up until then, Microsoft had been known almost exclusively for its technical prowess, but the company has since earned some serious street cred for its design chops.At the core of what we do is the desire to create experiences that are more human. But as Bill’s question insinuates, just because something can be built, doesn’t mean it should be. There’s a tension between what’s possible and what’s prudent, and today we have a deep bench of design talent to help strike the right balance.Yesterday I had the privilege of facilitating a panel discussion between Albert Shum, Sogol Malekzadeh, and Scott Evans in New York City to talk about how technology is becoming more human. Each panelist brings a fresh perspective to designing great experiences for the end user, and I wanted to pass along some of the themes that emerged from the panel as this topic is one we’ll come back to over the coming months.I started by asking what the panelists considered to be more human design – the answers touched on everything from OXO kitchen utensils (because they’re well-crafted and unfussy in their aim to work for everyone) to things that are much more elaborate. Two recurring tech examples were Cortana (recently covered in a great in-depth post by Engagdget) and Kinect.Cortana is perhaps the best example we have right now of more human tech, with its personal notebook, unobtrusive chitchat and friendly demeanor. Sogol gave some of the back story on Cortana and how it’s engineered to behave like a real personal assistant and avoid any creepiness. Scott talked about Kinect’s ability to distinguish between two people on a sofa, such that when one said, “Skype Mom,” it would know whose mom to call. Speaking of which, I cited the recent Skype Translator demo as an example of more human technology.The panel wasn’t all smooth sailing, though, as we discussed some of the thornier issues around humanizing technology, including the need for deep transparency to build trust. It’s a delicate line that the tech industry is learning how to walk right now – and as Scott mentioned, with enormous amounts of data being gathered by sensors of all types, we are beholden as creators to be responsible in the use of that data, and to put control in the hands of people.Related to this, I introduced another topic, machine learning (ML), which is an area we’re going to hear more about over the next few years. With huge volumes of data, the world of artificial intelligence is seeing a resurgence. And now we can use that data, allied with ML, to enable computers to learn. To me, at least, ML is the magician behind the curtain in this world of humanizing technology.The other magicians behind the curtain, though, are designers. We have over 1,000 of them now at Microsoft, in a wide variety of disciplines. And I genuinely believe they hold the key to unlocking the next potential of technology. Often we’re guilty of adding more tech for its own sake, and engineering sometimes wins out; but designers working closely with engineers to bring a more human element to technology, and subtly ensuring that sound, color, personality, humor, transparency and trust – along with a million other details – will help us move to this new era of computing where technology does become more human.It’s an exciting time for Microsoft and our industry, and I, for one, will be watching with interest.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

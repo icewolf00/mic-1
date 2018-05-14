@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 30, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+During my first visit to the Kinect Accelerator program here in Seattle I only had time for a brief demo from Manctl and frankly was too distracted by Ubi-Interactive. Last week, I got time for more in depth look at Skanect from the French duo of Nicolas Burrus and Nicolas Tisserand.Skanect is described as a “low-cost 3D scanner based that used Kinect for Windows”. Okay, nothing remarkable about that given the projects we have seen to date, including KinectFusion from the Microsoft Research team in Cambridge.And then the guys fired up their demo. WOW!As the Kinect sensor is moved around, much like Kinect Fusion it captures new views of an object or a room and automatically computes a metric 3D model in real-time. The output is remarkable and I sat watching it with Nate Lanxon my reaction was the same as his Nate wrote up his thoughts on wired.co.uk last weekend.My mind leapt to a recent post about 3-D printers. Could Skanect’s output be sent to such a printer? Of course responded – and the output can also be imported into popular 3D software applications such as Meshlab or Blender.The stated mission of the Nicolas’s is “to enable the masses to capture the world in 3D”. I’d say they’re well on their way and look forward to seeing how they fare at the upcoming demo day for the Kinect Accelerator.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

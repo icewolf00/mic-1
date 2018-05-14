@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 11, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Benjamin Cohen of Channel 4 News in the UK visited Redmond recently and my colleagues and I took him on a tour to see the people who are building the future and the places where they’re building it.  After 2 days with us, Benjamin and the team headed back to the UK to digest what they’d seen. On his blog this week he acknowledged the “extraordinary technology” and “really extraordinary access” they were granted, as well as “the frankness of what people said”.For me, it was a fun and challenging two days – fun in that it’s a privilege to be able to show people around and to introduce them to amazing people while doing my part to explain the vast array of things the company is involved in and where they’re connected. It’s challenging because it’s a little like showing someone around your house – as the smile and nod politely you’re nervous about what they may think. Having showed the Channel 4 team some of our latest and greatest technology and chatted through the two days about our direction, I was hopeful they’d walk away with a positive impression. The piece aired on Channel 4 this week and I instantly knew about it as my phone started beeping with text messages and tweets from friends back in the UK. It seems they were somewhat startled to see me on television while eating their dinner. Sorry about that! An hour or so later I got to see the near on 8 minutes piece and I think Benjamin and the team distilled 2 days of filming and interviews down in to a balanced report that showed where we are and where we’re going. I think their favorite demo was LightSpace which I’ll confess blew me away too – it was the first time I have seen it first hand and it was stunningly good. Surface 2.0 was also a great session and I wasn’t surprised to see the report end with Benjamin’s “face plant” moment alongside Panos Panay. On his blog too, Benjamin articulated some of what I now see every day…The tweets and emails I got afterwards were encouraging – it seems people were interested in seeing more of what goes on at Microsoft, what we’re focused on and where we think technology is headed. Sadly we can’t accommodate everyone with tours like this – I wish we could – I’d happily run theme every day and have even joked that we should have some form of Willy Wonka’s chocolate factory type competition that’s open to the our readers to get a chance to have a tour. In the meantime, I’ll keep trying to show you more of Microsoft – the people, places, products etc. through this blog. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

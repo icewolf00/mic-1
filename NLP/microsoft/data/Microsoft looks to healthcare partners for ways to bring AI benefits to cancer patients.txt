@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 28, 2017
+
+									|										
+Allison Linn
+
+A team of artificial intelligence experts at Microsoft’s Cambridge, U.K., research lab has spent more than a decade looking at ways that AI could be used to make cancer treatment more targeted and effective.Now, the research team behind one of those projects, called InnerEye, is asking third-party medical software providers to help them better understand how this kind of research could be integrated into tools that medical experts use to plan cancer treatments today, as part of Microsoft’s Healthcare NExT initiative.In a plenary speech Tuesday at the Radiological Society of North America’s annual meeting in Chicago, Antonio Criminisi, the lead researcher behind the project, said the goal of the private preview is to find commercial partners who can help the team explore ways to incorporate this research into third-party medical software products.“It’s all a big learning experience for us,” said Criminisi, a principal researcher in Microsoft’s U.K. lab.The InnerEye research project uses two core branches of AI: machine learning and computer vision. It’s designed to delineate cancerous tumors as well as healthy anatomy, and to enable medical software providers to deliver tools that radiation oncologists can use in planning radiotherapy treatment.The cloud-based radiomics service is intended to enable the development of products that better assist radiation oncologists and dosimetrists with some of their work, allowing the medical experts to focus on more detailed tasks such as editing and refining results.Right now, for instance, image contouring is typically done manually, and it can be a time-consuming and expensive process. Because of that, it is also often only done once, at the beginning of the treatment.Third-party solutions using InnerEye technology might make it more practical to monitor disease progression during treatment, and to adjust treatment options such as chemotherapy based on how the patient is responding. That could one day potentially lead to more targeted and effective chemotherapy.Criminisi, who has spent years working on ways cutting-edge AI could benefit cancer patients, said it is exciting to think about how all those years of research could eventually start paying off in real-world clinical settings, and benefit society. But, he noted, his team’s expertise is in AI research, not healthcare, and that’s why they are seeking outside partners to help them put the research to the best use.“We cannot do this by ourselves,” he said.Related:Allison Linn is a senior writer at Microsoft. Follow her on Twitter.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

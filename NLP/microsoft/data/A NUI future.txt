@@ -1,0 +1,33 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 26, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+ {click for the full size image}In a spot of moonlighting, I posted over on the Official Microsoft Blog today talking about NUI – where we see things today and where we see things going. As I mentioned there, it’s really just early days for NUI but it’s exciting times and the way the community has embraced Kinect has been amazing for us to watch. We also published an infographic showing response to a recent global survey on NUI which you can see the details of by clicking the image above. What’s most exciting for me is to see the amount of NUI work that is going on across the company – in Microsoft Research, labs and incubations teams and product groups. In the post I also mentioned that NUI is far more than just touch, speech and gestures – these sensory inputs are all important but when you add location awareness and an understanding of what is person is trying to achieve, technology really can start to become far more natural to use. Technology like machine learning will be important in enabling systems to act intelligently on our behalf having learnt what we like, dislike etc. It’s this type of technology that will help computers discern the subtle differences between phrases like “go home” – does that mean go to your homepage in a browser or that you’re about go home so you want your office equipment to turn off and to ask your car to plot the fastest route home based on current traffic conditions. Kit Eaton at Fast Company linked to a 1987 Apple video known as the Knowledge Navigator which is fun to watch but I’d argue that the lineage of NUI goes much further back than that – Bill Buxton gives some fine examples in his lengthy interview with Chad Sapieha at The Globe and Mail last August. A Casio watch and an IBM phone may surprise you. History aside, the NUI era is now upon us as a convergence of technologies have reached a level of maturity and affordability that should push this field forward very quickly over the next few years. Sensors of all kinds (cameras, motion, light, heat, accelerometers etc), the cloud, social networks, machine learning, AI, neural networks, facial recognition, screen technology, speech technology. – all have a part to play in this NUI revolution. I spent the last few years working on “the cloud” which was a rollercoaster ride….NUI promises to be at least as much fun as this, if not more. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

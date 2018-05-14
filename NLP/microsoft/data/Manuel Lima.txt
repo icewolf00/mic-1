@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 18, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Manuel Lima works in New York as a senior user experience design lead for Bing. Of course if you look at his website you may wonder when he finds time to do that. He’s a Fellow of the Royal Society of Arts and was nominated by Creativity magazine as “one of the 50 most creative and influential minds of 2009. He’s constantly in demand as a speaker; he’s indexing a huge variety of functional visualizations on VisualComplexity.com; and he’s also just finished the forthcoming book Visual Complexity, which lays out some of his thinking about the visualization of complex networks. But of course that’s exactly what he’s looking at with Bing. “The model that we have now, a list of top 10 results, it may not really be the most effective way to capture and present search data,” he says. “It’s imitative; we do it that way because we’ve been doing it that way for 10 years or so. And we’re so used to it, we take it for granted, and it’s hard to challenge that, to think beyond it.” So one of Manuel’s challenges is to find new ways to think about how to organize and visualize the vast amount of data that comes through in a Web search, from the fine details — whether the blue underlined hyperlink is the best way to visualize a live link — to the larger question of whether there’s an entirely new framework we can use to understand the underlying system. Perhaps even something that works better with the ways we’re already wired to see and comprehend the world around us.Manuel says it can be difficult to get people to really understand visualization. They often think of it as something that’s applied at the end of the process, taking a nearly finished project and making it pretty or easier to look at. It’s not. It’s actually integral to the function of the system and is important to address from the very beginning. (It’s like design in that way, which of course is also often misunderstood as a final surface detail.) Visualization has an enormous impact on how people understand a system or body of data, and may make the difference between being stuck in an outdated metaphor and making the leap to a completely new grasp of the information being presented.The problem of metaphors is a big one. They can be useful if the visualization that they enable is accurate, but too often they let us fall back on outmoded models that fail to illuminate what’s really there to be seen. “It’s surprising how many of our habits of visualization are stale and old,” says Manuel. And with the wrong visualization we may not be able to see what’s really there at all.But this doesn’t mean all the old frameworks need to go out the window. Creativity can thrive when people can set aside old ideas about what’s correct, but Manuel notes that it’s also quite useful to have a set of principles and guidelines to work with; it’s the difference between not knowing the rules and deliberately pushing or breaking them. “People may think they’re being original and breaking out of the constraints of the past, but if they don’t have that background they may actually be recycling old ideas and approaches without realizing it,” Manuel says.I got the chance to attend a talk Manuel gave in Bellevue, Washington recently and he’s an inspiring speaker – sadly his talk from TEDGlobal back in 2009 isn’t online but a more recent one is, from Lift in Marseille, France, last July.Manuel Lima “Network visualization….. by liftconferenceTweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

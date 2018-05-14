@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+October 19, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I had my first US college football experience last week and it was quite an experience. Now I understand all the excitement around virtual tailgate parties in Avatar Kinect. Back in my native UK the football (sorry, soccer) season is underway and in New Zealand the Rugby World Cup is reaching it’s climax and the Formula One season is all but done. All of this has got me thinking about the role of technology in sports. There is already plenty of technology used but a few things have really piqued my interested lately.First up was the coverage on PSFK of Adidas soccer boots/cleats that have built in sensors. The the adizero f50 miCoach is a so called “boot with a brain”. The f50 enabled tracking and upload of performance data including speed, maximum speed, number of sprints, distance, distance at high intensity levels and time. This is made possible by a cavity in the outsole unit which houses the “miCoach SPEED_CELL” (don’t you just love these names). It captures 360° of movement and and then stores all of this data for up to seven hours for wireless transmission to a PC or Mac. Of course we’ve seen stuff like this for a while with personal technology like Nike+ so what I’d like to see is professional teams using this type of technology in real time and surfacing it to their fans. Imagine being able to watch a game and see the stats of players by clicking a button or be sat at a game and hold your phone up to see an augmented reality view of the field with player data overlaid. It’d certainly make fantasy soccer games more data driven.If we take this a few steps further, how about the future of school reports showing us how far kids have run today? I for one would love to know what kind of a workout my 2 year old is getting at nursery. Right now I get a paper report showing what she ate. Is that a step too far, instrumenting the classroom?A second post I read on this topic was from Technology Review who looked at wearable sensors collecting data from athletes and suggesting the live publication of data as I suggest above. The post by Emily Singer confirmed that work is underway Last February, when the NFL held its annual scouting combine to assess the top-ranked college players, the highest-profile draftees wore special shirts fitted with sensor technology, developed by Under Armour and Zephyr Technologies. The players’ data—such as acceleration during the first 10 yards of the 40-yard dash—was recorded as they ran through the various physical trials. As Emily says, this type of capability has been around for some time in the military but with the price of sensors coming down (and the inclusion of connectivity) we’re going to start to see this technology go mainstream. The athletes themselves want real-time feedback on their performance and in a weird twist of gaming I can foresee players walking off the field at half time or during a play to see how they rank in a global “game” against their peers.I’m betting if you told your star striker (with supporting data) that his opposite number or his teammate was performing 10% harder than he was, you’d see a lift in performance.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

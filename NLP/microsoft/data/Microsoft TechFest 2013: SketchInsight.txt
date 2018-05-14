@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 5, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Over the last few days Microsoft has provided glimpses of our vision for  the future and where technology could take us — first with the opening of the Envisioning Center, and then yesterday with a conversation hosted by Craig Mundie and Eric Rudder regarding Microsoft’s strategic and technical vision for the future. Today’s kickoff of TechFest continues that conversation.Personally, TechFest is one of the highlights of the year because it gives me a glimpse at some of the latest Microsoft Research projects in the works. Plus, it’s a great chance to hear firsthand what the researchers are thinking about and some of the technologies that have got them excited.Not surprisingly, there’s been a huge focus this year on designing better data analytics and visualization tools, and there was an amazing example of this on display yesterday at TechForum. The project is called SketchInsight and I think the best description is to liken it to a 42-inch, flat-panel Etch-a-Sketch with touch interface, pen input and auto-complete capabilities built in (or simply watch the video).Just a few strokes of a pen and SketchDesign completes your chart—whether it’s a pie chart, a bar chart, a line graph or a map—and fills in the data. You can then use a touch interface to interact with the charts and get a sense of how different data sets inter-relate. This is one of a few data visualization projects on display.There’s also been a lot of work on the area of predictive analysis, developing models that take what you know, analyze it and then extrapolate the likely outcomes. A great example of that is the work Drew Purves and Vassily Lyutsarev are doing with FetchClimate 2 (more on that in a separate post).Along the same lines, there’s a pretty expansive talk from Eric Horvitz that he gave at TEDxAustin about some of the work he’s doing with predictive analysis as part of his research into artificial intelligence. By combining machine and human intelligence, Eric is developing models that can not only predict the most likely outcomes, but also anticipate unexpected events. Eric’s talk covers a lot of ground, but he provides some powerful examples of how machine learning can improve the way humans and machines interact.To get a look at some of the other projects on display, check out the Microsoft Research video gallery. And Rob Knies is blogging on all things TechFest at Inside Microsoft Research.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

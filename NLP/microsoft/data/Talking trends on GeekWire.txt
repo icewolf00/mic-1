@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 29, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ I got the chance to stop in and talk with Todd Bishop and John Cook recently for their popular GeekWire podcast and we talked about technology trends for the year ahead and beyond. Regular readers will not be surprised at the trends I touched on – Natural User Interface (NUI), Big Data and Machine Learning, the Internet of Things and the blending of the physical and digital.You can hear the segment below – though talking about these topics on radio is always a little challenging as I’m eager to show rather than tell so in that spirit so I’ve included some references further below to the topics/projects we talked about.(Please visit the site to view this audio) Natural User Interface:Speech to Speech translation demo – note how not only do Rich Rashid’s words get translated in to Chinese but they’re spoken back in his voice. Jump to about 5:40 in this video if you want to see this in action. We also talked about a real life example of NUI in my own home that I documented under the title What my daughter taught me about the future of technology. Big Data and Machine LearningWe didn’t get in to this in a ton of detail though John mentioned one of my favorite examples – the Farecast technology that is now in Bing for flight predictions. We also posted a great video recently of Craig Mundie talking about both of these topics.&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;nbsp;  Blending of Physical and DigitalWe talked about Manctl, the French startup who have turned Kinect in to a handheld 3D scanner that can built real-time 3D models of pretty much anything – and you can print them out on a 3D printer. You can see this in action during the keynote I helped host this summer at Worldwide Partner Conference. Jump to 19 minutes in the video and you’ll see it in action with the result being the 3D printout of Jon Roskill shown below&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;nbsp; That’s all we had time for but keep coming back here during 2013 for more on all of these trends. Thanks again to Todd and John for inviting me!
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

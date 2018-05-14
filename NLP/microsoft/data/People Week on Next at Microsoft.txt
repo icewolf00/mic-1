@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 9, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Last week on Next was dedicated to PLACES – this week we switch our focus to PEOPLE. As I’ve mentioned before, I continue to be amazed by the people I meet as I travel around Microsoft. The depth of brainpower has always impressed me (Turning Award winners, Fields Medal Winners, Dave Cutler etc.) but the breadth of skillsets has been equally impressive to me. In bringing technology to the next billion, it’s handy to have on staff people from disciplines as wide and varied as psychology, ethnography, industrial design and race car driving. We’ll meet some of these people this week and this’ll be the first of many weeks we dedicate to people. I had an interesting meeting last Friday with an ex-Softie. He was passing through Redmond and asked if I had time for a coffee and chat. He wanted to know why I remain so optimistic after all these years at Microsoft and in the face of incredibly smart and tough competitors. The answer was people. I believe in the people at Microsoft and try not to get myself too attached to the future of the company relying on one product or feature. I think the answer took him by surprise and I hope this week gives you some surprises with the people we’re going to profile. On and if you’re a Softie who wants to be in v2 of this series, shoot me an email!// <![CDATA[
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// ]]&gt;Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

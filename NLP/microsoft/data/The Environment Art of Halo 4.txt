@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 20, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+There has been much written about Halo 4 of late – and with good reason – it’s a truly worthy successor to earlier games in the franchise and had a whopping $220m opening day. One of my favorite stories detailed how 343 Industries used Windows Azure to help the online gaming scale to hundreds of thousands of requests per second and deal with unknown spikes in demand. It’s also been interesting to hear how the development team used Azure to build Halo 4. Satya Nadella notes on the Official Microsoft blog:When people think about console games, they don’t necessarily think about the cloud. But when Halo 4 releases next week, 2 million concurrent players will experience the power of Windows Azure, which is used to power the entire multi-player experience. It also meant that the Halo 4 team was able to cut costs by more than 60 percent from the previous release. The team reduced the development time with high levels of infrastructure automation, and that in turn allowed them to re-platform the entire codebase in less than a year. Finally, with the flexible and on-demand architecture of Windows Azure, each Halo 4 developer had their own development environment, which allowed development and testing to run in parallel.   A post on Polycount recently caught my eye too – some members of the environment art team at 343 Industries wrote a post that provides huge detail about the process of creating the environment art for Halo 4. Like their colleagues from Turn 10, they have detailed back stories on why things were created the way they were the general theme of the industrial design was “space submarine.” We wanted to achieve a functional aesthetic for the UNSC environments.  After the catastrophic damage sustained to the Forward Unto Dawn at the end of Halo 3, and after floating in outer space for over three years, the majority of the remains of the ship were left a frozen, shattered hulk  they also talk in detail about the lighting in the game The majority of the game was lit statically using a baked-in lightmap method. This static lighting solution allowed us to achieve very realistic lighting results with full global illumination and ambient occlusion. A specular term extracted from baked spherical harmonics helped bring out the forms in the modeling work and added a great deal of depth of the lighting As you can tell, it’s a deep dive in to the bowels of Halo 4 so strap in and prepare for commentary such as the paragraph above. But if you love Halo, love tech or just love great storytelling, it’s well worth a read. Oh and the supporting images aren’t half bad either 🙂
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

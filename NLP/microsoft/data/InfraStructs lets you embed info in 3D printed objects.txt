@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 23, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Microsoft Research’s Andy Wilson spoke to IEEE Spectrum recently about InfraStructs, a promising new technology he presented with intern Karl Willis at SIGGRAPH 2013 in July. InfraStructs enables you to embed geometric shapes, 3D watermarks and binary codes into 3D printed objects. The embedded information can then be read back via terahertz scanning and, unlike with printed codes or RFID, it’s invisible and doesn’t require circuits or antennas to be transmitted.You can see the whole interview in the video above, and the paper by Wilson and Willis “InfraStructs: Fabricating Information Inside Physical Objects for Imaging in the Terahertz Region” is available online (PDF).
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

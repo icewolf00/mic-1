@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+October 5, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ I’ve spent the last two days holed up in the Westin Hotel in Bellevue, Wash., – no, I’m not turning in to a recluse or making a rush on the mayorship, I was there as a guest of our Windows Embedded team who held an executive summit and it was a fascinating two days. In recent months, I’ve become a fervent student of intelligent systems and the Internet of Things. The explosion of connected devices in our world is making for interesting times and gathering a who’s who of the embedded systems companies was timely and resulted in a lot of discussion.  I had the pleasure of presenting to the attendees, giving some thoughts on how our interaction with technology is becoming more natural – as a result of devices that can recognize us, hear us, understand our intentions and work on our behalf. I also had the chance to listen to the other presenters, and two I enjoyed immensely were Dr. Abel Sanchez, Executive Director at the Massachusetts Institute of Technology Geospatial Data Center, and Mario Morales, Program Vice President, Semiconductors and EMS at IDC.The Internet of Things and Big DataDr. Sanchez is well known in the field of Internet of Things and touched on a number of areas that piqued my interest and we’ll follow up in more detail about here on Next at Microsoft. He talked of 50 billion connected devices by 2020 and the emergence of technology that serves us (rather than the other way around). He also talked about smart cities and how the mass migration into cities presents challenges – but also opportunities – where intelligent systems can step in. What if our cities could intelligently guide traffic, or channel energy in a more efficient manner? His research is carrying out simulations of these types, using technologies like Dryad and Windows Azure. Another concept we’ve covered here on Next that Dr. Sanchez talked about is the merging of our physical and digital worlds and the increasing use of augmented reality for services such as showing food provenance. Another topic you’ll hear more about here on Next over the coming months is Big Data (yes, it’s so big that it requires capital letters) – Dr. Sanchez and I are both big believers in the potential for Big Data but also the new careers it’s creating for individuals who specialize in visualization. I’ll have a post here tomorrow that shows some of the work Microsoft is doing with Worldwide Telescope.Intelligent SystemsSpeaking of data, Mario’s presentation was data rich (in a good way) as he drilled down in the compound annual growth rates in all areas of intelligent systems – noting that digital signage will see a 21% CAGR and 29% in transportation. That’s great to hear as I look forward to a future where signage reacts to my presence, changing language or context based on what I’m doing or where I’m going. He also gave a very precise description of what constitutes “intelligent systems,” noting that they’re characterized as being greater than 32-bit systems, that are able to support a high level programming language and connected in some fashion. These capabilities ensure intelligent systems are not dumb controllers but able to support applications, security and input from other sensors or devices.Like Dr. Sanchez, Mario talked about the explosion in data from all of these devices and I couldn’t help thinking that I could see a whole new business emerging in the trading of data – imagine the sensors in your car, monitoring fuel economy, weather, traffic and tire wear and then consider the companies that could use the data when amassed in aggregate. Think of it: weather stations, for sure, but also urban planning, oil companies, tire manufacturers. It’s an almost endless list when you consider the amount of devices gathering data today and it’s what the Windows Azure Marketplace is all about.The event left me with a brain full of ideas – stories to post here on Next, researchers to seek out within Microsoft and dreams of how the future will look. As much as I like the idea of the holodeck and teleportation, sometimes, getting people together for a discussion like this is still the best way to learn.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

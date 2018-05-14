@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 15, 2017
+
+									|										
+Microsoft Corporate Blogs
+
+Microsoft has released new features for Microsoft’s AI-powered camera app for iPhones and iPads that automatically give snapshots stylistic flair reminiscent of masterpiece paintings and artsy photos hanging in the famed galleries of Amsterdam, Paris and New York.The features, which were developed in collaboration with Microsoft’s Asia research lab and Skype, are part of a comprehensive update to Microsoft Pix for iOS, an application that uses a suite of intelligent algorithms developed by Microsoft researchers to take the guesswork out of getting great photos with every tap of the shutter button.“These are meant to be fun features,” said Josh Weisberg, a principal program manager in the Computational Photography Group within Microsoft’s research organization in Redmond, Washington. “In the past, a lot of our efforts were focused on using AI and deep learning to capture better moments and better image quality. This is more about fun. I want to do something cool and artistic with my photos.”One of the features, Pix Styles, transforms pictures into styles inspired by popular works of art or adds an effect such as making the picture look like it’s on fire.Unlike a filter, which uniformly alters the colors of a photo, applying a Pix Style transfers texture, pattern and tones to the photo in the selected style, transforming it into a distinct creation, Weisberg noted. Pix Styles is launching today with 11 unique artistic styles; more will be added in the coming weeks.A second feature, Pix Paintings, creates a time-lapse of the picture being painted in the artistic style selected – allowing users to see their masterpiece come to life.To build the features, the Pix team used an artificial intelligence processing approach called deep neural networks, which can be used to train massive datasets – in this case troves of paintings – to learn the essence of what makes a given style of painting recognizable. This information informs the photo transformation in Pix Styles and the animated redrawing in Pix Paintings.Pix Styles works directly on your device, without accessing the cloud to run the calculation. That’s part of a broader shift at Microsoft to push AI from the cloud to devices at the “edge” of the network. The benefit:  you can turn your photo into a work of art quickly and easily, without using your data plan, which saves data costs and reduces wait times.The new features are well-suited for creating unique imagery to share on social media. In fact, the Microsoft Pix team plans to feature a selection of freshly styled pictures tagged with #PixStyling on Pix’s Instagram.Related:Post by Nicky Budd-Thanos and John Roach. 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 20, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+This project from Microsoft Research has already had a ton of coverage, not least a great piece in the NY Times by Steve Lohr – but after seeing it on the local news here in Seattle this week, I decided to get in on the game. Eric Horvitz and Shamsi Iqbal have found that the cognition – the mental effort that goes in to holding a phone conversation while driving is the problem, not the motor issues of holding a device in your hand. Their work has explored the idea of verbally guiding people as to when they should turn their attention to the road due to construction areas, school zones and such. The prototype system goes as far as putting a call on hold until the zone has passed. Eric suggested that in the future, this system could be tied to weather systems, historical crash report data and other inputs to guide drivers about known hazards. In tests, the system has shown a 20% decrease in driving mistakes. I’m thinking I may have to go give this test a drive myself – in the simulated environment you’re asked questions like “name the last movie you saw” while you’re driving. Questions that require recall are more cognitively demanding than other conversations. The work was shown at the CHI conference last week in Vancouver and is titled “Hang on a Sec! Effects of Proactive Mediation of Phone Conversations while Driving.” Of course many would say we just shouldn’t talk when behind the wheel but in a world where that doesn’t look likely, this may be an interesting way to address the problem. Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

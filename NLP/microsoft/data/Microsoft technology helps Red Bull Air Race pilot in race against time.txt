@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 15, 2015
+
+									|										
+Allison Linn
+
+In Kirby Chambliss’s job, the difference between a good day and a bad day can come down to less than a second.“If I can make up a quarter of a second, it’s a big deal,” Chambliss said.He’s a pilot in the Red Bull Air Race, a series of high-speed, low-altitude airplane races in which pilots compete to be the first to make it through a series of gates. A typical trip through the course lasts less than 90 seconds, at speeds as high as 230 miles an hour, and it’s not uncommon for finalists’ times to be within a half a second of one another.For most of his career, Chambliss has relied on experience and gut instinct to make it from the starting line to the finishing gate.“It’s all seat-of-the-pants flying,” he said.When the current racing season begins this weekend in Japan, he’ll be adding another component: Data analytics.Chambliss will be using technology developed at Microsoft Research that computes the most efficient path he can take through each course, and could eventually let him see how his flight path compares to his competitors.The collaboration began about a year ago, when Chambliss met a Microsoft researcher named Ashish Kapoor through a mutual acquaintance.Kapoor’s work has traditionally focused on machine learning and big data, but in his spare time he’s also a recreational pilot who flies his own small plane.Chambliss was immediately intrigued. He had seen other racing teams experiment with predictive software, and he wanted to see if he could use data analytics to improve his flight times.“I just want to go faster,” Chambliss said. “So if somebody can say, ‘This is how you have to do it in order to get that half a second,’ I’m all over it.”Kapoor was excited as well. His personal and professional interests had already led to a project called Windflow, which uses machine learning to more accurately predict wind data, potentially saving pilots time and money.Now, he saw an opportunity to help a pilot he admired improve his racing times, while also working on algorithms that could have important implications for the entire aeronautics field.To improve Chambliss’s time, the researchers will use data analytics to decide the best tradeoff between how fast the pilot should go and how tightly he should make his turns through the course, under the uncertainty imposed by the prevailing winds.In theory, given the prevailing winds, finding the perfect balance between those two factors should result in the fastest time.That may sound relatively simple, but Kapoor said there are tons of variables that go into making the calculation, and the entire process is made more difficult because winds can change unexpectedly. To come up with the fastest route, the researchers are borrowing from various fields, including control theory, robotics, machine learning and planning.“It’s a pretty complex mathematical optimization problem you need to solve,” Kapoor said.Those calculations also could eventually be used to help commercial pilots and others in the aviation industry find more efficient flight paths, said Michael Zyskowski, an engineering manager at Microsoft Research who previously worked at Boeing and NASA and is also working on this project. That, in turn, could save the industry billions of dollars in fuel costs, he said.Already, the researchers are seeing signs that their early attempts to help Chambliss are paying off. In qualifying rounds in Las Vegas late last year, Chambliss’s spot in the early standings improved significantly after he used the technology, but the full race couldn’t be completed because of weather.For Kapoor, who will be traveling with Chambliss, part of the excitement will be to literally see his research in action. That’s something that computer scientists working in labs don’t always get.“It’s a real-world problem. It’s not a simulation,” Kapoor said. “Either you win the race or you don’t – it doesn’t get more real than that in science.”Related:AI takes to the skiesRed Bull Air Race
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

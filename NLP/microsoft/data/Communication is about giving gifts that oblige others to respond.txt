@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 4, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+The title of this post is one of the most thought provoking statements in a short magazine I read recently.A while back my friend from Microsoft Research in Cambridge, Richard Banks, handed me a copy of a magazine titled Things We’ve Learnt About Communications. Back then he told me it was an internal only publication but I’m pleased to say it’s now public and available as a PDF and via HP’s MagCloud service.The magazine is a way of making the sometimes academic oriented research output of the Socio-Digital Systems (SDS) team more accessible. To my mind, Richard and the team have done a fine job of this. The work of SDS if focused on understanding the role that technology can play in people’s lives hence it should have quite wide appeal and this initial publication is all about the findings the team has made in researching how we communicate. In a pleasing departure from talking about the tools and technology, this edition focuses on motivations for communication and uses some wonderful design by Nick Duffield.It poses some interesting questions such as  This first edition also details some of the projects that SDS has worked on – including a project called Epigraph that is a shared communication system in the home that allows family members to stay in touch in a passive way. The results was a visual blog of sorts for the whole family.A second project, Dion, is a look at how digital technology can enhance being close together, rather than the typical focus on being apart.Perhaps the most interesting part is chapter five, where the team touches on the psychology of how we choose our communication methods. This can convey a message as much as the content – be it privacy, brevity, cost or otherwise.Richard gives a little more background on his own (excellent) blog which is worth a read but most of all, head to MagCloud now and download the PDF. You will not be disappointed.As an aside, one things I’ve learnt about communication in the USA is that people look at you funny when you used the word “learnt”. Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

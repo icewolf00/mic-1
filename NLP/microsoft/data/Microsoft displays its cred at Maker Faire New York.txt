@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+September 24, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+This past weekend, hobbyists and crafters descended on Queens, New York for Maker Faire New York. If you haven’t heard of it before, Maker Faire is considered “the greatest show-and-tells on earth.” It’s a celebration of creativity and invention, and a place where people who love making stuff can share some of their creations, and get a glimpse at the latest tools and gadgets for doing so. There’s a growing community of makers within Microsoft as well, and in the midst of all the modelers and makers at Maker Faire, Microsoft pitched a tent to show off some of the cool stuff we have on tap: Project Spark set up shop so people could take a crack at creating their own video game. The .NET Gadgeteer team showed off its rapid device prototyping chops, and Coding4Fun brought along its Boxing Bots for a few matches of hi-tech fisticuffs.But the real star of the show was probably the 3D printing on Windows 8.1 display, which came courtesy of Shanen Boettcher’s team within the Startup Business Group at Microsoft.Much of the work that’s gone into Microsoft’s support for 3D printing is a result of what Boettcher saw at the Maker Faire in San Francisco a couple years ago. People were going to considerable lengths to connect their PC to a 3D printer so Boettcher determined to make it as easy to print a three-dimensional object as it is a Word doc.It only made sense that Maker Faire attendees be among the first to see the results of his work firsthand. For most, this was their first chance to test drive 3D printing with Windows 8.1 before its release later this fall. Partners like MakerBot, 3D Systems and Tiertime also stepped up with their latest consumer 3D printers to showcase the potential for three-dimensional craftsmanship. There was also an open source printer from Type A Machines, and even a Delta bot built by a Microsoft maker in his down time. A few of our software partners also showed up. Dassault Systemes had an early version of SolidWorks, its 3D CAD design software. Materialise and netfabb were also on hand showing the latest versions of their products integrated with the Windows 8.1 print pipeline.Boettcher’s team also offered a look at some prototypes of app experiences they’re exploring and used the event to get feedback from makers of all ages. Stay tuned for more on what they’re doing with all of that input later this fall.  If reading this has left you chomping at the bit, then I suggest you make haste to your nearest Microsoft store and checkout the MakerBot experience. It should give you a small taste of what’s in store for later this fall. And look for more on the Maker Faire later this week on the Windows Extreme blog.  
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

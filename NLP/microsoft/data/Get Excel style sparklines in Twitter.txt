@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 9, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ Excel 2010 introduced “sparklines” – intense, simple, word-sized graphics”, as their inventor Edward Tufte describes them in his book Beautiful Evidence. Think of them as micro charts inside an Excel cell that bring visual meaning to numbers. Well you can now bring sparklines to Twitter – within the confines of 140 characters of course. This is all thanks to the Twitter sparkline generator from Alex Kerin. You can get all the detail and an Excel workbook to get you up and running. The Wall Street Journal has got in on the action and Anil Dash did a nice post on this last month. A fun way to bring data alive.   Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

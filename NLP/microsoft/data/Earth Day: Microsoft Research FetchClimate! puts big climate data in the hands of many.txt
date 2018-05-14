@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 20, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+As we approach Earth Day this weekend I thought it’d be timely to take another look at one of my favorite Microsoft Research projects of late – FetchClimate!It’s the creation of Drew Purves, head of the Computational Ecology and Environmental Science Group, part of the Computational Science Lab at Microsoft Research Cambridge and is a cloud-based, intelligent data-retrieval service for climate information. I know that sounds a little prosaic but when you see it in action you get a sense of how powerful this tool could be to climatologists, environmental scientists, governmental officials, shipping companies, business owners, farmers…the list goes on.The challenge for all of these groups isn’t a lack of data – it’s a lack of insight. As a post on the Microsoft Research site explains, in the US alone, The National Weather Service maintains a thousand weather stations which constantly collect data on temperatures, wind speed, rainfall, relative humidity, and more. Add organizations like the UN, the National Oceanic and Atmospheric Administration and the UK’s Met Office to that list and you have data sets that go all the way back to the turn of the 20th Century. That’s a lot of data – big data in fact – and it’s here that Drew’s work with his colleague Vassily Lyutsarev, and a team of students from Moscow State University comes in.Drew is an ecologist by trade, and a very humble chap given Wired acknowledged him as a “once-in-a-generation young scientist”. In building FetchClimate! Drew commented in typically nonchalant style that “I imagined my ideal climate-information service,” he says, “and had it built.”The result is an incredible service that is freely available on the web and puts remarkable insight in the hands of anyone – in seconds rather than days, weeks or even months. For anyone interested in predicting long term weather patterns it’s a remarkable tool. Even for the casual tinkerer like myself, it’s fun to be able to visualize the wind speed or rainfall in Seattle…and compare it with London to confirm my assumption that they’re pretty similar. That’s fun for sure but in the hands of many others, it can help make important business decisions such as where to locate a wind farm, or what a crop yield for a vineyard may look like given rainfall and sunlight patterns.Check out the video above to hear Drew talk about FetchClimate! and then head to the website to try it out for yourself. You can also read about other Microsoft Research projects focused on enhancing the Earth’s environment.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

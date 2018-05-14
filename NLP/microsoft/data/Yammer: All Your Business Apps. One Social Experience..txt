@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 9, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’ve decided it’s time to bring some new voices to the blog and over the next few months will be inviting guest bloggers from across Microsoft to contribute here. I’m aiming to mix it up with some familiar faces and some new faces, from parts of the company you may be familiar with and those you may know less.Sam Goertler who works on Product Marketing at Yammer’s headquarters in San Francisco. She helps share Yammer’s product vision and ensures that it resonates with the world so I asked her to bring some of that vision to NEXT.   For over a year now, Yammer has been positioning itself as the “social layer” that connects all our enterprise apps. But what exactly does that mean, and how does it actually work? I’ll admit, this vision was a little hard to grasp at first, but it’s all coming together now. Last week, our founder, David Sacks, debuted a number of features that integrate with third-party apps at the YamJam user conference in San Francisco. Take a look at how the Yammer Platform delivers a single, consistent social experience for users everywhere they work:   To learn more about Yammer’s new features, check out the Yammer Blog. There’s even a new App Directory where you can install these integrations on your own. Just click on “Apps” from the top right after you log into your Yammer network.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

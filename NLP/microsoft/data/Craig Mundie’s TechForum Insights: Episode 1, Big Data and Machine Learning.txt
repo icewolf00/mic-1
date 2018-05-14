@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 29, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ Every year, Craig Mundie, our Chief Research and Strategy Officer, invites a small group of leading tech journalists and bloggers to share an in-depth look at the company’s strategic and technical vision for the future — an event called TechForum that I’ve covered previously on this blog. The meeting is an opportunity to showcase some of Microsoft’s latest research ideas and prototypes, as well as to discuss the trends and technologies that will reshape how we experience computing in our lives.One of the trends that Craig and Microsoft see as increasingly important is the rise of Big Data — data too big to be processed on a single computer — and machine learning — technology that learns from experience.This is a topic that’s been in the media quite a bit of late: recently, Craig and other leaders in these fields at the company spoke with Quentin Hardy of the New York Times (here’s a story and a blog post that resulted) about how the combination of Big Data and machine learning can unlock new doors and opportunities for consumers and businesses. Additionally, just this past weekend the New York Times ran a front-page story on machine learning and neural networks featuring Rick Rashid’s speech-to-speech translation demonstration at Microsoft Research Asia’s 21st Century Computing event (Rick recently blogged about the experience in this space).I’m excited to announce that Next at Microsoft will be home to a new series of videos from Craig called “TechForum Insights” — an ongoing look at Craig’s thoughts on these big trends and shifts in technology that will impact all of us. We’re kicking off the series with the video above, focused of course on Big Data and Machine Learning. Enjoy and let us know what you think in the comments.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

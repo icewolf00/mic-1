@@ -1,0 +1,35 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 16, 2010
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+
+
+ Blaise Aguera y Arcas gives good demo – that we know already. His first TED presentation remains one of the finest demos I have seen with a beautiful balance of nonchalance, humor and humility. I guess you could say he’s not your average Microsoft demo guy but then he’s not your average guy. He’s really rather smart and a recent one hour chat I had with him left me feeling…well, a bit pathetic really. Wicked smart with a brain that clearly operates at a vastly higher clock speed than mine. He’s one of those guys in Microsoft most people just know as “Blaise” – not because he’s the only Blaise at Microsoft (there are several others), more because people just know him through his work….and his demos. Yesterday, he gave another virtuoso performance showing some forthcoming mobile features of Bing Maps. The demo explains it far better than I can but here’s a quick snapshot of what you’ll see:  Greg Sterling gives a comprehensive write up of the Bing search event in San Francisco yesterday where all of this and more was shown off. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 15, 2014
+
+									|										
+Tima Chansanchai - Microsoft News Center Staff
+
+Computer software can include millions of lines of code, so mistakes are bound to happen. But now, Microsoft researcher Andrew Begel and his colleagues are trying a new approach to reduce those errors known as “bugs” by tracking the eye movements and other mental and physical characteristics of developers as they work.Begel’s paper, Using Psycho-Physiological Measures to Assess Task Difficulty in Software Development, describes the research, which aims to detect when developers are struggling as they work, which can then lead to preventing bugs before they can be introduced.Begel says, “My idea is that if the software developers are writing the code and causing the bugs, we should measure attributes of the developers themselves. If we can figure out what cognitive or emotional issues lead to buggy code or lowered productivity, we can try to intervene and stop them from causing developers to make mistakes in the first place.”Head over to Inside Microsoft Research to find out more about this research and how measuring changes in the skin’s ability to conduct electricity and electrical activity in the brain figure into it.Athima Chansanchai
+Microsoft News Center Staff
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

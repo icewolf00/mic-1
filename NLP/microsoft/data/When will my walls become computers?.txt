@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 28, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+I just stumbled across the video above of what is apparently the largest touch display in the world – 234″ of touchiness that Stereolize worked on with Microsoft for CeBit 2011. Looking at their website, Stereolize have some very impressive work in their portfolio. 234” is good and all but I couldn’t help thinking that size of screen would be fun to hook up to Kinect – given my arm is only about 1/10th of that making the touch capability somewhat wasted unless you have a step ladder with you.Over in the Envisioning Lab on Microsoft Campus we have a pretty huge touch screen (in width at least) which I’d happily have in my home. As an ambient display, it could have art from my favorite artists on rotation and at other times be used for multiplayer Kinect gaming or reading my favorite websites with zoom dialed up to 200% in IE9. I also think I’d be really useful to have as an ambient, voice activated search engine. Pretty often in our house we’re discussing something and want to know more detail – weather in Whistler, news from back in the UK or restaurant reviews. Being able to “ask” the screen to find each of these and display them for the family to see would be a vast improvement than hunkering down over a PC. I guess I just want the computer in my wall. Fortunately, I know a few people who are set on making this happen. found via Long Zheng<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

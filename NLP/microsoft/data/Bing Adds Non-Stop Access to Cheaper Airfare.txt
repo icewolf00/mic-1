@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 18, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+  When we launched Bing a couple years ago, it was with an unabashed proclamation that Bing is a “decision engine” that helped users make more informed choices. The Bing team introduced thoughtful design changes and features aimed at improving the user experience…and they continue to do so.Opinions vary, but IMHO one of Bing’s best features is Price Predictor, which helps you find the right time to buy a plane ticket. In the interest of full disclosure, Price Predictor is based on the Farecast technology that Microsoft acquired in 2008, but a couple weeks ago the Bing team rolled out a new feature that brings you even quicker access to the best flight deals. And just like the Bing Shopping feature in yesterday’s blog, these improvements come courtesy of natural language technology and Microsoft Research. Bing calls this new feature Autosuggest Flight Prices, which uses reverse ISP technology to pinpoint where you’re located. Once you’ve typed in your desired destination, natural language technology kicks in, recognizes the location and shows you the predicted best deal for a plane ticket over the next 90 days – all before you’ve pressed the ‘enter’ button. Find out more about Autosuggest Flight Prices on the Bing Community blog. Then test the feature out for yourself. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

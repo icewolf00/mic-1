@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 9, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+  [Alex Kipman: Kinect inventor]Of all the look back posts this week, this is the most technical and perhaps the most fascinating. With the launch of Kinect, I began to understand what the future of computer programming may look like. For years we programmed computers to deal with certainty, expressed in 1’s and 0’s. In the future, computers will have more ability to discern grey and finally become more like humans.As I explained in the post titled Making our digital world more analog with probabilistic programming, technology like Kinect is driving a shift to probabilistic programming. This style of programming anticipates and adapts to uncertainties rather than working within a framework of yes and no. It’s able to deal with maybe and it’s what enables Kinect to cranking through 1023 variables on the fly and reliably track your body at 30 frames per second. Kinect makes great use of techniques like machine learning to intelligently understand what your next move (probably) is rather than try to program it. As we’re gathering more and more data on every facet of human life, we’re going to need those kinds of techniques to program in the future.It’s heavy stuff to get your head around and I was assisted by Alex Kipman – you can be too by reading this post.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

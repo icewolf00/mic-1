@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+October 21, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Editors Note: I wrote this post almost a year ago and it’s stayed in the hopper until now. Stevie was one of the first people I met in Redmond when I moved here to take on the role of “storyteller”. Sharon Chan’s profile of Stevie ran on the front page of The Seattle Times this week so I figured it was time to dust this post off. Be sure to check out Sharon’s post though…she’s a far better writer than I am!Steven Bathiche wouldn’t be out of place in GQ magazine – he’s a sharp dude and way too photogenic for the geek stereotype. When I arrived in Redmond a few months back, he was pretty much the first person I tracked down as I’d heard he was working on some interesting stuff in his hardware lab – I’d also read about a keynote he gave at Display Week titled Breaking the Fourth Wall. I was intrigued.It turns out everybody calls him “StevieB” (distinct from SteveB). He’s a soft- spoken guy with a massive passion for pushing the boundaries of technology. When we sat down for coffee he told me about The Mothmobile – a project he worked on in college that hooked up neural electrodes to flying hawk moth to drive a motor (seriously). A little more in my realm, he explained that during one of two internships at Microsoft he worked on what eventually became the Sidewinder Freestyle Pro controller – arguably the first gesture based gaming controller. Given this history, I wasn’t surprised to hear that Stevie helped with Kinect.The Applied Sciences Group in which Stevie works, started way back in 1999 and has quietly contributed some impressive and important technologies across the company – Microsoft Surface, optical laser tracking technology for our mice products and the much under publicized Sidewinder X4 keyboard to name a few. They’re a big part of the Natural User Interface (NUI) revolution that is underway and their site is gives you a “who’s who” of the team and shows some of the projects they’ve worked on and have underway.When Stevie asked if I’d like a tour of their lab I tried to remain nonchalant as I said “yeah, OK” but I think I got to my feet a little too quickly to hide my excitement. For someone like me, it’s like being invited in to Aladdin’s cave and as I walked around, I attempted to nod sagely at the right moments. During the tour, a technology known as “the Wedge” stood out. It was part of the Display Week keynote Stevie gave and in simple terms, the wedge allows images to be “steered”. It can be used to create a display that can “see” as well as display or enable an LCD panel that can display multiple perspective views by “steering pixels” depending on your angle of view. It’s cool stuff, trust me.Meeting Stevie was a blast and after an hour or so in the lab I walked away amazed by what I’d seen and vowed that I would be back for more. As I sat and wrote up some notes from the tour, it made me think of a book I read many years ago – Where Wizards Stay Up Late. It’s a great book that chronicles the origins of the Internet. Wizards seemed like an apt title for Stevie and the Applied Sciences team.I’ve also posted numerous other entries here on /Next that have touched in Stevie’s work since I first wrote thisTweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

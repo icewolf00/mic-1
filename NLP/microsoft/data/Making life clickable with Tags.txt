@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 27, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Have you noticed Tag’s are starting to show up in more and more places – Microsoft Tag’s I mean. Those curious little images in the corner of a magazine advert or on groceries, or store windows or coffee cups. It turns out there have been 3 billion tags printed in the last 6 months. I’m not sure what the 6 months prior was like but something is afoot – there is change happening.We hosted a group of Asian journalists here on Microsoft Campus last week and showed them all manner of new technology but several of our guests commented to me that the thing there were most intrigued with was Tag. They saw it on soda cans, in an Acura car brochure and in the Sports Illustrated swimsuit edition. I mentioned to them that I’d received the current edition of Wired magazine (US) a few days earlier and had noticed Tag showing up more. In a Porsche advert that linked out to a cool mobile site, a Casio ad for their Tryx camera and an Asus advert Granted I also noticed adverts for Kohler, Qwest and Asus that used a QR code and a Buick ad with Google Goggles integration.  I was surprised the Microsoft ad on the back page didn’t have a Tag but regardless, it’s clear that many companies are looking to augment our world with additional information. I for one love this trend – the move to a clickable world where I can find out more about anything with the click of a button. A TV show, a jacket, a building, a piece of art, a restaurant, a bus timetable…literally almost anything. As the smartphone market blossoms and tag reading applications are broadly available for free for across iPhone, Android and Windows Phone we should see this trend continue to grow…and adapt, especially as tags can dynamically change the information they send based on location. The Future of Mobile tagging from PSFK is a fine read if you’re looking to explore this trend some more. It’s sponsored by our Tag team but it covers the whole spectrum of tagging technologies. Reading the report got me thinking about a few other potential uses – I’m a big fan of the artist Invader – surely it’s only a matter of time before we have a Tag artist out there competing with him. Especially when you can customize your Tags in the way PSFK has below. And as the author of a Tag, you get plenty of data about how many clicks your tag has had and you can direct users of different devices to different experiences (for example a Flash site if a platform supports it or an HTML site if not). You can also send different data based on location – a Tag in proximity of a store could offer a real-time discount on a product or if not near a store, could send the user to the product site. One of my favorite uses of Tag was Greater Fort Lauderdale beaches who designed posters with a Tag that when scanned, took you to live beach cams showing you the weather at that moment. Here’s the Tag…another is the city of Turin who augmented the city’s parks, museums and monuments. Scan the Tag below to find out more about that work. …or how about an entire book, augmented with Tags? That’s what Lucas Kane had done with his book pHone pHotos, shown below  The more you start looking at Tag, the more you realize the use cases are endless and there are tons of creative marketing opportunities. I’ll leave you with this infographic from our Tag team and thanks to Holly Richmond for inspiring this post.  Learn more about 2D barcodes at Microsoft Tag. // <![CDATA[
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// ]]&gt;Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

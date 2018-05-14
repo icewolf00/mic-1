@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 4, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’ve been thinking a lot about data recently and the role it’s going to play in our future. The title of this post comes from an interview in Google’s new Think Quarterly website/book with Guy Laurence, CEO of Vodafone UK. Guy uses data + instinct to make decisions. It seems to work for him. Personally, I’m fascinated with how data comes alive and provides real insight when it’s visualized. Some people (notably our CEO) are famous for their ability to read a spreadsheet as if it were art and spot insights. My brain doesn’t work that way hence the world of infographics fascinates me. Earlier this week, Manuel Lima, an interaction designer from Bing gave a fascinating talk about visualization. Folks like Manuel, Jer Thorp and David McCandless bring data to life with their work. Visualizations of the kind they work on are most powerful when they show a trend or connection that otherwise would be invisible in a traditional dataset presented in a spreadsheet.  Imagine for example trying to read a set of data about where New Yorkers moved in the last decade….and then visualize it.  Jonathan Harris’s work has always amazed me with the ability to tell a story through data. Check out wefeelfine.org to see how beautiful data can become. Sometimes infographics can become too dense to be useful…though at this point they often become art. I stumbled across another fine example today with a visualization of tweets in London over a 24 hour period – shown below. Imagine that in a database or eyechart?My point is that we’re now creating data at such a phenomenal rate that we’re not only going to be pushing the limits on storage, but we’re going guys like Manuel, Jer, David and others are the going to be more in demand to help turn all of those numbers in to something of use. We’re also starting to amass so much data that we can begin to use it to help computers learn – they can be taught to spot patterns far more adeptly than we can – see my previous blog on machine learning for why that’s important for everything from search engines to credit card fraud and gaming. Oh and crunching all of that data in to some sort of insight? That previously required a supercomputer which meant it was something only a few could afford to do. Now, you can get supercomputing on demand from cloud platforms like Windows Azure and Amazon’s EC2. You can even play with data from others in the comfort of your own browser – try datamarket.comSo Guy is right – data on it’s own is impotent but we now have the tools at our disposal to turn data very quickly in to insight and perhaps even intelligence. Bonus video – see below for transport flow in London over a 24 hour period and in a stroke of pure coincidence, the NY Times posted a piece yesterday titled When the Data Struts Its Stuff<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

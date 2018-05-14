@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 8, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+GM has been working on technologies to create a more interesting travel experience for car passengers, and had the bright idea to get young creative people at the Future Lab at the Bezalel Academy of Art and Design in Israel to help them. The Windows of Opportunity project asked students to create interactive displays on the car windows to help passengers feel more connected to their environment.One application lets children draw on the window. Another features an animated figure, Otto, who flies along with the passenger’s journey and interacts with the environment seen through the window. Passengers can manipulate maps and graphics, pull up background information about the landscapes and buildings in view, play music, and share messages with people outside the vehicle.The project shows how many opportunities there are for incorporating natural user interfaces into the objects we work with every day. Watching the video I was reminded of a scene in the recent video from our Office team on the future of productivity. The video shows Ayla (in GM concept car as it happens) reading information on the window that helps her orient herself in the city she’s visiting. People want interactive tools and easy access to the information that matters to them, but they also want to be engaged with their actual surroundings.The Bezalel students were encouraged to think creatively without worrying about the limitations of production, and none of the apps created are currently intended for production in GM vehicles. But I expect they will be building blocks for passenger experiences in the future, and possibly not too far off.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

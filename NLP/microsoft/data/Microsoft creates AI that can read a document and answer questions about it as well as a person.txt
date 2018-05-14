@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 15, 2018
+
+									|										
+Allison Linn
+
+Microsoft researchers have created technology that uses artificial intelligence to read a document and answer questions about it about as well as a human.It’s a major milestone in the push to have search engines such as Bing and intelligent assistants such as Cortana interact with people and provide information in more natural ways, much like people communicate with each other.A team at Microsoft Research Asia reached the human parity milestone using the Stanford Question Answering Dataset, known among researchers as SQuAD. It’s a machine reading comprehension dataset that is made up of questions about a set of Wikipedia articles.According to the SQuAD leaderboard, on Jan. 3, Microsoft submitted a model that reached the score of 82.650 on the exact match portion. The human performance on the same set of questions and answers is 82.304. On Jan. 5, researchers with the Chinese e-commerce company Alibaba submitted a score of 82.440, also about the same as a human.The two companies are currently tied for first place on the SQuAD “leaderboard,” which lists the results of research organizations’ efforts.Microsoft has made a significant investment in machine reading comprehension as part of its effort to create more technology that people can interact with in simple, intuitive ways. For example, instead of typing in a search query and getting a list of links, Microsoft’s Bing search engine is moving toward efforts to provide people with more plainspoken answers, or with multiple sources of information on a topic that is more complex or controversial.With machine reading comprehension, researchers say computers also would be able to quickly parse through information found in books and documents and provide people with the information they need most in an easily understandable way.That would let drivers more easily find the answer they need in a dense car manual, saving time and effort in tense or difficult situations.These tools also could let doctors, lawyers and other experts more quickly get through the drudgery of things like reading through large documents for specific medical findings or rarified legal precedent. The technology would augment their work and leave them with more time to apply the knowledge to focus on treating patients or formulating legal opinions.Microsoft is already applying earlier versions of the models that were submitted for the SQuAD dataset leaderboard in its Bing search engine, and the company is working on applying it to more complex problems.For example, Microsoft is working on ways that a computer can answer not just an original question but also a follow-up. For example, let’s say you asked a system, “What year was the prime minister of Germany born?” You might want it to also understand you were still talking about the same thing when you asked the follow-up question, “What city was she born in?”It’s also looking at ways that computers can generate natural answers when that requires information from several sentences. For example, if the computer is asked, “Is John Smith a U.S. citizen?,” that information may be based on a paragraph such as, “John Smith was born in Hawaii. That state is in the U.S.”Ming Zhou, assistant managing director of Microsoft Research Asia, said the SQuAD dataset results are an important milestone, but he noted that, overall, people are still much better than machines at comprehending the complexity and nuance of language.“Natural language processing is still an area with lots of challenges that we all need to keep investing in and pushing forward,” Zhou said. “This milestone is just a start.”Allison Linn is a senior writer at Microsoft. Follow her on Twitter.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

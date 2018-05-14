@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+October 4, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ [click the image to watch the session]I’m still working my way through BUILD sessions and the latest I enjoyed was from Jan-Kristian Markiewicz and Kay Hofmeester. I met with Kay a few months back as part of an discussion on NUI. He’s just given a talk at SXSW that was a forerunner to this BUILD talk and I found him to be fascinating during that discussion – he’s thought deeply about touch and alongside Jan-Kristian they have plenty of history with touch. Kay worked on Microsoft Surface and Jan-Kristian worked on Tablet PC.In this session they walk through some of the history of touch, looking at Englebart’s mouse, the Xerox Alto and talk about the mouse as the input tool of the GUI interface. I didn’t realize touch had been around since 1972 (with Plato) and Kay posits that the gestures we use for touch are incomplete today – and that touch is currently still oriented around GUI interfaces.There are some fun observations from an ergonomic point of view – your body is made to contract and draw circles for example – which influence the touch interactions the team has created. The pair talk through the thinking of most of the gestures and personally, I found is fascinating to see the depth of thought that has gone in to this UI. I’m now flying through the newsreader app with the swipe to select and magazinify controls and can’t wait to see semantic zoom in action – it’s not in the developer preview but you can see it in action in app search.It’s worth an hour of your time if you’re at all interested in design, touch and Windows 8.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

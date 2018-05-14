@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 27, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+In the first of two demonstrations given at TechForum by the Applied Sciences Team, this is a project that is looking at what’s possible with a Samsung transparent OLED screen, Kinect sensors and some software magic. What you get is the ability to manipulate objects that lie behind the transparent screen – as well as objects on the screen with something called “view-dependent, depth-corrected gaze”.After spending any time with Stevie Bathiche and his team you get used to such terminology. Much of the team’s work explores the use of Kinect for tracking your eyes and delivering an image back to them that tracks your movements and gives depth and perspective. The effect in this demo is you have a digital desktop that has depth allowing you to virtually place objects in space behind the screen, while also enabling the manipulation of objects on the screen from behind.As with many of these types of demos, the video does a far better job of showing you what is going on than my words can. It’s another example of how the boundaries between physical and digital worlds are blurring.Enjoy.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 25, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’ve been telling anyone who’ll listen recently that Natural User Interfaces are more than just touch, gesture and speech – though Kinect, perhaps the hottest NUI tech around, does two of these exceedingly well. Much of the focus of tinkering with Kinect has been with gesture, using the skeletal tracking capability. The speech capability of Kinect has had less focus and a recent post by Rob Knies on the Microsoft Research site reminded me that it was perhaps time to give speech the spotlight for a moment. The story starts with Ivan Tashev who has been working for the majority of his career in Microsoft Research, always focused on the sound. He knew someday, we’d be talking to computers but didn’t quite know when the call would come. A few years ago, Alex Kipman from our Xbox team was looking for an audio capability that could be listening 100% of the time and didn’t rely on a button being pressed to signal “listening mode”. Added to this, Alex was looking for a system that could detect distinct voices in a noisy environment….oh and do this at 4 meters. Regular readers will know that Alex was the driving force behind Kinect. Ivan’s call had arrived. He figured most of the above as possible but one big challenge remained. Stereo acoustic-echo-cancellation is a longstanding research problem that would be required to filter out the loudspeaker sound and zone in on user who were talking to the system. It turned out that acoustic-echo canceller 10 times better than normal industrial devices have.In his MIX talk, Ivan talks about preferred modalities for input – noting that the combination of speech and gesture can deliver a powerful multimodal interface. You issue one command with speech (for example a search) and select from a short result set with gesture. Many months of works ensued on the development of the audio pipeline with our Tellme group involved in building a solution that many thought was impossible. As Alex has reminded me on a few occasions, the development of Kinect is a story of making improbable (perhaps even impossible) things possible. Ivan says that Microsoft didn’t get in this position by accident – testament to the many years of investment in something we didn’t quite know what it would be used. That’s the risk, and reward of basic research and something I’m personally proud that Microsoft continues to invest in.   34 days before Kinect shipped to the public, the audio work was complete. That’s some high risk, high reward timing! The story doesn’t end there. Very soon, the Kinect for Windows SDK beta will include the ability to take advantage of the four-element microphone array with the acoustic noise and echo cancellation that Ivan and the team developed. Right at the end of the talk, Ivan gives some insight in to the future capability of Kinect audio. I’m looking forward to seeing what the tinkerers do with this audio wizardry. [update] I just posted an update with the video below over on the Official Microsoft blog // <![CDATA[
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// ]]&gt;Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

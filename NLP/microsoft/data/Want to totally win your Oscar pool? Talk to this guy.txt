@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 28, 2014
+
+									|										
+David Chen - MSFT - Microsoft News Center Staff
+
+Who’s going to win at the Oscars this year? Microsoft’s David Rothschild thinks he knows. Rothschild is a prolific researcher and statistician whose predictions are known for their rigorous methodology and striking accuracy. Since the Awards will soon be upon us – and since I love statistics and movies – I caught up with Rothschild and chatted with him about how he made this year’s picks for who would win. “These are extremely confident predictions,” Rothschild told me, as we discussed his predictions in the top six categories. “We’re looking at an average probability of about 90 percent for these categories. I expect to get about one or zero wrong of these six.” Here are his projected winners:Best Picture – 12 Years a Slave (85.7 percent)Best Director – Alfonso Cuarón (98.6 percent)Best Actor – Matthew McConaughey (92.9 percent)Best Actress – Cate Blanchett (98.7 percent)Best Supporting Actor – Jared Leto (97.5 percent)Best Supporting Actress – Lupita Nyong’o (55.4 percent)In 2013, Rothschild accurately predicted 19 out of the 24 Oscar categories. “Last year, the confidence level was a lot lower,” Rothschild says. This year, he’s gunning for even for an even better record, and he thinks he has the data to back up his predictions. So how has his methodology changed? Rothschild explained to me that generally, when one makes a prediction, three types of data are relevant:1) The “fundamental” data – This data includes hard numbers such as box office receipts, awards won, nominations received, and number of screens that people can watch the film on.2) Prediction markets – This includes places like Hollywood Exchange and Betfair, where people buy and sell information. 3) Polling data – Polls ask experts and non-experts what they think is going to happen or who they would vote for.The process of utilizing this data is the same across many industries, including politics, sports and business. Normally, fundamental data performs really well as a predictor. But for Oscars, Rothschild discovered, the fundamentals don’t really help at all.“If a movie does well at the box office, what does it mean for the Best Actor or Best Actress category? What reflection does it have on the makeup or special effects? The sort of data that are publicly available about movies don’t individually hit the 24 individual Oscar categories in any meaningful way,” Rothschild explained. “And even the awards shows that come before it are not meaningfully lined up with the Oscars, which makes it very difficult to use that type of data to predict how well a single movie is going to do in a single category.” This year, Rothschild used a new strategy: ignoring the fundamentals.Awards choices for films are often the result of a string of idiosyncrasies, not the product of a simple box office equation. In previous years Rothschild put a lot more weight on what the fundamentals were saying. This year, he discounts them. “Quite frankly, the fundamentals just don’t add anything next to using prediction markets,” Rothschild said. “When you’re in the world of idiosyncratic data, things that rely on the wisdom of the crowds are a lot more useful.”You can read MSR’s interview with David and check out the rest of his Oscar predictions at PredictWise. 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

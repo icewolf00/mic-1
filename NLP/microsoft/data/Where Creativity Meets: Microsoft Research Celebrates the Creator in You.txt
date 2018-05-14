@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 18, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’m already a fan of Socl from FUSE Labs and BLINK from the Interactive Visual Media Group so when these two Microsoft Research content-creation powerhouses get together to release three new experiences, I’m ready to sit up and take notice.For those catching up, Socl (pronounced social) was originally created as an experimental research project in social search and has evolved into an online community where people express ideas through collages that take seconds to create and are easy to collect, comment upon, and share. Socl posts are typically comprised of images, links, and videos found on the web and annotated with titles and captions. It’s simple to create a collage using search and a drag and drop interface. So simple that it’s kind of addictive 🙂 You can then easily share on Facebook, Pinterest, Tumblr and Twitter.Today, Socl is answering the call of its community and adding some cool new ways to express yourself through “create experiences”including a sharing space for BLINKs – so let’s recap what BLINK is about quickly. The original BLINK app for Windows Phone 8 allowed you to capture a burst of images when you take a photo so you can select the best shot. The new BLINK app for Windows Phone 8 released today also lets you take those 16 shots that start before you press the shutter (and extend to about a second afterward) to create a photo flipbook. Now you can have a short span of motion where previously you had a still.In addition to that updated Windows Phone 8 app, the team released the BLINK Cliplets app for Windows 8, which lets you combine and loop static and dynamic elements from short video clips. If like me you’re a fan of Cliplets for Windows 7 that allowed easy creation of Cinemagraphs, you’re going to love this new version that works on any Windows 8 PC and has been rebuilt from the ground up to take advantage of touch and gestures and now also includes in built sharing features, making it easy to share through Socl or your favorite social media sites.I’ve been playing with both apps this weekend and they’re a ton of fun and both BLINK apps are free from the respective Windows Phone and Windows Store.Now….back to Socl – as you may expect, you can share your BLINK creations on Socl along with three other new create experiences being updated and added to the service.&nbsp; Picotale is completely new to Socl and enables a rapid, fun and easy way to generate little stories or memes. Simply type in your text and hit go. Powered by Bing, this is my personal favorite as you simply enter a search and Picotale delivers an image including your text. You hit go again and again until you find a combo you like and then post on Socl. Boom!Collage, for the existing Socl community, has been the go to experience. New today is the ability to upload images from a personal device or computer and mix and match with content harvested from the web.Video Party is currently available as a shared video experience on Socl and from today they’ll get more prominent placement as a create experience. Video Party allows you to easily produce video playlists from YouTube, Bing, Vimeo, etc. and chat about them with other Socl users.So, two new apps along with four new create experiences – all for free, courtesy of Microsoft Research. What are you waiting for? Get downloading and sharing on Socl now!The Microsoft Research site has more on BLINK and Socl
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

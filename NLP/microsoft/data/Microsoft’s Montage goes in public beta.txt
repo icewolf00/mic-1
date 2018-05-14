@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 8, 2010
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+
+
+What would your scrapbook of the web look like? Or your own curated magazine with content dynamically updated from YouTube, Twitter, RSS feeds, Bing images etc? Well now you can find out…At Web 2.0 a few weeks ago we showed Montage and until now you could only see what others had created with the service. This week at LeWeb in Paris, we announced public availability of Montage – now everyone is free to play and create their own pages.FUSE Labs work in the office just across from me here in Redmond and they’ve been busy putting the finishing touches to the service for today’s beta launch. I’ve had early access and been playing for a few weeks and the best way I can explain it is a fast and easy way to build a magazine like interface for a topic you’re interested in – no code skills needed. You can literally create something in 60 seconds or you can spend a little more time, tweaking the design and layout to get some impressive looking results. The panel below shows you the starter tools for creating a page and a new feature I just noticed they added is when you first enter a topic name, a default page is built for you. Here’s an example of a page I created in literally 10 seconds about coffee. Check out the Montage for LeWeb itself from Richard Zaragoza and another on Paris from Tom Laird-McConnell to get an idea of what’s possible. Street Art is a favorite of mine along with Windows Phone 7 (which includes another FUSE project, Social Gadgets). I can imagine people using Montage to create custom home pages for themselves, or information walls that run on monitors at conferences or in news rooms. One thing I’m hoping the team will add is a way to see the most popular Montage’s over time though they do have a search function already and ability to sort by category – and Matt McLaurin already announced that a future version of Montage will allow you to embed Montage’s in a page. Go try it out and let us know what you think….oh and you can follow the Montage team on Twitter – @getmontage and Facebook. Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

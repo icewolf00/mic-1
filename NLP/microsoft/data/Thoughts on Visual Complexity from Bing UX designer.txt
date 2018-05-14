@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 25, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+ [image credit: TED]I met Manuel Lima earlier this week and will have more details on the man and his work next week. For now, I just wanted to highlight a free talk he will be giving this coming Monday in Bellevue, Washington (USA). The talk is titled Thoughts on Visual Complexity and for anyone involved in infographics, UI and interaction design it promises to be worth an hour or two of your time. You can get the full abstract and more details from the Puget Sound SIGCHI site. Logistics are thus and no registration is needed. Who is Manuel? He’s a Fellow of the Royal Society of Arts, nominated by Creativity magazine as “one of the 50 most creative and influential minds of 2009” and a Senior UX Design Lead at Microsoft Bing. He’s the founder of VisualComplexity.com  – a visual exploration on mapping complex networks.<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

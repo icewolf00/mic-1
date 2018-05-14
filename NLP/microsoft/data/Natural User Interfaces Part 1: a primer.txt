@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 7, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ For over two years on this blog I’ve posted about a trend we call Natural User Interface (NUI) from a variety of angles. I’ve explained what it is (with the help of others), showcased technology that is driving the trend such as Kinect and why it’s much more than interfaces and input techniques. As I mentioned in the GeekWire podcast in late December, NUI will be a trend that grows during 2013 inside and outside of Microsoft – in fact I saw it referenced in a number of year end trends posts – so I thought it’d be worthwhile bringing a few of the best posts on NUI back up to the surface to reorient people as we head in to the new year.This is the first post in a series this week that explores the trend through the remainder of this week.It makes sense to start with a post I authored titled A NUI 101 to lay the foundations. That post from March 2011 builds on a talk given by Craig Mundie where he spoke of Microsoft’s goal to create computers that behave “more like us” and are capable of emulating the five senses. It’s interesting to see how far we’ve come already since that post.&amp;amp;amp;amp;amp;amp;amp;#160; Another way to think about NUI is how unintelligent some of todays devices are – the washing machine is one of my favorite examples and the subject of a post titled What can a washing machine teach us about NUI? that also introduced the notion that NUI will rely on many inputs that provide context and enable technology to work on our behalf.The post lays some foundations for the next few days of NUI. Come back to hear about the role of Kinect – inside and outside of Microsoft – and how NUI is more than touch and gesture.To close out this intro post I’ll refer back to a talk by Bill Gates at the University of Washington. The talk took place on October 28th 2011 and Bill spend about (and blogged about) The Power of the Natural User Interface. In the post and in the talk, Bill talks about Kinect and the role it has in bringing NUI to more people – which is a nice setup for Part 2 in this series. 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

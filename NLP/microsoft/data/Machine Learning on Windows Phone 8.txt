@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 4, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I took some time off during January and one of the things I enjoyed was catching up on the articles and blog posts that were piling up. One thing in particular that I spent time on was Windows Phone 8. A lot of new apps have hit the market and there’s also some pretty amazing uses of technology to power the user experience.One of the blogs I stumbled across actually dates back to early December, but it does such a great job of explaining the technologies behind the Windows Phone 8 keyboard that I thought it was worth sharing again. Jason Grieves is a program manager on Windows Phone 8 and he takes you under the hood of Word Flow, the predictive keyboard technology in Windows Phone 8.The team that built Word Flow went to great lengths to provide a dictionary that reflects the way people talk. They reviewed more than 2.5 billion words in the English language and boiled that list down to the 600,000 that are most common. They also used a lot of data to build up an understanding of the words people typically use when texting or sending an e-mail from their phone.But Jason and his team took it one step further: Using machine learning technology they gave the dictionary the ability to learn which words the owner of that phone is likely to use. Every time you send a text or e-mail, it’s developing a keener understanding of how you communicate. Word Flow uses that knowledge to improve the accuracy of its word suggestions and corrections. And it uses that same knowledge to adjust the size of the keys you’re most likely to hit next–a pretty cool feature that Microsoft Research had a hand in.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

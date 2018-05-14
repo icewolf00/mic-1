@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 10, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+This week I’ve been in Houston, at our annual Worldwide Partner Conference with more than 14,000 Microsoft Partners. But home is never far from mind. Recently I’ve been inspired by how Microsoft’s own backyard is playing a part in several bold new efforts to envision the future of cities using big data.Yesterday marked the launch of the High Performance Buildings Project, a Seattle smart buildings initiative inspired by a similar effort on Microsoft’s Redmond Campus. Today, we’ve unveiled Microsoft CityNext, a global initiative that empowers people to transform their cities and their future using data. Microsoft CityNext harnesses their ideas, energy and expertise to create healthier, safer, and more sustainable places to live and work.Microsoft is playing a unique role, thanks both to our global ecosystem of 430,000 partners – including hundreds working actively on city projects – and our broad portfolio of services and devices. It’s a powerful combination. Take Itron for instance. They are a global technology company that helps utilities around the world measure, manage and analyze energy and water. At WPC, Itron introduced a Windows 8 app called Itron Insights. The app, also built for Windows RT, provides cities with a clear view into energy costs, water revenue and expense, and CO2 impact.For CityNext, we’re announcing a few “showcase” cities where we share a similar vision with city leaders for what technology can do to transform their city to get more usable insight out of the data they collect. In Spain, working with the Barcelona City Council, one CityNext project is focused on the 2013 La Mercè festival. To help come up with the music lineup, WPC Partner of the Year Award in BI winner, BISmart, will compare data it collected on social networking comments and pictures from a similar festival, music sales and Spotify song downloads to assess the popularity of musicians and to predict revenue of future music sales.In New York, the NYPD teamed with Microsoft to develop the Domain Awareness System (DAS), a sophisticated law enforcement technology solution that aggregates and analyzes public safety data in real time, providing investigators and analysts with a comprehensive view of potential threats and criminal activity.I’m lucky that I’ve seen the smart buildings effort in action, as you can read about in more detail in “88 Acres: How Microsoft Quietly Built the City of the Future.” And I go home to Seattle, a city known for making strides in energy conservation. So it makes sense it’d be the site of the High Performance Buildings Pilot Project, a new cooperative effort that also launched this week tying Microsoft, the City of Seattle and the Seattle 2030 District together in a new smart buildings initiative aimed at increasing energy efficiency and reducing power consumption through real-time data analysis.Talk about the meeting of some great minds. This is what CityNext is all about, a project that introduces a new analytics layer in which a single data repository for all building systems is created, giving managers a powerful new tool to analyze the data and optimize building performance.And what’s even more exciting is that the pilot will run in buildings people – lots of people – use every day. The University of Washington’s School of Medicine, The Boeing Company, the Sheraton Hotel Seattle, and the City of Seattle’s Municipal Tower are all teeming with the kind of people and activities that drive this city – and the world – forward and make it great.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+September 28, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Last year, Microsoft’s Applied Sciences Group sponsored the Student Innovation Contest at UIST which presented students with an experimental adaptive keyboard and challenged them to develop new interactions on this unique piece of hardware. The participants came up with some pretty cool stuff.The tradition continues this year with Hrvoje Benko, John Miller and the Cambridge Innovation Development team from Microsoft Research, as well as Stevie Bathiche and Paul Dietz from Microsoft Hardware. Microsoft Applied Sciences Group is sponsoring the competition. This year, students have been given the Microsoft TouchMouse as well as exclusive access to a pre-release of the TouchMouse API that gives access to the 2D capacitive image captured by the mouse’s sensor matrix. Kayur Patel gives a good sense of what is possible in the video below.The contest is now under way and winners will be announced on October 18th. Bragging rights are at stake as well as $1,500 for the first placed team and $500 for the second place. That’s a lot of beer tokens…oh and everyone gets to keep the mouse. My ability to keep my own version of the mouse has proved somewhat more challenges as I (ahem) temporarily misplaced mine in London’s Heathrow Airport. Fortunately, the good folks in Microsoft Hardware replaced it with the quite beautiful Touch Mouse Artist Edition.It’ll be interesting to see what the students come up with and I think this stands as another great example, alongside competition like the Imagine Cup, as to our passion for fueling student in technology. Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

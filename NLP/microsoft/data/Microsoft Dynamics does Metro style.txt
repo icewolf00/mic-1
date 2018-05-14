@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 26, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Last week I blogged about Metro style design getting some attention of late. I’ve been immersing myself in the world of design at Microsoft over the last few months and I have found that Metro style runs deep. One of the questions I often get asked is whether Metro style will extend beyond the products we’ve seen to date – Windows Phone, Xbox 360 and Windows 8. The answer is yes – Visual Studio is already showing some Metro style and so is our Dynamics business.At Convergence last month, our annual gathering of Dynamics partners, we gave a sneak peek of Microsoft Dynamics with a Metro style interface. In a blog post about the demo, Kees Hertogh explained how this delivers an immersive experience that makes the most of live tiles, deep linking and the panoramic canvas approach. I like the deep linking in particular that enables you to ‘pin’ any part of the application to the Dynamics Home page or Windows Start page – essentially ‘flattening’ the application experience and making any given task directly accessible from the highest navigation level.Kees goes on to explain how the concept application that was demonstrated shows a shift from a sole focus on historical data to proactive insight. Additionally, the concept highlights the importance of context with embedded use of Lync and in the future Skype for real-time discussions around business data. The activity stream inside the application experience will provide frequent updates by both users as well as key relevant activities driven by the system itself (e.g. customer approvals, status updates, etc.) and the application will be device aware.From my perspective, it’s fascinating to see Metro style spreading across Microsoft…keep coming back as I dig in deeper to the design world.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

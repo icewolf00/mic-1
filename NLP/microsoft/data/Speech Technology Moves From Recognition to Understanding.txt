@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 13, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ I recently had the chance to talk with Larry Heck, Chief Scientist for the Speech at Microsoft group, which delivers Microsoft Tellme speech technologies across Microsoft products. Larry has been working on various aspects of speech technology since the late 80’s, and throughout his career he’s played a critical role in breaking new ground. Today he’s focused on the role speech can play in the emergence of more natural user interfaces (NUI). For a bit of background, Larry earned his Ph.D. at Georgia Tech, with an emphasis on artificial intelligence (AI), speech and image signal processing and pattern recognition – so I knew I was in for an interesting conversation from the start. He began his career at Stanford Research Institute (SRI), where he applied speech recognition algorithms to the monitor the health of machine tools in manufacturing operations. With his advancement in fundamental machine learning algorithms, Larry soon realized his work in machine monitoring could be applied back on speech technology – specifically voice authentication. This led him back to the field of speech, and his subsequent involvement in SRI’s speech group, the R&D department at Nuance and eventually here, to Microsoft. Along the way, Larry also spent four years at Yahoo!, where he worked with Qi Lu on search and advertising. At Yahoo!, he built a 450+ member Search & Advertising Sciences Lab, and eventually helped form Yahoo! Labs. I’m always curious what draws people to Microsoft, so that’s where we started: “What really inspires me is seeing tangible, real steps forward and things being built or prototyped. One of the things I really appreciate about Microsoft is that it’s filled with people who very much want to get in and build, and try, and explore, and prototype – it’s very much a hands-on place. It also has a breadth of technologies, the ability to impact millions of users, and smart people to help make it happen.”  When he made the jump to Microsoft speech in 2009, Larry says Microsoft was consolidating all of its speech technologies into one group. He said a lot of work had already taken place in creating and applying “machine learning” speech algorithms – that is, the ability for machines to learn on their own, based on experience that is provided in the form of data. But the key opportunity still in front of Microsoft was in more effectively leveraging the vast quantities of logged data from the many millions of daily customer interactions. By unifying Microsoft’s speech efforts, combined with Cloud computing, Bing and more recently XBox Kinect, the group accelerated its efforts to drive all of these sources of data through the speech machine learning algorithms. Larry explains:  “Our speech recognition technology lives in the cloud, so we’re able to do rapid iterations and real-time updates in response to feedback. On top of that, we have the virtually unlimited compute power in our data centers and millions of customers who are using our products. So whenever someone uses voice search or voice recognition in Kinect, it turns into this continuous feedback loop.”  That’s a big change from earlier work on speech which saw black box devices that could recognize a certain set of commands but with no ability to adapt or feedback based on usage. Larry was also quick to highlight the potential when you combine speech with other modes of interaction – such as gestures and body movements – and with other devices:  “With the combination of speech, gestures, machine learning and the cloud, and with having all these devices that are interconnected, you begin seeing bigger opportunities. You can begin climbing up the stack from doing recognition to actual understanding of what a person is talking about and their intent because you can identify the context of a situation: where you are, what you were just saying and what, or to whom, you were gesturing.” It reminded me of the talk Ivan Tashev recently gave at MIX11 on the potential for mixed mode interaction. As you think about how we operate as humans, this makes a ton of sense. We may point to a map and say “I want to go there” – using touch and speech together. That type of interaction can be replicated digitally delivering a more natural user interface. Of course there are other input modalities that can contribute here – vision is another obvious one.My final question to Larry focused on how speech shows up across the Microsoft product range – I asked if it was right to think about it as an ingredient in many Microsoft products rather than a product on its own. Larry agreed: “When you separate speech out as an island, you lose the benefit of coupling things like acoustic search with traditional search. When you start thinking about speech as an integrated part of the overall user experience, it becomes almost invisible which I think is a wonderful thing” Larry says that having all these capabilities makes it much easier to solve problems, to the point that it sometimes feels like they’re “cheating.” 🙂That might explain why he’s so bullish about the future.// <![CDATA[
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// ]]&gt;Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

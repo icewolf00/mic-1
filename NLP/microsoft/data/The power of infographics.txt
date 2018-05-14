@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 18, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+[image credit: noraomurchu]Can Brighton, England lay claim to having the world’s biggest infographics? I suspect so. Tidy Street in Brighton is anything but tidy at the moment as a graffiti artist has been at work, daubing the streets with huge letters and numbers. It’s all part of an Open University project that display the electricity consumption of the street, in the street.  The project is detailed at www.tidystreet.org and  noraomurchu has some great photographs up on Flickr. Each day the participants’ electricity usage over the previous 24 hours will be marked; and each week participants can choose to add another comparison line that will show how their electricity consumption compares to another region in the UK or even a different country. I can imagine many neighborhoods would freak out if this happened in their street though bear in mind they’re using chalk on the road rather than paint – which did make me wonder how well this works in rainy Britain. Weather aside, it’s an interesting project that has had a real impact – according to The Guardian, the street’s average energy use has dropped by 15%, with some people cutting usage by as much as 30%. It adds that small changes such as turning of lights and putting devices on standby have been a major contributor. I’m a big fan of infographics and increasingly aware of how the explosion in data is going to change our relationship with technology – I hadn’t foreseen this as one of the potential ways and hopefully it’s just the start of using infographics in public spaces to help engage us more. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

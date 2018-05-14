@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 30, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+As the old adage goes, good things come to those who wait. I have been eagerly awaiting the arrival of Photosynth on Windows Phone and as of today, it’s available in the Windows Phone Marketplace. From my playing with the app, it’s been worth the wait.I got early access to the Windows Phone application about a week ago and have been playing with it a fair bit since. My first “pano” can be seen below and was shot atop Bing HQ, 26 stories above Bellevue, Washington. The one above is Black Butte Camp at Mount Baker here in Washington State, USA. As the Photosynth site explains, the idea behind a pano is to capture the view in every possible direction from exactly one location (different from synths which require a different camera location). A panorama doesn’t give you any depth information, but it makes for a seamless viewing experience because the combined imagery seems to wrap around you – just like the real world does. As you would expect, the app employs the Windows Phone panoramic user interface to make shooting a panorama quick and easy. There are remarkably few options as all you need to do is point and shoot – Photosynth shows you your panorama developing as you shoot and completes the stitching process on the device. You can subsequently view your creations on your phone or upload to Photosynth.net and share via email, Facebook, Twitter and Bing Maps. The application also makes great use of the onboard sensors – using the compass to intelligently map shots together as you shoot and the GPS to geotag when you upload.The iOS version of Photosynth has been a hit with over 7 million downloads and a 4.7 rating in the Apple AppStore. It made the New York Times Top 10 iPhone apps for 2011 and was voted #2 in a similar list from TechCrunch. Given my experience with it to date, I expect the same for this Windows Phone version and like the recent LinkedIn app, I think users may find it even more alluring than its iOS counterpart.Go grab it now and get capturing! Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

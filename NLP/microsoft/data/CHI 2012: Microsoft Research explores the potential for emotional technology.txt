@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 10, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+This year’s ACM SIGCHI Conference on Human Factors in Computing Systems (CHI, for short) wraps up today in Austin. It sounds like it was another amazing year for the conference. What’s really great about CHI is that it gives you a panorama of how technology and experience design is being applied over a really broad spectrum of scenarios. I chatted briefly with Kevin Schofield from Microsoft Research (MSR) to get a rundown on some of the highlights.With this year’s show, there was an emphasis on around blending the physical and the virtual. For example, how you could use augmented reality to help people cook (I need that). One demonstration used sensors in a frying pan to display the actual temperature of the frying pan on its surface. Pretty cool stuff.But what really gets the imagination going is the emergence of affective computing, which is all about understanding how people’s emotions should be represented in their interactions with computing devices. It raises questions such as whether a computer could actually sense a person’s emotional state. The technology behind this could include a variety of sensors that monitor how quickly someone is typing, the intensity of each key strike, and the stress in their voice. And the combination of machine learning and data analytics could potentially tie together all this data to predict how a person is feeling.There’s a team of researchers within the VIBE group at MSR that’s researching this possibility, and in fact presented some early research results at CHI this week on a prototype system they built called AffectAura. Immediately I can see a few applications of this technology, such as increasing a person’s self-awareness of how they’re feeling so they don’t send an e-mail they might later regret. It’s also interesting to think about how you might enhance videoconferencing systems by putting back in the emotional information that we tend to lose when we’re not communicating in person.Of course, venturing into areas like this brings up questions around privacy, how we interact with one another and the social norms around emotions. That’s why it’s important to start with research: to answer the basic questions, and to involve the kinds of inter-disciplinary groups who come to CHI, to ensure that we’re looking at the issues from all angles. And it’s equally important to discuss breakthroughs like affective computing in open forums such as CHI, so we can have healthy debates where all viewpoints are welcome.[update]adding this excellent summary video from Nick Barber of IDG who covers Illumishare, Soundwave, Humantenna and DualView in this wrap up. Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

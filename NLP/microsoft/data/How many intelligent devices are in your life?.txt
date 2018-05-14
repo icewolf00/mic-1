@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+September 29, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’ve talked about the Internet of Things several times here on Next at Microsoft, noting that more and more of the objects in our lives are becoming connected to the Internet and becoming “intelligent”. This intelligence will bring with it a number of things – technology that can begin to anticipate our needs and a huge explosion in data. Recent research from IDC noted that the embedded systems market already exceeds shipments of PCs, servers, and mobile phones – combined!I’m personally interested to see how this trend fuels a new field of software development that meshes all this data together to provide natural interfaces. In the era of Web 2.0 we’ve seen what happens when you mashup web services, I think we’re about to see the mash-up of data from all manner of intelligent devices. As street signs, fuel pumps, ATM’s, GPS systems in cell phones and cars, household appliances and many more objects become connected there will be almost endless possibilities. Only last week I was asked why this was important and whether I really want a refrigerator that tells me when I’m out of eggs. Personally, I don’t want that – but I would like a refrigerator that knows when it needs servicing and can schedule that on my behalf. Similarly, I’d welcome in store digital displays that are personalized to me by the proximity of my cellphone. Those are just two simple examples of that the future may hold.A second area that fascinates me is the emerging expertise around data visualization – as each of these devices amasses data about movement, history, connectivity and user interaction, it opens a new field for making sense of all of this data. Fast Company‘s Co.Design recently noted an “area poised for growth is the use of data visualization in real-time settings, providing updated visual representations of real-time events”.As you can see from the video above, our Windows Embedded team is very focused on the field of intelligent systems with their software is in many devices that you interact with on a daily basis. Next time you look at a digital sign, fuel your car or use an ATM, you may well be using a Windows device and pause for thought on what it would mean if that devices were “intelligent”.[check out the interactive version of the video too!]Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

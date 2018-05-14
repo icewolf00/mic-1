@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 7, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+In my post earlier today regarding Microsoft Research (MSR) projects I didn’t include this project so thought I’d add an additional post on it. As you can see from the video above, it’s a novel use of existing LCD displays to project two different images. The projected was shown at the Microsoft TechVista event in India earlier this year and will be shown again this week at CHI 2012.It reminds me of those lenticular rulers I used to have at school as a kid (but it’s a little more technical than that) and I can imagine ways it could be used if perfected. Imagine multiplayer Halo without the split screen and the cheating that goes with it. Or watching two TV shows concurrently? Or the example in the video of playing a game of cards across a screen and seeing only your own view. Even more intriguing is the ability for stereo 3D displays without glasses.[updated based on guidance for optimal viewing]Check out the images below as examples. instructions small printThese sample images allow you to demonstrate the work on your own LCD screen (preferably a laptop). Please note, since these images were rendered based on the parameters of a particular LCD model, the result may not be perfect on every screen. Nonetheless the general effect should be observable across various TN LCD screens.To compensate for sometimes reduced contrast in the top view, these images were rendered with 8-color dithering in the top view. We suggest viewing these images on a laptop screen (which is most likely TN-based). Desktop screens are more likely to employ other LCD technologies, so might not always work.  Clearly the work is just a prototype at this stage but more amazing work from MSR.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

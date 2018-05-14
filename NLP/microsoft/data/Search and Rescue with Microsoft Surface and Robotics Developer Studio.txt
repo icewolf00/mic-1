@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 3, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Robots used to symbolize the loss of assembly line jobs, but in the last 10 – 15 years or so they’ve had a bit of an image makeover. Whenever they come up in conversation, most people will immediately think of the Roomba, or maybe a bomb disposal vehicle – but the usefulness of robots has certainly been proven several times over, especially when it comes to venturing out where people dare not go. Now there’s some really cool work coming out of the robotics lab at the University of Massachusetts that only stands to increase the role of robots. Working in conjunction with Microsoft Research, professors Holly Yanco and Mark Micire designed a human-robot interaction app that works much like the a game controller.Called the DREAM Controller, it’s comprised of a left-hand joy stick that controls where a robot is looking and a right-hand joy stick that handles the steering. Holly and Mark did an amazing job in researching the ideal layout for a joy-stick. Then they used Microsoft Robotics Developers Studio (RDS) and the capabilities of Surface to create a control experience that’s straight forward and comfortable. In fact, the joy stick is so easy to use, that within less than a day, a test subject in his 60’s, with no significant exposure to Xbox or video games, was proficiently controlling the robot.What I like about this project the most is that it brings together RDS and Surface to create a terrific NUI application – one that’s cohesive, useful and that gives search and rescue planners a more viable option for gathering intelligence when situations on the ground are otherwise unsafe. Holly and Mark have designed their solution to work with tablet devices so, conceivably, workers could be closer to the situation, controlling individual robots with a tablet while search and rescue planners are at the headquarters are accessing data sets (like building plans or geospatial information), receiving video feeds from each robot and taking care of command control functions.This is actually the second time MSR has featured Holly and Mark’s work. Last year we posted a short video of a simulation they created on Surface, in which one person could deploy multiple robots. Since then, they’ve been working on a variety of specific multi-touch gestures to carry out common search and rescue tasks.With Kinect now in RDS, I can’t wait to see where this goes next. Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

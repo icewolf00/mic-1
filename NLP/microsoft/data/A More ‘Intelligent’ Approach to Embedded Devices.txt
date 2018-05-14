@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+September 9, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Anyone who’s spent much time on this site knows that the Internet of Things is one of my favorite topics. I suppose it’s because it speaks to how we can use technology to redefine what’s possible. And while a lot of the talk has been pretty general, a few people here are working on practical applications.For example, the Windows Embedded team is working on some pretty cool stuff that will cinch together all of the individual pieces of the Internet of Things into an intelligent system. The idea is that this system – made up of embedded devices, network connectivity, and storage and analytics services – would help businesses gather, analyze and act on data without getting bogged down by the usual gridlock. Check out the story on the Windows Embedded news room for more details.The Windows Embedded guys have also been working with the European Microsoft Innovation Center on some ideas that could help manufacturing, automotive and logistics companies. One example is focused on helping a banana grower ship its product from South America to Rotterdam, the Netherlands.The voyage can take anywhere from eight to 10 days and along the way the bananas continue to ripen. Here’s the kicker: One of the major factors in the ripening process is where the containers are stowed on the boat – whether they are at the bottom of the hold, higher in the hull, or on the top deck.There are five containers in each shipment, so when they reach port, the bananas must all be unpacked, hand inspected for ripeness and then divided. Ripe bananas are sent to their final location in grocery stores around the EU, while green bananas are stored in these enormous, climate-controlled warehouses until they reach the perfect state of ripeness.With intelligent systems, transportation and logistics companies can monitor the atmospheric conditions inside each container and store this information in the cloud, where it is analyzed. Before the boat reaches port, the company has a better understanding of how ripe the bananas are and how each container should be handled. (A 20-foot shipping container can hold around 48,000 bananas.)Shipping bananas may not seem as cool as automating your home, but it’s hard to argue with the potential cost savings. Either way, I’ll never look at bananas the same way.Our friends at Microsoft News Center take a closer look at how the intelligent systems market is projected to double by 2015.[update] – IDC just published a report that was cited in the News Center story, noting that “the market for intelligent systems is developing rapidly, with over 1.8 billion units and over $1 trillion in revenue today. Further, it estimates that by 2015, the market will double to nearly 4 billion units and over $2 trillion in revenue”.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

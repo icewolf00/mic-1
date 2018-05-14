@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 5, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Back in August, Engadget called Kinect Fusion “jaw dropping”. To recap briefly, Kinect Fusion takes live depth data from a moving Kinect sensor and in real-time creates high-quality 3D models. It was first developed as a research project at Microsoft Research in Cambridge, England and since the first public demo, there has been high demand to see this move out of the lab and in to the Kinect for Windows SDK. At our BUILD conference in Redmond last week, Chris White from the Kinect for Windows team announced that is about to happen.As Chris says in a post on the Kinect for Windows blog, this capability enables 3D object model reconstruction, 3D augmented reality and 3D measurements out of the box with the Kinect for Windows SDK.  3D printing, industrial design, body scanning, augmented reality, and gaming are just some of the scenarios where we expect this technology to take off. Take another look at the original video that got viewers so excited 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

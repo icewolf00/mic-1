@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 31, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I need to start paying more attention to Scientific American – back in September last year they had a whole edition dedicated to smart cities. Following my post yesterday on designing smarter airports with software, I spent some time reading this back issue. Here’s one crucial paragraph from the edition: In the 20th century cities grew more than 10-fold, from 250 million people to 2.8 billion. In the coming decades, the U.N. predicts, the number of people living in cities will continue to rise. By 2050 the world population is expected to surpass nine billion and urban dwellers to surpass six billion. Two in three people born in the next 30 years will live in cities If there is to be efficiency and harmony in these cities, they’re going to have to get a lot smarter. As I spend a few days in London this week, I’m marveling at the wonderful mix of cultures, communities, transport modes, advertising, stores and more. But London is an old city and anyone who has traveled on the Tube knows it’s creaking at the seams – it wasn’t designed to support so many people and the roads are the same. Infrastructure changes will be needed, and for London this summer’s Olympics will be a real test, but you can only change so much landscape. Technology will have a huge role to play in making cities like London smarter in the future.So what is a smart city? Wikipedia has a detailed outline that defined a smart city along six axes: a smart economy; smart mobility; a smart environment; smart people; smart living; and, finally, smart governance. Wireless Sensor Networks is called out as a specific technology that helps create smart cities and it’s this area that fascinates me. With sensors that monitor light, movement, speed, direction, air quality, sound and much more there is huge potential to connect a city up to an information grid that citizens can tap in to – for their own benefit and for the benefit of the community. We could anonymously crowdsource the speed of traffic movement, by foot or car, and share that back with the network. We could report back on noise pollution in an ambient fashion, in real time. We’ve already seen reports of Twitter being able to accurately predict influenza outbreaks; in fact that process already has a name – syndromic surveillance – and this is surely just the beginning of mass crowdsourcing of all kinds.The telemetry of our world is exploding, sometimes in a latent, anonymous fashion through services like Twitter and other times through planned digitization such as governments opening access to public datasets – crime, transport and electricity consumption. In fact New York City has a competition to encourage citizens to make best use of the data they publish with a $50k prize on offer.Some cities are starting to become self describing, using QR codes of Microsoft Tag to label buildings and objects around the city, and we’re seeing augmented reality apps overlay completely new layers of data on top of our physical world. It’s a little weird for me, that some of the world is seeing a different world as they use these services but that’s how things move forward I guess. One technology I’m personally looking forward to is digital signage that reacts to my presence, whether showing me personal treats I’ll like or simply translating signs in to my native language.The next few years are going to be fascinating to watch as we sort through what we really want from smart cities, how much of that is provided by the population itself versus public and private organizations and how much users will be comfortable with. Microsoft has a whole host of technologies that are contributing to this future – but that’s a topic for another post.Me, I just want my phone to allow me to switch off the streetlamp outside my hotel room window!Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

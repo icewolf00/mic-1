@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 16, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+FUSE Labs live in the office next to me and the rate that they’re pushing out work right now, I’m starting to think they do actually live there. Today they announced full availability of Kodu Game Lab for the PC and announced the launch of the nationwide (US) Microsoft Kodu Cup 2011 competition. For those late to the game on Kodu, it’s software which lets you design video games without having to know any programming before you start. Perfect for me then…but ideal for kids. You use images and icons to quickly build a game versus the typical complexity that a programming language brings. In talking about NUI on this blog, I’ve mentioned to notion of lowering the barriers for entry to technology and how that will encourage a whole new population to enjoy the benefits of tech. This is a great step in that direction. Kodu has been out there for a while and this full release includes new features, such as an interactive system that guides users through each step of making games — creating terrain, adding characters, programming them etc. It also includes a social capability that enables users to share games with other PC-based Kodu Game Lab users.The Kodu Cup is a game design contest for students ages 9-17. Kodu is great tool for kids because it lets them cut right to what matters — the quality of the game — but it also helps them build their technical and creative skills along the way. But enough of that…there’s $5k at stake, plus a trip to NYC, an Xbox 360 250GB Console with Kinect , Toshiba Satellite Laptop and more. Check out more at http://fuse.microsoft.com/kodu and kids – get coding. Teachers, be sure to check out the Kodu Classroom Kit. It’s a set of lesson plans and activities for teachers, after school program instructors and administrators to run a variety of types of classes using Kodu. Nice eh….classroom in a box. download it!<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

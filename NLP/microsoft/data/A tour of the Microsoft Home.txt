@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 2, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+For many years I had heard of the Microsoft Home and wondered what it’d be like inside – having only seen scant glimpses in press shots. I’d also been quite curious about what it’s like from outside – assuming it would be on a suburban street somewhere in Redmond and perhaps like a show home or even like a home from a TV show I used to watch called from Brookside.9 months in to my role here in Redmond and I have now spent enough time in the Microsoft Home to claim residence. I can confirm that the fridge does have drinks in (nonalcoholic, despite repeated requests) and that the Home can be controlled using spoken commands addressed to a fictitious woman named Grace, an homage to the late Grace Hopper.My residency recently afforded me the opportunity to tour around the home with Flora Goldthwaite from our Strategic Prototyping Team and the chaps from Channel 9 were on hand to capture it on video.  You’ll see the theme on NUI come up numerous times and my personal favorite demo is the first TV screen we see which shows the potential for a world that is clickable. Bear in mind that everything you see in the video is prototype – some of the capabilities are available today in a few homes, some are a way off and some are really just dreams for inspiration. // <![CDATA[
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// ]]&gt;Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

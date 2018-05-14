@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 21, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I was chatting with a pal this weekend who is moving to Seattle next month. He’s going through many of the same decisions I went through 7 or so months ago and similarly, choosing a car is near the top of his list. I’d already pointed him to Cars.com which I’m a big fan of but this weekend told him to check out Bing Autos too. When I moved,  I considered (briefly) a BMW M3 and he is too – here’s how Bing Autos presents that when you search for a 2011 BMW M3 (note you have to click on the Autos tab when performing the search from Bing.com)Bing assumes you’re shopping for the motor so using reverse IP lookup, it determines your location and find the nearest vehicles to you – Bellevue, WA in this case for me. It’s just on small step but removes an obvious step – and you can search in another region if you choose to, simply be entering the zip code. You get list price, color and engine specs, and can sort by price, mileage or listing date. Other tabs show specs and reviews (or proof that this really is the car you’re looking for).You can also look for a different make, model or year with just a few clicks and search by features as shown above – all without ever leaving the page or wading through irrelevant results.One further click takes you to a comprehensive reviews page that shows competitor vehicles, reviews on past years models, owner reviews, videos and more. Slowly but surely, Bing is changing what I think of when I think of a search engine. Using smart technology in the background (and sometimes simple stuff like reverse IP lookup), Bing is taking away additional steps and surfacing the information I want. It’s learning about me and anticipating my needs.Having a fast search engine is one thing. Having a smart search engine is another. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

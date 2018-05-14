@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 14, 2014
+
+									|										
+Tima Chansanchai - Microsoft News Center Staff
+
+If you’re a dog lover, you become adept at identifying dogs. But what if your smartphone could identify them faster than you? Imagine this: you point your phone at a dog and ask it, “What kind of dog is this?” and it identifies the exact breed.At the 15th annual Microsoft Research Faculty Summit, that object recognition technology, dubbed Project Adam, was on display.In his keynote Monday morning, Harry Shum, executive vice president of Technology and Research, laid out the impact of Microsoft Research’s efforts on the company and how it helps define the Next Big Thing. One of the projects he demonstrated show the company’s progress in machine learning and artificial intelligence: Project Adam.The goal of Project Adam is to enable software to visually recognize any object. It’s a tall order, given the immense neural network in human brains that makes those kinds of associations possible through trillions of connections.Microsoft resesarcher Trishul Chilimbi works on high performance computing and building large-scale distributed systems. His most recent research with three other colleagues focuses on Project Adam and its object classification, culling a massive dataset of 14 million images from the Web and sites such as Flickr, made up of more than 22,000 categories drawn from user-generated tags.Using 30 times fewer machines than other systems, that data was used to train a neural network made up of more than two billion connections. This scalable infrastructure is twice more accurate in its object recognition and 50 times faster than other systems.It answered in the affirmative this burning research question: can increasing the size of a deep neural net help improve accuracy?Attendees to the Faculty Summit witnessed the answer live Monday with a demo that brought to the stage three dogs. Project Adam researcher Johnson Apacible proved that showing is better than telling, and more fun, too. Though, he should have known, dogs always steal the show.The live demo of the dog breed detector integrated Project Adam’s technology into Cortana. Apacible pointed a phone at the Dalmatian – named Cowboy – and asked it, “Cortana, what dog breed is this?” It was spot on, displaying the word “Dalmatian” on the phone’s screen. Then he turned the phone to Millie the Rhodesian Ridgeback and Cortana asked him to take a picture of it. It also nailed her breed. The audience applause conveyed appreciation for the success. Then came the Cobberdog, Ned.Project Adam thought it was a terrier, the audience thought it was a Labradoodle – and both were right. Both breeds are found within the Cobberdog.Just to show Adam knows the difference between people and dogs, Apacible pointed the phone at Shum. Cortana answered, “I believe this is not a dog.”The potential of this research goes far beyond satisfying curiosity about man’s best friend. With more data, you could take a picture of a meal and get its nutritional information. Or, snap a photo of an unusual skin condition and get an accurate diagnosis. Or if you’re out in the woods and need to know which plants are poisonous and which are edible, this is the technology that could help you do that.Is your mind blown yet?“The computing paradigm is shifting from personal computing of the past to the future, as the user is now in the center,” Shum said. “It’s no longer the computing power or storage or bandwidth, it’s about people’s time and attention.”During his keynote, Shum also talked about how this is a new time for Microsoft with CEO Satya Nadella. Microsoft Research plays a key role in that future, making advances in science and driving the innovation in Microsoft’s portfolio. In the last 20 years, he said, Microsoft Research saw most of the big trends coming: mobile phones, tablets, search and cloud. Highlights of the past year include cross-company collaborations and advances in computational economics, predictions that show up in Bing and the Catapult project on programmable hardware in datacenters. Microsoft Research has also played a pivotal role in developing Office Mix and Skype Translator, as well as the new Academic Search with Cortana, the personal digital assistant that comes with Windows Phone 8.1.Learn more about Project Adam by reading Wired and this feature article. Head over to Microsoft Research to find out more about the Faculty Summit and watch it online, too.Athima Chansanchai
+Microsoft News Center Staff
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

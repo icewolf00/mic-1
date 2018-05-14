@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 9, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+My friends at FUSE Labs had plenty to show today at TechFest – Emporia and Montage are two projects that are great examples of re-using data from social networks. I’ve covered them both here before so thought I’d focus on the new application I saw today from FUSE.Social News Search for Companies uses some familiar techniques from Montage to build a dynamic web page for of news for a chosen company. The demo I saw had pages for a ton of companies, including Microsoft, Apple, IBM, P&G and many others. The really cool thing about the demo was the ability to crowdsource the content. As you’ll see in the video above at the 2:15 timeframe, a user can help curate the content by adding news sources such as RSS feeds, Twitter users, search terms and more. It’s very simple to use and an interesting approach alongside other sites such as Techmeme, Digg or a simple search. I’ll be back soon with more news on this soon in terms of availability etc.Oh and you can see coverage of TechFest as a Montage of course<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

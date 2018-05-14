@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 20, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ The last few weeks have seen a number of exciting new Kinect projects and over the last year there have been plenty – from inside and outside Microsoft. I thought I’d round up some of my favorites for you. KinÊtre is a project from Microsoft Research in the UK that was presented at SIGGRAPH 2012 in Los Angeles. It uses the capabilities of Kinect for Windows to map your virtual limbs to the geometry of a variety of household objects and has Core77 amongst others excited about the potential.   The auto industry is very active in its explorations with Kinect and in partnership with Razorfish, Audi has reimagined their showroom.   The Kinect V Motion Project is from Fructus who are making music with Kinect, just by using body movement. Check it out – and download the resulting MP3 track.   Another amazing Kinect project from Second Story shows us what the future of art galleries or retail displays may look like thanks to Kinect and a Planar EL screen.   And finally, check out the 30 minutes of NEXT demos I hosted at the Worldwide Partner Conference in July – we had two killer Kinect demos from Ubi Interactive and MANCTL. The former uses Kinect to turn any surface in to an interactive display, the latter turns a Kinect sensor in to a low cost 3D scanner and when hooked up to a 3D printer, the results are amazing. Expect more Kinect projects from inside and outside of Microsoft over the next few weeks and months.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

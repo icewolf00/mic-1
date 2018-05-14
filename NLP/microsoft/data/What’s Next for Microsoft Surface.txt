@@ -1,0 +1,35 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 6, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+
+
+A quick break in the proceedings here at CES so I have a few moments to let you know about perhaps my favorite announcement so far at CES – Surface 2.0 I sat down on the sofa in our booth to bash the post out and and ended up chatting with Ryan Block about it. He asked me for my quick description and what was new so I told him “it’s thinner and the screen can now see as well as display”. VentureBeat took a similar line. You can find out a ton more on the new Surface website but I’ll give you my experience as I got ten quiet minutes to play with it this morning. One of the apps on the device was a Bing search app so I tapped in my name and back came a bunch of photos of me and all the other Steve Clayton’s on the web. As you’d expected, I could move the images, pinch, stretch and al that goodness. That’s what you’d expect – but here is the thing that sets Surface apart – my pal Somanna could use the screen a the same time and was busy performing another search. Yep, Surface 2.0 can take over 50 simultaneous inputs so we could both use the screen at the same time. In retail and entertainment environments this is killer. The other big news about Surface 2.0 is PixelSense which enables the device to “see”. Literally each pixel on the LCD can recognize fingers, hands and objects placed on the screen. You can place a document on the screen and the screen can read it. Tough to explain but trust me, it’s pretty cool and I can imagine some great uses where you drop a document or a book on the table and boom it’s up on a big screen or emailed to someone instantly. The actual Surface 2.0 unit itself is a collaboration with Samsung who bring their deep expertise in LCD displays. That results in a 4 inch thin, 40-inch screen with full HD 1080p, with a 16:9 aspect ratio and 1920×1080 resolution and Windows 7  built in. Oh and the biggest slab of Gorilla Glass ever placed on a screen. The unit is known as the SUR40 and already a number of customers have signed up to us it – Red Bull, Fujifilm, Royal Bank of Canada, Sheraton and Dassault Aviation. Surface 2.0 is another step forward in the natural user interface (NUI) revolution….in short, I want one <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

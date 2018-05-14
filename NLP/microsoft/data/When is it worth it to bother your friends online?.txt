@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 30, 2014
+
+									|										
+David Chen - MSFT - Microsoft News Center Staff
+
+Sometimes, it’s just more convenient to Facebook a question than it is to search for the answer online. This week at CHI 2014, you’ll see Microsoft researcher Meredith Ringel Morris presenting her work on this topic. In “Estimating the social costs of Friendsourcing” – one of the winners of CHI’s Best Paper award – Morris and her collaborators explore the social costs of “friendsourcing,” the act of asking your friends and colleagues for help on social networks such as Facebook and Twitter. Friendsourcing is a common but infrequent behavior because it incurs a social price. “There’s this idea that you’re using up a valuable resource of your friend’s time and attention,” Morris says. Morris and her team were able to devise a novel experiment whereby subjects were given a set amount of funding and were tasked with getting answers to specific questions. They were then forced to either pay money to obtain these answers through an online crowdsourcing service, or tweet the questions at their friends. Some answers cost more than others to obtain. Morris and her research team found that subjects mostly behaved rationally, from an economic perspective. The more it would cost to crowdsource the answer, the more likely they were to choose to friendsource. Additionally, younger people were more likely to friendsource. One possible explanation for this is that older people tend to have more diverse connections in their social networks. “That means that the older people will be more likely to have audience collapse issues, where a question you post may be appropriate for a subset of your audience, like your friends, but may be more awkward for coworkers,” Morris says. In the paper, Morris’s team develops a model for quantifying the costs of friendsourcing. As social networking sites become more and more pervasive, friendsourcing could run into limits in its effectiveness if too many people keep asking questions. Her team’s model could be important in developing hybrid approaches to finding answers. For instance, if you have a need for information, you may have an app on your phone that can help you decide how to route that information need, including the estimated monetary cost, compared to an estimated social cost of getting an answer from your friends for free, or the estimated amount of time to use a search engine and find the answer on your own. “This information can help you optimize how you might go about getting the answer to your question. Or one could create a more efficient information-seeking market in the future, where a system could automatically route your question for you,” Morris speculates. Similarly, in Morris’s “Seeking and Sharing Health Information Online: Comparing Search Engines and Social Media” – another paper she’s presenting at CHI 2014 – Morris examined how people searched for public information, using both search engines and social networks. What she found was that nearly a quarter of people surveyed had sent public tweets that had health-related information. “People reported fewer privacy concerns than I might’ve expected,” Morris says. “I think this suggests there’s a need for education about the possible consequences of sharing health information on the Internet. It suggests a need for different interfaces for people to get credible information.” Morris’s work is important to understanding the pervasiveness of health information-seeking as an emerging online trend where people are using not only search engines, but also social media to diagnose themselves and the medications they are taking. “I think this could be important for companies in the future as they iterate the design of search engines and perhaps tailor results more specifically to be helpful with health queries, perhaps to feature not only search engine results but social media results, since people are really interested in sharing health info on Twitter. Even though I may not personally think it wise, this is clearly a trend people are increasingly turning to,” Morris says. Be sure to check out Morris’s papers, and take a look at much more of Microsoft Research’s groundbreaking work at CHI 2014. 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

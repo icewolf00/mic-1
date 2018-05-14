@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+September 18, 2017
+
+									|										
+Allison Linn
+
+If you asked most people, they’d probably say that computers and other gadgets are pretty good at communicating information to us, whether it’s by providing directions to an important business meeting or finding the best recipe for gluten-free apple pie.And yet, computers still don’t communicate with us nearly as intuitively as we communicate with each other. If you type a query into a search engine, for example, chances are you’ll get a list of websites to click on. But if you ask a person a question, she’ll respond with an answer, or perhaps ask another question to get more information before answering.Microsoft is hoping to improve how well computers can communicate information to us.  Several teams of artificial intelligence experts around the world are working on a type of technological advance called machine reading comprehension. That’s the ability to create systems that can read entire documents and answer questions about them.Machine reading comprehension is also the subject of the latest episode in Microsoft’s “Explanimators” series.Most of the world’s information is written down – in books, on the web or in the cloud – and yet machines today aren’t able to read and understand that knowledge nearly as well as people can. With machine reading comprehension, researchers say machines would be able to quickly parse through all that information, reason over it and provide people with the information they need most.The technology can create search engines that deliver information quickly and naturally, rather than serving up links for the user to sort through.Machine reading comprehension systems also could help people more easily find the information they need in car manuals or dense tax code documents. They could let doctors, lawyers and other experts more quickly get through the drudgery of things like reading through documents for specific medical findings or rarified legal precedent. That would leave experts more time to focus on treating patients or formulating legal defenses.“We’re trying to develop what we call a literate machine: A machine that can read text, understand text and then learn how to communicate, whether it’s written or orally,” said Kaheer Suleman, the co-founder of Maluuba, a Montreal-based deep learning startup acquired by Microsoft earlier this year, in a blog post on machine reading.Read more: Allison Linn is a senior writer at Microsoft. Follow her on Twitter.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

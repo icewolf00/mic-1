@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 6, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Ever so slightly geeky but really rather cool – I want one – a Flipbook maker built using the Microsoft .NET gadgeteer. What the hell is that you ask? You can learn more at http://netmf.com/gadgeteer but in a nutshell, it’s an open-source toolkit for building small electronic devices. It uses the .NET Micro Framework and Visual Studio/Visual C# Express which means even if you’re not a developer, you can get something up and running pretty quickly. New Scientist’s LEGO analogy isn’t a bad one as you start with a mainboard and then plug in other modules as needed.I’ve blogged a few times about the amount of connected devices in our world and how that’s about to explore and like the popular Arduino kits, .NET Gadgeteer enables you to build stuff that is made up of components like sensors, switches, displays and of course connect it all to the Internet. There are a variety companies building hardware components for .NET Gadgeteer so I expect to see some weird, wild (and wonderful) stuff being built.There is much talk of a “post-PC” world but the reality is that world has been with us for a long time. In fact as far back as 1999 Bill Gates talked about the connected devices in our world. We’re now finally starting to see that happen and what’s more, everyone can play.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

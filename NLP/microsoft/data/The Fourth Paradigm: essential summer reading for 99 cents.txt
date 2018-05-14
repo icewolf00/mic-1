@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 30, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Time and again we keep coming back to the big transformational trends in computing technology, like cloud computing and ubiquitous connectivity. There’s only so much room in any blog post to dig into the underlying technology, so if you want a more in-depth exploration I ‘d highly recommend starting with The Fourth Paradigm. The book, presented as a tribute to Jim Gray by several of his colleagues at Microsoft Research, is a collection of essays that offer a deep dive into data-intensive science and the insights that it offers.I was handed a copy of the book when I arrived in Redmond with a “you must read” this kind of look. I never got around to reading it in full but have been working on my summer reading list and loading up my Kindle. It turns out that the Kindle version is available for only 99 cents, which is not so much a bargain as a steal — at that price you really have no excuse not to get it.      The essays explore data-intensive computing in the areas of earth and the environment, health and wellbeing, scientific infrastructure, and scholarly communication. All of these fields offer examples of investigative questions that are so complex and massive in scale that they really require the kinds of advanced computing capabilities that can aggregate and process overwhelming volumes of data. The essays examine not just what kinds of investigation can be made possible but also how research and investigation are themselves being changed by the advent of massive-scale computation. The book is essential reading for anyone who wants to get a solid understanding of where computing technology is headed in the future.…oh and if the Kindle isn’t your thing, the book is available in many other formatsTweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

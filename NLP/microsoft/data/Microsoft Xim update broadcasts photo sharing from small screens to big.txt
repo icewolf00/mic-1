@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 17, 2014
+
+									|										
+David Chen - Microsoft News Center Staff
+
+When Colleen Estrada first used Xim to share pictures of her Hawaii vacation over her phone, her sister responded with “Finally, you’ve done something useful!” Perhaps that’s the closest thing to a compliment Estrada could expect from her older sister, but judging from the number of downloads, she’s not the only one enjoying the Xim experience.Since its release in mid-October, the phone synching, photo sharing app has frequently been ranked among the top Android and Windows Phone apps. I recently sat down with Estrada, Creative Director of Microsoft Research Fuse Labs, and Fuse Labs developer Steve Ickman about today’s release of Xim 1.3.If you’re not familiar with Xim, it gives you the ability to create a temporary, ad hoc network between multiple phones so you can share photos with others—whether remote or in the same room, without relinquishing your personal mobile device. Friends can follow along synchronously on their own devices or browser interface, and can even control the pace of photos or pinch and zoom while you provide color commentary.Since the release of v.1, a little over two months ago, Ickman and his colleagues have been hard at work expanding upon Xim’s capabilities. With today’s release you can share your photos on the big screen via streaming media devices, including Chromecast, Apple TV, Xbox One and Amazon Fire TV.Once connected to a wireless network, Xim automatically detects any such streaming media devices and completes the pairing process with just the touch of a button.What’s especially cool is that someone can call you on your mobile phone while you’re at home, initiate a Xim session, have you pair your device with the streaming media player in your house and, using their mobile phone, control the images appearing on your big screen.This ability to share pictures synchronously between mobile phones and living rooms opens the door to some pretty intriguing possibilities. And Ickman is quick to mention that while other apps can replicate some aspects of this experience, Xim is the only one that can do so across multiple platforms, without being installed on each device.As Estrada puts it, Xim makes you the master of your own media so you can share memories in this really natural way and then broadcast them on the big screen, the way they were meant to be experienced.Estrada and Ickman said that there’s more in store for Xim. In the meantime, checkout the Fuse Labs blog for more details about the latest features.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

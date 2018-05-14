@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 23, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+One of the goals of user experience design is that the technology fades into the background, so the only thing a person sees or experiences is the content and the message it conveys.  I saw a great example of this recently in a browser experience of the AIDS Memorial Quilt – each panel commemorates folks who died from AIDS and help people understand the devastating impact it has. The actual quilt is a bit larger than the handicrafts in your average Home Economics class. In fact, when all 49,000+ panels are pieced together, the physical scale of the quilt borders on mind-boggling:  it weighs in at more than 53 tons and covers in excess of 1.3 million square feet, or more than 23 acres. In fact, it’s so big that the National Mall in Washington D.C. can’t contain the quilt in its entirety. For the exhibit going on this month, it’s being split up into three sections and displayed in shifts by an army of volunteers who unload each panel off a truck, unpack it, spread it on the ground and, at the end of the day, fold and repack each section.  A cumbersome process, if there ever was one – but technology is helping to bring to quilt to many more people. Donald Brinkman leads the digital humanities efforts at Microsoft Research Connections, which also puts him in contact with University researchers around the world. He recruited Microsoft developers James Wren, Topper Kain and Lei Yu to pitch in to build a digital version of the quilt. They worked closely with Anne Balsamo, a digital humanities specialist at the Annenberg Innovation Lab at the University of Southern California, and board member of the NAMES Project Foundation.  Anne was among a handful of people who came up with the idea behind the browser, which she started building a couple years ago using a library of panel images and data bases of information about the panels and the people they memorialize. But the browser you can see today would not have been possible without the trio of developers who used their expertise with Bing Maps, Azure, and other technologies.Using the Large Art Display on Surface prototype as a foundation, James, Topper and Lei took this library of images–spanning a quarter century, numerous formats and varying resolution qualities—and pushed each one into the cloud. The images were then stitched together into a gigantic virtual quilt more than 24 gigabytes in size, which was then deconstructed into a multi-scale, high-resolution image pyramid using Deep Zoom technology. Donald describes the outcome of these projects as “visceral,” and Anne used the words “poetic” and “profound,’” noting that people who have viewed the quilt with the DeepZoom browser have broken out in tears, gasps and, occasionally, laughter. You can read all about his on his blog post.Regardless, the browser is a wonderfully visual example of how big data and the cloud can work together to create this transcendent experience. And if the team of volunteers and researchers who created this project have their way, once you’ve used the browser to see the quilt you’ll come away with a desire to help.For the D.C. exhibit, the browser (called the NAMES Table) will be experienced on four Samsung SUR-40 with Microsoft PixelSense devices, but.the raw quilt images are also available at via the Microsoft Research site. Donald’s team also helped build a browser that uses ChronoZoom to show the history of AIDS treatment and the creation of the quilt. Additionally, should you wish to search through each panel by the appropriately assigned metadata you can do so at www.aidsquilttouch.org   And if you want to learn more about how Microsoft Research’s machine learning and big data technology may help researchers develop a vaccine for HIV, check out the post I wrote about MSR researcher David Heckerman’s work using spam filtering technology.  Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

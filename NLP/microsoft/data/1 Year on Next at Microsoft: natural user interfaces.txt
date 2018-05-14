@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 21, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Of all the topics I’ve covered in Next over the last year, natural user interface, or NUI, is the one that has probably gotten the most ink. It’s with good reasons – I personally find it a fascinating topic and like all good stories, there is much more to NUI than meets the eye. It’s also a very big topic here at Microsoft that spans product teams and research alike – so there is a regular stream of content available.On first glance, you could be forgiven for thinking NUI is all about a revolution in input mechanisms. Touch, gesture and speech are the 3 horsemen of the NUI apocalypse but that would sell this trend well short. As I dug in more you realize that the trend is a consequence of many other trends coming together – cloud, social, display technology, the Internet of Things and ubiquitous connectivity. They’re all helpful in building interfaces that can anticipate what we want by using content of where we have been (online and offline) what our likes are, who our friends are and what device we’re connecting from.So content is a big part of NUI – so is data. With more and more “things” in our lives becoming connected to the Internet and having a degree of intelligence, we’re seeing an explosion in data. Every time something moves, every time you search, every time you check-in. It’s all data than can be crunched and used to provide systems that start to “know us”. That crunching will increasingly rely on a field of artificial intelligence known as machine learning – something else which is a big field of work here at Microsoft.All of this needs to be done with user consent of course but personally, I look forward to the world where street signs adapt to my language and proximity of my friends. Where I can view information curated for me on any surface and interact with my home using voice commands.If any of this is of interest you may find this posts from the last year on Next interesting to readTweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

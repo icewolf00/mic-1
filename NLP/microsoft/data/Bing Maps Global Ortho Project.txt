@@ -1,0 +1,34 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 28, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+
+
+Video: Bing Maps Global Ortho ProjectThe Bing team has a pretty healthy frequent flyer balance courtesy of the Bing Maps effort. Quentin Hardy at Forbes had a post on Bing today that brought me to this conclusion. He posted a piece about Bing Maps and their Global Ortho Project – an effort that has been quietly and methodically improving the imagery of Bing Maps. As Quentin says, the results are spectacular – about 7 million square miles, with relatively even lighting and height, at a granularity of about 30 centimeters of land per pixel of image.There is some serious home grown tech at work here, not least the cameras used for this effort. As Quentin notes, Google gets it’s images from a variety of sources whereas we’re making big investments in the camera tech and time and processing power to produce what we believe are better results. Judge for yourself though. Quentin offers up the “Hollywood” sign in Los Angeles in Bing and in Google  – ensure you click on Birds Eye view in Bing Maps to get the full effect. I also found Mt Rushmore to be an interesting comparison. In my experience, Bing Maps is better in many places – not always, but it’s a journey – so far one that has taken in  730,000 miles. // <![CDATA[
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// ]]&gt;Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

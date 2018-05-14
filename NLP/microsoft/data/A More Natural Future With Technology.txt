@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 27, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+If you’re a fan of PSFK like me, you’re keen to read of the latest trends in technology. Everyone loves to share stories of how life will be made better or cooler by something being developed in a garage, university lab, or maybe a campus setting like where I work at Microsoft. It’s here in Redmond where I spend a good deal of my time writing about trends in technology and observing a number of key directions that are a focus for Microsoft. Individual trends such as big data, the Internet of Things and cloud computing are fascinating on their own – but over the last year it’s become clear to me that a number of great ideas in technology are maturing and colliding at the same time and helping to fuel a singular trend we’re focused on – Natural User Interfaces, or NUI.For the unfamiliar, NUI is concerned with making technology much more, well, natural. Those interactions may be through voice control of a TV (rather than fumbling with remotes and on-screen menus), it may be through playing a video game just using your body without the need to master a controller, or it may be logging in to a system by simply having it recognize you. It’s no coincidence that all of these examples are features of Kinect for Xbox 360 which has taken NUI in to 18 million homes in a little more than a year. NUI is best exemplified through Kinect – taking advantage of advanced computing capabilities to remove the barriers for interaction. In addition to Kinect, the touch screen interfaces that we have become familiar with on our smartphones are also excellent examples of NUI. Behind Kinect and smartphones there are a set of underlying trends that are enabling natural interaction. Let’s take a brief look at two – the proliferation of sensors and big data.Kinect contains a number of “sensors” – a series of depth-measuring cameras that enable the device to recognize you, as well as a sophisticated array of microphones that can pinpoint your voice, even in a noisy room. When you stop and think about the number of sensors (or computers of some kind) in your life you begin to notice there are far more than the traditional devices you often associate with computing. Increasingly our homes are filled with electronics in the form of household appliances, lighting systems, heating systems, alarm systems, even smart vacuum cleaners. Each system has a degree of intelligence and over time more and more of them will become connected to the Internet and, therefore, connected together. Our cars already have hundreds of computers and sensors and they’re only going to get smarter. Soon cars will be connecting to and “talking with” smart streets and cities to help us find a parking space more quickly and pay for it automatically. (If we could only figure out how to avoid paying those parking tickets!)Our smartphones are already filled with sensors – GPS, accelerometers, compasses, light meters and more. Some phones already increase the ringer volume when the light sensors detects it’s dark (and assume your phone is in your pocket or bag). As we allow them to, smartphones are set to get smarter. The GPS knows where we are and the calendar knows where we’re going, so perhaps it will connect to our car and pre-program the route? All of these scenarios, big or small, are examples of our interaction with technology becoming more natural. And all of them generate data – every click, every non-click, every movement, ever gesture. Each one is data and the more there is, the more natural technology can become; we can teach it by example using techniques known as machine learning.Devices generate data and data enable smarter devices. All of this will lead to more natural ways to interact with technology. Take, for example, displays – another trend we’re very focused on at Microsoft. We foresee a world where almost any surface can become an interactive display and we’re busy pushing the boundaries with transparent displays, displays that can both see and project, as well as technology that turns the palm of your hand into a display. It’s a fascinating area that I’ve written about a lot recently.As this mixture of hardware and software blends together design becomes ever more important. We need to remain focused on designing the appropriate interaction mode. A touch screen TV is of no use when you’re sitting ten feet away – but voice control is great. Voice control will become more than a little frustrating if everyone on the subway decides to use it at the same time and gesture-controlled gaming isn’t going to work when you’re sitting in seat 27D on an airplane.I’m excited about the future as sensors, displays and data start to make technology invisible. It’s an entirely new canvas for designing amazing experiences.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

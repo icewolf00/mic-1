@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 4, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Every year, more than 9 million people contract tuberculosis (TB), an airborne, infectious disease that primarily attacks the lungs. When left untreated, it has a 66 percent fatality rate. It’s a grim reminder that while TB may be on the periphery for many of us, for many others it’s a harsh reality. In India alone, more than 2 million cases of TB are contracted each year—of which roughly 250,000 result in death.There’s a cure for this pernicious disease, but what’s needed is a way to overcome the barriers to delivering it effectively: low levels of education and the difficulty patients have in traveling to health clinics. This is compounded by a treatment cycle that lasts six months and requires more than 40 visits to a clinic. Failing to complete the doses of medication can result in a drug resistant form of TB that is more difficult and costly to treat.That’s where people like Bill Thies step in.  Bill is one of several researchers at Microsoft Research India who are focused specifically on the needs in developing communities.Collectively, this group of around 10 researchers is known as the Technologies for Emerging Markets Group (TEM), led by Bill’s colleague Ed Cutrell. One glance at the group’s website gives you a sense that these researchers aren’t in it to win accolades from their peers. They’re more concerned about making a tangible difference in how healthcare is administered, how children are educated, how business is conducted and how technology is accessed in low-income settings.In Bill’s case, he knew from a fairly early age that he wanted to have a broader impact on the pressing social problems of the day, and computer science seemed the obvious vehicle to make that happen. Eventually he enrolled at Massachusetts Institute of Technology (MIT), where he earned Bachelor of Science, Masters of Engineering and PhD degrees in Computer Science and Engineering.While at MIT, there was a competition to come up with better ways to ensure adherence to TB medication. Bill’s team was a winner of the competition and he started working with Operation ASHA, an NGO focused on delivering TB treatment to India’s poorest communities. When it came to finding a job, TEM was Bill’s first pick. It stood out from any research facility of its kind because of its proximity to low-income communities in urban and rural India.  It also had a unique blend of technologists and social scientists who work together on real grass roots development.This focus on grassroots development is really one of the keys to success for TEM. Rather than being locked away in some ivory tower, they interact firsthand with patients, caregivers and organizations like Operation ASHA. This close interaction gives them a better understanding of where technology could help. In India, many of the people can’t read or write, so one of the main things researchers focus on is creating a user experience that relies heavily on graphics and other visual cues.Beyond that there are multiple iterations of observing, experimenting and tweaking. This is especially the case in a city the size of Bangalore, which has a population of roughly 8.4 million citizens—more than the number of people living in New York City— in an area 61 percent the size of New York City.Working firsthand with Operation ASHA, Bill realized a better solution was needed to track the administering of TB drugs to each patient. Voice recognition was the first choice for identifying patients, but they soon discovered the background noise in most clinics made such a solution unworkable. Fingerprint scanning also had its challenges. Many patients had severe callouses from long hours of manual labor. Others had a buildup of henna on their hands as part of traditional festivities. After multiple iterations of tweaking the fingerprint protocol, they built a working solution that combined the fingerprint monitor with a netbook computer, a GSM modem and SMS messaging.These fairly run-of-the-mill technologies help clinic workers keep better records, and make sure patients stay on track with their medication. Operation ASHA is already using the solution in 40 clinics throughout Bangalore, with plans to use it in all 225.The video above provides a glimpse at Bill’s work with Operation ASHA and you can read more on Microsoft News Center and the Microsoft Research site. 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

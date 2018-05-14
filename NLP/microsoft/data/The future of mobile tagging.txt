@@ -1,0 +1,33 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 13, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+PSFK just published their latest “Future Of” report which focuses on mobile tagging. The report was sponsored by our own Microsoft Tag team though it covers the variety of tags including QR codes and barcodes in the report. I’m a fan of tagging technology so found it a good read and if nothing else this is a good report to read to understand the differences between the different types of tags. It’s way more than that of course with 95 pages of goodness that covers the many uses mobile tagging can be put to – these uses are neatly broken down in to The potential uses are huge – I love the idea of tags being used more for awareness as I suspect their main use right now is for action/purchase. Here are just a few examples from page 18 of the report that focus on travelI also like the idea of scavenger hunts with tags and augmented shopping with tags where I can learn more about a product before I buy it. Imagine if I could have snapped an image of a tag before buying my new B&W P5 headphones and that instantly triggers a set of reviews or likes/dislikes from my friends to help me decide whether to lay down the $300. Another real use I’d like to see is instructional information via tags – when I’m putting my IKEA table together, I’d love to snap a shot of a tag that is on a certain piece and get a video that shows me what I’m supposed to be doing. For ton more ideas and a glimpse in to the future, check out the report or just scan the tag below. If you don’t have a reader for your phone, search your app store for Microsoft Tag or head to www.gettag.mobi<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

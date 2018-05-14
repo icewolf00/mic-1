@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 23, 2010
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Facebook recently added facial recognition technology to their service which could win an award for the biggest timesaver of the year feature given more than 100 million tags are added to photos each day on Facebook.The full details are explained in a post on the Facebook blog and my immediate reaction was “cool – sounds a lot like the tech inside Windows Live Photo Gallery”…and as I read the post, it seems very much like it. This technology is handy stuff when you consider that about 10 billion more photos will be taken in the US in 2010 than in 2007—rising from about 47 billion to 57 billion photos.If you’ve not seen or used the batch tagging feature inside Windows Live Photo Gallery it’s well worth a look. Basically you tag one photo of a person and then ask  the program to start a batch tag. It searches all of the photos you have in your collection and comes back with suggestions for all of the other photos you have of that person, giving you the option as shown below to tag each photo. In my experience, it’s 99% correct and often the program returns 20 or more photos that are perfect matches – top tip, click Ctrl + Alt to select all of them and then choose the confirm button. You can get an idea of how it works in this short video or just download the suite and install Photo Gallery (or the whole enchilada). Once you’re up and running. If you have it installed already, give it a whirl over the holiday season to see how well it does at recognizing your family and friends.What’s the benefit of all of this? Well once you’re done you can start to view photos by person instead of sifting through different folders. Imagine in the future being able to hook this up to speech technology and being able to ask your computer to “show me all the photos of my family” and then kicking back to watch a slideshow. That future isn’t too far away. Thanks to our Israel Labs team and Microsoft Research for their work on this feature and be sure to check out the Dilbert cartoon from last week on facial reco!<!--(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();--></!--(function()>Tweet
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

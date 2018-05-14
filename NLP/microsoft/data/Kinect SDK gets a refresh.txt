@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 4, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+A quick note to mention that the Kinect for Windows SDK beta got a refresh this week. I know, it took us a while to get the SDK out but not it’s in beta we’re iterating quickly based on feedback from the community. The refresh includes stability improvements (i.e. less crashing) and refinements to some of the API’s.It can be had from research.microsoft.com/kinectsdk and some of the projects arising from the SDK can be found on Channel 9.Cornell University is aiming to use Kinect to determine whether you’re eating, drinking or brushing your teeth. Another project enables basic gesture recognition to allow PowerPoint to be driven by Kinect and the Quadrotor project that we saw at Codecamp is up there too.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

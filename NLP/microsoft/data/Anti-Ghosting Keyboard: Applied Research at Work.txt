@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 18, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Gamers are likely to be fans of the SideWinder X4 keyboard for its anti-ghosting technology. Ghosting was a new name for me though something we’re all probably aware of. It’s a technical issue in which a keyboard fails to correctly register all the keys when several are pressed at once. This can be a real problem in gaming, where key combinations are essential to executing simultaneous moves and ghosting can make the difference between a high score and an ignominious avatar death. Gamers of course are very passionate about performance and have for years been quite vocal about the need to solve this problem.Ghosting happens when the circuitry of the keyboard is not able to accurately signal which keys have been pressed at the same time. It’s usually a result of the layout of the underlying circuitry, a grid of contact wires; press one key and it’s clear which contacts are brought together, but some different combinations of multiple keys may trigger the same contact patterns. Microsoft’s Applied Sciences Group explains this very clearly, with illustrations. and using the app below, you can see for yourself what combinations befuddle your own keyboard:Some keyboards marketed as “anti-ghosting” have addressed the issue for specific key combinations that are most likely to occur, but not for the whole keyboard. The SideWinder X4 solves the problem by using a resistive multi-touch technology, adding a screen printed resistor in series with each key’s switch; this enables the keyboard’s circuitry to read the switch states as well as the grid pattern of contacts when multiple keys are pressed. It’s an inexpensive solution that doesn’t require a lot of additional circuitry, which means standard manufacturing techniques can produce the more accurate keyboard.The X4 is a fine example of tenacious work brought to bear on a difficult technical problem that actually affects a large number of people – they’re a vocal crowd remember. The Applied Sciences Group knew that an idealized ghosting-proof keyboard would be far too expensive to produce in the real world, and found a novel way to solve the problem while still producing a reasonably priced piece of hardware.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

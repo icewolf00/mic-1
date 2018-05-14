@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 8, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+[image credit – Hugh MacLeod]Regular readers (both of you) will note I’ve been talking a lot about Natural User Interfaces (NUI) on this blog. This evening I’ll be talking about if offline too as I’m hosting a discussion in San Francisco on the topic. I’ll be joined by Alex Kipman of Xbox Kinect fame, Scott Saponas of Microsoft Research, Ilya Bukshteyn of Tellme and Albert Shum from our Windows Phone 7 design team. That cross section should give a sense of how broadly the trend of NUI is influencing Microsoft – in fact it’s way broader than that. A number of factors have come together that are starting to enable more natural user interfaces to be possible and make technology more human. The cloud is one enabler with the ability to make our data available anytime any place and on any device – as well as almost infinite storage capability. Social networks are another factor, connecting us to our friends and helping inform our digital journeys. Sensory input mechanisms like speech, touch and gestures are important too, though  things really become interesting when you add input from all manner of sensors in our world (look around for a moment and you’ll notice ten or more in your immediate vicinity….and then add in information like digital history and context (what you’re doing/about to do). All of those things start to deliver experiences that feel more natural and human – we see some if it today with simple things like voice control of Xbox, or cars or mobile phone searches. We’ll go way beyond this and you’ve no doubt seen some of the things people are doing with Kinect but also consider technology like Farecast as an example of NUI – it predicts when is the optimal time to take a flight based on past trends – or research of the kind that Scott is doing in to using the human body as an interface (muscle computer interfaces). Under the covers is lots of computing work – algorithms and applied math in fields like computer vision, AI, neural networks, skeletal tracking and a fascinating field called machine learning (more on that in a future post). Microsoft has been hard at work on these areas for many years and the fruits of that work are now paying off as we bring together work from Microsoft Research with our development organization to deliver products like Bing, Xbox Kinect, Windows Phone 7, Surface 2.0 and more. People often ask me what MSR contributes and much of it is under the covers work in the form of algorithms and transfer or prototypes that are further developed by product teams. Pretty much every product in Microsoft benefits from the work of MSR – it’s just that you don’t always see it. I think of it as the magician behind the curtain. Expect more posts on NUI and some of the people behind it at Microsoft. I’ll report back later today and tomorrow on the event as we’re looking forward to seeing what others think of this NUI revolution!<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

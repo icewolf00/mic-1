@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 27, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Meet Donald Brinkman, polymath, poet, gaming geek and the mastermind behind Project Epiphyte, a plan to “overwhelm the world with a green plague of creativity in the form of millions of epiphytes.” Donald seems a bit cagey on what Project Epiphyte is all about and how long it’s been around. But unless I’ve been hoodwinked, there’s no reason to feel the least bit threatened. In fact, if I had to pick two qualities that describe Donald, they would be “playful” and “curious.”Undoubtedly, that playful, curious nature is why Donald excels at leading the efforts of the Games for Learning Institute (G4LI) for Microsoft Research Connections. G4LI is made up of a group of game designers, computer scientists and education researchers from eight universities — and Microsoft Research — that delve in to the science of educational game playing. Together, they look for ways to use games as a tool to engage students in learning concepts and practices that might otherwise seem dry and uninviting. As Donald likes to say, it’s all about finding ways to bring “playful, ludic” experiences into education.According to Donald, there’s “alchemy” to a well-designed game that combines the artistry and imagination of a good back story with a certain science of designing how the pieces are moved and when a person gets to move his piece. This is what you find in alternate reality games like The Beast,Though he loved games as a child, Donald rarely had anyone his age to play against. Consequently, he took a more cerebral approach to game playing — focusing instead on how they work and are designed. He also had a keen fascination for computers, which likely stemmed from his parents trading their trash compactor for an Atari 2600 (which led to a VIC 20, followed by a Commodore 64).The next few years of his life were focused on writing code and exulting in the golden age of computer geeks. But locked inside this budding gamer/computer scientist was the soul of an artist. Donald came a few credit hours shy of getting degrees in English composition, painting and sculpture before he switched majors and completed his education in computer science.Even today, if you ask him to name his biggest influences, you’re more likely to get the name of a game designer (Sid Sackson), a Russian writer (Mikhail Bulgakov) or a French sculptor (Auguste Rodin) than you are a computer scientist (though he professes deep admiration for Austrian mathematician and philosopher Kurt Gödel). But Donald likes to point out that many of the great scientists of the Romantic era were also poets and painters, renaissance men and women who understood the importance of creativity in scientific research. He says it best:“As we nurture the rational sides of ourselves, we also have to nurture the irrational sides of ourselves. It’s in the intersection of those two approaches that we often can find the inspiration to create things that are truly unique and new in this world.”Within a year of finishing college, Donald secured a DARPA grant to develop an assembly language for quantum computation followed by a second grant to develop protocols for quantum cryptography. This early work eventually led to research in signals intelligence, asymmetrical warfare simulations, behavioral economics and game theory. Not the daily fare of your average college graduate. For Donald it was like a brief glimpse of the Promised Land.Since taking on his current role at Microsoft Research Connections, I daresay that Donald has arrived. As part of the G4LI, he’s working with some of the best and brightest. They’re discovering what makes a “good” game in the eyes of the student and how to blend not just game mechanics but “learning mechanics” and “assessment mechanics” into an entirely new kind of educational game that turns the traditional “edutainment” model on its head.Instead of trying to mash together the learning process with some half-baked game that compromises the teaching, they build a game around the educational experience – a concept that Donald calls a “frame game.” There’s a video of the pilot project that gives you a better idea of how it works, and it’s all very fascinating. The project is called Just Press Play, and it essentially drops students into this transmedia story-telling experience.Donald says the ultimate goal of frame games is to encourage students, educators and institutions to engage in pro-social and pro-academic behaviors and generate data that help create a better understanding of what makes a successful student, whatever their grade level or subject. New insights drawn from this data can be used to create new challenges in the frame game, thereby closing the loop of a “metamagical circle” that continuously adapts the game to the needs of students in a particular region, sub-region, school district or even a specific classroom.Just Press Play is just one aspect of the work that Donald is doing around Games for Learning. Given more time I could talk a bit about some other cool projects he’s doing in this area or as part of his work with Digital Humanities. The Gigapixel Camera is one project that comes immediately to mind.And then there’s Project Epiphyte, a project with no provenance that is clouded in a veil of multiple realities. All I know is that as I left his office, Donald gave me this innocuous looking package that contained my own epiphyte, complete with a kit for its care and feeding. I’ll report back soon on what I’ve learned.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

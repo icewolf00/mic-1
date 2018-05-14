@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 7, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Last Sunday, the US came to a standstill as people were all glued to the television to watch the Super Bowl. I didn’t get too excited about it – though I’m sure most Americans feel the same way about cricket! At the risk of getting philosophical, I suppose both cases speak to a love of competition and the human tendency to make games out of most anything. Just watch your average 5 year-old.  A couple of weeks ago, some engineers at Microsoft followed suit by unleashing their drive to compete while writing code. Their game is called Visual Studio Achievements and it seeks to recognize the “feats” of software development prowess that go unrecognized. After all, why should football players have all the fame?  More recently, Den Delimarsky, a Microsoft Student Insider, took what these engineers did and ran with it by creating Visual Studio Achievements for Windows Phone. In football parlance I think you’d call this a lateral pass. In any case, it’s a pretty cool app that lets you track your achievements and badges, and share them with others to see who is recognized as the MVP. You can download it now from the WindowsPhone Marketplace.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 29, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+A few weeks ago I posted this slide and focused on Natural User Interfaces. Given the discussion this week about “TV white spaces” I thought it would be worth touching on ubiquitous connectivity.I get more than a little irked when I hear folks from Silicon Valley, Redmond or other cities talking (or more often assuming) that ubiquitous connectivity is here.  These are often the same people who complain about AT&T poor signal coverage and don’t make the connection between coverage and signal – one usually follows the other. The point is, you don’t have to travel very far in the US, let alone to less developed nations before the idea of ubiquitous connectivity is a pipe dream.One of the potential solutions to getting us there is use of so called “white spaces” – part of the allocated digital TV spectrum that is generally unused. As we add more and more devices in to our world and demand ever faster bandwidth for the media we’re consuming, this kind of technology may become essential. As Dan Reed said on our MOI blog, this is a challenge that can’t be solved solely by adding fiber optic networks and cell sites.This week, Microsoft and a consortium of industry participants (BBC, BSkyB, BT, Cambridge Consultants, Microsoft, Neul, Nokia, Samsung, Spectrum Bridge Inc. and TTP) announced the start of a trial in Cambridge, UK, to see whether the white spaces in a frequency range between 470 MHz and 790 MHz can be used for wireless broadband without causing interference to the digital TV transmissions adjacent to them.TV white spaces hold promise, and not just because they are currently an underutilized resource. They’re at a lower frequency than the airwaves currently used for Wi-Fi hotspots, which means that signals can travel farther – potentially 1-2 km as compared with the 100m that marks the limits of most Wi-Fi hotspots now. This could mean that TV white space broadband can solve the problem of how to extend signal to rural and other underserved areas.The prospects for the trial look good, as similar Microsoft trials in the US have found no interference in the spectrum. If the results are encouraging, the next step would be working with device manufacturers to create smartphones that can take advantage of the TV white space spectrum. Other devices may well be on the horizon too, as the expanded availability of wireless access would also make it feasible to connect embedded devices, sensors and other tools that can help connect all aspects of our lives.I decided to go and do some more research in to this topic and as I expected, Microsoft Research was a good first port of call where I found a paper by Ranveer Chandra that won best paper at the recent DySpan conference. His paper is titled “SenseLess” and discussed a database driven white spaces network. Time to sit back with a strong cup of coffee for this one.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 25, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Surface 2.0 is still one of the coolest technologies I have seen this year – largely down to the PixelSense technology it employs to shave 20 some inches of depth of Surface. The big ass table is gone, replaced by a svelte 40 inch high definition panel from our friends at Samsung. It’s hard to explain how visually different it is so if you get chance to see one, don’t hesitate. I’m working with the Surface team on a session they’ll deliver at our Worldwide Partner Conference this summer so expect to see hardware there. And something else is coming this summer…We’ll be releasing the Surface Input Simulator as part of the Microsoft Surface 2 SDK. The simulator lets developers write and test Surface applications on any Windows 7 machine, even if it’s not connected to a Surface unit, even if it’s not touch-enabled. Sweet!   That means you can develop a Surface app on the plane, train, in your office in fact anywhere you have a PC as you don’t need to next to a Surface unit. The simulator lets you simulate fingers, tags and blobs, and simulate the tilt of a device. You’ll still need to test your application on a Surface device to see how real people work with it in the real environment, but you can make a lot more progress on it before that point than you could before.Oh and as the Surface 2 SDK will allow you to write applications that target both Microsoft Surface Hardware and Windows Touch Enabled PCs, there is also a mechanism for you to simulate different hardware capabilities – shown in the 3rd image above. Find out more about Surface 2.0 and PixelSense in the MIX session by Luis Cabrera titled A Whole NUI World: Microsoft Surface 2 and Windows Touch as well as a great session from the Surface MVP’s. Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 28, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ Have you ever taken a picture of a sign because you wanted to remember what it said? I do it all the time with stuff like printers or last week a menu on a food truck here in Seattle. Maybe you’re at a museum and you want to remember details about the work of art you’re looking at and so you snap a photo of the info that accompanies it?Well now when you do that with a Windows Phone that auto-uploads to your SkyDrive camera folder, a new Bing-powered optical character recognition tool (OCR) will run on those photos so you can instantly see the extracted text in those pictures. It’s also able to do this in several languages: English, Portuguese, Spanish, French and German. If your browser language is set to one of these languages, SkyDrive will run OCR on your photos. The Inside SkyDrive blog has more details about this technology and how it will enhance your experience using photos on SkyDrive.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

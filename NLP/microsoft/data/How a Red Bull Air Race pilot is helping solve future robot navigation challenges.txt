@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+October 21, 2015
+
+									|										
+Allison Linn
+
+This season, Red Bull Air Race pilot Kirby Chambliss’s human talent as a pilot has been augmented by the technical insight of Microsoft researchers. For months, the research team has been traversing the globe with Chambliss, using control theory, robotics, machine learning and path planning to help the pilot figure out the most efficient path through the high-speed, low-altitude courses.The data analysis is aimed at shaving anywhere from a tenth to a hundredth of a second off Chambliss’s time, because this is a competition that can be won or lost in a blink of an eye.It’s also playing a significant role in Microsoft’s broader research into artificial intelligence and robotics, and that could eventually have real-world implications for how robots or drones navigate unpredictable terrain safely and efficiently.Want to know more? Read the full story.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

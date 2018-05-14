@@ -1,0 +1,31 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+October 18, 2016
+
+									|										
+Allison Linn
+
+Microsoft has come up with a way to significantly reduce the time it takes to do the major computational aspects of sequencing a genome.Microsoft’s method of running the Burrows-Wheeler Aligner (BWA) and the Broad Institute’s Genome Analysis Toolkit (GATK) on its Azure cloud computing system is seven times faster than the previous version, allowing researchers and medical professionals to get results in just four hours instead of 28.  BWA and GATK are two of the most common computational tools used in combination for genome sequencing.The time savings is critical for a number of reasons. For example, it could allow doctors to diagnose rare and dangerous genetic conditions 24 hours earlier, getting the patient lifesaving treatment faster.“There’s a lot of actionable information in which speed is really important,” said Ravi Pandya, a principal software architect in Microsoft’s genomics group who has been key to this acceleration work.Over time, experts say the ability to sequence genomic data of plants and animals also could hasten important breakthroughs in other research fields, such as renewable energy and efficient food production.A ‘genomics revolution’
+The quicker Azure-based offering comes as the ability to analyze genomic data is becoming much more affordable, making it available to more people who need it and fueling a genomics revolution.David Heckerman, who directs Microsoft’s genomics group, said the requests from hospitals, clinics and research institutions to process genomics data is growing at an extremely high rate.“It’s getting to the point where tens of thousands of genomes are being sequenced, so efficiency really matters,” Pandya said.That wasn’t always the focus.Geraldine Van der Auwera, who works for the Broad Institute on the GATK platform and directs its 36,000-user  online support forum, said that for a long time, genomic analysis was mainly used for research purposes instead of medical care. That meant there wasn’t as much of an urgency to shave hours or minutes off the time it took to do the computations.In addition, she said, researchers were primarily focused on making sure their methods were right.“For a long time we focused on accuracy at the expense of speed,” she said.As the tools have matured and researchers have become more confident in the accuracy, that’s changed, she said.“As this type of information is used more often in the clinical setting, the emphasis on speed becomes much stronger,” Van der Auwera said.That’s where computer scientists can help.Many of the tools used for genomic analysis were written by biologists who developed an interest in computer science because computation was becoming so valuable to their work.Meanwhile, Pandya said, computer scientists such as himself started developing an interest in biological sciences because they saw so many possibilities. Now, those computer scientists are augmenting the work of biologists.With BWA and GATK, the Microsoft team scoured the code for places where they could make the algorithms run more smoothly, efficiently and reliably, without compromising the attention to accuracy.“We took Microsoft’s keen expertise in software development and applied it to the algorithms, making them faster,” Heckerman said.Microsoft holds a nonexclusive license from the Broad Institute to provide GATK on Azure. It plans to work with the Broad Institute to incorporate these performance improvements into future versions of GATK. Broad Institute would then make these improvements available to researchers.Heng Li, a research scientist at Broad who initially developed the BWA tool and worked with Microsoft to make it faster, said the collaborative nature of the work made for better results.“They have knowledge that I don’t possess, but on the other hand I know what’s important and what’s not on the biological analysis side,” Li said.The cloud for storage and computation
+As genomic analysis becomes more critical for health and other applications, Broad has started working with Microsoft and other technology companies to move tools like GATK and BWA to cloud computing platforms.Cloud computing is ideal for this type of computational work, because it takes a lot computing power, requires a lot of data storage and requests can come in fits and bursts. For most hospitals, research labs and other biological sciences facilities it would be too expensive to invest in the necessary computing capability, and impractical to take on the job of hosting all that data on their own, if only because the sheer volume of data is growing exponentially.As these tools become more useful, most researchers and clinicians also want to focus on getting the results they need, rather than worrying about the technical side of things.“When you get to this next level you just want answers,” Pandya said. “You want it to be really simple.”Eventually, the Microsoft team hopes to use another company strength – developing an ecosystem around a technology – to help hospitals and other institutions implement these systems. Microsoft’s genomics team is talking to independent software vendors about ways to make that happen.The tool is part of Microsoft’s broader health-related efforts. On Monday, as part of an update to its Cancer Moonshot initiative, the White House announced that Microsoft had joined an effort to maintain cancer genomic data in the cloud. The effort is a partnership between the public and private sector.Related:Allison Linn is a senior writer at Microsoft. Follow her on Twitter.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 6, 2014
+
+									|										
+Steve Clayton - NEXT - Microsoft News Center Staff
+
+Last week we saw an amazing example of how 3D printing has the potential to help restore a person’s ability to walk. As cool as the 3D exoskeleton was, it’s just the tip of the iceberg for how 3D printing is being used directly, and indirectly, to improve the quality of life.As it turns out, our friends at Makerbot are also doing some work with prosthetic limbs by  teaming up with Robohand to create artificial hands and arms for people around the world. Robohand was started in 2012 by Richard van As, a carpenter in South Africa who lost four of his fingers while on the job.Richard initially set out to create a new set of fingers for himself, but that quickly led to his long-term mission of providing affordable prosthetics. Initially, Robohand used CNC milling machines to create the prosthetic limbs, but 3D printing promised to make the process more affordable and more accessible.Makerbot soon stepped in and donated two Makerbot 2 replicators. Since the fall of 2012, Robohand has created 200 hands, fingers and arms for people who lost a limb or were otherwise limb deficient. And Robohand is making the files freely available for download.As a side note, there’s also a great story in MIT Technology Review about how doctors are researching the use of 3D printers to recreate a person’s heart, and then using the 3D printed model to fabricate a thin, stretchy material that, in addition to working as a defibrillator, could be embedded with a variety of tiny sensors that measure things like stress levels, body temperature and oxygen and acid levels in the blood.Once completed, doctors would take this “sock” and wrap it around the patient’s heart – yet another example of how something like 3D printing, when combined with technologies such as sensors and controls, can lead to some pretty amazing outcomes.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 18, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’ve been presenting this slide a lot lately to explain some of the key areas Microsoft is focused on from a technology trends point of view. The slide doesn’t pretend to be all encompassing and focuses on tech trends (not social or macroeconomic). After a few iterations, a few trends such as mobile and location were removed as they became encompassed in the ecosystem of computers trend. The slide also doesn’t profess to offer any “aha” moments about trends Microsoft is focused on that are not already known – for example social and cloud are two trends that have been with us for a while and Microsoft wasn’t the first to focus on them, nor will we be the last. As I’ve presented the slide over and over, it’s become clear that the real trend is the explosion of each of these trends at the same time – with the possible exception of ubiquitous connectivity which is a trend but far from reality, yet. It’s also become clear that the creation of more natural interaction (or natural user interfaces/NUI) is dependent on many of these trends. This is brought home when you look at the Office 2019 video and notice how many of the scenarios to produce natural interfaces rely on an ecosystem of computers talking to each other via the cloud and delivered via pervasive displays. The scenes in the office for example use pervasive displays, data visualization and social networks to create a more natural interface. The scenes in the airport rely on cloud services, pervasive displays, a network of sensors and social computing and the scene in the home brings together pervasive displays, data visualization, social networks, and cloud services – all dependent on connectivity of course.I’ll dig in to a few of these areas in more depth over the coming weeks – notably data, cloud computing and the ecosystem of computers so though it’d be useful to give you some context as you begin to see those stories emerge. We’re on the cusp of the next revolution in computing and though we shouldn’t have to care about what makes interfaces more natural and ultimately makes technology invisible, I always keen to know what’s the magic sauce in the background and thought maybe you’d be interested too.  Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

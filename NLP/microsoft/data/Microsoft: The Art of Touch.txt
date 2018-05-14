@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 10, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+The Art of Touch website from the Microsoft Hardware team went live today – inspired by the Microsoft Touch Mouse family of products. The site is a full on HTML5 application that lets you create your own unique piece of art, and contribute to what may well become one of the world’s largest pieces of digital art.I’m a fan (and daily user) of both the Arc Touch Mouse and the Touch Mouse and having had a sneak peek at the new website, I’ve been busy creating my own art which you can also see below.The Art of Touch site brings out the artist in you with a beautifully designed digital canvas that uses 3 brushes along with 5 special effects. That combination means each piece of art is unique. For those interested in the tech behind the site, as you draw, you generate tens of thousands of raw data commands per second that represent your artwork in an optimized format optimized for sending to the server. At periodic intervals during the art drawing process (once a buffer is full), this raw data is streamed to the Art of Touch servers in the background and aggregated into a single raw representation of your composition. What that also means is the entire history of creation of this enormous canvas, the so called Sea of Art communal canvas, can be played back…which should be interesting to see. Even today, flying through the site using a Touch Mouse is a pretty groovy experience.Any art you create can be saved or shared our with your social networks to be voted on. Votes are key here as the creation with the most votes will be awarded the grand prize of “featured artist” status on the Art of Touch website and will receive a prize package. Basically, some great schwag. There’s more than one prize at stake here with each vote for an art submission counting as one raffle ticket to win prizes in The Art of Touch sweepstakes.This evening the Art of Touch will be taking over the Microsoft Store at University Village in Seattle with Marius Watz demonstrating the Art of Touch tool. Marius is the founder of Generator.x, a platform that explores the use of generative strategies and software processes in digital art (as seen in the HTML5 app) and is one of 3 featured artists – the other two being Erik Natzke and Dr. Woohoo.Go check out The Art of Touch website, create some art and read more on Microsoft News CenterTweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

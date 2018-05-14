@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 13, 2014
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Seattle had one of its biggest public gatherings ever last week as the 12th Man celebrated the homecoming of its world champion Seattle Seahawks. The Power BI team put together a video that highlights the road to the big game and it also shows off some of the data visualization capabilities of Power BI for Office 365, released earlier this week.If you aren’t familiar with Power BI for Office 365, it brings together Microsoft’s strengths in cloud, productivity and business intelligence so people can more easily analyze and visualize data in Excel, share their insights from anywhere within Office 365 and work with each other to get more done.Microsoft has been shipping business intelligence capabilities in Excel for a while, but Power Map has only recently been added to the mix. Another new addition offered in Power BI for Office 365 is Q&A, which combines the capabilities of natural language with the visualization features of Power Pivot and Power View.Last fall I had a chance to sit down with Amir Netz, who helped oversee much of the work around Power BI for Office 365, and specifically, Q&A. One of the challenges his team was trying to solve was the difficulty the average person has in navigating data and knowing how to unlock the power of data analytics.Their goal was to provide an application that was simple to use and gave the user “frictionless access” to whichever data set they want to analyze. For the first several months, Amir’s team did nothing more than conceptualize what such an experience would look like and what technologies they needed to make it work.Eventually, they joined forces with Bing and Microsoft Research. Over the course of the next year they built a product that combines the data modeling capabilities of Power Pivot, the visualization features of Power View and a search experience that leverages the natural language processing capabilities found in Bing (and developed by Microsoft Research).One of Q&A’s first public appearances came at last year’s Worldwide Partner Conference. Amir put Q&A’s natural language data query capabilities through the paces in what was perhaps one of the most dynamic demos in the history of the Worldwide Partner Conference. And as I discussed a couple of weeks ago, at Davosthe Power BI teamed showed how Q&A could be used to help analyze different health trends in World Health.Check out the Office 365 Tech and Power BI blogs for more information on how to use Power BI for Office 365.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

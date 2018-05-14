@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 8, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+  A couple of weeks ago I was hosting a group of international media on Microsoft’s campus and we had a session with Curtis Wong from Microsoft Research. He was there to show the group some new capabilities in Excel that we’ll talk more about later this week, but in doing so he showed them Worldwide Telescope (WWT). He was planning to do a few minutes of demo before transitioning to the new thing. I say the new thing as WWT was originally shown at TED back in 2008 – so one would therefore assume that everyone has seen it.Therein lies one of the challenges and opportunities for my role and Microsoft more broadly. We often assume that people  know all about our stuff – which if we had only a few ‘things’ would be a fair assumption. But we make a ton of stuff and even gems like this one can sometimes pass people by. In the room of 20 or so people Curtis gave a demo to, I’d say at least half hadn’t seen it before. And like many before them, they were blown away. Greg Barto had a similar reaction just over a week ago on TechCrunch.That recent coverage is in part due to the fact that WWT doesn’t stand still – in fact  the recent WorldWide Telescope Eclipse Alpha release runs on Windows 7 or 8, in either 32 or 64bit mode and supports native DirectX11. For the many planetariums that now use WWT it brings a whole host of improvements. I just installed on my Surface Pro and flying through the universe using touch is pretty sweet.If you’ve never heard of WWT or played with it before, give it a go. You’ll not be disappointed.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

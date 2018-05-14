@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 8, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ Over 100 Microsoft staff are attending the 29th annual ACM Conference on Human Factors in Computing Systems (CHI) 2011 – normally referred to as CHI – over the next few days. Along with the NSF, Bloomberg, Google, eBay, and SAP, Microsoft is a sponsor of the event which brings together the leading minds in human computer interaction from academia (two-thirds of attendees) and industry. The event attracts a wide discipline of skills from the world of design, engineering, management and user experience professionals. This year’s conference adds research areas that focus on child-computer interaction, entertainment, health and sustainability – and our own Desney Tan is the conference chair. He explained to me that the field (and the conference) looks at the intersection of humans and computers from a wide variety of angles. Rather than cover what will be discussed and presented at CHI, I wanted to spend more time talking about why we attend this conference and why we’re such a big supporter. Although many folks from Microsoft Research will attend, they’re joined by a good number from our product teams – all of whom are eager to share and learn with their peers from across the industry and academia. We have some brilliant minds at work across our organization but we’re also a firm believer in the need for collaboration, particularly with academia as we know we can’t solve all of the big computing challenges alone. In fact of the 40 Microsoft Research papers accepted, 31 were authored in collaboration with academic partners from universities and institutes around the globe. It’s testament to the open approach we take. Desney explained that the bottleneck in computing isn’t size and speed any longer, it’s about making technology more accessible – the interface. For a company that is focused on democratizing technology, this is a big deal for us. The conference by its nature has a strong natural user interface (NUI) theme running throughout and this thread runs through many of the 40 papers Microsoft will be presenting at the conference. Although it’s gratifying that of the conference’s 17 best paper winners (awarded to the top 1% of papers submitted), 3 were authored by Microsoft Researchers. In chatting with him last week, Desney believes that each of the papers submitted presents opportunities for us to get feedback and learn from this community.After chatting with Desney, it’d be remiss of me not to show the work that he’s publishing at CHI and garnered some early coverage last week. His paper is titled Your Noise is My Command: Sensing Gestures Using the Body as an Antenna and details how the body behaves as an antenna in the presence of noise emitted by power lines and appliances.Technology Review explains how and why this could be used. It’ll be an interesting week, watching the coverage, and for me, chatting with Softies as they return to hear about future directions. // <![CDATA[
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// ]]&gt;Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

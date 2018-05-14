@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 2, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Earlier this year, I had the honor of being a judge at the US finals of the Imagine Cup alongside Chris Pirillo and other luminaries. We debated for quite some time as to who should represent the USA in the finals that took place in New York City last month. Ultimately, we chose Team Note-Taker who lost out to the eventual winners from Ireland, Team Hermes.One of the other projects in the US Finals that impressed us immensely was a project focused on malaria diagnosis using a smartphone. It’s barely believable that the same device I carry around every day for email, phone calls, photos and text messaging has the capability to diagnose malaria. Well, to be clear – that capability is solely the work of Wilson To and his Lifelens team. Using a Windows Phone with a $50 micro lens mounted over the camera, this team built software that captures high res images of cells in a drop of blood and then analyzes them to detect to existence of malaria.It sounds like something of CSI but this is for real and as reported in BusinessWeek last week, Wilson and team are about to start field trials in India and Ethiopia. I wish the team well and hope to see them back at the Imagine Cup next year. I’ll be watching with interest. Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

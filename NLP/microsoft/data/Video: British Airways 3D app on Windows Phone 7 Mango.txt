@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 26, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+
+
+   A pal of mine back in Microsoft UK alerted me to this British Airways application that is in development of Windows Phone Mango. Our UK team talks about this on their Ubelly site and Sharon Chan from The Seattle Times captured this video with Derek Snyder that shows off the app. I’ve seen a lot of this capability on iPhone and Android and been hankering for a while to have my boarding pass on my phone – but a 3D view of the cabin? That’s a new one and made me curious about tech behind this. UBelly goes in to some detail, explain that it’s a mix of Silverlight and 3D graphics enabled by XNA. They pulled together this 3D element of the app in just 9 days.  What they ended up with was a game-like experience in a business app – with 25 frames per second rendering and realistic lighting of the airline cabin. It also looks like they’ve made beautiful use of the panoramic UI of Windows Phone. Frankly, I think that UI, when done well, makes iPhone a little one dimensional. I like the look of the app. My next BA flight is in August…can I have it before then please? Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

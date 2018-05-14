@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+October 3, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ A couple months back I mentioned how I want to expand the focus here on Next at Microsoft to include more about the societal impact of technology. The geek in me loves all of the technology we cover here, but the profound impact that technology can have on the world is something I think deserves more coverage.A great example of this comes from the Microsoft Research Connections team, which is working with the University of Oxford to develop a vaccine regimen that may reduce the number of children who die each year from pneumonia – currently estimated to be around 1 million. A guy by the name of Simon Mercer heads up our Health & Wellbeing efforts and is working closely with Oxford to manage a clinical trial in Nepal, where the impact of the disease is most acute. They’re trialing a different schedule to administering vaccinations that they hope will prolong protection and reduce mortality rates from the disease.One of the most important parts of this process is meticulously logging and it’s especially important that the data from the clinical trial be reliable and consistent. To help with this, Simon and his team developed a solution for managing the data that is made up of a handful of off-the-shelf products – namely SharePoint, InfoPath, Excel and Windows Azure Services.  The solution is based in part on an application called Cancer Grid that Microsoft and Oxford originally developed for conducting cancer research and that would ease the creation of some of the critical elements of a clinical trial. That includes allowing researchers to apply a taxonomy to data sets using XML tags, so that the meaning of – and relationship between – various pieces of data remains constant over time. For example, every time researchers collect ‘blood pressure’ – they know exactly what conditions it was collected under and what units were used. It also frees up more of their time to focus more time on primary research, and less on scrubbing the data.The video does a much better job of explaining how everything works, so check it out if you haven’t already done so. It really drives home how a handful of rather ordinary tools, when applied in the right way, by the right people, can have an extraordinary impact.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

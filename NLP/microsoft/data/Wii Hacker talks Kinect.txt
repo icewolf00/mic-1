@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 8, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+The Kinect SDK announcement (KDK) is a few weeks behind us now and we’re beginning to see some interesting projects pop up – check out the Kinect Hacking Challenge in Sydney.The post I wrote on the day of announcement is on its way to being the most popular on this site – testament to the interest around the KDK rather than the words in the post. On the same day, Wired published an article that is in this months US edition of the magazine under the title of “Kinect Hackers Are Changing the Future of Robotics”. I’d never really thought of Kinect from a robotics standpoint and it’s a fascinating article that charts the hacking of Kinect and the potential the $150 device holds in a wide variety of applications. Microsoft earns praise for opening Kinect up via the KDK and enabling others to show us the potential and along the way acknowledges that we’re a company with a history of building platforms on which others innovate.It was also interesting to learn from the article that Johnny Chung Lee was the person behind the initial charge to build software drivers for the Kinect. Johnny, once in our Applied Sciences Group, and now at Google was involved in some of the development. I didn’t get chance to chat with him while he was at Microsoft but did see him present at Thinking Digital in the UK a few years back and he’s a fascinating guy with a crazy creative streak. In the Wired article, he shied away from any credit for the creativity we’re seeing with Kinect, saying “What matters is having such an interesting new device embraced by so many smart people and having the fruits of that labor embraced by the company that created it.” Lee smiles. “I think it paints a bright future.”Props to you Johnny. His recent session at the WIRED Business Conference in New York showed us just how bright things are becoming…and we’re just at the beginning.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

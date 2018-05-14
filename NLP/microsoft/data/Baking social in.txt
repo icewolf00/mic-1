@@ -1,0 +1,65 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 13, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Just before the end of 2010, I wrote a post that was published
+on the Microsoft Corporate blog that I thought would be useful to recap
+here. The post talked about how “social” (either social computing or social
+networking) has taken hold in Microsoft. Facebook and Twitter and the titans of
+social of course and we work closely with both of them but sometimes I get the
+sense that people think Microsoft doesn’t “get” social. I used to feel the same
+way and ask “when are we going to do a Twitter or where is our Facebook
+competitor?”. The reality is we’re taking a different approach for the most
+part – Dharmesh Mehta wrote a great
+post back in September about Windows Live and our approach to social that
+covered both the social software we build ourselves with Hotmail, Messenger etc.
+as well as the approach we take to partnerships with companies like Facebook,
+Twitter, LinkedIn, Bebo and many others.Across other products, we take more of an ingredient approach – making social
+part of the product rather than a standalone feature. In Xbox you can connect to
+Twitter and Facebook (though I’m keen to see deeper integration), in Outlook you
+can install the Outlook Social Connector to have Facebook or LinkedIn status
+updates right inside of the email client in a thoughtful way. Bing has worked to
+integrated twitter and Facebook results in to your searches – we’re moving
+beyond 10 blue links or links that a computer thought were right for you to
+links that your friends know are right for you. Tons more potential
+there I think. Windows Phone 7 is perhaps the best example of “baking social in” with deep
+Facebook integration that makes it part of the entire experience rather than an
+application you go in to and out of. Again, there is more room to improve here
+(I’d love to see the same level of Twitter integration) but it’s a vastly
+different way to experience social than on competing smartphones. Is it a better
+way? I think so but it’s up to you to decide. We also have a team dedicated to pushing the boundaries of social – they’re
+called FUSE Labs (FUSE = Future Social
+Experiences) and their work has already featured heavily here on Next. They’re
+the people behind Project
+Emporia, Montage and Docs.com and they’re constantly exploring new
+interfaces and ways to use social. Their work has contributed to Bing Social in particular. In writing this post I’ve ended up sort of paraphrasing the original post but
+the essence of it is that social is embedded in many parts of Microsoft.
+Sometimes you just don’t notice it when it’s part of the fabric. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

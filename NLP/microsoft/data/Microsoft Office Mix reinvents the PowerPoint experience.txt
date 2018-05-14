@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 8, 2014
+
+									|										
+Steve Clayton - NEXT - Microsoft News Center Staff
+
+The Startup Business Group has released some pretty amazing technologies. 3D Printing for Windows, Power Map (aka Project GeoFlow) and one of my favorite Windows 8.1 apps, Fresh Paint, are just a few examples.Today they’re adding one more to the list with the customer preview of Office Mix, a cloud-enabled service that helps you create and share interactive lessons using PowerPoint.We’ve all been victims of flat, unengaging presentations, but I got a sneak peak at Office Mix a few weeks ago and it completely reinvents the PowerPoint experience – for the audience, as well as the presenter.Anoop Gupta’s team in Microsoft Research started work on Office Mix a couple of years ago as part of a project to help teachers create interactive lessons and find the right balance between teacher-led and self-led activity.Though still in customer preview phase, Office Mix promises to make life much easier for teachers, or anyone else who spends much time developing and delivering PowerPoint presentations. Office Mix brings features like the ability to record inking, audio and video directly into PowerPoint so you can turn a slide deck into an interactive lesson and share it online with the press of a button.You can also add videos, interactive exercises from the CK-12 Foundation, Khan Academy, or virtually any other website, and test a person’s understanding of the material by adding true/false, multiple choice and free-response questions into your presentation. There’s even a feature that helps bridge the gap between textbooks and web-based resources by allowing an entire text book page to be read on a slide as a scrolling web page.It’s clear that a lot of work went into making Office Mix a great tool for creating lessons. Even more amazing is what happens on the backend, when a mix is uploaded to the Office Mix portal.Here, you can create a link to share the presentation, and your audience can view the lesson on nearly any device.There’s also an Office Mix website where you can view analytics on a slide-per-slide basis to see where people have had the most difficulty, view quiz and engagement data for an entire class to look for trends, or drill down to see how a particular student is doing and where additional follow-up work might be necessary. These analytics are secure and private for you as the teacher.Office Mix has some amazing features that should help teachers monitor data about a student’s performance and use that data to identify where changes are needed. But the use case for Office Mix isn’t limited to the classroom. Office Mix has great potential for how information is presented practically anywhere. And word is that more Office Mix goodness is on its way.For more information about Office Mix, check out the blog posts on Office, Microsoft Research, and Public Sector Education.There’s a short tutorial to walk through the basics of Office Mix, or you can always download it now and figure it out for yourself.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 10, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+ Hot on the heels of the sweet looking Flickr app for WP7 comes the official Amazon app. Charlie Kindel tweeted it’s arrival this morning and details are over on the Amazon site…albeit the didn’t see to have a direct link to download the app from the Marketplace so here it isLike the Flickr app, Amazon has made great use of the panoramic UI of WP7 to deliver a lot of information in an elegant manner. Great for doing spot reviews when shopping in real life and their deal of the day page could become quite addictive. Today it’s showing a Panasonic 42” 1080p plasma for $600. My new desktop monitor perhaps…the Amazon remembers feature from their iPhone app is pretty cool so hoping that gets added at some point……and before he shoots me, thanks to @marcholmes for flagging this one for me too. Good to see he’s putting his arrival in Redmond to good use. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

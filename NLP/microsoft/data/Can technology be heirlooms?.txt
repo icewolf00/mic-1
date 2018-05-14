@@ -1,0 +1,33 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 17, 2010
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+As I’ve taken on this new role of exploring Microsoft I’ve been continually surprised with the range of roles within the company – in my opening post on this blog I mentioned ethnographers, cinematographers and of course developers. We have this variety of roles at Microsoft because we think far beyond technology for the sake of it. All those videos of homes with screens that take over entire walls, or business meetings conducted in multiple languages require much more than just technology solutions. They raise a series of important questions that are best answered by anthropologists, sociologists and other specialists in fields beyond hardware and software development. Microsoft Research in Cambridge, England is home to our Socio-Digital Systems group – a  group who study the impact of technology in human life by bringing together a team of experts across the disciplines of social science, design and computer science. I’m a big fan of Richard Banks, an interaction designer who is part of that team – he curates a terrific trends blog and has a fascinating blog of his own. A while back on his blog, he presented a series of concepts around the theme of Technology Heirlooms that has always had me intrigued. He explores the fleeting relationships we have in our increasing world of disposable technology and the idea of technology as heirlooms – enabling us to pass digital things on as we have in the past with cherished objects like jewelry.  The work isn’t simply about memory and explores “identity, expression, narrative, and reflection”. It’s not typically the stuff most people think Microsoft do and it supports a theme I’ve been harping on about for some time that this isn’t the company many see on the surface. Back to Richard – he’s shown a number of examples, such as Timecard (video above and image below) through his own website and also at events like Techfest – a forum for sharing ideas within Microsoft. Digital Slide Viewer enables you to archive images off Flickr for someone who has passed away. I particularly liked the Backup Box which keeps content we’re sharing through sites like Twitter and look back on what we’d said or were doing. Imagine doing this in 20 years and seeing you Twitter history…with a beautiful UI shown below and in the video below. Richard and his colleague Abi Sellen were interviewed last week by Claudia Hammond on BBC Radio 4 – skip 9 minutes in to the podcast for a great insight in to the notion of technology heirlooms. The whole idea of this blog is to expose you to more of this kind of work and show you the sides of Microsoft you may not have seen before – I hope you find it interesting. Let me know in the comments<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

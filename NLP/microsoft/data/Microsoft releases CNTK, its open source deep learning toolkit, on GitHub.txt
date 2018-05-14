@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 25, 2016
+
+									|										
+Allison Linn
+
+Microsoft is making the tools that its own researchers use to speed up advances in artificial intelligence available to a broader group of developers by releasing its Computational Network Toolkit on GitHub.The researchers developed the open-source toolkit, dubbed CNTK, out of necessity. Xuedong Huang, Microsoft’s chief speech scientist, said he and his team were anxious to make faster improvements to how well computers can understand speech, and the tools they had to work with were slowing them down.So, a group of volunteers set out to solve this problem on their own, using a homegrown solution that stressed performance over all else.The effort paid off.In internal tests, Huang said CNTK has proved more efficient  than four other popular computational toolkits that developers use to create deep learning models for things like speech and image recognition, because it has better communication capabilities“The CNTK toolkit is just insanely more efficient than anything we have ever seen,” Huang said.Those types of performance gains are incredibly important in the fast-moving field of deep learning, because some of the biggest deep learning tasks can take weeks to finish.Over the past few years, the field of deep learning has exploded as more researchers have started running machine learning algorithms using deep neural networks, which are systems that are inspired by the biological processes of the human brain. Many researchers see deep learning as a very promising approach for making artificial intelligence better.Those gains have allowed researchers to create systems that can accurately recognize and even translate conversations, as well as ones that can recognize images and even answer questions about them.Internally, Microsoft is using CNTK on a set of powerful computers that use graphics processing units, or GPUs.Although GPUs were designed for computer graphics, researchers have found that they also are ideal for processing the kind of algorithms that are leading to these major advances in technology that can speak, hear and understand speech, and recognize images and movements.Chris Basoglu, a principal development manager at Microsoft who also worked on the toolkit, said one of the advantages of CNTK is that it can be used by anyone from a researcher on a limited budget, with a single computer, to someone who has the ability to create their own large cluster of GPU-based computers. The researchers say it can scale across more GPU-based machines than other publicly available toolkits, providing a key advantage for users who want to do large-scale experiments or calculations.Huang said it was important for his team to be able to address Microsoft’s internal needs with a tool like CNTK, but they also want to provide the same resources to other researchers who are making similar advances in deep learning.That’s why they decided to make the tools available via open source licenses to other researchers and developers.Last April, the researchers made the toolkit available to academic researchers, via Codeplex and under a more restricted open-source license.But starting Monday it also will be available, via an open-source license, to anyone else who wants to use it. The researchers say it could be useful to anyone from deep learning startups to more established companies that are processing a lot of data in real time.“With CNTK, they can actually join us to drive artificial intelligence breakthroughs,” Huang said.Related:Allison Linn is a senior writer at Microsoft Research. Follow her on Twitter.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

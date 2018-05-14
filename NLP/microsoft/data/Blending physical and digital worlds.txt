@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 17, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ When I first heard the phrase blending of the physical and digital I thought it was another buzzword to add to the bingo card. Digging deeper, I realized there is much more to it than that.I’d been hearing the phrase around Microsoft for a while and during TechForum, an event Craig Mundie hosted here in Redmond back in February, the phrase was widely used. Then again it was spoken at TechFest a few weeks later. There’s a good reason for this – many of the demos on show at both events highlighted the blending of the physical and digital.The Kinect sensor has been a key part of the shift, as with it we now have technology that can see, hear and to a degree understand (voice).The ability to see in 3D enables so many new capabilities – you can layer digital objects into a physical world more seamlessly. As you combine that with enormous amounts of data we’re collecting about the physical world, we can start to build an accurate digital representation of the real world – for example, not just showing a bridge on a map but actually having technology recognize it as a bridge. What’s the benefit of that? On a very small scale, Beamatron demonstrates – a digital car can respond to a physical landscape in real-time.Kinect Fusion is another example of the blending of physical and digital. We demonstrated this in the What’s Next booth at CES this year and showed it to Josh Topolsky during The Verge visit to Redmond last December. Kinect Fusion creates an interactive, real-time 3D model of the environment – in fact Beamatron uses this technology for the demo above. The real-time 3D model enables some pretty interesting scenarios – imagine scanning your house and importing that as a level for a game you play where characters react to walls and objects in a physically appropriate way. That’s the benefit of a 3D model over a set of 2D photographs. Or, perhaps my more prosaic example I’ve used here before, of scanning a new bookcase I’d like buy in a store and having that projected as a 3D model in to my own living room.When you merge the digital and physical worlds, we get something completely new, something we are just beginning to understand and projects such as the Wearable Multitouch Projector and Illumishare help us to play around in that world, see what’s possible and see what’s useful. That’s one of the big benefits of Microsoft Research – that ability to look out over the horizon, unbounded by the need to turn a prototype in to a product the next week.We are already seeing some products that demonstrate these capabilities as the Sesame Street demo from CES shows in this video:I expect to be covering this topic a lot more here on Next – from the Microsoft perspective and looking at other novel applications such as those discussed in this PSFK piece on leaving digital messages in physical space.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

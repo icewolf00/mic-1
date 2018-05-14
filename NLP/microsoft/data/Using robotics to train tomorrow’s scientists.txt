@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 5, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Students from around the world are converging on Sydney now for the Imagine Cup finals. It will be the end of a process that started last October and involved multiple rounds of development and debugging until they have the perfect solution — or until development time expires, whichever comes first.There’s a similar competition focused on the field of robotics and a handful of Microsoft employees have volunteered as mentors to work alongside students. But where Imagine Cup is spread out over a few months, the First Robotics Competition (FRC) gives students and their mentors roughly six weeks to conceptualize and create a 120-lb. robot that will complete the task at hand.I had the chance recently to sit down with Mike Sinclair, Tom Blank and Troy Barnes, all of whom are mentors for Team XBot, a Seattle-based FRC team. They walked me through a bit of the competition.The process starts the first weekend in January with a webcast to participating teams from around the world (around 2200 at last count), outlining the year’s competition. This year’s objective was to score as many points as possible by shooting baskets in just over two minutes. Over the next six weeks students and mentors met around three times a week to create the robotic version of  for the next six weeks, students get together to create a robotic version of the Miami Heat’s LeBron James.Team XBot recruits most of its players from one of Seattle’s inner-city schools, giving students exposure to technology and life experiences that they otherwise might not have. The students are then split up into groups that are each responsible for conceptualizing, testing and developing one of the main features for their team’s robot. Throughout the entire process they work along side mechanical, electrical and hardware engineers from Microsoft, Boeing and other companies. The video above, shot in the lobby of building 99 (Microsoft Research HQ), gives a small glimpse at some of the experimenting that takes place.While groups of students work on mechanical and electrical systems, another group of students and software developers write the code to coordinate and control the various pieces of hardware. When the robot is close to being finished, a handful of students practice driving the robot and controlling the various functions, such as the arm that launches a basketball toward the backboard. And before each competition the team will tune up the robot, as the below video demonstrates. The whole process is a bit like building a plane midflight, and the fact that students are doing much of the work is pretty mind blowing.Being part of a competition like this requires that students learn to communicate and work together as a team. They also do some creative, on-the-fly problem solving and use the fabrication equipment in Microsoft’s hardware prototyping lab to make sure their paper sketches translate to a workable design. With experience like this, it’s no surprise that Team XBot and FRC have given a lot of students a new appreciation for math and science, and helped  raise their career ambitions a bit higher.When students aren’t busy working on the robot, they spend time raising money to fund their robot and competition fees. If you’re interested in supporting team XBot, you can find information on the team’s website, or by tracking down Tom, Mike or Troy.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 16, 2015
+
+									|										
+Allison Linn
+
+Frank Seide grew up in Germany and worked in Taiwan and China before moving to the United States with his Chinese wife and their three children, who are trilingual.In most workplaces, Seide would be an anomaly. But within the group that is developing Skype Translator, Seide, a principal researcher who initiated the project and created its speech recognition, often seems like more the rule than the exception.There’s no requirement that people working on Skype Translator speak another language, and it’s not necessary for all of the work that goes into the project. But the technology, which translates spoken conversations in real time via video chat, has attracted a large number of people who have lived in countries – or even households – where their native language is not the only one being spoken.“We all have our own kind of heartfelt stories about why we want Skype Translator to succeed,” said Yasmin Khan, Skype’s product marketing director. Khan asked to work on Skype Translator – in addition to her regular work on Skype’s video team – because of her own family’s unusual background.In the 1800s, the British Empire relocated Khan’s relatives from around the north Pakistan border to the Fiji Islands, where they would live for generations while still holding onto their native language and culture. Khan herself grew up in the United States, learning Hindi and Urdu by spending time with her grandmother and watching Indian movies. She married a man whose family is from northern Pakistan and also speaks Urdu.In her extended family that stretches across the globe, Khan said she sees daily the frustration family members face when they can’t communicate with each other. She also sees the potential Skype Translator could have in allowing a grandmother and her grandson to have the simple pleasure of a regular conversation, or for a set of far-flung cousins to get to know each other better.“This is a tool that can really break down barriers,” she said.Many people working on the project say they are passionate about it because they know only too well the frustration that comes with not being able to have that kind of free-flowing conversation with friends, colleagues or even your own family members.“This product really calls to my heart because I personally have experienced it, and I know just how difficult and how incredibly frustrating it is when you can’t get your message across,” said Lilian Rincon, the Skype Translator team’s group program manager.Rincon was born in rural Venezuela to parents who are Chinese and Spanish. The family moved to Vancouver, British Columbia, when Rincon was a young child.At that time, people from Hong Kong were flocking to Canada ahead of the transfer of sovereignty from the United Kingdom to China. Amid of sea of children speaking English and Cantonese, Rincon spoke only Spanish.“I was so lonely,” she said.A healthy dose of English-language television, Madonna lyrics and English as a Second Language classes soon took care of that. But Rincon said she’s never lost the appreciation for how important it is to be able to speak to another person and have that person understand you.Of course, there are plenty of tools these days that allow people to translate documents, web pages or other written correspondence. But many of the people who are working on Skype Translator say that they know from experience the unique value of the spoken word – and of being able to have a direct conversation without a human translator acting as a go-between.“In open conversation there’s a rhythm, a flow. You lose all that if you have to go through a third person,” said Olivier Fontana, Microsoft Translator’s director of product strategy and marketing.Fontana grew up in France, spending summers with his grandparents in Italy, then went to graduate school and worked in Holland. Now, he lives in the United States with his wife, who was born and raised in France by parents who were new immigrants from the former Yugoslavia , and their three children, who were born in three different countries and tend to speak English.Aside from a passion for the project, there is a practical benefit to having people like Fontana and Seide who speak multiple languages.Skype Translator is based on many of the written language translation tools that Microsoft already uses in other products, so one of the project’s big challenges has been to adapt technology that was built for the more orderly world of written language into a product that can accurately translate the more unpredictable and chaotic world of spoken language.That’s where the real-world perspective of some of the team’s multilingual members has been invaluable.For example, Seide realized that when speaking with a colleague in German, he referred to his son colloquially by using the word “der,” the masculine form of “the,” rather than “er,” the male personal pronoun.It’s one of countless little nuances the team is teaching the technology to recognize, so that early adopters of Skype Translator who use it to talk to family members, friends or business associates can chat as effortlessly as possible.“We really want people to talk naturally to each other,” Seide said.Skype Translator now speaks Italian and MandarinSign up for the Skype Translator preview
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

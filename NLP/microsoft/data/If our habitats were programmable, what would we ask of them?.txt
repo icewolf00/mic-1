@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 1, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+This was one of the many provocative statements in a book by Herman Miller I read recently. Always Building is a fascinating look at what buildings could be like if we used digital technology throughout the lifecycle of a structure. It challenges many of today’s building concepts where technology is bolted on or used in parts of a building and suggest that technology can not only increase the lifetime of buildings but can allow them to react and adapt to their inhabitants.Microsoft Researcher Bill Buxton is quoted from his book Sketching User Experience where he says“computing products will be embedded in buildings that constitute our  homes, schools, businesses, and cars. In ways that we are only starting to even imagine, much less understand, they will reshape who does what, where, when, why, how, with whom, for how much, and for how long.” Parts of the book came across as a sales pitch from Herman Miller but a great deal of it made me think very differently about the role of technology in buildings and connect back to work I know is underway at Microsoft, whether in places such as the Microsoft Home or product teams such as Windows Embedded. It also reminded me how much I’m personally aware of choosing the right environment to support the type of work I am doing – and because my desk at work isn’t as flexible an environment as I’d like, I end up being a nomadic worker who chooses certain places around Microsoft Campus and off campus depending on the type of work I am doing. The most thought provoking part of the book were the questions it posed:      What if our buildings grew smarter the more we used them? – this is one area I think has huge potential. Nest, the learning thermostat, is just the tip of the iceberg and a great start that shows how we can use data and apply machine learning to make our environment more intelligent. Would I like my home to begin heating as I leave the ski slope? Yes! Would I like the office to know what lighting settings I wanted based on the type of work I am doing? Yes! Would I like to be directed to an open parking space near an elevator when I’ve just been grocery shopping? Yes. These are all obvious and relatively trivial examples and the real potential exists in making a building a living system of information. Overall, the book is a great read and starts to bring to life a number of trends such as Big Data, Machine Learning and the Internet of Things in to the built environment. When we can start to apply technology to our workplaces, homes and public spaces in some of the ways suggested by Herman Miller, we’ll arrive at a world where technology is more invisible and supporting our lives than the dystopian views we sometimes see in the movies. Bring it on I say!
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

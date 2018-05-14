@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 23, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Andy WilsonUnderway in Anaheim, Calif. now through Thursday is SIGGRAPH 2013, the 40th International Conference and Exhibition on Computer Graphics and Interactive Techniques. It’s a hotbed for tens of thousands of professionals to share advances in the field.Microsoft Research is once again presenting a plethora of research advancements, and Principal Researcher Andy Wilson is one of the researchers presenting new work. It’s always inspiring to see what Wilson, who holds a doctorate from MIT, and leads the Natural Interaction Research group at Microsoft Research Redmond, and his team come up with.First up is a hands-on demo of IllumiRoom, a proof of concept immersive living-room experience that projects visualizations onto the areas surrounding a television screen, previously presented in April during CHI 2013.He is also presenting new work in the form of a project that pioneers techniques to embed unique information (such as serial numbers) inside 3-D printed objects readable by a terahertz scanner as a cost-effective alternative to adding external radio-frequency ID (RFID) tags, electronic chips, or bar codes. The paper, InfraStructs: Fabricating Information Inside Physical Objects for Imaging in the Terahertz Region, was co-authored with Karl Willis of Carnegie Mellon University who was an intern at Microsoft Research when the project was completed.A few weeks ago, I wrote about how Windows 8.1 will have 3-D printing capabilities, which I think is a big deal and the research community obviously does as well.Wilson is diving deeper into 3-D printing, which he says many people see as “simply as tools for rapid prototyping.” But Wilson and his team approach it as a research topic, in the form of the InfraStructs project, which brings terahertz scanning into 3-D manufacturing. And this is what opens up new possibilities for encoding information as part of the manufacturing process.Check out the Microsoft Research feature article to learn more.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

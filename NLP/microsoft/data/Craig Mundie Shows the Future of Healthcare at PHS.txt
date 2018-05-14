@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 24, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+It looks like I wasn’t the only person who had the explosion of connected devices on their mind yesterday: Craig Mundie gave a talk at the Pacific Health Summit that touched on what the massive growth in connected devices may mean for healthcare – Todd Bishop was there to watch and posted his thoughts too.One of the points Craig made was that some things he’s shown previously might have seemed like “science fiction” at the time, but are already here—technology is moving fast. For example, a remote presence robot he showed five years ago, which enables a physician in one location to visit with patients in another location, even at their bedsides, is now in more than 400 hospitals throughout the world. Craig also talked about technology that GlaxoSmithKline is studying to custom-print medicine on pills, and about mobile diagnostic devices now being field tested to diagnose diseases like E.coli and malaria in locations far from any medical lab. Solutions like these can extend resources beyond the walls of traditional health facilities, especially to people who have long lacked access to quality care.But more important than any individual device—even devices as cool as these—is the potential to use them to collect and analyze data in ways that can lead to improved healthcare. For example, Microsoft Research and our Health Solutions Group have worked with the Washington Hospital Center in Washington, D.C. to undertake a study that applied machine learning to massive amounts of clinical data. By uncovering patterns in the data and calculating risk factors, the system could identify which patients have an increased risk of being readmitted to the hospital within 30 days of discharge. As Craig noted, it’s not just about getting the data, it’s what you can learn from it.Looking to the future, Craig showed a concept demo that explored how combining technologies like natural user interfaces, avatars, and telepresence with patient data shared from personal health devices (think bathroom scales, pedometers, and perhaps, even from exercises in Kinect games), could help a doctor track and analyze patients’ well-being and determine the best course of action. He also showed some solutions that help maintain the “smart cold chain” for delivering vaccines in developing regions (which can’t be allowed to warm and re-chill). The storage devices keep the materials cold without external power supplies—very important in locations without electricity—and sensors monitor and communicate status, ensuring that if problems arise, they can be addressed before the perishable vaccines have a chance to warm up.Ultimately, Craig argued that all of these advances in technology will combine to drive revolutionary change in healthcare around the world. I’m hoping to have some video of the talk to add here soon so stay tuned.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 2, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+As you may expect, there are a number of Microsoft internal applications for Windows Phone – stuff that allows me to submit my expenses on the go or check my payslip (yep, they pay me do to this). One of my favorite apps is called Campus Experience. It was developed by Pankaj Arora, Principal Manager in Microsoft IT, along with an incubation team he leads comprised of Microsoft Academy of College Hires (MACH) members. The app is a veritable “Swiss army knife” for employees with capabilities such as:  I had a chance to chat with Pankaj to ask him to describe the capabilities a bit more in-depth, and the themes it represents to CIOs, IT, and users everywhere: “Campus Experience is a great example of Modern IT.  The app was developed using an iterative approach and the latest platforms such as Windows Azure and Windows Phone.  It makes use of location-awareness, voice, and adaptive intelligence.  For example, you can book a vehicle to transport you across campus with one-touch or by voice command — and since the app is location-aware, it knows where to send the vehicle.  In fact, the current beta predicts the desired destination by learning user patterns and by reading their calendar.  It also proactively offers to book a vehicle if they are about to run late. The conference room feature defaults to showing available rooms nearby and enables one-touch booking.  The whiteboard snap feature allows users to take photos and automatically send them to meeting attendees without typing in names by predicting the applicable meeting.  We are even working on an OCR capability to translate whiteboard writing into text.  The app also includes fun Social and Augmented Reality capabilities. There are several key themes.  The first is using a flexible iterative approach and the latest technologies.  The second is focusing on the user experience and scenarios versus a business function.  That is, the app was not originally built for a specific function like Finance or HR but rather was aligned to the cross-function idea of “things people do on campus” targeting a global audience.  In a sense the primary customer is the end-user, not a singular business function, which is different than how most IT apps are developed today.  We also don’t push people to use the app, we believe the value of the app should sell itself and have relied primarily on it going viral.  And finally, a key theme is building apps that are predictive, intelligent, and even proactive.  The next era of IT will consist not of tools but of intelligent digital services and experiences.  This app was our way of starting on that journey.” And some journey it will be!
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

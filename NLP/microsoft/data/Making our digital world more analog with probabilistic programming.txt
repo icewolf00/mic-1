@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 24, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’m slowly making my way through the sessions I missed at MIX11 and this one really is worth a watch if you have any interest in NUI. It’s a panel hosted by Kristin Tolle and made up of Curtis Wong (of WorldWide Telescope fame), Darren Bennett (creative director for Kinect Adventures) and Alex Kipman (inventor of Kinect). There is lots of good discussion on what the future of NUI holds, the role of NUI/Kinect for people with disabilities and more. Curtis touches on how we’re truly moving to that world of Minority Report – not the gesture based interfaces as much as the sensors in world creating things like personalized advertisements in a shopping mall. For me, the real meat comes though when Alex explains why Kinect is a harbinger of a new way of thinking about how we develop software. This comes at about 15 minutes in where Alex explains that there in this brave new world of NUI, there is no notion of a wrong way of doing something. Up until now, programming has tended to be based on a set of rules, true or false statements that are well defined. The real world isn’t like that – there are a lot more maybe’s, many shades of grey than black or white. With technology like Kinect, we’re seeing a shift to probabilistic programming that anticipates and adapts to uncertainties. It’s what enables Kinect to cranking through 1023 variables on the fly and reliably track your body at 30 frames per second  – using techniques like machine learning to intelligently understand what your next move (probably) is rather than try to program it. It’s a fascinating way to think about the future of computing. At it’s basic level, computing is often though of as 1’s and 0’s – binary positions we sometimes think of as “yes” or “no”. To make technology more like us, we’re going to need to move beyond that to represent our world of uncertainties in a probabilistic way. Put simply, our world is analog and for years we’ve been busy making it all digital. But digital isn’t necessarily natural, so we’re now seeing digital technology mature to the point that it can appear more analog. It’s worth a watch, if nothing else to see Alex answer a question about what’s next for Kinect but really, it’s that part around 15 minutes where you hear a glimpse of the future. Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

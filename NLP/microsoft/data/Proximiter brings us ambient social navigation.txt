@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 3, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Richard Banks has a knack for finding some of the most interesting stuff on the web. Our paths of interest regularly cross and Proximeter may be a tool that could eventually see our physical paths cross. Dubbed an “ambient social navigation instrument”, Proximeter is the work of Henry Holtzman and John Kestner at the MIT Media Lab. It tracks past and future proximity of your social network and displays the results in an ambient chart on the device shown above. Though I’m not totally convinced by the display of the results, I do like the idea of knowing when I may have missed a chance meeting with a friend or know when our paths will unexpectedly cross in the future. Arguably, services like TripIt and Dopplr provide this type of service but they’re dependent on me explicitly entering data in to their cloud and making explicit friend connections. (both are cited in the paper). Proximiter uses Facebook and Twitter as a “low resolution” stream of input (although you still need to initially assign contacts to teach the device). In a break with geek tradition, the MIT team appears to have put as much effort in to the design of the Proximiter hardware as the software – taking inspiration from instruments like the astrolabe. That work is not without much thought though as the display renders people and events that are further away (in time and space) with a fuzziness. Events or people nearby are seen in more focus….a neat visual trick to support the real world happening. I love this idea – in fact I’d love to see a hardware manufacturer hook up with Jonathan Harris and turn projects like wefeelfine (and offshoot twistori) and LoveLines in to ambient devices I could have around the home/office. Add this to the “Internet of things” and expect to see more stuff like this showing up in offices, designer housewares shops and the like very soon. I hope. As an aside, the group Richard Bank works in has had a similar project underway for some time – know as the Whereabouts Clock or sometimes I’ve heard it called the Harry Potter Clock. Oh and a second aside…I once met a dude in a bar in Seattle about 12 years ago and when I asked him what he did, he told me he was a Social Navigator. It would appear he’s now been reborn as a piece of hardware <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

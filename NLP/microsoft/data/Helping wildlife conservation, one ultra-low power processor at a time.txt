@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 9, 2015
+
+									|										
+Athima Chansanchai
+
+In the North Cascades of Washington state, the onset of winter, with its deep snow and avalanche conditions, keeps hikers away from the backcountry and other logistically challenging terrain. But that’s when the animals come out. High-elevation species such as wolverines, lynx, fishers and gray wolves cover a lot of ground in these remote areas, and they’re not too keen on people observing them.To keep tabs on these elusive species, researchers typically will release a scent that catches their interest, and then use a remote camera – also known as a camera trap – to snap pictures that help monitor these animals.The pairing of enticing scents and remote cameras presents a non-invasive way to study these species during an active time for them, and thereby help advance wildlife conservation. But there’s a hitch: the bait or scent at these survey stations usually has to be replenished every one to three weeks, which is no small task, especially in the dead of winter.Microsoft researcher Mike Sinclair engineered the missing piece that Seattle’s Woodland Park Zoo and Idaho Fish and Game needed to keep their scent dispensers operating all winter long.“We were struggling to find something we could leave out to attract wolverines and other animals. How do we take stinky liquid lure and make it last all winter?” says Dr. Robert Long, a senior conservation fellow in the Field Conservation Department at Woodland Park Zoo. “We needed someone who could build some kind of electronic device that could dispense liquid. When I described this idea for a device, within a day we knew the fit was right with Mike.”Long, Sinclair and Joel Sauder, Ph.D., a wildlife biologist for Idaho Fish and Game, worked together over six months to create an ultra-low power control processor powered by lithium batteries. It’s programmed to release three milliliters of liquid scent lure each day for six to nine months without maintenance, through a mini peristaltic pump.Sinclair, who describes himself as “a hardware kind of guy,” developed a processor board that he and high school students in his STEM (science, technology, engineering and mathematics) mentoring group replicated about 70 times. They handed those over to the conservationists, who integrated the boards into metal, bear-proof kits that house the liquid scent pump system.The processor design had to withstand several variables, including extreme cold, rapid energy consumption for short intervals and extreme low power the rest of the time. Sinclair built in dispensing intervals and tested all the processors, also known as control boards.“It was a learning experience for all of us,” says Sinclair. “It improved my coding skills, squeezing every last day out of these batteries, coming up with the best use of the program to not overtax the batteries.”As part of an ongoing collaborative wolverine study with the US Forest Service, 35 of these dispensers will be distributed over about 656 square miles in the North Cascades. Another 20 are being used in a multi-species forest carnivore project in north-central Idaho that covers about 36 square miles. Another 10 are available as spares.The deployment was a mad scramble as the team sought to take advantage of good weather before the cold set in, but Long and the other conservationists are relieved to have found a solution to a problem that’s long vexed them.“Mike has been absolutely awesome, he was exactly what we were looking for,” Long says. “We needed a fairly straightforward way to control this thing over time. He created a tool to help us study and conserve these types of species. It really was a project that came about because of our true need.”Sauder said they were impressed that Microsoft was interested in helping them, and it couldn’t have come at a better time. The team had originally tried to build something using off-the-shelf tools, but they kept striking out when it came to battery life and durability.Long says they’ve already deployed 25 of the kits in September, with plans to put out more when Washington state closes Highway 20, between Ross Lake and the community of Mazama. The US Forest Service has conducted wolverine studies in the area for the past 10 years, so they know it’s an area where they go.Remote cameras – which can take 40,000 images during a single deployment – provide valuable data about species demography and behavior, such as reproduction timing and success, as well as den site behavior. They’re also used extensively as outreach and teaching tools.“Many of the species targeted in these surveys we don’t know a lot about; these surveys fill knowledge gaps and give us improved information about   populations,” says Sauder, who once set up a bait station using a beaver carcass that attracted a number of species besides the carnivores, such as deer, elk and squirrels that all checked out the carcass due to the scent it produced. “This device will allow us to put out a network of cameras in fall before it snows, and pick them back up once the snow is gone.”While Sinclair didn’t have ties to conservationists in the past, he’s happy to be part of helping wildlife prosper.“It was a fun project, and good for the world, good for the environment,” Sinclair says. “It also increases my repertoire, working with low-power processors.”Head over to Woodland Park Zoo to find out more about this collaboration.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

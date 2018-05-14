@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 22, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+I’ve posted a few times about The Garage here at Microsoft, most recently highlighting the Science Fair that Josh Lowensohn and I toured around. I bumped in to my friends from Channel 9 at the Fair and they’ve just posted a video showing you what it’s all about. Wanna see some Microsoft side projects? Check out the video…oh and you get to see the famous volcano. That was an entirely new thing to me but apparently it’s par for the course at any self respecting Science Fair<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

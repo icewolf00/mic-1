@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 15, 2014
+
+									|										
+Tima Chansanchai - Microsoft News Center Staff
+
+Professor Nilanjan Banerjee of the University of Maryland at Baltimore County, an early adopter of Microsoft Research’s Lab of Things, has worked with a quadriplegic and other colleagues to develop a sensor that helps people with limited mobility lead more independent lives.The sensor detects gestures and uses them to activate lights and other appliances in the home – giving users more control over their environment. The sensor can be sewn almost anything in the environment — for example, in clothing or bedding.The year-old Lab of Things is a research platform that enables the large-scale deployment of connected devices and sensors. By providing a client-side set of components called HomeOS, the Lab of Things frees researchers from having to develop the complete software stack for deploying their experiments.Head over to the Microsoft Research Connections Blog to find out about other developments with the Lab of Things in addition to the sensor project, which Banerjee also discusses in an online webcast of the 2014 Microsoft Research Faculty Summit.Athima Chansanchai
+Microsoft News Center Staff
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

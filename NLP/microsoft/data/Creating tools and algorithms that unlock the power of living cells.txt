@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 4, 2014
+
+									|										
+David Chen - Microsoft News Center Staff
+
+What if you could create an item of clothing or jewelry with medicinal properties that would help fight cancer? Or develop a building material that repaired itself or began biodegrading at a prescribed moment?These ideas might seem far-fetched, but around the world synthetic biologists, designers, researchers—even developers, are hard at work on giving life to these ideas, and others like them, through a process called biofabrication.At its most basic level, biofabrication is about manipulating the tiny computational engines that exist within living cells, and using them to either generate new behaviors at the cellular level, or to generate materials with desired properties. UK fashion designer Suzanne Lee’s TED talk provides a good example of some of the applications.Biofabrication is burgeoning with potential and many of those involved, or who are keen to be so, are in New York City today for the first annual Biofabricate conference. Among those on hand are a few folks from Microsoft.The event is the brainchild of Lee, with the help of Microsoft Entrepreneur in Residence, Tereza Nemessanyi. Nemessanyi makes it her job to tap into the trends within the start-up community and biofabrication was something that seemed especially interesting. At its fullest potential, Nemessanyi says that biofabrication could have implications for the whole gamut of tech trends, from wearables and sensors, to the Internet of Things and cloud computing.Nemessanyi says that the companies that are involved in biofabrication are “creating the pickaxes and shovels for tomorrow’s gold rush.”Andrew Phillips’ work likely falls in that category. Phillips, who heads up the Bio Computation group at Microsoft Research’s Cambridge lab, is presenting at Biofabricate on some of his team’s latest work, which is all about developing algorithms and software tools that his team and fellow biologists could use to reprogram DNA and create more complex behaviors in living cells.Among the tools that the Bio Computation team created is a simulator that takes a step toward enabling synthetic biologists to engineer DNA code.Phillips describes his research as expanding Microsoft’s expertise in silicon-based computing and software programming experiences to include biological computing and the reprogramming of DNA. Essentially, it would be like creating the computational biology version of Visual Studio, the company’s software development tool.The possibilities have captured the attention and imagination of a lot of people, including Asta Roseway, Principal Research Designer at Microsoft Research, and designer of the Printing Dress. For her part, Roseway is especially curious about how biofabrication could impact wearable computing and bio feedback. Joining Roseway at the event is Microsoft Research Visiting Artist, Erin Smith.Most recently, Smith turned heads with the creation of a wedding dress made of fungus.  Since joining Microsoft Research, she has turned her attention to combining wearable computing with biofabrication to create devices that offer certain health benefits. Smith’s work is a speculative design study intended to provoke conversation around this speculative future in terms of design, use, and possible implications of bio integrated wearable devices.To this end, Smith is displaying some of her work at Biofabricate, including an amulet designed to help fight cancer.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

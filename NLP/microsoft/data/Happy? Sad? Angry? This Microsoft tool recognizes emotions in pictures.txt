@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 11, 2015
+
+									|										
+Allison Linn
+
+Humans have traditionally been very good at recognizing emotions on people’s faces, but computers? Not so much.That is, until now. Recent advances in the fields of machine learning and artificial intelligence are allowing computer scientists to create smarter apps that can identify things like sounds, words, images – and even facial expressions.The Microsoft Project Oxford team today announced plans to release public beta versions of new tools that help developers take advantage of those capabilities, including one that can recognize emotion. Chris Bishop, head of Microsoft Research Cambridge in the United Kingdom, showed off the emotion tool earlier today in a keynote talk at Future Decoded, a Microsoft conference on the future of business and technology.The tools, many of which are used in Microsoft’s own products, are designed for developers who don’t necessarily have machine learning or artificial intelligence expertise but want to include capabilities like speech, vision and language understanding in their apps.Microsoft released the first set of Microsoft Project Oxford tools last spring, and the project’s leaders say they quickly drew the interest of everyone from well-known Fortune 500 companies to small, scrappy startups who are eager for these capabilities but don’t have a team of machine learning and AI experts in their ranks.“The exciting thing has been how much interest there is and how diverse the response is,” said Ryan Galgon, a senior program manager within Microsoft’s Technology and Research group.Emotions, video, spell check and facial hair
+Utilizing machine learning, these types of systems get smarter as they receive more data; the technology is the basis for major breakthroughs including Skype Translator’s real-time translation and Microsoft’s Cortana personal assistant.In the case of something like facial recognition, the system can learn to recognize certain traits from a training set of pictures it receives, and then it can apply that information to identify facial features in new pictures it sees.The emotion tool released today can be used to create systems that recognize eight core emotional states – anger, contempt, fear, disgust, happiness, neutral, sadness or surprise – based on universal facial expressions that reflect those feelings.Galgon said developers might want to use these tools to create systems that marketers can use to gauge people’s reaction to a store display, movie or food. Or, they might find them valuable for creating a consumer tool, such as a messaging app, that offers up different options based on what emotion it recognizes in a photo.The facial recognition technology that is part of Microsoft Project Oxford also can be used in plenty of other ways, such as grouping collections of photos based on the faces of people that appear in them.Or, it can be used for more entertaining purposes. Earlier this week, in honor of the facial hair fundraising effort Movember, Microsoft released MyMoustache, which uses the technology to recognize and rate facial hair.The emotion tool is available to developers as a public beta beginning today. In addition, Microsoft is releasing public beta versions of several other new tools by the end of the year. The tools are available for a limited free trial.They include:Spell check: This spell check tool, which developers can add to their mobile- or cloud-based apps and other products, recognizes slang words such as “gonna,” as well as brand names, common name errors and difficult-to-spot errors such as “four” and “for.” It also adds new brand names and expressions as they are coined and become popular. It’s available as a public beta beginning today.Video: This tool lets customers easily analyze and automatically edit videos by doing things like tracking faces, detecting motion and stabilizing shaky video. It’s based on some of the same technology found in Microsoft Hyperlapse. It will be available in beta by the end of the year.Speaker recognition: This tool can be used to recognize who is speaking based on learning the particulars of an individual’s voice. A developer could use it as a security measure since a person’s voice, like a fingerprint, is unique. It will be available as a public beta by the end of the year.Custom Recognition Intelligent Services: This tool, also known as CRIS, makes it easier for people to customize speech recognition for challenging environments, such as a noisy public space. For example, a company could use it to help a team better use speech recognition tools while working on a loud shop floor or busy shopping center. It also could be used to help an app better understand people who have traditionally had trouble with voice recognition, such as non-native speakers or those with disabilities. It will be available as an invite-only beta by the end of the year.Updates to face APIs: In addition to the new tools, Microsoft Project Oxford’s existing face detection tool will be updated to include facial hair and smile prediction tools, and the tool also has improved visual age estimation and gender identification.Developers who are interested in these tools can find out more about them and give them a try by visiting the Microsoft Project Oxford website.Related:Microsoft expands availability of Microsoft Project Oxford intelligent servicesMicrosoft’s Project Oxford helps developers build more intelligent appsSome Microsoft Project Oxford capabilities also can be found in the Cortana Analytics SuiteFollow Ryan Galgon on TwitterAllison Linn is a senior writer at Microsoft Research. Follow her on Twitter.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

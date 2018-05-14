@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 22, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ Whether you’re a lover of history  or have an appreciation for all things technological, there’s a new site that ought to be your next stop: the web site for the Computer History Museum. There are a lot of reasons to love this site, but what really brings it to life are the images of breakthroughs in the annals of computing technology. You’ll also find videos and behind-the-scenes stories about some of the great computing devices and people who invented them. And you’re sure to discover something that educates, inspires and grabs your attention, whether a lover of mechanical, electronic or digital. My weakness lies more with ‘analog’ computing devices from the deceptively simple Abacus …  … to the decidedly more complex AntiKythera Mechanism, the oldest known mechanical calculator. Possibly created by Archimedes, this device had over 30 gears and was designed to predict the position of the sun, moon and planets, timing of eclipses, and the schedule of  the Olympic Games. The video provides a lot of great detail.  Also impressive is the Atanasoff-Berry Computer, legally ruled as the first electronic computer and likely inspiration for the ENIAC. The inventor, John Atanasoff, reportedly jotted down his concept on the back of a napkin.  The Computer History Museum is definitely one those sites that you could get lost in. I mean that in the very best of ways. You can search for a particular technology or navigate using the timeline. Either way, as curiosity takes hold you’ll find yourself getting inspired, sucked in and blowing off everything else on your calendar. [all images courtesy of the Computer History Museum]<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

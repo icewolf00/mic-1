@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 27, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+I caught up with Eric Havir who runs the Microsoft Surface blog yesterday and he’s chock full of cool videos at the moment. First up is the one above showing Amnesia Razorfish’s mobile mashup. Note this is running on Surface 1.0 and shows the killer things you can do with that platform today. Eric showed me some cool stuff on Surface 2.0 as well but I’ll save that for another post. The Amnesia demo is a fine example of the device interaction you can have with Surface…and yes, I know that’s an iPhone in the demo  On the Surface blog, Eric talks about the Bluetooth and WiFi connect capability in Surface that enabled these types of apps. He also highlights a few more videos, and one that caught my eye was the Cynergy Systems magazine concept from last years SXSW. In a separate tweet this morning, Eric added a video of a Surface controlled flying AR Drone that he spotted over on Gizmodo France….it reminded me of the Kinect “hacked” Autonomous Quadrotor  Flight  So much cool stuff going on out there with Kinect and Surface!…just noticed that Fast Company seems to like the Amnesia video too<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

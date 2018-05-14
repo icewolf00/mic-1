@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 30, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’ve spent a fair amount of time in airports over the last few weeks and aside from wishing airlines would reinvent boarding passes, I’m always intrigued at the use of technology in these transient buildings. There are the usual things such as departure boards and (if you’re in the US) often free Wi-Fi but I’m interested in what goes on behind the scenes too. Which is why I was intrigued by a recent post in Popular Mechanics on How to Build a Smarter Airport Terminal.It highlights the work of engineering firm Arup who applied its in-house software known as MassMotion to help design JetBlue’s Terminal 5 at New York’s John F. Kennedy (JFK) airport. This software simulated people designed to act like humans. One can only hope they don’t act like the aimless wanderers and kamikaze businessmen I encounter at Heathrow’s T5 – this digital crowd moves around based on factors such as lighting and congestion and help Arup design a more people friendly environment. I’m sure this can (and is) being applied to city planning and stadiums – anywhere you have big crowds I assume.I did a little more digging and found that MassMotion is actually available via Oasys, the software house of Arup – it runs on Windows and integrates with Autodesk Softimage.For the JetBlue terminal, it helped the Port Authority of New York and New Jersey design a more efficient terminal that benefits travels and retailers alike. The digital tuning didn’t stop there though, as Arup used SoundLab to ensure the environment was acoustically efficient – we all know how unintelligible an airport can be.I think it’s great to see software being applied to make our built world smarter so I’m digging more and more in to this area – expect more on the topic over the coming weeks and months.Seen any other projects I should be writing about?Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

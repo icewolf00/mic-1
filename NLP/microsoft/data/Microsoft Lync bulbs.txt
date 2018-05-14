@@ -1,0 +1,33 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 16, 2010
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Every now and then, something comes along that is just so geeky it crosses the line into coolness. This video from Andrej Kyselica is a great example.Andrej works as an Account Technology Strategist here at Microsoft and, like everyone else here, uses Microsoft Lync to call, text and IM with others. Lync has some pretty awesome features, but one of the best is showing you up-to-the-minute status for people on your contact list. The instant someone steps into a meeting, or picks up their phone, their Lync status will change to “Away” or “In a Meeting.” No more phone tag or chasing someone down – a time-waster that drives me crazy.Anyway, Andrej wasn’t satisfied with the little status icons in the Lync client and decided to work up something in the real world to help him out. Seized by the holiday spirit, he decided to use a set of holiday lights and a micro-controller he built himself to have each one of the 36 lights in the strand turn on, off and change color depending on the status of each of the folks on his contact list. Sure, it’s pretty much off-the-charts geekery, but what can I say? I love it and expect look forward to other Softies upping the ante. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

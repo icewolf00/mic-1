@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 22, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Our friends over at Tag have just posted some interesting stats about mobile use, in the form of an infographic. Lots of revealing data there about the present and future of mobile, for example – 86% of mobile Internet users are watching TV while they use their device. If you’ve followed the Oscars or any big season finales on Twitter that may not surprise you so much.Naturally the Tag team are especially interested in the fact that more than a quarter of mobile users are open to scanning a mobile tag to get coupons. You have to think that the other 71 percent simply haven’t found what they’re looking to buy, but maybe when they do …I also thought it was revealing that 61 percent of people use their mobiles to play games – which is nearly twice the number who use them to follow news. It left me wondering how many people use their phone to make phone calls. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

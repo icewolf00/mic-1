@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 23, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’m at IDC’s SMART TECHnology World today in San Francisco to hear about a world of intelligent systems. I’m personally fascinated by the Internet of Things and it’s interesting to see how many in the industry are now moving beyond that terminology to talk about “intelligent systems”.Last year, I chatted with Mario Morales from IDC about the market for intelligent systems – currently a $649 billion market that will reach 2.6 billion units by 2016 and this morning he recapped why the language is shifting from Internet of Things to intelligent systems, talking about a move to gain insight for the connected devices in our world and delivering business intelligence. There is also an increased sense that machine to machine communication is a key driver, as companies start to think more about having systems that talk to each other – such as a car and a road. I got the chance to speak with Mario about that and we’ll have the video of that interview up in the next week or two.Another big difference I’m noticing is that we’re moving from theory in to practice with intelligent systems. Kevin Dallas, GM for Windows Embedded at Microsoft, talked about this and brought it to life today with a series of guests – KFC, Hillcrest Baptist Medical Center and Ford.Jim Buczkowski, a Henry Ford Technical Fellow, began by talking about the journey Ford has been on with SYNC technology in their vehicles over the last 5 years. There are now over 4 million SYNC vehicles on the road and over 75% of Ford vehicles come equipped with SYNC today. Consumers are voting with their feet and more than 50% of Ford’s customers said the technology in the car was a key decision maker for them. Not surprisingly, Ford is expanding their vision of the connected car in the future.Jim talked about vehicles as one of the last consumer products where we’re integrating the digital lifestyle – but it’s now happening at pace with MyFord Touch and AppLink. Jim talked about the car as a VERY big consumer electronics device – one that runs 100’s of processes per minute. The data generated present lots of opportunity to continue to improve the driver experience as well as the dealer service potential and drive data-driven maintenance.Today’s cars are “data hubs’ and while Ford is committed to helping customers remain focused on the driver experience, the data they generate is a new frontier that auto companies couldn’t have expected this 20 or so years go. With around 1 billion cars on the road today and over 4 billion expected by mid century, they’re set to get far more intelligent. Automotive is just one area of explosion for intelligent systems – I’ll have more next week based on my discussions with Intel, IDC, Ford and others.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 13, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+The Day 2 keynote for MIX11 was fun to watch this morning as demo after demo showed killer capabilities for creating apps for Windows Phone and then Kinect. Joe Belfiore and Scott Guthrie brought on a range of guests to show the great things that will be possible in mobile apps, gaming, and who knows how many more areas that the developers in the audience have just started to dream up. As so often happens, the demos were a great sampling of the ways that technology can help solve problems and enable remarkable endeavors. Such as the unbelievable precision flying of the U.S. Navy Blue Angels, the ability of a USAA banking customer to process a check deposit through a cell phone, or the chance drive a recliner around your room using Kinect to steer and control it (which I think many attendees suddenly realized they desperately needed to do). Starting next month you may want to cancel any social engagements you have with developers, because they’re going to be busy: both the developer toolkit for the next version of Windows Phone, code-named “Mango,” and the Kinect for Windows SDK beta are going to become available. Developers will be vanishing into their lairs, to emerge somewhat later bearing games, location-based networking apps, shopping tools and much more.I thought the demo of WorldWide Telescope plus Kinect deserved its own post, but there were a lot of other clever Kinect capabilities on display, such as the latest advances in audio processing and sound source localization, depth tracking, and skeletal tracking for one or two people at a time. It should really enable the creative community that has sprung up around Kinect to flourish. As I’ve mentioned before, the non-commercial version of the SDK will be coming out real soon now. Head on over to the Microsoft Research page to register your interest. Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

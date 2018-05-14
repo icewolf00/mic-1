@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 28, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+I blogged last month about the Firenze student competition than ran here on our Redmond campus over a weekend. This video captures the key moments of the weekend and gives you a glimpse in to what it’s all about and what it means to Microsoft execs and students. It was great to hear Brie, Ross and others talk about how it changed her perception of Microsoft. You also get to see Studio B, one of the main places I tend to hang out on campus as a ton of interesting stuff goes down in that building. Oh and they have the cool LED screens hanging from the ceilings in there…more on that in a Friday post I think. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

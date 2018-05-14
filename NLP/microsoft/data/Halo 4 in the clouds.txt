@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 6, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Halo 4 is here – and it’s in the clouds – in more ways than one. Last night in London, The “Halo 4” Glyph was seen over the River Thames and at 50 feet in diameter and weighing over three tons it is one of the largest and brightest man-made structures to ever fly over a capital city. So yes, Halo 4 is in the cloud over London.The other cloud it’s in is Windows Azure. The launch today will rightly focus on an epic game but in the build up the aspect that intrigued me the most is Halo 4’s use of Windows Azure. Gaming has moved on massively from the days when multiplayer meant my friends and I gathering around a ZX Spectrum for a game of Elite. It now relies on computing power that users will never see – and likely never care about. And when you’re talking Halo, you’re talking a lot of computing power.I don’t imagine when Windows Azure was first conceived that the engineers behind it immediately thought it would be used for massive scale online gaming, but when consoles start lighting up today and a few million gamers decide to engage in some Infinity Multiplayer, a vast infrastructure powered by Windows Azure will whirr in to action. It’s the era of gaming as a service (GaaS anyone?) where the disc you buy from a retail store is just the beginning. Content, discussion, extensions and more extend the game from the cloud. You can read more in an excellent post on News Center about the “plumbers’ behind this work. Again, not something the gamer will care about but in using Windows Azure, the development team was able to cut costs by more than 60% from the previous release.I know all of this is quite obvious to many, but from where I sit, it’s a fine example of a question I’m asked quite often – is Microsoft an enterprise company or a consumer company. Both of course…our cloud infrastructure and the expertise that goes with it benefit consumer products such as Halo 4 and benefit services such as Office 365, Bing, SkyDrive and more.So as much as I’m looking forward to getting my hands on Halo 4 today and playing it later tonight, I’ll sit back and marvel at the massive, global infrastructure supporting Halo in the cloud.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

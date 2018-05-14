@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 8, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’ve been busy playing with the Release Preview of Windows 8 for the last week and almost forgot to post about Internet Explorer 10 – included in the OS. Two notable features, Flash support and a flip ahead are well covered in Paul Thurrott’s post Windows 8 Release Preview: Changes To Internet Explorer 10.Aside from those features, the IE Test Drive site caught my eye with a number of stunning visual applications.First up is Browser Surface which takes design cues for Microsoft Surface to create a sweet photo browsing application that supports multi touch, pinch and stretch and more. What’s really interesting for me about this is the gesture API’s made available to developers will help enable a consistent gesture experience across applications, and devices. Second is the adaptive layout demonstrations – they’re shown in the video above and demonstrate how IE10 can adapt to the different viewing styles on Windows 8. When you have web page docked, it can intelligently resize to still be usable in that size of window. It’s these subtle yet important features I’ve found impressive with the release preview.Oh and just for fun, have a play with touch effects – it’s quite addictive.Find much more detail in a post by the Internet Explorer team.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

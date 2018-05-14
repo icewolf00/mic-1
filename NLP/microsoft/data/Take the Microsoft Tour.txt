@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 2, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+One of the things I mentioned when we launched this blog was my desire to show you more of Microsoft – to help you get inside the places and spaces I visit on a daily basis. Welcome to our first “places week” on Next. Ever since I started working at Microsoft (over 13 years ago) I’ve been intrigued by our Redmond Campus. One of my main sources of intrigue was to find out where stuff gets built – literally who is building Windows or Office. Where are they building it and what do their offices look like. I’d imagined some sort of Borg-like environment with lines of coders, hunched over their machines, cranking out code. Surprise, surprise, it’s not like that at all. Sure there are folks who sit in offices cranking out code but there is far more color and personality to this place. I still enjoy figuring out “where the sausage gets made” but I also enjoy exploring the places where our designers live, exploring the art on our walls and talking my way in to labs where prototypes of what’s next are being built. There are some stunning buildings (Building 85 for example), some which are total mazes (Building 8 and 9 anyone?) and some which are vast loft-like spaces designed explicitly to foster collaboration. During this week, we’ll look Inside some of these buildings and see places that rarely get seen – even by Microsoft employees. Places such as the Model Shop and the Microsoft Home and places far less interesting…such as my office. Maybe it’s just my odd sense of curiosity to keeps me travelling and snapping shots around our campus, but I think you get to know and understand people more when you see where they live and work. This is just a small snapshot and we’ll keep coming back with more so I hope you enjoy it!Check back at 9am PT for the first part of the tour and be sure to follow @MSFTNext on Twitter for updates throughout the week. // <![CDATA[
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// ]]&gt;Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,35 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 13, 2010
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+
+
+Long Zheng spotted this video a while back and it’s now officially released it seems – my buddy Brandon posted about it over on the Windows team blog last week. He has all the details there but the basic story is the Windows team documented the creation of a new song my indie artist Andrew Belle. The song, title “Sky’s Still Blue”, was created using Windows which you’d sort of expect. What I found equally interesting was the use of Windows Live – specifically Mesh for sharing audio files and Messenger for chatting about vocals with the other artists on the track. Movie Maker and Office Web Apps also make an appearance. In 10 days on the road, Andrew and his team put the song together which you can now download for free from the Zune Marketplace. Props also to director Keith Rivers for putting it altogether so beautifully in a video. I’m hoping we see more of these style of videos!<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

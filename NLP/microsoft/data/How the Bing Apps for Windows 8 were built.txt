@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 7, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+On Tuesday the Bing team added video to the type of results it will return in the Bing for Windows 8 app. The Bing Search blog describes the experience and if it’s anything like the News app then it’s sure to be a winner.There’s a team within Bing that develops all of the group’s Windows 8 apps and a couple weeks ago they published a post on the Windows 8 app developer blog that outlines their approach that I really enjoyed so thought it was worth sharing. I’ll be honest and say I hadn’t really dug in to the News app until the last few weeks and it’s really a great app – both in terms of design and content. Now when I wake up, instead of checking a bunch of websites I tend to go to the Bing News app and read curated content from sources such as The Verge, NY Times, The Guardian, BBC, Sky Sports, Fast Company and more. If you’re building apps for Windows 8, the blog post is well worth a look to get the inside on how all of the Bing apps were built including design and performance considerations. 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

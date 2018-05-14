@@ -1,0 +1,33 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 24, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Aza Raskin posted a great piece on Fast Company’s Co.Design site last week suggesting a few ideas for creating cellphones that could be more intelligent and intuitive. It’s something that has been on my mind a lot too. Aza asked why phones don’t pick up the non verbal cues we use when talking and somehow convey that extra information as part of the call – vibrating when we nod or animating a shake of the head somehow. He asked if that was possible with today’s iPhone – aside from doing some smart work with the camera, I’m not sure we’re quite there yet with either iPhone, Android or Windows Phone. However, there is definitely mileage in these ideas as software is getting smarter at understanding things like emotion. I remember many years back a program called Comic Chat that performed impressively in changing a characters facial expressions based on words typed. Maybe there is something there we can learn from. In the meantime though, I’d been thinking about intelligence in another device – my TV. That black box in the corner has been sitting watching me for years. Early on it was a relatively dumb device – showing me images from a selection of a handful of channels. Then it went digital and things changed. Now the TV had smarts…but not intelligence it seems. My TV knows what I have been watching for at least 10 years now. It knows what I skip past, it knows when I’m surfing serendipitously and when I’m watching a favorite show. It also knows when I’m watching my favorite soccer team (it could easily infer that from one season’s pattern of watching) and it knows when my neighbors are watching the same thing. But does it do anything with this information? Not as far as I can see. At CES this year I saw thousands of TV’s in increasing sizes and with impressive 3D capability. None of them had what I really wanted – a button called Steve TV. A button I press that says “hey Steve, here’s the stuff we know you’re going to like”. The race seems to be to add more features and more channels to TV – personally, that’s not what I want. I want Steve TV. I know there are services out there that have recommendations and suggested lists (Netflix does decent job for me) but as far as I can see, they’re based on a limited set of content. I want my TV to sort through the thousands of channels for me and build my TV station. Oh and TV…that’s not the black box in the corner of my room any more. It’s a service I can see on my laptop, Xbox, cell phone…or anywhere there is a screen in fact. So can technology be more intuitive, more like us? Sure, our technology know us almost as well as our friends do – it just hasn’t quite worked out how to be our buddy. Yet.  <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

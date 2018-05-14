@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 8, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+One of the more noteworthy accomplishments of the Windows Embedded Automotive team has been the ability to match its software development process to the development and manufacturing cycles of the auto industry. The fact that cars and trucks can run for as long as they do is in no small part due to the time and attention that car companies dedicate to design and engineering—a point that Top Gear’s Tanner Foust brought up in a discussion with the team. Earning the trust of the automotive industry meant not only matching their schedules, but also delivering a technology solution that could endure the harsh conditions that cars face.When Pranish Kumar joined the Windows Embedded Automotive it was a bit of an epiphany discovering the level of quality and pre-planning that goes into building an automobile, even two years before it rolls out of the factory.  The team was in the midst of creating a prototype for Blue&Me, Fiat’s first in-car technology system, and being part of a small team that engineered the solution helped him understand how everything comes together. It also prepared him to lead the team as they engineer a connected driving experience that extends into the cloud. (More on that in a Microsoft News Center feature that posted yesterday.) Much of the work around engineering the visual experience falls to Jay Loney – not a person who fits in the mold of your “typical” software developer. In his spare time Jay can likely be found under the hood of a 1934 Ford or playing an upright bass with his rockabilly band, “Blacktop Deceiver.”Jay applies the same hot rodder’s obsession he has for gear ratios and piston diameters to building the connected car experience. Specifically, he leads the creation of a user interface that acts as a bit of a façade for all of the technical inner workings between the dashboard head unit, mobile devices and the cloud. His goal is to create an updateable experience that lets the driver interact with their car more naturally and fosters the same sort of passion for the intelligent car as he has for his 1934 Ford.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

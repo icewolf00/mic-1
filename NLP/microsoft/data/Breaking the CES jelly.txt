@@ -1,0 +1,33 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 5, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+ I arrived bleary eyed in Las Vegas this morning around 8am – fresh off a flight back from the UK which landed me at home around 11pm last night – so only a few hours sleep before turning around and heading back to Seattle Tacoma Airport. Though Day 1 of the show is technically tomorrow,, this was my first day at the show and there was plenty to see. I spent some time at the Microsoft booth which was in the final hours of being built. I always find it fascinating to watch the booths come together as it’s the work of a ton of people that means we’ll all magically wake in the morning to find pristine booths with clean carpets, immaculately applied decals and devices with shiny, polishes screens. Greasy smears will be in evidence a few hours later but for the first few minutes, the booths look like a swimming pool that has yet to be dived in to. We used to call it “breaking the jelly” back when I was in school. There was still plenty of new today as we held a press conference to talk about Windows support of SoC architectures and Surface 2.0. We then hauled over to the keynote by Steve Ballmer which was a scrum – I got in early at 5:30 and the place was already packed despite the 6:30 kickoff. Lots of other site will give you their views on what Steve and the team had to say and show but here’s my highlights: that was just the Xbox section of the keynote….on to Windows Phone  Finally, a look at Windows with good time spent showing new Windows devices including the ASUS EP121 Slate PC and a comprehensive demo of Windows running on ARM. This section also included a demo of Surface 2.0 on the the Samsung SUR40 which is a radically different device to it’s predecessor. More on that soon in a post tomorrow and the PixelSense technology. To quote Steve Ballmer, Whatever Device You Use, Windows Will Be There.Overall a fun fist day during my first visit to CES. In summary, it’s huge, the cab lines are huger and as I expected, power and any kind of connectivity are at a premium. I noticed plenty of the press corps with their own Mifi units at the keynote. And people with coats…it’s cold here in Vegas. Trivia for the day: Resse’s are the official candy sponsor of CES and have a new candy set to be announced tomorrow. Sweet!<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

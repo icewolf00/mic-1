@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 31, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ MIX is probably my favorite Microsoft conference but the folks in Microsoft Advertising had a pretty stellar lineup today at their Imagine 2011 conference. I can’t imagine what the folks here thought about the opening act – The Sancho Plan were a definite cure for anyone nursing a hangover. They pumped out their blend of animation, music, gaming, technology and performance to a startled audience. They were joined for the last few moments of the performance by Jaron Lanier – the father of virtual reality who also happens to work at Microsoft. A nice juxtaposition of a high tech alongside the title of Jaron’s latest book, You Are Not A Gadget. Following the performance, we then stepped on to the ride with Jaron. This is a man who has been working for over thirty years in the domain or VR and avatars. He told a funny story about speaking at Stanford on his 40th birthday where someone was surprised he’s still alive – it feels as though he’s been around forever but I get the impression he’s never been more excited than where we stand now. His dreams are starting to become a reality. I had a few moments backstage with Jaron beforehand and asked him what the hell he’s doing here, why is he at Microsoft? He answered the question to me and then onstage by saying he believes there is nowhere in the world that has the capability to do the work Microsoft is doing. In particular has was talking about Kinect and the breakthrough that is bringing to his field and opening up entirely new fields. Until now, virtual reality has been a cumbersome, expensive and uncomfortable experience – donning body suits to enable motion capture and carting around truckloads of technology. Now over 10 million people have a device (Kinect) next to their TV that breaks through these barriers.  [image via MSAdvertising]Jaron told us a funny story about a call from Steven Spielberg many years ago, asking him to explain VR to studios in Hollywood. He put a bunch of  VR systems in big trucks and took them down to Hollywood. They parked for one week in the Disney lot and 1 week in Universal lot. A studio exec approached the young Lanier and asked him how often are people going to throw up in these things. Eager to please, Jaron told him they were working on solving that problem only to be met by the response that he didn’t know the first thing about the entertainment business. Evidently the exec wanted to see headlines about kids throwing up in them!That brief digression was scant preparation for what was next. If we were on the rollercoaster, we were now – unknown to us – at the top of the big dipper and about to rush forward in to the unknown. Jaron is in the process of setting up a somatic computing lab in San Francisco. I’m not familiar with somatic computing so leaned in (as did Ron Howard, sat a few seats along from me) to hear that the goal of somatic computing is to map human bodies into avatars with potentially non-humanoid morphologies. What? I know…i  leaned in further. Jaron is interested in making an avatar of humans that morphs in to a lobster, a piano, a molecule, or even a code fragment. Why would you want to do that? It’s all to do with our pre-adaptive nature. Jaron explained that we descend from mammals that used to swim and breathe under water, hang from trees and crawled around and that by creating ourselves as avatars we can take ourselves back to those ancestral capabilities – as well as explore capabilities we may adapt to in the future. A true out of body experience.At this point Jaron giggles like a kid at the audacity of what he just said and you can feel the collective brains in the roam starting to bulge. It was 10am and we were being taken to another place. Not content with that, Jaron talked about plans to build homuncular models of what we may be in the future and explained that part of the aim of the lab is to explore the multi modal capabilities of the brain. He explained that sometimes we can complete certain tasks faster and even only when we have external technology or devices assisting us. At this point I should explain that Jaron is hiring…yes, you get to play with Xbox and Kinect as part of the job. And work with Nobel laureates.  What has unleashed this area of exploration? A $150 device called Kinect. Jaron called it wonderful and said that Kinect just opened this window in to ourselves that hasn’t been possible before. In the front row, Don Mattrick beamed. Jaron is clearly excited by this – he’s a man whos time has finally arrived. He acknowledged that in these explorations they’re going to find a whole load of crud. But he’s also sure that we’re going to find some gems. Is this art, is this science? Jaron says it’s both in the most profound way. Jaron closed by suggesting that technologists are the people who can create the potential for a different future – something than Ron Howard and Brian Grazer reinforced in the session that followed immediately afterwards. Ten years ago at Stanford, an audience member thought Jaron Lanier was dead. I’m pleased to say he’s very much alive and boy am I happy he’s at Microsoft. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

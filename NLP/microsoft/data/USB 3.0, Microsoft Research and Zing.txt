@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+September 6, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+One of the questions I’m often asked when talking about Microsoft Research (MSR) is the impact of their work on Microsoft’s products. Kinect stands as a very visible recent example that has been well documented but there are many other contributions that MSR makes in to product teams that go less noticed. Often these things are “under the hood” or relatively small parts of a larger product – features like background removal in Office or the keyboard technology in Windows Phone.Other times, the contribution Microsoft Research makes doesn’t make it in to the product per se, but is nonetheless vital to the development. A recent example if a tool called Zing that was highlighted in a post by Dennis Flanagan on the Building Windows 8 blog. The entire post is well worth a read as it documents the approach taken to build USB 3.0 support in to Windows 8 and is fascinating stuff (if you’re at all geeky) – including building virtual USB devices to test the software before any USB 3.0 hardware was available. Zing was ideally suited to this as it’s a software model checking project and tool that allows for testing of concurrent programs. This is a notoriously difficult part of software development and bugs in software due to concurrency issues have become known as “heisenbugs” – Zing works to systematically explore all possible states of a software program (especially concurrent states). Doing this by hand, with manual testing, is almost impossible when it comes to industrial scale software such as operating systems.You can read a LOT more on Zing on the Microsoft Research project site as well as downloads of Zing for non-commercial research use. Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+October 31, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+November 4 marks the 1-year anniversary of the launch of Kinect and for me, that year has flown by. I remember the day of launch – there was an air of excitement at Microsoft, that something quite special was about to land in homes around the world.I remember seeing lines outside of our company store here in Redmond with Kinect sensors piled high behind the glass. A few hours later, Twitter and Facebook lit up with people recounting their first Kinect experiences. And in the days following, many of the blogs and Twitter handles I track started to light up with something else – ideas for creative new ways to use Kinect. Each day I’d wake up to an incredible new idea someone had dreamed of for Kinect – and what’s more, people were actually building what they’d dreamed of. Initially they were created with drivers from the community of hobbyists and then with the non-commercial software development kit we released.I blogged about a number of these creations here, including one evening where I dragged my family out to Nordstrom’s flagship store in Seattle to see what they had done with Kinect in their window. A few of my other favorite creations include:These are all fun, though I’ve also witnessed incredibly humbling uses of Kinect in supporting stroke victims and helping children with autism. In education I’ve seen kids using avatar creation to learn life skills, using bowling for numeracy and Kinectimals to help with sentence construction. In my own home, I’ve seen my two year old daughter giving me a glimpse of how she’ll expect to interact with technology as she grows up.The same level of excitement about the possibilities with Kinect exists inside Microsoft. Microsoft Research (MSR) was instrumental in developing Kinect but they haven’t stopped there. Earlier this month I showed a video on this blog of Holodesk – a research project from our team in Cambridge, England – that enables manipulation of 3D, virtual images with your hands. Unsurprisingly, it’s been one of the most popular posts here. KinectFusion is equally exciting – an MSR project that takes live depth data from a moving Kinect sensor and in real-time creates high-quality 3D models. Engadget called it “jaw-dropping”. One other example from MSR is Worldwide Telescope which was shown with Kinect control capability at our MIX conference in April. It enables you to fly through galaxies using your hands.All of this is just the beginning though. The enthusiasm from hobbyists was mirrored by the commercial world. Businesses around the world and across industries, like healthcare, education, automotive, retail and more, began contacting us with ideas for ways they wanted to transform their industry with Kinect. That’s why beginning early next year, we’ll release the Kinect for Windows commercial program, allowing businesses to realize these dreams. We’re already working with over 200 applicants on our pilot program, including Toyota, Houghton Mifflin Harcourt, Razorfish and more than 25 Fortune 500 companies. Head to the Kinect Effect site, launched today to find out more.In one year, Kinect has changed how we think about so many things and truly fueled the discussions around natural user interfaces. It’s an example of what’s possible when you combine a willingness to dream of making the impossible possible, with long term, basic research. With a ringside seat inside of Microsoft, the last year has been epic to watch. The next year promises even more.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 29, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ Several years ago I visited Microsoft Research in Cambridge and heard about SenseCam – the project was fascinating in that it started out as a device to capture a person’s journey throughout. It turned out to be an amazing tool for sufferers of Alzheimer’s.A little over a year ago, UK-based Vicon made the technology available to researchers who study Alzheimer’s disease and other conditions that affect short-term memory loss – the device is known as the  Vicon Revue. Next month, in August, Vicon will release the next-generation camera, the Revue 3MP.The camera, which is about the size of a Post-It note, is worn on a cord around the neck and unlike ordinary digital cameras or camera phones, the Revue doesn’t have a viewfinder or a display – it’s equipped with a wide-angle, “fish-eye” lens that captures nearly everything in the wearer’s field of vision. The camera can be set to a timer. But, more often than not, it’s set to capture an image each time it senses a change in motion, light or temperature. In either case, images are captured without the user having to stop and take a photo themselves.The end result is a series of hundreds, thousands, even tens of thousands of photos that are recorded on the device’s internal memory and later loaded onto a computer. When reviewed, the photos act as a visual diary as shown in the video below. The theory goes like this: because photos are taken in automated, fragmented way, and are taken from the users’ point of view, looking back on the photos later can trigger memories in ways that ordinary photos can’t.Tests have shown that Revue photos enabled users to retrieve memories that would otherwise be lost. And the memories remained in their minds for weeks and months afterward.In addition to aiding memory loss, Vicon points to other potential uses, including:For me, it’s been fascinating to watch the journey of SenseCam. A project that started out back in 1999 as one thing and had turned in to something that is literally changing people’s lives.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

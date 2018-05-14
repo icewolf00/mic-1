@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+September 27, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ The NFL has been in the news this week, not least due to Monday Night Football here in Seattle. A post yesterday on GeekWire was a welcome departure from that discussion – even if the topic was NFL focused.  [image courtesy of Inc. magazine] X2IMPACT are a local Seattle startup I have met with a few times and they’re doing some fascinating and important work to help make the NFL a safer arena for athletes. I’ve spoken many times about the proliferation of sensors in our lives and the role the cloud plays in connecting up these millions of “devices”. X2IMPACT’s Concussion Management System (CMS) is a great example of this trend. CMS, when combined with a digital mouth guard, also made by X2, enables coaches to see head impact data in real-time and asses concussions through monitoring the accelerometers in a players mouth guard. That data helps teams to decide whether to keep a player on the field or take them off for their own safety. The team behind the system combines Christoph Mack’s design skills from previous stints at Apple and Nike with real world experience of Rich Able, whose son was knocked out during a football game.The system makes use of sensors on the mouth guard, a sideline base station and X2’s Xcloud service that runs atop Windows Azure. Data is delivered to staff on the sideline for consumption on iOS, Android and Windows 8 devices. And it’s no science project with 16 NFL teams already using the software.The GeekWire post has more detail on why this advance is so important to players health, noting that the CDC estimates that there are more than 3.8 million sports brain injuries per year.For me, it’s a great example of how a number of the key trends we’re pursuing in technology are coming together with a (pun intended) real world impact.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

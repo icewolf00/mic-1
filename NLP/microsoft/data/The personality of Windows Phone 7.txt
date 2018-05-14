@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 11, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+My favorite feature of Windows Phone 7 isn’t actually a feature – it’s the little design touches that the OS shows in a number of places. It gives the phone something it’s not had in any previous versions IMHO. Personality. The team who designed and developed Windows Phone are like you and I – for the most part. They have a sense of humor and recognize that “smile moments” in software are worth the extra coding effort. I’m not suggesting that Windows Phone has some sort of exclusive here – I have enough friends with iPhone and Android phones to know that – but it’s pleasing to see these design touches show up, sometimes in places you’d least expect it. It’s what I like to call attention to D&D. Not dungeons and dragons but detail and design. It’s like the little details on Paul Smith shirts or a cloverleaf drawn on a perfectly poured pint of Guinness. My favorite piece of personality is shown above – the different states of the messaging tile on the home screen depending on your SMS status. Smiling means you’ve read all of your current SMS messages; winking means you have a message; shocked means you have 4+ 5+ messages and a sad smiley means there has been an error sending a message.   There are a few others I like such as when you setup an email account and Windows Phone responed with “we’re looking for your settings”, promptly followed with “…and we’ve found them”. I can’t quite imagine that type of language in an earlier version of Windows Mobile and it’s refreshing to see.  Another design detail I like that is more of a feature is the “I’m running late” button – the last of the buttons shown in the 4 icons below. I never have to use this of course, but if you’re running late for a meeting, you open on the calendar item, hit this button and it send a pre-written message letting other meeting participants know you’re running late. Nice.   There are a few other little things like this I like and I’m betting there are a lot that I’ve yet to find. It’s a rewarding approach to UI design that not everything is in your face but is discoverable. And when you make those discoveries, you often smile knowing someone put in the attention to detail in design. The design philosophy of Windows Phone is neatly explained by the Windows Phone Design System – Codename Metro. A book that was handed out at MIX last year I believe and in particular, I like the RED THREADS section    ….and even the icons show personality I think. …the end result is a phone that has personality and elegance. It feels, to me at least, like it was designed with some fun along the way and a desire to make people smile. Job done with me.  <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 26, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ A few months ago I got a call from a friend in one of our many labs here at Microsoft. He simply said “come over to our space this afternoon, I have something cool to show you”. That’s enough for me to clear my schedule and hop on a shuttle across our campus to see what the mystery was all about.I met Shanen Boettcher who took me in to an open plan workspace that was littered with 3D printing paraphernalia. The walls had design drawings and stories on 3D printing all over them and in the adjoining workspace were at least 6 3D printers – all churning out objects in quiet harmony. What’s going on here I asked Shanen. We’re building 3D printing in to Windows he replied.What, I can plug my  3D printer in to Windows and hit file, print I asked.Yup he responded. <like> Earlier today at our BUILD conference, the capability was announced and demonstrated during Steve Ballmer’s keynote. Specifically, the team announced Windows 8.1 will support I don’t know what you think, but I think this is a big deal. As Shanen notes in his blog post on the Official Microsoft blog, we think 3D printing will go mainstream – which is why we’ve built it in to Windows, the world’s most popular platform.Until now, 3D printing has required a user to work with multiple off-the-shelf and open-source software apps to create their 3D models, export them in usable 3D model file format, clean up the 3D model and prepare it for printing, then finally load it into device-specific software to send to their printer.That changes with Windows 8.1. For app builders, it offers an application programming interface (API) for app developers to send their 3D models to, just like apps have been able to with 2D printing for a long time. For hardware developers, they can provide drivers that are automatically downloaded and configured when the user plugs in their new 3D printer. Windows 8.1 provides the helpful job spooling, print queue management, and UI support that it always has. And what’s great about this is that app builders can send their content to lots of 3D printers with no special work for each device – including those that haven’t even been designed when the app is shipped. For 3D printer devices, one of the challenges has been getting lots of interesting content to print. Now, these 3D printers can get content from any app that supports 3D printing in Windows 8.1, with no special work for each app, and even work automatically with apps that ship in the future.If this all sounds familiar to 2D printing, it should! The 3D printing team at Microsoft assembled and started tackling this problem in October of 2012. One of the first tasks was to analyze all the features that the existing 3D printing experience was missing. They quickly realized that all of these problems had already been solved in Windows for 2D printing decades before. So it made sense to extend the existing printing model with support for a new category of 3D print drivers and add a new API to submit 3D model content to the Windows print pipeline. This had the added benefit that it could be done very quickly, getting into the hands of users with the release of Windows 8.1.What’s more, the team announced that makers and developers can get started today with these resources. The bottom line here is that Windows 8.1 has gone a long way toward tackling the complexity and reliability problems around 3D printing. That certainly doesn’t mean there isn’t a lot more to be added or improved, but the most important thing was to unlock a much better experience for customers as soon as possible. In so doing, it also opens up a huge opportunity for app developers to solve the next big hurdle in 3D printing: getting lots of 3D stuff to print!
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

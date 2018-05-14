@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 17, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ <a title=”Bing Makes Voice Search on Windows Phone More Accurate and Twice As Fast” href=”http://www.bing.com/videos/browse?mkt=en-us&vid=5c9155cc-c40d-45ed-9ee0-64327142e1e5&from=shareembed-syndication&src=v5:embed:syndication:” target=”_new” data-mce-href=”http://www.bing.com/videos/browse?mkt=en-us&vid=5c9155cc-c40d-45ed-9ee0-64327142e1e5&from=shareembed-syndication&src=v5:embed:syndication:”>Video: Bing Makes Voice Search on Windows Phone More Accurate and Twice As Fast</a> Your Windows Phone now understands your voice commands faster and with greater accuracy, because it has learned to think more like you, thanks to new deep neural networks (DNN) technology from Microsoft Research.Inspired by the workings of the human brain, DNN technology enables a computer to recognize and learn from patterns in a similar way to how biological systems process data. Bing took MSR’s breakthrough DNN research, matched it up with large datasets from its index, and taught Windows Phone to be a better listener.The result? Voice recognition at twice the speed, and with 15 percent greater accuracy.A phone that thinks more like you – now that’s smart.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

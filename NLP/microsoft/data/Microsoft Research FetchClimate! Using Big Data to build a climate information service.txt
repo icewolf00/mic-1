@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 7, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+There are a lot of really cool projects at TechFest this year – if you pushed me to pick a personal favorite, I’d choose FetchClimate!. With amazing demonstrations such as Holoflector and Illumishare, this is one that you may not expect…allow me to explain why I’m so excited about FetchClimate!Organizations like the UN, the National Oceanic and Atmospheric Administration and The Met Office have been recording data on changes in the weather dating all the way back to the turn of the 20th Century. As you might imagine, navigating reams and reams of climate data by yourself would be nothing short of monumental. FetchClimate! uses Azure to store enormous amounts of data and a Silverlight application to create a web-based user interface that anyone could use. And it works in conjunction with Bing Maps, so you get a visually compelling experience that offers up a huge amount of information on virtually any point, or region in the world. This is Big Data in action. Drew Purves, head of the Computational Ecology and Environmental Science Group (CEES) at Microsoft Research Cambridge has been described as a “once-in-a-generation young scientist”. Yesterday, he gave a demonstration of FetchClimate!, similar to the demo in the video above, and it really captured my imagination. There’s a wealth of information hidden within all of this data and to me at least, the potential use cases are huge – whether you’re comparing crop yields against precipitation levels, looking for the best place to locate a wind farm based on average wind speed, or looking for the sunniest place to spend your next Mediterranean holiday , there’s something there for you. And once you’ve run a report you can either export it into Excel for later use, or share the URL with others.When we start talking about trends like Big Data, it can be easy to get lulled into this sense that we’re still a couple years out, but FetchClimate clearly dispels that notion. FetchClimate! is incredibly powerful – it’s here now and everyone can benefit. Now, if you don’t mind, I have a vacation to plan 🙂
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

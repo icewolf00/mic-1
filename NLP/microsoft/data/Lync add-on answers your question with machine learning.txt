@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 6, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ Lync is one of those apps that’s ripe for being extended – and a new set of add-ons show what’s possible.A few of the tools stand out – especially if you use IM a lot throughout the day. There’s a tool that translates up to 35 languages, so you can IM with someone else using your native tongue. If you’re concerned about how you communicate in IM, then you might appreciate the Conversation Analyzer. It analyzes your conversation history and rates you based on how often you use words or phrases that build trust. There’s also a tool that uses tabs to helps you organize multiple IM conversations similar to what you may be used to in Live Messenger.But from a technical standpoint, my favorite is IM an Expert. It helps you crowd source the answer to your question by mining the know-how of others in your company. What’s cool about IM an Expert is is how quickly you can get the answer you’re looking for: Early tests within Microsoft showed that it took 3 minutes to get your answer. That compares to 30 minutes with e-mail, and 3 hours if you’re using a distribution list.The key to its success is a bot created by Microsoft Research’s Matthew Richards and Ryan White that acts as a go-between for Lync users.  The bot uses machine learning and data mining to compare your question against the areas of expertise contained in the profiles of other employees who use IM an Expert. Then it helps start a conversation between you and the person who could answer your question. Another great example of who MSR continues to quietly transfer technology in to core products.The guys over at Channel 9 put together a couple of great videos on IM an Expert. In one, Ross Smith explaining what IM an Expert does, and how it came to fruition. In the other video, Matthew Richardson talks about how the bot works and the process of creating it.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

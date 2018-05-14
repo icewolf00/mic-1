@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 15, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+A wonderful video by the folks at Corning. They make the Gorilla Glass (amongst other things) which is used on Zune HD, iPad, Surface 2.0 and many other devices. Engadget editors named it their top display choice for 2010 and it was all over CES this year. The video is beautifully made and covers lots of the scenarios we’ve been talking about here on Next in the realm of NUI – technology that is just more natural to use. I look forward to the day that I can hold a flexible, paper thin screen to read in bed and tweet from the mirror in the bathroom…I literally suggested this scenario during a Microsoft meeting last Friday and people thought I was kidding (or just plain geeky/weird). I’ll admit that the entire world being this tech laden would be somewhat spooky and FastCo Design has some similar concerns – perhaps the video is a little too utopian. Anyway, lets not forget that all that groovy glass needs software to power the experiences in the video. That’s not a criticism of Corning as they know that as well as I do – it’s great to see their vision for glass and what it can enable and it marries up nicely with some of the things we’re working on here at Microsoft. You can see some of the similarities in the Productivity Future Vision from a couple of years ago. Meanwhile, Microsoft Research projects like LightSpace and the work of the Applied Sciences Group at Microsoft hint at how this future becomes reality.Of course most intriguing to me was seeing Ted Clayton in the video presenting Live on Channel 4. Far too spooky given Steve Clayton recently presented (not quite live) on Channel 4. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

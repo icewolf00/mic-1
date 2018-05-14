@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 21, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Last week I posted the tweet above and decided it was worthy of some explanation in a post. It came from a post on the Microsoft Research Connections blog that details how Azure is being used to crunch huge volumes of data in the quest for clues to help combat bipolar disease, coronary artery disease, hypertension, inflammatory bowel disease (Crohn’s disease), rheumatoid arthritis, and type I and type II diabetes.Research in these areas is notoriously tricky due to the requirement for a large amount of data and the potential for false positives arising from data sourced from related individuals. A technique and algorithm known as linear mixed models (LMMs) can eliminate this issue but they take an enormous amount of compute time and memory to run. To avoid this computational roadblock, Microsoft Research developed the Factored Spectrally Transformed Linear Mixed Model (better known as FaST-LMM), an algorithm that extends the ability to detect new biological relations by using data that is several orders of magnitude larger. It allows much larger datasets to be processed and can, therefore, detect more subtle signals in the data. Utilizing Windows Azure, MSR ran FaST-LMM on data from the Wellcome Trust, analyzing 63,524,915,020 pairs of genetic markers for the conditions mentioned above.27,000 CPU’s were used over a period of 72 hours. 1 million tasks were consumed —the equivalent of approximately 1.9 million compute hours. If the same computation had been run on an 8-core system, it would have taken 25 years to complete.That’s supercomputing on demand and it’s available to everyone – as is the result of this job in Epistasis GWAS for 7 common diseases in the Windows Azure Marketplace.You can hear more from David Heckerman, Distinguished Scientist, Microsoft Research and Robert Davidson, Principal Software Architect, Microsoft Research, eScience in the video below regarding the implications of this work. Fascinating stuff. 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

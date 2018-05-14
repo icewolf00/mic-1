@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 28, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Of all the improvements Bing has introduced, I think the one I’ve enjoyed the most is Bing Maps.They’ve done a pretty amazing job of immersing the user in the mapping experience, and every few months it seems like they bring a new feature or gives us a peak at some of the new stuff they’re working on. My posts on improvements to Streetside view and orthographic  imagery are just two examples and just last week they announced that they had updated the Bing Maps World Tour application – a tour that showcases 153 locations where Bing Maps features new outstanding high-resolution aerial imagery resulting from the aforementioned Global Ortho imagery program.What’s often lost in the news is how companies can use Bing Maps to develop their own apps. That’s why I think it’s cool to see a new version of Microsoft’s Local Impact Map built on top of Bing Maps. The Local Impact Map lets you explore how technology is providing people from around th world with new opportunities. The old version let you filter through the information based on a particular region of the world or a certain type of program. For example, you could isolate the information to only look at Microsoft’s efforts around improving disaster recovery, or how we’re helping women in developing countries to start their own businesses.  You could also view a variety of statistics about Microsoft programs, like the size of the company’s work force in an area, or the economic impact of technology.This new version, launched last week, gives you access to the same information, but it lets you do so in a way that’s far more exploratory and immersive. Using the satellite imagery from Bing Maps, you can click on a particular country to see a list of the different programs that we’re involved in. You can also get a glimpse at related statistics about a country, along with some pretty amazing maps that show a particular Microsoft program’s effectiveness in different countries around the world. I think it’s a terrific example of what’s possible on top of Bing Maps and at the same time humbling to see the impact our technology and our employees are having around the world.A friend of mine coined the phrase “Microsoft – change the world or go home”…I think this is what he was referring to.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

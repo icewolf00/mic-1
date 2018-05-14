@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 13, 2015
+
+									|										
+George Thomas Jr. - Web Content Manager
+
+The advent of mobile phones on cameras has made it all too easy to capture hundreds of special moments in any given day: parties, reunions, even entire vacations.But with all those photos comes the time-consuming task of manually sifting through them to decide what to share.Now, there’s an app that lets you focus on the sharing, not the selecting.Photo Story, a new Windows Phone app that automatically chooses the best representative photos of an event and organizes them into a themed video, complete with stylized music and editing, allows you to easily share via email or social media.“People want immediate gratification,” said Krishnan Ramnath, a senior research software development engineer in Microsoft’s computational photography group, who led the development of Photo Story.The app, a Microsoft Garage Project, relies on machine learning and computer vision to auto-select the best representative photos, so there’s no risk of including duplicates or low quality photos.Photo Story’s algorithm isn’t just looking for technical quality, such as whether or not it’s blurry or the exposure is correct. It also evaluates for what Ramnath refers to “interestingness.”“You can also have a very high-quality photo of a road or a blade of grass, but that’s not necessarily interesting enough to qualify for the story,” Ramnath noted.Photo Story also offers the ability to stylize your videos with engaging effects, transitions and background music called themes.“We optimized the themes to render well on a mobile device,” says Celso Gomes, a senior UX designer who worked on the theme generation.Ramnath said Photo Story also won’t create stories that are too large to share.“For example, if you took 200 photos, the algorithm understands that five may not be enough photos. Likewise, it doesn’t choose too many,” he said.Because Photo Story runs everything on the device, you don’t have to wait for uploads and downloads.“We want the user to get immediate access to the story,” Ramnath said.Photo Story also is integrated with Cortana, Microsoft’s intelligent personal assistant. Want to give it a try? Just say, “Story from today,” and Photo Story will begin auto-selecting your photos from the day.Related links: 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

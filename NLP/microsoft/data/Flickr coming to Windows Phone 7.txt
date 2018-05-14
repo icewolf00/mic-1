@@ -1,0 +1,35 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 7, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+
+
+Though I now upload most of my photos from my phone to Facebook or SkyDrive, it’s cool to see Flickr it coming to Windows Phone 7. It looks like they’ve done a beautiful job with the UI and the idea hubs concept. You’ll notice the video also shows a native Windows 7 application and at the back end, they’re using Windows Azure to convert images on the fly in to the best display format for the device. On Windows Phone 7, the live tile will show the latest images you’ve uploaded. coming soon…I’ll update with a link as soon as available or enter your email on the Flickr site which also enters you for a draw to win one of 9 Dell Inspiron Duo devices. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

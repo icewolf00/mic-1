@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 14, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+When I first saw Aviary I immediately emailed the team behind the app asking them when it was coming to Windows Phone. The answer is today – sort of. The Aviary team today released the Aviary SDK for Windows Phone.Now, you may be asking why Aviary hasn’t released an app – I did. Well they’re much more than an app – they’re a platform and their philosophy fits very nicely with the overall approach of Windows Phone where the concentration is on getting stuff done rather than moving in and out of apps. As their website notes, the Aviary editor is embeddable, and can be added to any website or mobile app with just a few lines of code. Try their web demo to get a sense of how powerful this concept is.So what sets Aviary on Windows Phone apart from other devices aside from that joint philosophy? Well they’re taking advantage of some amazing cameras such as the Carl Zeiss lensed one I have on my Nokia Lumia 800 – and they’re making great use of the panoramic Metro style UI. They already have a number of partners working away on integration. Plus they have on feature that is not available on any of the other platforms. Photo Genius is an API that gives developers a score for a photo and a set of suggested ways to automatically enhance the image.  Based on the photo score (good, bad, or average photo quality), they can decide if they want toCool stuff and the folks from Rowi, 4th & Mayor, Rekap and Postcard on the Run all agree as they’re building with Aviary now.Check out the demo to see it in action and if you’re a Windows Phone dev, go grab it now!Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

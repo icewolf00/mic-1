@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 18, 2016
+
+									|										
+Allison Linn
+
+A team of researchers from Microsoft and the Broad Institute of MIT and Harvard has developed a new system that allows researchers to more quickly and effectively use the powerful gene editing tool CRISPR.The system, unveiled Monday and dubbed Azimuth, uses machine learning, in which a computer takes a limited set of training data and uses that to learn how to make predictions about data it hasn’t yet seen.In this case, the machine learning system is being used to predict which part of a gene to target when a scientist wants to knockout – or shut off – a gene. Machine learning enables the model to make predictions for any gene of interest, including those not seen in the experimental training data.The two Microsoft researchers who led the computational modelling aspect of the project, Jennifer Listgarten and Nicolo Fusi, got excited about working on CRISPR after they happened to attend a lecture given by their future collaborator, John Doench, an associate director at the Broad Institute who led the biological portion of the project.The partnership allowed the two sets of researchers, who are working on the bleeding edge of machine learning and gene editing, respectively, to collaborate on ways to advance the revolutionary new CRISPR technology.“We couldn’t have done it without them and they couldn’t have done it without us,” Listgarten said.Other computer scientists have tried to apply machine learning to CRISPR. Fusi said this project uses a more sophisticated machine learning model than previous efforts, and it also takes into account what worked and what didn’t with the previous models.“Our goal was to not only understand why some features were important, but also to comprehensively evaluate all the other work that had been done before,” Fusi said.The research team, which also includes collaborators from the Dana-Farber Cancer Institute and Washington University School of Medicine, published their findings this week in the journal Nature Biotechnology. In addition to the computational modelling, the team also released screening libraries that will help scientists more easily identify which of the hundreds, if not thousands, of places within a gene they should target with CRISPR to get the result they want.CRISPR – it stands for clustered regularly interspaced short palindromic repeats – makes it much easier to precisely edit the DNA of living cells. Experts say CRISPR holds the promise of eventually allowing scientists to make major breakthroughs such as eradicating malaria.“This is ultimately going to be a powerful approach, but there are many, many technical hurdles that stand in the way of having a direct impact on human health,” Doench said.One of those big hurdles: Figuring out where exactly in a gene you want to use CRISPR to achieve the desired result. To do that manually requires hours in the lab, a generous research budget – and lots of trial and error.“Very few people have the expertise or the resources or the time to do this kind of work,” Fusi said.With the Azimuth machine learning tools, Doench said researchers will be able to streamline that process.Listgarten and Fusi, who work out of Microsoft Research’s Cambridge, Massachusetts, lab, said scientists can use their models to figure out the best approach to take to shut down a gene.The researchers are continuing their collaboration with a predictive analysis project that also will make it easier for researchers to figure out when and where the use of CRISPR to edit one gene will have unintended consequences elsewhere in the genome. Researchers call this an “off target” effect and it’s one of the biggest hurdles to using CRISPR for things like curing diseases in humans.The ability to edit genes has long been one of the core goals of molecular biology, and other tools have been developed to perform that task. But CRISPR, which uses the mechanisms found in bacteria as the basis for its editing ability, is considered much more scalable and precise than previous efforts.Scientists say CRISPR has the potential to help researchers understand when someone might become resistant to a cancer drug or an antibiotic, fix the mutation that causes sickle cell anemia and help with the quest to cure a rare form of blindness. It also could be used for non-medical purposes, such as to create crops that are more resilient in the face of climate change and other challenges.“CRISPR is really revolutionizing many fields at once,” Listgarten said.Related:Read the full paper in the journal Nature BiotechnologyRead the Broad Institute’s blog post about the researchLearn more about Microsoft Research’s work in computational biologyLearn more about the Broad Institute of MIT and Harvard.Follow Nicolo Fusi on TwitterAllison Linn is a senior writer at Microsoft Research. Follow her on Twitter.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

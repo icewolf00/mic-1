@@ -1,0 +1,37 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 10, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+
+
+Lots of folks have been playing around and coming up with new ideas for ways to use the Kinect sensor. Here’s what the Xbox team has been up to – Avatar Kinect was announced at CES last week and Electric Pig called it the Star Trek Holodeck in beta. I’m inclined to call it another small step in the natural user interface journey and Popular Mechanics placed it in their Top 19 Gadgets at CES 2011: Editors Choice Awards. It’s coming soon (and for free) to all Xbox Live Gold subscribers and I’m wondering if I can start using the newsroom set that is included to broadcast What’s Next News with my Avatar given he’s remarkably better looking and erudite than I am. Hmmm. Meantime, here is how Steve Ballmer introduced it…
+
+<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

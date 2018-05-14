@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 29, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+During several talks I have given recently I’ve mentioned Microsoft’s desire to turn every surface into an interactive digital surface. During the talk I gave at the PSFK New York event, I showed how some of this is coming to life with Microsoft Research projects such as Illumishare and the Wearable Projector. But this isn’t just a Microsoft quest – it’s something we want to enable everyone to do and Kinect for Windows is a big part of that.When I saw what Ubi-Interactive had done with Kinect for Windows my response was simple. I want this, and I want it now.Ubi are one of the 11 startups participating in the Kinect Accelerator program here in Seattle. They’re housed at our Westlake offices in South Lake Union which is a vibrant community of startups alongside the growing presence of Amazon. I was invited to visit the Accelerator a few weeks ago and met with Dave Malcolm, the Managing Director from TechStars, who have partnered with Microsoft to run the program.One of the demos I saw that day was Ubi’s application that aims to (in their words) “make any surface interactive”. I was intrigued and asked the Munich based team to show me what they had, especially as they also said “any surface, any display, any application”. HmmmSo David Hajizadeh, Anup Chathoth and Chao Zhang set about showing me what they had. Rigged up on a 10 foot pole was an off the shelf projector and a Kinect for Windows sensor. On screen, I saw rudimentary menu of applications that didn’t really prepare me for what was to come. David tapped an icon for PowerPoint and a slideshow appeared on the wall in front of us – nothing remarkable about that until each touch on the wall moves us through the slides. Literally, the wall was now an interactive digital display. Next up was Internet Explorer, a NY Times reader application and best of all, the Surface Globe application. That final app showed how their tracking was accurate enough to sense gestures such as stretch and pinch – we had a 10ft map on the wall that we could navigate around, Minority Report style.Once you get your head around what they have enabled, you begin to realize the potential. Pretty much any surface can now become a digital interactive surface – tables, walls, even windows of retail stores. And they’ve been doing their homework too as they know that in the US alone there are 520k office spaces and 500k digital signage spaces that their solution could target. Outside of that realm, the potential for low cost interactive displays in museums, classrooms and in public spaces is very real. I saw a newer version of the demo whilst touring the space last week with Nate Lanxon from Wired.co.uk – check out his post to see his thoughts and a video he shot during the tour. Of course there will be challenges with lighting in some spaces but I could literally see me having this in my home before the end of the year – projected on to my Kitchen table or the living room wall. The Kinect for Windows sensor, with a relatively small (even pico) projector and a small Windows Embedded unit could be packaged up discreetly and at relatively low cost.I saw a more recent demo last week where the guys showed applications such as Angry Birds on a range of surfaces and with different projectors. My reaction was the same. I want this, and I want it now.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

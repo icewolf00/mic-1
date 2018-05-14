@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 21, 2017
+
+									|										
+Allison Linn
+
+Microsoft is making a cloud service that uses artificial intelligence to track down bugs in software generally available, and it will begin offering a preview version of the tool for Linux users as well.Microsoft Security Risk Detection, previously known as Project Springfield, is a cloud-based tool that developers can use to look for bugs and other security vulnerabilities in the software they are preparing to release or use. The tool is designed to catch the vulnerabilities before the software goes out the door, saving companies the heartache of having to patch a bug, deal with crashes or respond to an attack after it has been released.David Molnar, the Microsoft researcher who leads the group delivering the risk detection tool, said companies have traditionally hired security experts to do this kind of work, which is called fuzz testing, if they did it at all. As the sheer volume of software that companies create and use has increased, it’s gotten harder to keep up with the dizzying pace of testing so much software – but more important than ever to keep systems safe from attackers.He said the risk-detection service can act as a sort of additional helper, augmenting the work developers already do by using artificial intelligence to look for security problems.“We use AI to automate the same reasoning process that you or I would use to find a bug, and we scale it out with the power of the cloud,” he said.Fuzz testing is one of many security measures experts recommend for keeping systems safe. It looks for vulnerabilities that could allow bad actors to launch malicious attacks or simply crash the system. Fuzz testing is designed to find the vulnerabilities; developers can then use other tools to fix the bugs, mitigate the risk or explore another solution.The Microsoft Security Risk Detection service is unique in that it uses artificial intelligence to ask a series of “what if” questions to try to root out what might trigger a crash and signal a security concern. Each time it runs, it hones in on the areas that are most critical, looking for vulnerabilities that other tools that don’t take an intelligent approach might miss.Molnar said the tool is ideal for companies that build software themselves, modify off-the-shelf software or license open source offerings.John Heasman, senior director of software security at DocuSign, said his company was part of a small trial of the Windows version of the risk detection tool, which was released in preview last fall.For DocuSign, which facilitates the ability to sign documents electronically instead of by hand, Heasman said the tool helped them identify potential bugs they might not have otherwise found.He said it also was especially helpful because it almost never returned false positives, which are potential bugs that turn out not to be problematic. False positives are a key problem for the industry because it takes so much time to investigate each one and security experts risk missing real bugs because they have so many false ones to sort through.“It’s rare that these solutions have such a low rate of false positives,” Heasman said.Heasman said DocuSign used Microsoft Security Risk Detection to look for bugs and vulnerabilities in software it had bought or licensed and wanted to incorporate into its particularly software involved with handling documents uploaded to the platform, which could contain malicious content. The goal was to identify problems proactively and avoid potential attacks.“We used Microsoft Security Risk Detection as an extra step of assurance,” he said.Molnar said the tool also has proved especially helpful for companies that are going through a massive digital transformation, incorporating technology into processes that used to either be done manually or utilized much simpler technology.The people who work at those companies may be the world’s experts at their core business offering – whether it’s brewing beer or selling ice cream – but they don’t necessarily have the staff to do sophisticated security testing of all the new software they want to use, he noted.Roots in Microsoft’s own security testing
+Microsoft itself has been using a key component of Microsoft Security Risk Detection, called SAGE, since the mid-2000s, starting with versions of Windows, Office and other products. The risk detection tool is currently being used by several product teams as part of the Microsoft Security Development Lifecycle.Microsoft Risk Detection Service bundles SAGE with other fuzzing tools, and adds a user-friendly dashboard and other tools. It runs on the Microsoft Azure cloud.Microsoft plans to offer the tool for sale in late summer through Microsoft Services. Developers can sign up to learn more about the Windows version or Linux preview on the Microsoft Security Risk Detection website.Related:Allison Linn is a senior writer at Microsoft. Follow her on Twitter.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

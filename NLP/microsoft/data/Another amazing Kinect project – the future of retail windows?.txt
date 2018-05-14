@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 24, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+A few months back I highlighted some work from the team at Second Story, a Portland based creative studio. They created some impressive interactive installations at the World of Coca Cola in Atlanta and used the latest Kinect SDK head tracking capability with an EL screen from Planar to create an amazing display.They’ve taken that second project one step further and as shown in the video above, they’re now augmenting physical objects on the Planar screen using head tracking. The effect is breathtaking.I can foresee a wide range of uses – imagine walking up to a retail store window and having the objects in the window augmented based on your presence – no need to hold up your phone for AR when the display along with a Kinect can augment the world around us. Imagine this being used in a gallery to display art that’s augmented with the history of the artist, other works etc.The Kinect Effect keeps on giving.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

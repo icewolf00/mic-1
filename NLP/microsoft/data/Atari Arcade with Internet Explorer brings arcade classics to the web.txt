@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 30, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ “There’s actually a ‘game’ DNA that exists in Microsoft that doesn’t exist anywhere else.” – Nolan Bushnell, Founder, Atari One of my first memories of the Microsoft Redmond campus when I visited 15 years ago were the arcade games in the lobby’s and corridors of certain buildings. Little did I know that 15 years on I’d be able to sit at my desk and play those awesome classic games through the browser on my PC.A team from Atari, Gskinner and Microsoft has done precisely that, launching The Atari Arcade. Using mouse and keyboard or touch in IE10 on Windows 8 you can now play classics such as Centipede, Lunar Lander, Missile Command, Asteroids and of course, Pong!Today, eight Atari classics are available for play on IE 9 and IE10, with more scheduled for release in the next few months. There is also an SDK enabling use of the Atari Arcade platform to create more modern-day classics. I’m testing out Pong right now…purely for work purposes of course.Hear more form Nolan Bushnell and the team on the work behind the scenes to create the arcade and on the Exploring IE blog. 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

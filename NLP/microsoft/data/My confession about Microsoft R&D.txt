@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 9, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Yesterday I published a post on the Official Microsoft blog (OMB) that focused on the $9bn we spend each year on R&D and how we turn that in to products – it was accompanied by an infographic that showed how some of that process happens.Now it’s time for a confession – for a few years during my early career at Microsoft, I thought all those billions of dollars of R&D investment went in to Microsoft Research (MSR) and I wondered where it all got spent. It turns out I was wrong. Very wrong. R&D does not = MSR. It’s obvious when I think about it but R = MSR while D = products. Therefore, our R&D investment not only pays for the work of the smart folks in MSR but also the products we release – products such as Windows, Office, Xbox, Bing, Azure and many many more. I fell in to the stereotype trap of thinking R&D is all about folks in white lab coats working on future research. At the same time, I hadn’t grasped the nuance that development means real shipping products. It feels a bit “duh” now 🙂 However, I confess this as a noble act (cough) as I worry that others may fall in to the same trap and then wonder, what does MSR spend all of that money on? As I noted in the OMB post, we have 850 Ph.D.-level researchers in Microsoft Research and around 40,000 developers in our product teams – that should give an indication of how we balance that $9 billion between research and the development of shipping products. I call it small r and big D. With that little confession out of the way, we can return to normal programming and I can finish up my reporting on TechFest this week – where our small r folks in Microsoft Research show that their work is anything but small! <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

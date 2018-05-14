@@ -1,0 +1,37 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 1, 2010
+
+									|										
+glgwhitey - Microsoft News Center Staff
+
+I stumbled across this Mark Lukas
+video and realised I’ve seen technology that can make this happen – recently in fact.Andy Wilson from Microsoft Research showed a technology called Lightspace
+at the UIST conference last month. The technology combines surface
+computing and augmented reality to make any surface and even the space between
+surfaces interactive. Andy and Hrvoje Benko show the technology in plenty of
+detail in the MSR video. Their video goes way beyond augmented reality books to
+be honest, though I do look forward to the day I can take a
+book, set it down on my coffee table and have my living room light up with the
+contents of the book and a whole set of related content.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

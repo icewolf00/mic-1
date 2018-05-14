@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 8, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+ Art was one of my chosen classes back at school but it was a bad choice as I’m really a lost cause when it comes to drawing.That makes ShadowDraw one of my favorite demos at TechFest today. Using object recognition and a database of 30,000 images, ShadowDraw is an interactive assistant for freehand drawing. It recognizes what you’re trying to draw and suggests traceable pen strokes to improve your drawing. It’s like having an art teacher sat by your side, helping guide the pencil – or the age old tracing paper trick that made perfect drawings. The more you draw, the smarter the system gets – as you can see in the video when Larry draws a face and a bike. The system is also intelligent in the way it fades the image when it’s not needed or you want a clean image.I just had the chance to play with this for a few minutes and can report that it’s as good as it looks. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

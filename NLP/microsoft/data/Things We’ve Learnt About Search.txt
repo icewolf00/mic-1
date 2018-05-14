@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 5, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+The Socio-Digital Systems (SDS) group at Microsoft Research Cambridge has just published the latest offering in their Things We’ve Learnt About… series. This one focuses on search and as usual is a visual treat.Things kick off with a look beyond search as we think of it in the traditional sense and really encapsulates how far search has come from intentional search. From there, chapter two looks at search as a tool for taking journeys on the web and it reminded me of some of the work Microsoft Research has done with projects such as Worldwide Telescope – where a search is an entry point for a longer journey. Similarly, chapter 3 reminds me of another MSR project – so.cl – which uses search as a way of collecting.Chapters 4 and 5 cover personalized search and social search respectively and chapter 6 leaps to location based search, tackling it in a different way than you may expect. What would it mean to have a search engine designed for the home for example.The magazine concludes by exploring whether search is just making us more lazy and dumb and suggested that may not be the case given the teams’ research.It’s a fun, engaging read as always from SDS. If you missed their earlier publications check out the Things We’ve Learnt About… site.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

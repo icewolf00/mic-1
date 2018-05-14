@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 17, 2015
+
+									|										
+Allison Linn
+
+Let’s say you’re playing a video game. Instead of using a controller to pick something up, what if you could reach out your hand and just grab it?Or, let’s say you speak sign language and are trying to communicate with someone who doesn’t. Imagine a world in which a computer could track your hand motions to such a detailed degree that it could translate your sign language into the spoken word, breaking down a substantial communication barrier.Researchers at Microsoft have developed a system that can track – in real time – all the sophisticated and nuanced hand motions that people make in their everyday lives.The Handpose system could eventually be used by everyone from law enforcement officials directing robots into dangerous situations to office workers who want to sort through e-mail or read documents with a few flips of the wrist instead of taps on a keyboard.It also opens up vast possibilities for the world of virtual reality video gaming, said Lucas Bordeaux, a senior research software development engineer with Microsoft Research, which developed Handpose. For one thing, it stands to resolve the disorienting feeling people get when they’re exploring virtual reality and stick their own hand in the frame, but see nothing.Microsoft researchers will present the Handpose paper at this year’s CHI conference on human-computer interaction in Seoul, where it has received a Best of CHI Honorable Mention Award.Handpose uses a camera to track a person’s hand movements. The system is different from previous hand-tracking technology in that it has been designed to accommodate much more flexible setups. That lets the user do things like get up and move around a room while the camera follows everything from zig-zag motions to thumbs-up signs, in real time.The system can use a basic Kinect system, just like many people have on their own Xbox game console at home. But unlike the current home model, which tracks whole body movements, this system is designed to recognize the smaller and more subtle movements of the hand and fingers.It turns out, it’s a lot more difficult for the computer to figure out what a hand is doing than to follow the whole body.“Tracking the hand, and articulation of the hand, is a much harder problem,” said Jonathan Taylor, a Microsoft researcher who also worked on the project.That’s partly because the parts of the hands are smaller than a full body, and it’s partly because people have lots of flexibility in their fingers and wrists. That means we can move them in subtle and complex ways, which can result in fingers that are hidden from the camera. Even fingers that can be seen are difficult to differentiate from each other.These factors can quickly compound, making it hard for a computer, and sometimes even a human, to figure out what the hand is actually doing.The researchers initially tried to use machine learning to teach the computer how to infer hand poses by allowing it to learn from a plethora of labelled images. That’s the system that had previously worked so well for whole body pose estimation.That was part of the solution, but it wasn’t enough to get the quality they wanted, so they added another element: 3D hand modeling. Combining the two systems allowed them to track hands in real time in ways that they hadn’t before, Taylor said.In the short term, the researchers hope the system will be incorporated into technologies we use in our everyday lives, whether for fun or work.In the long run, the ability for computers to understand hand motions also will have important implications for the future of artificial intelligence, said Jamie Shotton, a principal researcher in computer vision who worked on the project.That’s because it provides another step toward helping computers interpret our body language, including everything from what kind of mood we are in to what we want them to do when we point at something.In addition, the ability for computers to understand more nuanced hand motions could make it easier for us to teach robots how to do certain things, like open a jar.“The whole artificial intelligence space gets lit up by this,” Shotton said.Related:Accurate, Robust, and Flexible Real-Time Hand Tracking  
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

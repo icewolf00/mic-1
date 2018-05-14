@@ -1,0 +1,36 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 11, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+ I’m a fan of Bill Buxton and his many quotes – one I like in particular is By this I think Bill means that different tools are needed for different tasks. For artists, jabbing at a screen with your index finger to create a painting will be a pretty unsatisfactory experience. Brushes of different widths and styles are the tools of the trade and a new installation at the Museum of Modern Art in New York sees these tools brought to life in the digital world. Microsoft Digital Art is a realistic painting system prototype created by Microsoft Research and was recently installed as part of the museum’s Material Lab interactive installation. The lab setup includes three terminals where users can draw and paint in oils, pastels and more, using their fingers or actual paintbrushes. If you’re not in New York, you’re going to want to go there after you watch this demo video:
+
+<!--
+    document.write("<script type='text/javascript' src="" + (window.location.protocol) + "//c.microsoft.com/ms.js" mce_src="http://blogs.technet.com/controlpanel/blogs/posteditor.aspx/&quot; + (window.location.protocol) + &quot;/c.microsoft.com/ms.js"" + "'>");
+// -->It’s is a great example of how natural user interfaces can be used to give people an authentic creative experience. The application lets you choose and mix colors, use different brush widths and textures, and try the brush strokes and techniques that work best for you. And it solves a problem for the museum; as this piece in the Wall Street Journal notes, MoMA had no way to include actual painting in the Material Lab program because there were no sinks in the workspace. Nice….now I’d love to see this combined with ShadowDraw. The program runs through Aug. 29, and is free with museum admission and you can see some of the work crated using Digital Art in the online gallery. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

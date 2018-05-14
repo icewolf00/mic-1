@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 23, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Kinect for Windows is one of our favorite technologies here on /NEXT. It’s constantly breaking new ground in the area of natural user interfaces, thanks both to the team’s steady beat of enhancements to the product and the many incredible ways that people use it to improve their world.Today marks a milestone on both fronts with the announcement that a new-generation Kinect for Windows sensor is coming next year, bringing new capabilities that will revolutionize our interactions with computers just as the new Kinect sensor for Xbox One will bring new power to gaming and entertainment.Here’s a quick look at what’s new in the next-generation Kinect for Windows sensor: Sharper eyes and ears. Thanks to an HD color camera and new noise-isolating microphone array, the new sensor is more attentive than ever to your voice and gesture commands.Broader perspective. The new sensor’s wider field of view makes it more adaptable to different room sizes and configurations, freeing up developers to put Kinect for Windows to work in an expanded range of environments.More precise body tracking. Improved skeletal tracking allows the sensor to track more points on a human body, and also track six people at once, making Kinect for Windows a more powerful tool for applications from physical therapy to retail. For a more detailed look under the hood, check out today’s announcement on the Kinect for Windows blog , and watch for more information coming out of BUILD 2013 next month.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,34 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 1, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+
+
+My pals over on the Windows Team blog have all the details – as do the team at Flickr. Their app for Windows Phone 7 is one of the most beautiful apps out there and they’ve updated to version 1.1 with a further update not far away apparently. You can grab the latest version from the MarketplaceThere’s also a Windows 7 app which is pretty sweet lookin’ too including Context View which allows you to zoom out from a photo in lightbox view and get more information such as other photos in the set, group, from a contact or nearby on a map.Best of all, they’re both free <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 8, 2016
+
+									|										
+Allison Linn
+
+When Microsoft released the Kinect system for playing Xbox video games about five years ago, it attracted the interest of an unlikely source: the healthcare company Novartis.For years, Novartis has been trying to find more consistent ways to quantify whether the treatments it is developing for multiple sclerosis are working, but assessing whether a patient’s symptoms are stabilizing or getting worse is complicated. The possibility of using computer vision, which is the type of technology found in the Kinect system, was intriguing. Using a tool like the Kinect, the researchers at Novartis figured they could get a more consistent reading of how a patient performed on a set of standardized tests for MS patients, bringing a new level of uniformity that would help doctors better assess the progress of the disease. That, in turn, could speed up the process of getting the right treatments to patients. To find out more about the Assess MS research project that resulted from that idea, read the full story. 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,35 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 17, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Nope, not a new codename (sorry MJF) – Firenze is a student competition that has been running for a few years that brings a philosophy known as BXT to life. BXT = Business, user eXperience and Technology. By bringing together these three disciplines it’s likely that you’ll end up with a more balanced product – one that isn’t all tech, isn’t all design and exists with a business model. That’s the idea and Firenze seeks to bring this to life with some real world Microsoft projects.In its 5th year and 6th iteration – Firenze|BXT is unique in student competitions that we have a mandatory requirement of student teams to be cross pollinated each from the business school, design/art school and engineering/science schools with multi-disciplinary deliverables.Universities can be as siloed as business so Firenze seeks to bring down some of those barriers – and with a good degree of success to date. Last year, 256 students from over16 schools across 5 universities participated. Every year, Firenze is run by a team loosely created by volunteers across Microsoft and  I’m pleased to say I’ll be part of the crew hosting the finals here in February. The teams are asked to work on real world Microsoft projects backed by Microsoft groups in the consumer space and from what I can see, they get subjected to some of the same rigorous questioning our own teams do when presenting ideas and results to executives. I can assure you though that not furniture will be damaged in the process 🙂For 2011 our participating universities are Carnegie Mellon University, Cornell University, New York University, University of Michigan and Ohio State University. Round 1 started back in November and in late November thru early December, innovation workshops took place on each campus.  Last week, the prelim rounds ended and students sent their submissions in. This week, the finalists are announced and on January 24th & 25th the university finals conducted through LiveMeeting. That takes us through to January 28th when the university winners are announced. Then it’s on to the final weekend here in Redmond on February 5th & 6th where a large group of Microsoft volunteers get involved in helping coach the teams and offering input. The overall winning team will be eligible for a prize award of US$20,000
+
+Firenze is well underway and you can track it on the Facebook site as well as the Firenze blog (the former is more up to date)One obvious question. Do we recruit folks from Firenze? I asked this of the team and they responded in the affirmative – we find a lot of talent through this process. Hopefully it helps change perception about Microsoft too – the latest video on the YouTube channel starring James Liu acknowledged something I’ve been pleasantly surprised to find here in Redmond – Microsoft does get design. You may not see it too often but it’s a topic I’ll come back to soon as we dig deeper in to BXT. For now, good luck to the students and I’m looking forward to hearing about the finalists. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

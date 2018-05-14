@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 5, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+You’ve probably heard the phrase “digital memories” many times and like me, you likely think of this as digital photos and perhaps emails or other personal information that reside on a computer somewhere. Ask most people and I think they’d generally think this meant photos. I did until I read the latest publication from the Socio-Digital Systems (SDS) in Microsoft Research, Cambridge, UK.In August last year I posted about the first edition of their publication titled Things We’ve Learnt About Communications and recently the team issued their second edition, Things We’ve Learnt About Memory. Setting aside the conundrum I find myself in with the spelling of learnt vs. learned, it’s a thought provoking read. In a world where we’re leaving so many digital footprints on not only our own devices but also in services like Twitter, Facebook, Flickr, blogs etc., the publication explores some questions I’d never even considered.The first four chapters of the 38-page PDF are fascinating and encapsulate over 5 years of research and design work regarding the role technology plays in supporting memory. The team details the “5 R’s” of memory – Recollecting, Reminiscing, Retrieving, Reflecting and Remembering Intentions – and the implications these hold when thinking about designing a product. The publication also discusses a number of projects the SDS team has undertaken from building physical artifacts to assist with memories as well as interviews in the field.Chapter 6 deals with the future of looking back. But chapter 5 is really stuck in my mind…in fact it’s still there, front and center of my memory. What happens to our digital footprints when we die? Not to be overly morbid but unlike generations before us who left shoeboxes of photographs and physical heirlooms, our generation and those that follow will leave terabytes of data in the form of hard disks, mobile phones, data in the cloud on the services I mentioned above. This presents some real challenges with data ownership but also opportunities to have a story live on.It actually left me wondering whether I need to write a digital will of sorts. In fact I’m still wondering about it and genuinely considering it. A search on the web proved I’m not alone in this thinking and it really does raise some pretty profound questions for individuals and service providers and for that alone, Things We’ve Learnt About Memory is well worth a read.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

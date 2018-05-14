@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 28, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Anyone who has ever studied for a college exam or played a memory recall game like Concentration can safely vouch that there’s always been more information available than a person could easily process. So whenever discussion turns to the explosion of Big Data, there’s frequently a discussion about how to make sense of all this new information.For anyone who’s a skeptic, I humbly offer up Chronozoom, a joint project that’s being spearheaded by Outercurve and includes the work of Microsoft Research, the University of California, Berkeley, and Moscow State University. Some of you may recall reading about Chronozoom a few weeks ago when I wrote about Rane Johnson-Stempson, a Principal Research Director at Microsoft Research. Well her team just released a video that shows Chronozoom v.2 in action and it’s some pretty amazing stuff.Briefly, Chronozoom brings together numerous types of data about the history of the universe, from today, all the way back to the second 13.7 billion years ago when scientists believe the cosmos came into being. Whether you’re looking for information about an event in history or a better understanding of the field of particle physics, Chronozoom provides a central location where you can access this data, work together on projects and get a better understanding of how events from two different fields of study can interrelate.Chronozoom provides professors, researchers and students with an interface that’s designed around the paradigm of a timeline, making it much easier to navigate and find audio, lectures, schematics and other content that’s stored on Windows Azure. There’s also a bibliography that directs you to other sources of information.The idea behind Chronozoom really stems from the concept of Big History, which is focused on tearing down the silos that for so long have separated the subjects of science, geography and history. When this is done, it will give us a more complete understanding of the world we live in and how we got to where we are today. The team who built Chronozoom have done a fabulous job with the interface, and it’s clear that a lot of work and dedication has been put into this project.As always, the video does a much better job of explaining what Chronozoom does, so check it out.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

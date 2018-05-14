@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 6, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+A few weeks ago, a friend of mine dropped me a line to ask about putting a Microsoft Tag on a car he was working on – mentioning something about moving fast. He actually meant very fast – like 1000mph fast. The “car” he had in mind is Bloodhound SSC, the latest attempt on the land speed record by Richard Noble and his team. They’re looking to top the existing record of 622.407 mph held by Gary Gabelich in Blue Flame. 1000mph seems like a nice round number to aim for. [update] correction thanks to Bruce Lynn – the current land speed record is 763.035 mph (not ‘622.402’) and it is held by Noble’s previous team/project ‘ThrustSSC’. Also adding a video I found to complementIn full flight, I don’t envisage too many people taking snaps of the Microsoft Tag. However, before and afterwards, the vehicle will be on show in many places and Tag is a great way for people to get more info. There is a ton more info to be had on the car alone. Interested in the 0-1000mph time? Projected at 42 seconds. Nice. So who are Cosworth and where do they come in to this? Motorsport aficionados and petrol heads will be familiar with the company who are renowned for their prowess in engine design and advanced electronics. I love the fact that Bloodhound is using a 750+bhp Cosworth Formula 1 engine simply to provide hydraulic services to the car and to drive the rocket oxidizer pump. Yes, an F1 engine purely an an auxiliary “tool” to support the two power plants. Two power plants you say? Yes, a Eurojet EJ200 Typhoon jet engine…and a Falcon rocket. And to think I used to get excited by the Ford Sierra Cosworth RS500 road car. Anyhoo…the project is hoping to make an attempt on the record in 2012 so for now, here’s a glimpse of the car standing still.  <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

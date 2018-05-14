@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 31, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Catching up on my reading this weekend and I noticed Dan Reed’s post talking about the intersection of mobile devices and the cloud. I’m sure you’ve heard the term “Internet of things” which is a reference to the amount of Internet connected “things” in the world today. Not just PC’s and phones but our cars, homes, and everyday objects like advertising billboards, road signs, street signs etc.As I mentioned in the recent post on NUI in HTC phones, we’re also seeing a proliferation of sensors in our world – GPS sensors are everywhere, accelerometers are becoming more commonplace. Light sensors are already ubiquitous (think of your alarm system at home) and heat sensors are also very common. When you start to integrate these connected devices, sensors and the cloud you get two things – a LOT of data and a lot of potential to have technology work on our behalf and make intelligent decisions or help us complete the tasks we’re doing. Some of this is here already of course – applications on our smartphones know when we perform a search for movies we’re likely to be interested in where that movies is playing locally and at what time. My car is connected to my phone so I can play audio and make calls but it’s not yet made the leap to pre-program the route to my next appointment – which is on my phone of course. Again, that’s not a big leap – it’s actually just a small amount of code. There are many more scenarios that begin to become possible – when I check in to a hotel, there is still to much systems integration for me to do to hook up my PC, music player and phone to the hotels systems. All of that could be stores in an online profile in the cloud to make my life easier – right now those systems are designed to make the hotel chain’s life easier  When I’m out and about, the potential for connecting to sensors is huge – street signs that adapt to me, road signs that are personalized and the potential for upload of data from my car to the cloud is huge – collective traffic movements uploaded to the cloud could help everyone avoid gridlock for example. The list is endless and we’re now reaching a point where these scenarios are possible – the connectivity is increasingly in place and our sensors are getting hooked up to the grid. That presents some challenges too and we’re focused on the social side of things as much as the tech side here at Microsoft – folks like our Socio Digital Systems team in MSR, Cambridge think about this stuff in detail. Dan’s post talks of a project from MSR called the intelligent memory assistant which I like the sound of – a assistant that gives you what sounds like photographic memory for people, places and the like. If we can hook that up to the contact lenses with LED’s that I saw last week, we’re entering a new realm of augmented reality.   So What’s Next? A world of ambient intelligence where technology is truly helping rather than hindering us. At last, I’ll my lost car keys will be able to find me, rather than the other way around <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

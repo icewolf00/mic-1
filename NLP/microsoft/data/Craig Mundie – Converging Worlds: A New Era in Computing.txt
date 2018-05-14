@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+October 10, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Craig Mundie visited a number of universities in the USA and Canada last week, engaging with the next generation of computer scientists, engineers, entrepreneurs, doctors, and educators to discuss what the future of technology holds, and how it will play a critical role in these and other fields.If you follow Craig, you’ll know that he’s spoken on numerous occasions recently about the transformation in how we’re interacting with computers and what we can expect from them in the future.He’s spoken about the appearance of more natural user interfaces (NUI) and the merging of the physical and digital worlds. One thing that Craig discussed a bit more last week was “Big Data.” The increasing number of intelligent devices in our world today means we’re generating unprecedented volumes of data.As the cost of storing and acquiring this data comes down rapidly, it will bring about new opportunities. The potential for gleaning meaningful insight from this information is enormous—technologies like Azure DataMarket help users use and access data in the cloud that can deliver enhanced analysis and understanding.One example of this that comes to mind for me is the flight-cost prediction service from Bing, which crunches massive amounts of data and quickly produces valuable results. Another area that I’ve touched on before is the visualization of big data—a field that I personally believe is set to explode. During Craig’s talks, he showed how the Visual Experience Engine (the technology that powers visualization in WorldWide Telescope) can be used to provide rich visualization of big data—in this case showing precipitation data in the US over a 30-year period. You simply couldn’t see this kind of detail, or perhaps notice that Seattle is not as rainy as the mountains that surround it, by looking at numbers alone.When you add machine learning — a branch of artificial intelligence that infers probability of events based on huge amounts of data and techniques such as pattern matching — to the mix of big data visualization, you’re able to get new insights about things you didn’t even know to look for. With the combination of big data and machine learning, systems can do much more for us. One example of this convergence that Craig also highlighted last week is the InnerEye Organ Navigator, which is able to identify specific organs in complex medical scans.Craig discussed several aspects of NUI, using some of the advances in Windows Phone 7.5 and the recently released Kinect SDK for Windows to illustrate some of the advances here. I’ve spoken a lot about NUI on this blog, so will skip to the final theme that Craig explored: the coming together of digital and physical worlds. Perhaps unsurprisingly, Kinect is playing a role here too. He also demonstrated KinectFusion, a Microsoft Research project, which uses a Kinect camera to create a real-time 3D model of an object, a person or even a whole room.Avatar Kinect is another example of the blurring of physical and digital worlds, a technology that enables people to meet together in the same virtual space, represented by avatars that mimic the facial expressions and movements they are making in the real world.The emergence of augmented reality will continue to blur these lines. Last week, I was listening to an IDC talk about the integration of physical and digital as we move to a world where billions of objects are digitally identifiable. When objects become connected and self-describing, it creates huge potential to merge these worlds: imagine always knowing the location of a favorite book, engaging in ever more immersive and realistic gaming experiences, or being able to more efficiently track goods through supply chains.One thing is for sure: whenever Craig talks, it’s always worth listening. He offers an exciting glimpse of the future that helps join the dots across the biggest trends in technology, inside and outside Microsoft.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

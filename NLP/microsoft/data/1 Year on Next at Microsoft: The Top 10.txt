@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 25, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+It’s hard to believe it’s been a year since we started this blog – we’ve covered a lot of ground so to round off this week of looking back, I thought I’d pull out my favorites of the year. Not necessarily the most viewed posts (though some are in there), more just a collection of posts I enjoyed writing.Official Kinect Developer Kit: now available for download – this was a favorite for me as I got to take part in the code camp event that took part on our campus in Redmond that preceded the launch. For 24 hours, a group of developers had early access to the SDK and created some amazing things. Fun times and this post rode up to second on Techmeme before being usurped by a great post from Wired about the SDK. What can a washing machine teach us about NUI? is a post I regularly refer to and the image above is one that regularly appears in my presentations – as recently as this week in London. The complexity of the washing machine dial is a great metaphor for the potential of natural user interfaces. A tour of my Microsoft workspace: Steve Clayton is a post I often point people back to. On the face it, a tour of my workspace is pretty boring – if you think my workspace is my desk. However, as I said earlier this week, my workspace is really all of Microsoft’s Redmond HQ. So click on through for a photo tour. My confession about Microsoft R&D was a post that linked to an Official Microsoft blog (OMB) I authored. It that focused on the $9bn we spend each year on R&D and how we turn that in to products – it was accompanied by an infographic that showed how some of that process happens. My confession was an admission that I, like many others it seems, had mis-understood where the vast majority of the $9bn is going. It ain’t to Microsoft Research. Microsoft Research shows Holodesk has to be in the top 10 list simply for the traffic it received. I sort of knew this would be a popular post as the accompanying video was terrific but even I didn’t expect Engadget, Gizmodo, Popular Science and the Huffington Post to pick up on it. If you haven’t seen it, go take a look at the video. Nokia Lumia 800: in-depth 8-minute video documentary – another great video, this time by our friends at Nokia. Beautifully done – just like the phone itself. Where wizards stay up late at Microsoft was a post that was almost a year in the making. It’s a profile of Stevie Bathiche that I wrote about 2 months in to the job but for a number of reasons, it took over a year to get it published. For me it was worth the wait. Forza Motorsport Pt2: The art of building ribbons – I enjoyed writing this post a lot. It took longer than many posts I’ve written, fact checking with the Turn 10 team and ensuring it painted an accurate picture of the work that went in to creating The Bernese Alps. It was helped by having a stunning video to accompany it. Oh and I think it was only me who noticed the reference to ribbons during the same week there was a lot of Windows 8 discussion about ribbons. G4 TV’s Jessica Chobot tours Microsoft makes my top 10 list as much for the post as for the 2 days we spent touring around campus with G4TV host Jessica Chobot. She was hilarious, quite a geek and a real sport. Check out the series of videos she posted after the tour. Microsoft download from The Garage: Mouse without Borders is without doubt one of the top posts of the year on Next. It goes to show that when you give away something for free, it gets people interested. When it’s something this good, it gets a lot of people interested. If you haven’t downloaded this release from The Garage, now is the time. This amazing little utility allows you to reach across your PC’s as if they were part of one single desktop.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

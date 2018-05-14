@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 4, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+As you may know, Kinect was codenamed Natal – a city along the northeastern coast of Brazil, home to Alex Kipman who incubated the project within Microsoft. I know you’re hoping this is a leak about what’s coming next with Kinect. Sorry….but it’s still worth a read. It turns out there is another Microsoft project that includes the Natal name. In Africa. Lakeside Park Primary is in Vryheid, KwaZulu-Natal – a province of South Africa. Larry Venter of Microsoft Retail Solutions recently visited the school and saw an opportunity to help the kids there learn English. Kinect (aka Natal) was the answer. Fast forward a few months and with the help of other Microsoft teams and a local NGO, a set of training materials prepared for 8 teachers in Lakeside Park Primary. I’ll let this video speak for itself. Kids using avatar creation to learn life skills, using bowling for numeracy and Kinectimals to help with sentence construction. Some days I look around at the press coverage of Microsoft and I feel down….and then I read stories like this and remember what keeps me here. This isn’t going to make it to the top of Techmeme but I don’t care. I just felt it was worth sharing here. via Microsoft On The Issues Africa<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

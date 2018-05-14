@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 5, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Editors Note: The following is a post from Mark Hanson, staff writer for Microsoft News CenterIf you’re a mapping geek, sit up and take note. Today the Bing Maps team released Bing Maps Preview app, a new Windows 8.1 map that combines the likes of personalized local recommendations via Local Scout and smart notifications, which let you know how traffic is moving, with an amazing 3D mapping experience of more than 70 cities (and counting) across the world.While just a first step in a new way to explore the world and experience mapping, the result is a modern-day mashup of the yellow pages and your paper map in a visual experience like the View Master – only cooler and much more useful.Ever wonder how Bing gets the content to build an experience like this?  A very important piece of the engine behind the Bing Maps Preview app is a group of software architects and experts in image acquisition and aerial photography. Appropriately titled the Geospatial Content and Publishing team, these specialists are part of Qi Lu’s newly formed Application and Services Group.Working out of Boulder, Colorado, the Content and Publishing team is the same group that completed a global orthographic survey of the United States a couple years ago.Overseeing the production of all this imagery falls to Charlie Peterson, who manages a team of talented operators who take pixels from planes and cars through to production in the form of beautiful 3D mosaics.  The technical name is photogrammetry and of the nearly 20 years that Peterson has been with Microsoft, more than a quarter of that time has been spent working with the team of Microsoft imagery scientists, or photogrammetrists, in Boulder.This isn’t the first time Peterson and his colleagues have tackled the job of rendering a city in 3D. Several years ago, they were part of the group that created some pretty “rudimentary” 3D cities as part of Virtual Earth, back when three-dimensional digital mapping technology was still in its nascent stage.In its initial attempt, Peterson says that the team faced a complex process and didn’t have the processing power to go to the scale they wanted. Since then, however, they’ve improved their methods for creating 3D maps, and developed new camera technology for acquiring the imagery.As you can imagine, the team doesn’t use your typical off-the-shelf point-and-shoot for these efforts. Instead, they use Microsoft’s own UltraCam Osprey to capture aerial photographs, and UltraCam Mobile for street side imagery – two world-class sensors developed and built in Graz, Austria. The latest models of UltraCam cameras create 54-megapixel images using a specially modified lens that simultaneously takes pictures straight down, as well as to the left, right, forward and backward. For every geographic point, roughly 40 overlapping pictures have been taken – a bit like an enormous PhotoSynth.The team then orthographically corrects these images in their enormous Colorado-based data centers. In layman’s terms, these images are corrected so the center of the camera lens is directly over each point on the ground.  This correction eliminates distortion from the imagery and gives a perfect top-down view.So far, the Content and Publishing team has generated 121 trillion pixels worth of data for the Bing Maps Preview App. And with tens of thousands of processing cores at its disposal, the pipeline is capable of pushing pixels from the plane to the app in a matter of weeks.As a result of all this effort, the Content and Publishing team has created the foundation for a multi-layered mapping experience, which was built by its partner team in Bellevue, WA.With the Bing Maps Preview app, people can get visual cues to help them navigate and find local information on what’s around them, including personalized recommendations based on their social network. People can also take actions like initiating Skype calls or making online reservations with OpenTable.In the eyes of Charlie Peterson and his colleagues, this is where the future of online mapping technology is headed.“We’ve arrived at the place where touch devices, network bandwidth and the availability of data can create these really compelling experiences to help people get stuff done,” says Peterson. “The Bing Maps Preview app combines the potential of all these technologies with high resolution aerial photography.  This combination of imagery and information is powerful and where we will keep expanding and doing more, whether it’s across cities, open landscapes or even inside buildings.”Learn more about the Bing Maps Preview on the Bing blog and download the app today from the Windows store.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

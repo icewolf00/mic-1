@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 3, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+In this month’s issue of Wired Magazine, editor Chris Anderson puts the spotlight on the burgeoning population of drones, but not those in the skies over Afghanistan or Iraq. The drones Chris is talking about are being built and created by hobbyists like himself, all around the world. There’s even an online community that Chris created for like-minded hobbyists to share their ideas and experiments.  And aside from being a creative outlet for those more technically inclined, drones can also serve more practical purposes such as managing crops or monitoring algae blooms in the ocean.The growth in the hobbyist community owes much to the riese of the smartphone. In several posts on this blog over the last year, I’ve written about the many sensors in our lives and our phones are a major source of them. The sensors found in your average smartphone — a GPS, magnetometer, gyroscope and accelerometer — are the same pieces needed to create an autopilot for a drone. And the demand for more and better smartphones has led to improved performance at a price most anyone could afford. What used to take six chips that would set you back around $60, can now be done on a single chip for just under $20.Sensor Chart Source: Invensense; Illustrations by Gus Wezerek – via WiredAnd as testament to Moore’s Law, additional improvements are already on the horizon. A couple weeks ago at Computex, Freescale introduced the reference design for a single chip containing seven sensors: a gyroscope, accelerometer, magnetometer, altimeter, inclinometer, thermometer, and ambient light sensor.  Freescale calls it the 12-axis Xtrinsic sensor platform, and though the chip’s name may not roll off the tongue, it’s potential can’t be denied, both for the sake of developing even cooler drones, but also to aid with fusion of data from multiple sources. The reference design was highlighted in a recent article on the Verge. Related video is below.The world of sensors is upon us – some call it the Internet of Things, other focus on the Big Data these sensors are generating but one thing is for sure – they’re making our world more instrumented and more digital by the day. Is it a good thing? Personally I think so, but like drones themselves, a world filled with sensors will raise as many questions as answers over the coming years. Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

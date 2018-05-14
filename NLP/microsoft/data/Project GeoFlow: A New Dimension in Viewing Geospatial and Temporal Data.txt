@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 12, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+One of the most prominent themes at TechFest this year was the visualization of data. Projects like Sketch Insight and SandDance showcased some pretty cool experiences that give you new ways to slice and dice data – though with the caveat that these are research projects with no definite plans of being released to the public. One exception to that is “GeoFlow,” which was released for public beta yesterday. GeoFlow is one in a series of Excel plug-ins designed to help people get more insight out of their data. What sets it apart is its ability to view geo-spatial and time-based data in 3-D—thanks largely to the work that Curtis and his team put in to creating the Worldwide Telescope, which is essentially a tool for viewing and navigating geo-spatial and time-based astronomical data.Like the Worldwide Telescope, GeoFlow gives you the ability to create a “tour” of a data set, and then post the tour to SharePoint or YouTube for others to watch.  It’s a really great way of exploring data, sharing your findings with others, and giving them the freedom to look at the data for themselves. The GeoFlow team put together some really cool demos that give you a sense of its ability to zero in on notable trends or outliers that are worth a closer look. Yesterday’s coverage in The Next Web had a good rundown of GeoFlow’s technical capabilities. GeoFlow will be included in Office Professional Plus 2013 and Office 365 ProPlus later this year, but you can download the preview today to get a first-hand look. 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

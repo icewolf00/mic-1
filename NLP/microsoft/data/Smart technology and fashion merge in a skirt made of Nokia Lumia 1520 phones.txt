@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 14, 2014
+
+									|										
+Athima Chansanchai - Microsoft News Center Staff
+
+ In the Oscar-nominated “Her” the protagonist of the not-so-distant future wears the smartest smartphone ever in his shirt pocket and talks to it all day. In our present, people wear watches and glasses that do everything our smartphones do – and more.But this year at London Fashion Week, runway onlookers saw something that eclipsed those accessories: a Fyodor Golan skirt made with a 3D printed skeleton tiled with 80 Nokia Lumia 1520 smartphones to create a mosaic that reflected the designers’ autumn/winter 2014 print. The images on the six-inch 1080p full HD screens changed with movement.The effect was a magical merger of fashion and technology, as well as art and innovation, as many individual smart devices came together to make one super smart skirt.Fashion designers Fyodor Golan – a married couple – worked with Nokia and KIN, a London-based design studio, to create this eye-catching piece of wearable technology. Nokia has a history of collaboration with creative industries, so they were a good fit as partners in a project focused on exploring the possibilities of smart technology and fashion coming together, and supporting new talent to create something unique.The Nokia Lumia 1520, in particular, is the star of the skirt. As KIN explains, “A phablet is not a new idea, but we particularly liked the amount of screen real-estate and the quality of image on screen.” But several of the phone’s key features really stood out: “the imaging quality in the hardware and the engineering know-how that’s gone into the development of the camera technology – from PureView software to Carl Ziess lenses.” KIN also wanted the opportunity to work with Windows. “We’ve developed on lots of platforms over the years, but by far the most technology we’ve built is for desktop PC’s running Windows and the opportunity to develop for the mobile version opened up interesting new possibilities for us.” The skirt was part of FG’s AW14 “Crocodile” collection, which set a surreal tone through contrasts. The designers infused their clothing with militaristic and urban elements, combining those with couture shapes through layering and oversized pieces, 3D embroideries and prints mirroring their impressions of the Myanmar mosaics and temples they visited last year.Each collaborator had a slightly different take on the completed piece. Nokia explains, “It’s a technical work of art. We started with the vision from FG and worked with KIN to create something based on the technical capabilities and design cues of the Nokia Lumia 1520. This includes the seamless 3D printing of the intricate internal structure, the interaction between the phones using the Windows Phone software, plus the unibody design and stunning Nokia Camera capabilities.” FG described it in three words: “Urban, industrial and multicoloured” reflecting their experience traveling in Southeast Asia. KIN defined it as a “wearable and experimental piece of technology.”KIN explains that the skirt was a six-week project that combined software (Python, C# and a custom-built app) with a physical model, drawings and engineering tools (3D printing and laser cutting). The software development took the most time – four weeks. After the design process, KIN began modelling their ideas using software to see what was possible in the time they had. Then they established key functionality – while simultaneously keeping FG in the loop in discussions about form and feeling.That functionality envisions one key property of the skirt: one continuous surface that changes its orientation and position as it moves. That surface has two different modes that it can run – it can show static images, either pre-loaded into the system, or it can load live images from a camera feed. It can also show moving images, either pre-loaded or from a live camera feed.The fashion element is what elevates this above a really spectacular science project, as eloquently stated by KIN: “Laid over this is a slight colour change that shifts as the dress moves. This is intended to make each node within the dress shimmer and soften what is essentially a load of overlaid mobile computers giving a digital output some of the tactile character of a physical fabric.” You can see how it came together in photos in this Nokia feature story.The project shows Nokia’s support for and collaboration with new talent, with a product that shows what can happen when a team of collaborators create a seamless union between technology and fashion. It’s not every day wear, but this kind of collaboration isn’t every day, either. It’s functional, yes, but it’s also a work of art.Beyond the fashion season, the skirt will continue to be shown at other events and exhibitions, with future collaborations between Nokia and FG in the works.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

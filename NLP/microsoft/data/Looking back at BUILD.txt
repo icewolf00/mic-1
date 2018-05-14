@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+September 20, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+This 5 and a half minute video montage gives you a good look back at the (keynote) highlights from BUILD last week. Yep, it’s been a week already!I’m still poring through the individual session videos as there is so much more content in there – much of it is developer oriented and if you’re keen on more of that, head to Channel 9. In fact you can check subscribe to the RSS feed from that site for videos as well as the PowerPoint slides.If you want to see what a reimagined Windows looks like, see the video above. I have it installed on my old Acer tablet device and have had friends and colleagues cooing over it for the last few days. I can confirm it is indeed fast and fluid though I’m eager for a more full features Twitter app and Zite/Flipboard like news reader. The Developer Preview has a Twitter app and a news reader app though that are more than enough for tinkering with. You’ll see this a lot more from me on Facebook (note the socialite app icon which is the demo Facebook app in Windows 8)Of the sessions outside of the keynotes, Jensen Harris’s 8 traits of great Metro style apps has proved very popular. He goes in to detail about the reimagining of Windows….and thus the reimagining of applications. Apps are the lifeblood of any OS and that’s true of Windows 8, especially with Metro style apps. He walks throughSemantic zoom was one of the highlights for me – a beautiful way to navigate through content. I wish the web has semantic zoom…That’s all for now as I’m typing this while multi-tasking and watching Sam Moreau’s Designing Metro style: principles and personality.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

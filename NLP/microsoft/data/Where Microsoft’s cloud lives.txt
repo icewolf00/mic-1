@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 25, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Prior to my current role at Microsoft I spent almost three years working with teams across the company focused on Microsoft’s cloud strategy. One of the most fascinating parts of that work for me was working with our data center group – known as Global Foundation Services, or GFS. This is the organization that plans, deploys and operates our data centers around the world on a scale that is hard to fathom. They invited me to the opening of the Dublin data center – a 303,000 square feet facility that was our first mega data center outside the USA and I still talk about that visit today – the scale of the operation was astonishing and the technology, specifically related to environmental considerations around energy consumption, was fascinating to see. It’s what has led to the Dublin facility winning numerous awards.The reason I mention all of this is that the cloud is one of the big trends that will define what’s Next for Microsoft and our industry and I’ve not covered it as much on this blog as I’d hoped. You should expect a few more posts over the coming weeks but to begin with I’d like to point you to a new site from our GFS team that details their work and provides a lot of detail on how we plan and run data centers and also how we think about the future of data centers. While our current data centers are some of the most efficient in the world, there is always room for improvement and the GFS team are always pushing the boundaries. A recent blog post by Christian Belady, General Manager of Data Center Services goes in to significant detail around the potential to co-locate a datacenter with a source of sustainable energy such as biogas.The site houses a collection of videos with the GFS team talking about data center efficiency, sustainability as well as security and compliance. Yousef Khalidi, a Distinguished Engineer from our Windows Azure team talks about the roadmap of our cloud offerings, while Kushagra Vaid and Mark Shaw from our hardware engineering team talk about how Microsoft researches and designs server technologies that are optimized for cloud workload – and how we are driving these learnings and designs back through our supply base and the industry at large.All in all, it’s a veritable gold mine of data center intelligence and if you’re at all interested in the cloud, it’s well worth a look. Head to www.globalfoundationservices.comTweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 18, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Okay, I know most Mac users are probably using an iPhone but if you’re a Mac users who has a Windows Phone 7 (or Zune HD), you can now download Windows Phone 7 Connector from the Mac App Store. It’s a simple app for syncing media from your Mac as well as photos and videos captured on your phone. This software will also be the way to update your Windows Phone 7 software when the time comes. Grab it now – requires Mac OS 10.6.6 or higher<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

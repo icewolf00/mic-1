@@ -1,0 +1,33 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 1, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Alex Kipman is one of the most fun (and smartest) guys I have met since arriving in Redmond. Despite being in huge demand as one of the visionaries behind Kinect, he’s generous with his time and is peerless at telling the story behind Kinect. The Project Natal codename? Kipman is the reason for that – naming it after a city in his native Brazil. It’s great to see him recognized as one of The Top 25 Nerds Of The Year by TIME alongside Steve Jobs, Mark Zuckerberg, Julian Assange, Elon Musk and others. If you haven’t read it, check out the story from Wired UK on the building of Kinect and expect to see more of Alex on this blog in 2011. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

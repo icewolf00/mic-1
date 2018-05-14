@@ -1,0 +1,35 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 15, 2010
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+
+
+A clickcable world is getting closer. It’s been a busy week for my friends over in Microsoft Tag – a few days ago they showed us how Tag is being used to make your food more interactive. Check out the Meyer Natural Beef below which is sporting a Tag. Scan the tag with the free Microsoft Tag Reader and you’ll see a video showing the natural origins of the product. I can see my local Whole Foods loving this kind of stuff (no surprise that they’re already fans of Tag). Meantime, the Italians are not missing out on cooking up their own mix of Tag and food with Eurofood Italy using Tag to deliver recipes to their customers. Where does P-Diddy come in to all of this? Well earlier today he launched his 12 Days of Tag site where he’s using Tag to help give away exclusive content from his new album, Last Train to Paris, and donate $50k to charity. He’s using his Twitter handle to tweet a Tag each day and pumping out under the #12daysoftag hashtag. Check out the video for his “Windows Phone” moment 🙂Tag is one of those Microsoft products that seems to operate under the radar – they get involved in all kinds of interesting stuff like this, but too often are misunderstood as being just another barcode type technology. One of the key differences between Tag and other tech like QR codes is the size – you can make Tag’s pretty small which makes them very useful for print media (or  beef packaging) where space is at a premium. The thing I like best about Tag though is the analytics you get at the back end – showing you real-time data on when and where your Tag is being used. For me, the beauty of all these technologies is the shift we’re seeing in connecting our real and virtual worlds. We have our mobile devices with us all of the time and being able to augment our world with digital additions is a trend that’s only going to get bigger. AR applications, Google Goggles, Tag, Bing voice search, FourSqaure. The lines between real and virtual are getting pretty thin and making our world increasingly “clickable”. Bring it on. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

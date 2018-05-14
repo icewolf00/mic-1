@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 18, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Nice work by the boys down under – our DPE team in Australia. They sent me a link to Noise to Signal this week. Long Zheng beat me to this one…of course. It’s an interactive cartoon with a lot of fun elements and links out to useful site. They cover Kinect, IE9, Windows Phone and more and their legal disclaimer was a highlight….and perhaps even a small “in joke”….but I’m just speculating.   Fine work from Michael Kordahi – also behind the sister site at http://9by9.tv which asks 9 smart people the same 9 questions and allows you to play the answers back in any order and choose given what’s most relevant to you.<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

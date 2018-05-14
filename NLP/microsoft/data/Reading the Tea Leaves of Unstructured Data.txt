@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 20, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+David Rothschild isn’t what I’d consider your typical economist. He has a certain affinity for bowties and enjoys working with data, but similarities with the stereotype pretty much end there. In graduate school, he found himself drawn away from the weighty issues of GDP and the trade deficit to the smaller, incidental decisions that impact economic growth.What David soon learned is that the same forecasting methods he used for creating business forecasts could also be applied to decisions you and I make throughout our day, like whether you’ll spend Valentine’s Day at a restaurant by candle light or at home with the kids over a take-and-bake pizza. And while choices like these might seem trivial, getting to the rationale behind why we make them could provide some interesting insights.Since joining the team at Microsoft Research New York City, David has been working with teams across Microsoft on projects that are designed to get a better understanding of what people think and why. Using real-time polling and prediction markets, he’s tracking public sentiment around significant cultural milestones like last fall’s election cycle, last week’s State of the Union speech and something of even greater importance—next week’s Oscar Awards.These projects are all part of a larger effort to develop better techniques for collecting and visualizing data, especially the ‘Likes,’ Check-ins and other unstructured data sets that are flooding data centers. One of the biggest challenges companies have is wrapping their arms around this mass of information and coming up with meaningful conclusions.For example, without a solid  understanding of the demographic make up of the people that generated your data, you’ll have no idea whether your sample set is relevant to the question you’re asking. And without a clear picture of what the data says, you’ll be hard pressed to improve your forecast.David hopes that using manipulative symbols like bubbles of various sizes or balls in buckets could help people understand the complex nature of probability distributions. With a clearer picture of the population and better tools for visualization, all of that social media data could help companies answer the most important thing of all: What they know and what they don’t know. You can read more about David’s work, including his Oscar predictions, on Inside Microsoft Research. 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

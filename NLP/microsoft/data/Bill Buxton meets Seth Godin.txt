@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 23, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+ [image credit: Seattle Times]I’m not sure if Bill Buxton has ever met Seth Godin but if not, I’d love to be there if/when it happens. The combined creative streak would likely cause an explosion – albeit one of ideas rather than rubble inducing. I’m hopeful they could solve a little issue that has been troubling me too…I’ve followed both of them for several years, reading Seth’s books and blog and watching Bill through events like MIX and the occasional interview. More recently I’ve head the pleasure of meeting Bill a few times, enjoying dinner discussion and noodling on what we can bring to Worldwide Partner Conference this year (more on that soon). I agree with Sharon Chan’s recent profile of Bill that he has something of Doc Brown from Back to the Future about him – I mean that as a compliment. A conversation with Bill is as fast paced as the Christopher Lloyd character and matched by insight from a career that spans over 30 years in tech with stints at Xerox Parc and Silicon Graphics. On my journeys around Microsoft his name is one that comes up time and again, not only for his expertise around the topic of NUI but his ability to connect people and spark ideas. He’s a true Renaissance man. A recent post by Seth Godin made me think of Bill. In the post titled Bring me stuff that’s dead, please, Seth opined that only when an innovation is dead can the real work begin. It reminded me of 2008 piece in BusinessWeek by Bill titled The Long Nose of Innovation. In it, Bill talked about the notion that the famed long tail of business has a mirror image in innovation – a long nose. It’s a similar position to the one espoused by Scott Berkun who debunks the idea that innovations are the result of a singularly moment of epiphany. The reality is innovation is a long process and rarely one that is presided over by a single person. Buxton uses the example of the computer mouse that first appeared in 1968 but didn’t really become popular until 1995 with Windows 95 – and to some extent 10 years earlier with the first Macintosh. Buxton noted that the work his colleague Butler Lampson led him to believe that Any technology that is going to have significant impact over the next 10 years is already at least 10 years old. Fred Vogelstein wrote a great piece for Wired back in 2008 about how the iPhone came to be. It’s a good case study in this long nose of innovation philosophy. So what is this post all about? The topic of innovation really – and two guys who helped me think about it in different ways with a similar view point. The “I” word has to be one of the most overused and misused words in our industry. I check Techmeme every day (usually several times) to keep up on the latest tech news. But that news is rarely innovation. Sometimes we get confused though. I confess I do. There is plenty of innovation out there of course – at Apple, Google, Facebook, IBM, Samsung, and yes,  Microsoft. I just wish the word was used more sparingly and for true innovations rather than as a buzzword that’s lost it’s real meaning.Bill, Seth – can you get together and sort this out please? Thanks <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 1, 2015
+
+									|										
+Allison Linn
+
+You’re a developer with a great idea for an exercise app.In your ideal world, it would do all sorts of cool tricks, like identify individual users’ faces in photos or understand when a runner asks it to start and stop tracking a run.But those sophisticated features are only possible with the kind of advanced machine learning that you don’t have the time or resources to do on your own.“These are all things that people don’t really want to worry about when they are building their app,” said Meenaz Merchant, a principal program manager with Microsoft’s Bing Experiences team.Earlier this week, at its Build 2015 developers’ conference in San Francisco, Microsoft offered up a solution. It released a set of technologies dubbed Project Oxford that allows developers to create smarter apps, which can do things like recognize faces and interpret natural language even if the app developers are not experts in those fields.“If you are an app developer, you could just take the API capabilities and not worry about the machine learning aspect,” said Vijay Vokkaarne, a principal group program manager with Bing, whose team is working on the speech aspect of Project Oxford.The series of services is currently available for limited free usage in beta.The services also allow developers to automate tasks that would just be too costly and time-consuming for them to do by hand. For example, the visual aspect of the service can sort through thousands of user-submitted photos to identify which ones may contain racy or otherwise inappropriate content, or just identify photos of beach scenes. It could even group photos based on a dominant color scheme.Doing that sort of thing on your own is “like finding a needle in a haystack,” Merchant noted.The services also work across programming platforms and languages, from Windows and Windows Phone to iOS and Android. To try them out, a developer must have an account with Azure, Microsoft’s cloud computing platform.Ryan Galgon, a senior program manager within Microsoft’s Technology and Research division, said the company is offering the services because it wants to share technologies with the developer community that it’s already creating for its own products and services.Initially, Microsoft is offering the services in limited free beta, in part so it can get a better sense of how these services are being used.“We want to understand what developers need from these services,” Galgon said.The new collection of machine learning offerings is being provided to developers as part of Microsoft’s Azure portfolio. Project Oxford currently includes four main components:Face recognition: This technology automatically recognizes faces in photos, groups faces that look alike and verifies whether two faces are the same. It can be used for things like easily recognizing which users are in certain photos and allowing a user to log in using face authentication. It’s the same technology that is behind this fun new website that guesses how old a person looks based on a photograph.Speech processing: This technology can recognize speech and translate it into text, and vice versa. A developer might use it for hands-free tools such as the ability to dictate text or to have an automated voice read out instructions or other necessary functionsVisual tools: This service can analyze visual content to look for things like inappropriate content or a dominant color scheme. It also can detect and understand text in photos, such as a team name, and can sort photos by content, such as pictures of beaches, animals or food. Finally, it can automatically edit photos down to a recognizable and useful thumbnail for easy scanning.Language Understanding Intelligent Service (LUIS): This service, currently offered as an invite-only beta, enables applications to understand what users mean when they say or type something using natural, everyday language. Using machine learning, in which systems get better at predicting what the user wants based on experience, it then figures out what people want the app to do.For example, in an exercise app the system might learn that when the user says “I want to start my run,” “begin a run” or even “go for a run,” it all means that it should begin tracking the person’s distance, and that the type of activity is a “run”. Similarly, language like “please stop my run,” “let’s pause this run” or “I’m done running” would all signal that the system should stop tracking.The system is built on a relatively simple interface, so developers with a wide array of backgrounds can teach LUIS to learn what words signal which action. In addition, as people use an app, LUIS will learn to figure out what people mean when they say things like, “I can’t take it anymore. Please make this run end.”Developers, if you’re interested in Project Oxford, you can give it a try right now. The speech, image and face recognition tools are available in beta form, and Project LUIS is invite-only for now.Related content:Project OxfordDemosDocumentationSDKs
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 24, 2014
+
+									|										
+Steve Wiens - Microsoft News Center Staff
+
+Editor’s note: The following is a post from Jennifer Warnick, a writer for microsoft.com/stories.No matter what generation she hails from, or whether you meet her on instant message, on horseback, or on stage speaking at a tech convention – Miranda Luna is a force.The 23-year-old, who typically dresses in jeans and a leather jacket, has long, brown hair and sports a massive smile – sports it most of the time, in fact. Luna works as a product marketing manager for the services in Windows Azure that help with mobile app development, which is a job titlese way of describing how she helps mobile developers of all stripes (iOS, Android and Windows) make their apps more powerful, more quick, more affordable, more reliable – more everything, really.“Azure Mobile Service, that’s my jam,” Luna says. ”Notification Hubs, too. What’s great about these services is they’re so complimentary. Mobile Services is basically a back-end in a box – data storage, user authentication, push notifications and a scripting environment for adding business logic. Notification Hubs provides a massively scalable push notification engine for delivering millions of personalized notifications in minutes, regardless of platform or what back-end an app is using.”Read the full profile at microsoft.com/stories.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

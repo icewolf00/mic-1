@@ -1,0 +1,35 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 24, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+And to wrap up “things” week, let’s think about the things that affect your health. No, not that second donut, but the devices that help you monitor and safeguard your health and keep track of your medical history. Such as your phone.If you get injured and have to go to the ER, you’re probably not going to grab your old medical charts on the way — in fact, you probably don’t have them with you at home. But what if you could access all that information through your smartphone, 24×7? If you have a HealthVault account you can actually do that now, thanks to updates that the Microsoft HealthVault team has announced to its personal health records platform. They’ve released new mobile pages for viewing basic information on HealthVault.com and enhanced their HealthVault SDK to include libraries for building HealthVault apps for Windows Phone 7. So instead of filling out paper charts and wondering just what was the name of that drug you had such a bad allergic reaction to four years ago, you can easily access your medical information from your phone today and in the future you’ll find new mobile HealthVault apps that will support health-related tasks on the go.HealthVault enables you to connect a broad array of health-related information. Not just the records from your past doctor and hospital visits, but also data from devices like pedometers, blood glucose meters, blood pressure monitors, and more. Imagine integrating it all into one record, so that every bit of data is helping to give you a clearer picture of your health and enabling you to make better decisions.Granted, we’re not yet at a point where most people could sit down in the waiting room, tap on their phone, and wirelessly send their updated medical records to the facility’s system for immediate check-in. But we are at a point where, as Sean Nolan describes in the Family Health Guy blog, a patient who has stored medical information in a HealthVault record can get instant information that helps speed treatment and recovery. Sean has a colleague whose mother-in-law needed to know the serial number of her artificial heart valve to confirm it would be safe for her to have an MRI. She was at the hospital where she’d had heart surgery years before — but it was a weekend and her old paper records were inaccessible. She had been given a wallet card with the information — but like a lot of hospital inpatients she’d left her wallet and other valuables at home. But she also had her information in HealthVault, and within two minutes she was able to get her son-in-law to provide the information her doctors needed so they could move forward with treatment instead of waiting for the administrative offices to open on Monday.The HealthVault updates include some other deceptively small things — Facebook authentication so new users don’t have to create and use a different login, automatic reconciliation of standard clinical documents into HealthVault, and the ability to load medical images from CD/DVD into HealthVault and to burn a CD/DVD for sharing with your doctor. They’re not big new apps, and they’re not just flashy add-ons. They’re more like lengths of pipe or sections of street being laid for a new housing development. They aren’t glamorous but they ensure that as the user base grows, the services they need will be available and ready to use. These kinds of updates help to build a strong foundation for a connected ecosystem, and provide the points of contact for connecting the things we haven’t even thought of yet.Yesterday Craig Mundie, chief research and strategy officer at Microsoft, spoke at the Pacific Health Summit. I went in to a bit more detail about that earlier, but it’s worth noting that a lot of the advances that he’s describing depend as much on a clear understanding of what kinds of objects and devices can be networked, and to what end, as on the big-picture thinking about how to design the connected system.// <![CDATA[
+document.write("<script type='text/javascript' src='" + (window.location.protocol) + "//c.microsoft.com/ms.js'>“);
+// ]]>
+// <![CDATA[
+document.write("<script type='text/javascript' src='" + (window.location.protocol) + "//c.microsoft.com/ms.js'>“);
+// ]]>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

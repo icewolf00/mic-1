@@ -1,0 +1,35 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 14, 2010
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+
+
+A quick confession – one of the things I expect to post more of on this blog is “original content” – i.e. stuff that isn’t culled or curated (that’s the new cool term to use) from other Microsoft sites. However, it turns out that everywhere I look there is a great new video that I feel compelled to share. The latest is one from our Kinect team and it has surprisingly few views on the Xbox channel on YouTube. It may be because this video is masquerading as an ad but beyond the first 180 seconds or so is where the interesting stuff lies. After that point, you get to hear from a who’s who of Kinect parents. Kudo Tsunoda, Shannon Loftis, Andrew Blake, Don Mattrick, Jamie Shotton, Andrew Fitzgibbon, Marc Whitten, Todd Holmdahl and Alex Kipman all talk about what it took to bring Kinect to life. As Don puts it, they explain how we got from the hula hoop and Atari 2600 to controllerless gaming. Steven Spielberg’s E3 cameo is in the video and he sums things up nicely when he says that Kinect is about making technology invisible. This is a quote I hear a lot from our own Alex Kipman, director of Xbox incubation, Alex is brilliant at explaining this stuff and is veritable sound bite machine – seriously, he doesn’t even practice this stuff – they just roll of his tongue. Here’s a few from this videoThe video also shows you some of the early prototypes and how rudimentary they were and then talks to some of the big brains behind Kinect. As a Brit, I’m proud to see the role Microsoft Research in Cambridge (MSRC) had in Kinect. Andrew Fitzgibbon, a researcher from MSRC says that Kinect“evaluates effectively trillions of body configurations every frame and we’ve made it do that 30 times per second” His colleague Jamie Shotton says this is the dream of every researcher, taking blue sky research and seeing it shipped to millions of people. I think this is one of the most successful applications of machine learning and computer vision that’s ever been deployed and one that is going to change people’s lives. I wanted to show you a video that was used at our company meeting this year but couldn’t get release rights on it – this video has the essence of what I loved from that video though. I love what Kinect stands for. It’s a bunch of people who believed they could create something that many thought was impossible. It’s the product of our teams in Xbox connecting with teams around the world of Microsoft Research – to tap in to brilliant minds who have been researching areas like machine learning, AI, computer vision and neural networks for many years. Sometimes you don’t know what that research is going to give you (that’s why it’s called research). It’s those years of research, combined with our our Xbox team being prepared to push the boundaries that brought Kinect to market in under 3 years. Whichever way you look at it, that’s no mean feat in my humble opinion. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

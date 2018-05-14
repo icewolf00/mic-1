@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 21, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+In our series on “things” being connected to the net, I thought it’d be interesting to ponder on what makes a city digital?PSFK posed this question last week following the unveiling of NYC’s Digital Plan by Mayor Bloomberg and Chief Digital Officer Rachel Sterne. They had a pretty solid list of what it takes to make a digital city; technology is of course a big part of it, but they also argue for policies that encourage engagement while setting guidelines for city personnel, openly shared metrics, and a commitment to helping city agencies and local businesses recruit digitally skilled workers. New Yorks’ plan reflects quite a bit of this, as well as an openness to using any and every platform and tool that might be useful.By 2050, around three quarters of the world’s population will live in cities, so the question of the digital city isn’t just fuzzy futuristic thinking. We need to start planning now for how to build our infrastructures and our strategies to serve everyone’s needs. A real digital city will make it possible for the poorest to find and access what they need, not just the wealthiest. And the work involved in this effort can’t all be on the city government’s side; as Rachel Sterne noted in her talk at the PSFK Conference in New York this April, some of the most effective initiatives put resources and responsibility in the hands of citizens and empower them to create new tools, channels and programs that meet their needs, without waiting for officials to act.This means the planners of the digital city need to think not just about the infrastructure but about how people will access it, which includes devices and portals. Mobile access is vitally important; Sterne talked about the idea of taking a picture of a pothole with your phone and instantly reporting it, automatically geotagged. It’s also important to think about how to use public spaces to provide residents with what they need to connect — whether that’s Wi-Fi, computer terminals, or something else still being dreamed up. I think it’s easy to dismiss initiatives like public Wi-Fi if you don’t think about how they fit into a larger strategic plan, but when you see the bigger picture you can appreciate all the individual elements, and it’s inspiring to see that this kind of planning is under way.New York has some imaginative initiatives already in place. For example, QR codes are being added to building permits so that nearby residents with questions about a site can simply scan the tag with a mobile device and get up to date information about the project. The Daily Pothole blog posts photos every day of repairs being made to potholes. And the Big Apps contest has already produced mobile apps including Roadify (aggregating several agencies’ input and reader updates to provide real-time transit and commute info) and DontEat.At (alerting diners upon check-in to restaurants in danger of being closed for health code violations). These rely on the Web and the mobile phone but they also point the way to new programs that find other ways to blend sensor info, geolocation and wireless networking to help citizens participate fully in the daily life of the city.We’re truly starting to see the Internet of Things come to life in the sense that our physical world is getting more connected to the digital world – of course it will mean we get those Minority Report style billboards that adapt as individuals pass them by, but it also means you’ll be able to interrogate the local hostelry to find out if they have your favorite beer nicely chilled and whether there’s a crowd in there (see SpotRank) or if it’ll be just you and the barman. On a more mundane level, if every streetlight in the city was IP connected, you’d never experience a walk home from the bar in the dark and before you left the bar you’d get a message on your phone letting you know that you left your credit card behind – not from the barman, but from the credit card itself.Additional reading? Check out The EconomistTweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

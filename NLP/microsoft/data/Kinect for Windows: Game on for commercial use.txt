@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 1, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+A journey was completed today, and another began, as Kinect for Windows officially became available. Little did we know that just over a year on from shipping Kinect for Xbox, we’d be inviting the commercial world to show us what’s possible with Kinect. The sensor that sits in my living room has ignited the imagination of millions and who knows where it’ll end up next.Today, version 1.0 of our SDK and runtime were made available for download, and distribution partners in our twelve launch countries are starting to ship Kinect for Windows hardware. The suggested retail price is $249, and later this year, we will offer special academic pricing of $149 for Qualified Educational Users. As the Kinect for Windows blog explained today, in the three months since we released Beta 2, we have made many improvements to our SDK and runtime, including:  This is the benefit of long term R&D in action as well as the breadth of Microsoft’s business – sometimes, we’re challenged to be just a consumer focused company or just a business focused company. Kinect for Windows is another example of the benefits of being in both types of business as the boundaries between them lower by the day.Kinect has had an amazing first year, selling over 18m sensors. Now it’s game on for businesses to show us what they can do with this technology – once they have Kinect for Windows hardware and have installed the SDK, they’re free to innovate away. Just how we like it.Companies such as United Health Group, American Express, Mattel, Telefonica, and Toyota that already are developing applications with Kinect for Windows – and more than 300 companies from over 25 countries are busy dreaming, inventing and building.Game on indeed.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

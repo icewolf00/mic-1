@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 16, 2014
+
+									|										
+David Chen - Microsoft News Center Staff
+
+What would you do if you had a billion sensors?Would you find new and interesting ways to measure your environment? Would you optimize the efficiency of a household, a neighborhood, or a city?Would you try and change the world?These are the questions that some of the best design students from around the world tried to answer this week at Design Expo, held during Microsoft Research’s 15th Annual Faculty Summit. Each year, students receive a different prompt to iterate on. This year’s prompt: In a world with a billion sensors, how will we make sense of it all?On Tuesday, nine teams of students from five different countries presented their proposed projects before a committee that included designer experts such as Liz Gerber from Northwestern University, Tom Igoe from NYU, and Bill Buxton from Microsoft Research. The projects were as diverse as they were fascinating, a reflection of the nearly-limitless potential of the Internet of Things.One team from Brazil’s Escola Superior De Desenho Industrial developed a concept called Platform, a subway collaboration system. Platform would use sensors to display interactive information on subway platforms while citizens wait for their ride. It would also serve as a safety mechanism by visually warning citizens who step to close to the safety line, and by letting people know how full subway cars are before they step on board.“Inspiration always comes from the environment. You see problems and you want to find a solution,” says Nikita Vidal, one of the members of the Brazil team. Her colleague, Raquel Cordeiro, recalls part of the impetus of their project, saying “We saw that people wait a lot on subways, and we wanted to give them something different than just looking at their phones. We wanted to give them practical information about the city and what’s going on.”Another team from New York University (NYU) created a concept for Bobo, a stuffed animal loaded with sensors that could help with diagnosing autism. Autistic children frequently exhibit specific behaviors, such as repetitive motions and lack of eye contact, which can be used to form a diagnosis. Early diagnosis can impact treatment, which can lead to a better outcome.“Bobo is a research tool that aids doctors in the early detection of autism,” explains Carolyn Concepcion, an NYU team member. “It is designed a sensory system consisting of a toy, a web app, and a mobile app. The toy is used for interactive play with the child. The mobile app is used by the parent to visualize the data. The web application is used for doctor to review and analyze that data in real time.”Concepcion’s teammate, Joy Li, is upbeat about the toy’s feasibility as a useful device. “Based on research and talking with different doctors, we realized that the technological approach is actually doable, and there will be a future for this,” Li says. “A lot of people don’t know that technology exists for autism detection. Most of it is still in the research or testing stage, and because of lack of resources and information, a lot of people in suburban areas don’t have access to medical care or don’t realize their children have autism spectrum disorders.”A tool like Bobo could make a big difference in these types of situations.A team from the University of Washington (UW) envisioned Vive, a wearable wristband that would help prevent sexual assault. Vive allows groups of friends who are going out to sync their bands together; when Vive detects that one of the friends is too dehydrated or intoxicated to make sound decisions, all of the friends are alerted.But Vive goes beyond just being a safety device. According to UW team member Gwenyth Hardiman, it was essential that Vive also be fun to use. Consequently, Vive can be used to make friends with new acquaintances; users can tap their bracelets with strangers to connect with each other.“We took it as a design challenge and we responded by making it fun,” Hardiman says. “When you go out, you want to meet people. We wanted to make it fun for people to go out, use this device, and make new friends by touching [the bracelets] together with really easy interactions. But in the background it’s monitoring their alcohol and dehydration levels, and telling their friends that there’s something not right so they can watch out for each other.”According to the UW team members, Microsoft’s involvement during the iteration process was essential to producing a result that was practical and usable. “It’s great to have that external pressure from Microsoft to really raise the stakes on a design project and see what you’re really capable of,” Hardiman explained.Hardiman’s colleague, Abigail Steinem, echoed her sentiments, adding that this year’s prompt regarding sensors was highly thought-provoking. Since the prompt was so broad, Steinem said, “It allowed us to each take a look into different areas that were interesting, scary, or perplexing…We wanted to go with something that was a little bit more hard-hitting.”These were just a few of the projects presented at Design Expo. With such a diverse array of ideas, each with the potential to make an impact, the future of design feels like it’s in good hands indeed.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

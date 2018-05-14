@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 5, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I recently stumbled across the work of Second Story, a creative agency based out of Portland, Oregon who build interactive experiences. What led me to them is their outstanding work using two Microsoft technologies in particular – Kinect and Surface 2.0Before looking at some of their client work I wanted to share this head tracking with a transparent display demo they have produced. Long Zheng also found this a few weeks ago – he and I often seem to find the same thing at about the same time but he’s a faster (and better) writer than I so I’m following him on this one.This particular demo is from Second Story Labs and takes advantage of the new head tracking capabilities in the Kinect SDK. Combined with a transparent EL screen from Planar and some smart coding from their team creates a wonderful holographic 3D effect. The experience works for one user at a time and reminded me of some of the work in our own Applied Sciences Lab.Second Story has been around since 1994 and are named due to their passion in telling stories interactively. After chatting with Thomas Wester, their innovation director last week, you can expect to see more cool stuff from them and I’ll be highlighting some more of their Kinect and Surface work here very soon.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

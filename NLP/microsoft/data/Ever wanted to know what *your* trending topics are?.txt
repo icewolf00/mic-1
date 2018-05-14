@@ -1,0 +1,33 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 19, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Okay, Spindex is way more use to limit it just to monitoring your trending topics but that’s only very neat feature of the product I like.Spindex comes from our FUSE Labs team with the aim of bringing you your entire social world in one page. That’s a pretty ambitious goal but by bringing in your Twitter feed, Facebook feed and any RSS feeds you specify, it does a pretty god job. During a demo this week by Matt MacLaurin, I was drawn in to the idea of using Spindex just to see what my tribe is focused on. Matt pointed out that the trending topics (highlighted above in the left rail of the image) are not just the typical global or city based Twitter trends – they’re your personal trends based on what your network is talking about. It’s a useful way to get a sense of what’s hot with your friends. As you click on each topic, you get a drilldown in to a further level of detail – so when I click down on Windows Phone I see this view….I can see that Windows operating system, Microsoft, seesmic and WP7 are all trending topics with my crowd and the main stream window changes to reflect that. As a way to keep tabs on what’s hot, it’s proving to be more useful for me than Techmeme. If you’ve not had a chance to play with Spindex, give it a whirl…it’s free and you can authenticate with either Windows Live ID, Twitter or Facebook. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

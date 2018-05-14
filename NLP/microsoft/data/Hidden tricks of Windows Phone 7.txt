@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 8, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ I posted this a while back on my personal blog and figured it was worth sharing here as some fun for a Friday. I thought I’d found most of the tricks Windows Phone 7 has up it’s sleeve but no, this puppy has way more tricks up it’s sleeve. It’s one thing I love about the marketing…we’ve not had every feature explained to us in excruciating detail. The team behind it seem to know the delight and childlike glee of finding something you didn’t know was there…it reminds me of the days of Easter eggs and is in part what I was trying to explain in yesterday’s post on the personality of Windows Phone 7. Head to pocket-lint.com for 72 tips and tricks…here are 3 of my favorites.  <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

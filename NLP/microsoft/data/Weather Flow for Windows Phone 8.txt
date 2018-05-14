@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 7, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+This is a guest post by Ben Rudolph, a.k.a. Ben the PC Guy.Weather Flow, my favorite weather app for Windows Phone 7, is back with a brand-new Windows Phone 8 version that packs a bunch of new, very useful features.Just like it’s Windows Phone 7 counterpart, you get accurate current conditions and a 5-day forecast in your choice of either a Modern UI style or “realistic” animated interface (with upgrade animations and graphics, of course), and you can flip from one UI to the other with a simple downward swipe. I demonstrated this on the Windows Phone 7 version, and it works exactly the same way on the new version. What makes the Windows Phone 8 version the best app of its kind (in my opinion, although Amazing Weather HD is a close second), is that the dev team enabled the app to take advantage of several of Windows Phone 8’s new features in a beautiful, unobtrusive, useful way.For example, the weather tile can be customized to small, medium or large size using either your theme color as a background, or a realistic background displaying the current conditions. You can pin your current location to the Start screen or any other city of your choosing, and can select from a single-sided or double-sided tile that displays current conditions, an hourly forecast, or a comparison of today’s weather to yesterday’s. Everything is totally customizable. Windows Phone 8 introduced the ability to let apps update your lockscreen, and the Weather Flow team jumped on the opportunity to do so in a really smart way. Rather than completely taking over the lock screen like some apps, Weather Flow lets you add weather info to it. You can choose from a personal background, the daily Bing wallpaper, or a graphic of the current conditions—and add either the current weather + a 12-hour forecast, the current weather + 5 -day forecast, or just the current weather. Super useful. If you purchased Weather Flow back in the Windows Phone 7 days, you’ll get this version for free. If you’re a new user, you can get it in the Windows Phone Store for $1.99.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

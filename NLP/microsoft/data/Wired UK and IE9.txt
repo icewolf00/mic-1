@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 28, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Some friends in the UK pointed me to a new site from WIRED magazine last week. It’s called The Wired Mind and it delivers a unique way of browsing content on Wired.co.ukThe site is an interesting take on what you can do with HTML5 and in the spirit of full disclosure, it was created in partnership with our IE9 team to demonstrate what’s possible with a “really fast standards based web browser” – their words, not mine. You’re presented with a set of topics and upon clicking, the brain sprouts forth a series of news nuggets which you can then scroll through. I have to confess that with a touch based device it’d be fun but was a little less so being driven by a mouse. However, the UI was quick and it does show the potential for HTML5 driven websites to look and perform more and more like applications. The search integration was most impressive. As you type a phrase it autoguesses your intention and sprouts a set of topic areas. My search for Microsoft presented this list which made me want to dive in deeper. Finally, the date based browser is a funky little UI that I enjoyed – shown below.  All in all, a fun way to amble around the content from Wired UK and a solid demonstration of the capabilities of IE9 and HTML5. // <![CDATA[
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// ]]&gt;Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,35 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 19, 2010
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+
+
+iPhone or not, I love Word Lens – a new app from Quest Visual. There is a good chance you may already have seen it as the video on YouTube is currently running at over 2 million views. I’ve had at least a dozen people email me a link to the video in the last week. It’s a great example of how technology can bring down the barriers of our world – and be fun along the way. Imagine visiting a foreign city and pointing this at a street sign to get an instant translation (I could have done with this on the Paris Metro recently). The creators make it clear that the app isn’t designed for conversational translation and is really more to get the gist of something like a sign or menu in a foreign language. The current versions only offers only English to Spanish and Spanish to English translation but it’s out there on the iPhone App Store and works without the need for an Internet connection. There is plenty more to come in this arena of language translation and with more powerful mobile devices that can take account of location, context and high res cameras I expect we’ll see a ton of development here. Once you start to make the system two-way and have the world’s signs and information crowd sourced we end up with the potential for some seriously amazing augmented reality apps. Then you hook them up to your social network to influence what you actually see…the potential is massive.Anyway, this app is a great view of on direction of the future with augmented reality and natural user interfaces. I’m pleased to see their web page acknowledges the desire to see it in Windows Phone 7 (and RIM, Palm etc). I’ve pinged our Windows Phone team to see if we can hurry along that version 🙂<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

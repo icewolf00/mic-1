@@ -1,0 +1,33 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 26, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+I switched back to my Samsung Focus in the last few weeks but I enjoyed my brief relationship with HTC’s Mozart. It has a lovely heft to it that I miss with the Samsung and I actually prefer the 3.8” screen of the HTC over the 4” of the Samsung. Having worked in the mobile side of our business many years back, I built up a fondness for HTC too and saw their devices grow up from being alarmingly large to sleek units with a mass market brand to match. Hats off to Peter Chou and his team for building an amazing business that is now home to several good friends. Anyway…back the Mozart. One thing I’ve found interesting is the applications each OEM has bundled with their WP7 phones. The LG I had early on still has the best imaging app in my opinion – Photo Stylist had a sweet lomo featured that I’ve not been able to find a good replacement for in the marketplace and alas, that app is tied to the LG devices. On the Focus, you get a bunch of AT&T apps though I’ll confess I’m not enamored with any of them in particular. The Samsung Zone on the phone has some promising looking apps that I need to explore further. The HTC Mozart has an app I would definitely pay money for if it were available in the marketplace – it doesn’t have the most exciting of names being called Attentive Phone – but it’s a very smart little app.Attentive phone brings some very simple yet elegant natural touches to the phone. Your phone knows when it’s in your pocket or a bag right? Well if it has an ambient light sensor it can make an educated guess…which is exactly what the Mozart does and turns up the volume of the ringer accordingly. Nice. It doesn’t stop there thoughWouldn’t it be cool to be able to flip your phone over to turn it in to speaker phone? That’s what HTC has done with the Mozart by tapping in to the accelerometer. Alternatively you can turn your phone over to silence in incoming call. That looks way cooler in a meeting than fumbling for the power and volume switches while the rest of the room glares at you. Finally, your phone knows when you’re about to answer (or decline) a call so why not reduce the ringer volume as soon as you pick the device up. Yep, Mozart does that too. There’s nothing really proprietary going on here – just HTC making smart use of sensors in the device to make it smarter – to make it more natural and they’ve had some of the features on their other phones for a while. The world of sensors all around is one of the keys to unlocking a future of more natural user interfaces (NUI). Nice work HTC…as your logo says, Quietly Brilliant.[update] thanks to everyone who confirmed that this app exists on all of HTC’s Windows Phone 7 devices. If not pre-installed, it’ll be in the HTC marketplace<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

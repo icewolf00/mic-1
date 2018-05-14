@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 21, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Earlier this morning, Craig Mundie (our Chief Research and Strategy Officer) and Don Mattrick (President of our Interactive Entertainment Business) announced that we’ll release the Kinect for Windows Software Development Kit this spring. It’s something that people have been asking for and now it’s not far away – the ability build all kinds of natural user interfaces in games, entertainment, healthcare and fields we’ve yet to dream of. The hope is that the SDK will unleash a wave of creativity to add to the already exciting developments we’ve seen on top of Kinect. The SDK will provide access to Kinect’s sensor as well audio and system API’s. It’s being released by Microsoft Research as a non-commercial SDK aimed at academics and enthusiasts. As you may have read in earlier posts, MSR played a pivotal role by providing some of the core technology for Kinect in areas such as facial recognition and skeletal tracking and this SDK is more evidence of the tight collaboration between MSR and our product teams.   More information is available from MSR and stay tuned as I’ll update this post with additional details as I get them. For now, this is another step on the path to making natural user interfaces more prevalent. follow the tweets from TechForum with my Twitter list and see Todd Bishop who was first to have a post up about the news, closely followed by Tom Warren at WinRumors, closely followed by Matt Buchanan at Gizmodo and Nick Wingfield at WSJ. Still not showing on Techmeme as I post this but Twitter is going bonkers [update] now starting to show on Techmeme<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

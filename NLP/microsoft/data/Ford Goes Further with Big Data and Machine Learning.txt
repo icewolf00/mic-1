@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 29, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+If you read my CES trip report a couple weeks ago then you might recall my comment about Ford’s work in helping consumers optimize when they use electricity—a program they call MyEnergi Lifestyle. Since returning from Vegas I’ve stumbled across a few articles here and there that really peel back the body of the car , as it were, to see the technology.For the last several years Ford has worked closely with the Windows Embedded group in creating the award-winning Ford SYNC. But make no mistake, Ford has some rather savvy tech skills of its own, and many of those are on display with the 2013 Ford Fusion. The video above gives you a glimpse at how two automotive engineers figured out a way to fit a battery into the trunk of the Ford Fusion. That’s just the tip of the iceberg.An article in GreenCarCongress enumerates the number of sensors and on-board computers in the Fusion: more than 145 actuators, 4700 relays and 70 sensors, including radar, sonar, accelerometer, camera, rain sensors. Collectively, these devices generate more than 25 gigabytes of data per hour, which is processed by more than 70 on-board computers. Eventually, the car could combine the input from environmental sensors located outside the car and bio-metric sensors in places like the driver’s seat, seatbelt and steering wheel.   It’s all part of Ford’s plan to help us become better drivers and, not surprisingly, big data and machine learning both play a pretty big role. For example, the car could use big data analysis to process sensory data and manage potential distractions such as incoming phone calls. And with machine learning it might learn the routes you typically travels and recommend a slightly different one so you can top off the car’s battery at the nearest charging station.  Yet another example of how software engineering is becoming an important part of building today’s automobile.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

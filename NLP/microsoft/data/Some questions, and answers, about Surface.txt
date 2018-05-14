@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+October 17, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ One of my favorite people to chat with at Microsoft is Steven Bathiche. I’ve written about “StevieB” and his work on this blog many times before and whenever I meet with him, I’m guaranteed to walk away smarter. He knows a lot about a lot and has a way of explaining complex technology in a simple way and usually with a sparkle in his eye. You can see what I mean in this video when I took Josh Topolsky in to Stevie’s lab.During a Reddit Ask Me Almost Anything (AMAA) chat yesterday, Stevie joined Panos Panay and other members of the Surface team to answer questions about the product. You can read the full transcript on Reddit and see a photo of the team in action answers questions on their Surface devices. From the many answers they gave, two from Stevie stood out for me as he provided some pretty detailed information about the screen and keyboard. Here’s what he said on screen resolution Hey I tried to answer this resolution question for another post, but it got stuck.. So I will try here:Hey this is Stevie. Screen resolution is one component of perceived detail. The true measure of resolvability of a screen called Modulation Transfer Function (MTF), not Pixels. MTF is a combination of both contrast and resolution. There are over a dozen subsystems that effect this MTF number.. Most folks just focus on one number out of dozens that effect perceived detail. Without good contrast resolution decreases. Check out contrast sensitivity of the human eye graph (http://www.telescope-optics.net/images/eye_contrast.PNG) and if you want more see the links below. Basically, as resolution/DPI increases the eye has becomes less sensitive. So as a result, the amount of light in a room and the reflections off the screen have a huge effect on the contrast of the display. In fact, a small amount of reflection can greatly reduce contrast and thus the perceived resolution of the display. With the ClearType Display technology we took a 3 pronged approach to maximize that perceived resolution and optimize for battery life, weight, and thickness. First prong, Microsoft has the best pixel rendering technology in the industry (cleartype 1.0 and 2.0) .. these are exclusive and unique to Windows, it smooths text regardless of pixel count. Second, we designed a custom 10.6” high-contrast wide-angle screen LCD screen. Lastly we optically bonded the screen with the thinnest optical stack anywhere on the market.. something which is more commonly done on phones we are doing on Surface. While this is not official, our current Cleartype measurements on the amount of light reflected off the screen is around 5.5%-6.2%, the new IPad has a measurement of 9.9% mirror reflections (see the displaymate link: http://www.displaymate.com/iPad_ShootOut_1.htm). Doing a side by side with the new iPad in a consistently lit room, we have had many people see more detail on Surface RT than on the Ipad with more resolution.Some more links to share if you want to know more… (http://www.normankoren.com/Tutorials/MTF.html)… Also This is a great book to read if you really want to get into it: http://www.amazon.com/Contrast-Sensitivity-Effects-Quality-Monograph/dp/0819434965 or more here http://alexandria.tue.nl/extra2/9901043.pdf on the touch keyboardHi this is Stevie. It depends on how you type. I have been using both for a while, and love them both. I love the sleekness of Touch Cover. Touch Cover has a very special digitizer that we invented.. it senses the impact force of your key presses. We designed super-fast electronics and smart algorithm in the keyboard so that Touch Cover can profile your key press down to a 1ms (1000 times a second). Using that information Touch Cover can infer if the user meant to press the key or not.. It is a smart key. So even though there is no key travel, the user can rest their hands on top of the keyboard and find home position without accidentally triggering keys.. pretty cool! The first time I typed on a full working version of Touch Cover, I typed just as fast as I do on a normal keyboard. I am confident you will be able to type significantly faster on Touch Cover than an onscreen keyboard. And with a little practice you will even do better (maybe even faster!) For folks who really love and really need keys that have travel, then Type Cover is one of the best keyboards I have ever used (desktop or other). It has a super awesome snappy key mechanism that feels great (has a strong hysteresis curve). Honestly both are great… try them both, actually get them both.   Classic Bathiche. He just knows stuff….really knows stuff. Mashable has a good summary of other details revealed during the hour long session but those two above are by far the longest and most interesting answers IMHO. BONUS LINK: check out this great talk Bathiche gave at the Thinking Digital conference this year.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

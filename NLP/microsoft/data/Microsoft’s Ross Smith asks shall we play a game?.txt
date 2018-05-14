@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 16, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+[a rare shot of Ross and his Xbox Live Avatar sharing the stage]The first time I met Ross Smith, he was dressed in camouflage cargo shorts, a vintage rock and roll T-shirt from the ’80s and a pair of Timberland boots. Combine that with the box of Lucky Charms and various tchotchkes cluttering his office and you might question whether he’s there to work or to play. In Ross’ case, the answer would be ‘yes.’ Currently, Ross is director of test for the Microsoft Office Lync Client team. He leads a team of testers who put the Lync family of unified communications products through the paces to find defects. The Lync Test team uses all of the traditional testing techniques used by other teams within the company, but they’ve added a few others into the mix as well. In 2003, Ross’ Windows Defect Prevention team noticed a fall-off in employee participation for stress testing, which requires a high volume of participation to “stress” the system. And the more people who participate, the higher the quality of the test results. In response, they decided to incorporate a simple game of hangman – spell “B E T A” – to motivate more participation. After all, everyone loves playing games, right? Sure enough. Overnight, employee involvement shot up 400 percent. The efforts of Ross’ team are still going strong since that initial game of hangman. In the meantime, this approach of encouraging desired behaviors through gaming concepts, typically called “gamification,” has also picked up steam throughout the business and technology worlds. Seeing its potential led Ross to establish 42Projects, an experiment in business management practices meant to foster trust, promote creative thinking and integrate the benefits of gaming concepts in the workplace. In practice, 42Projects encourages employees to use less-than-busy times to expand their thinking into other areas or opportunities. This might include playing various “productivity games” that encourage new behaviors and take advantage of crowdsourcing to gather feedback from people across the company. Or it could involve participating in projects that are outside of normal day-to-day duties, but which take advantage of their education and past experiences. The premise of 42Projects is that this freedom and trust improves organizational health and job satisfaction. Ross’ work on 42Projects has become an evolving case study on innovative management techniques that have been the focus of articles by the London School of Business, Forbes, Wall Street Journal, The Economist and others. He’s also a regular contributor to the Management Innovation Exchange as a guide for the “moonshot” to take the work out of work. Ross describes all the attention as being a bit “surreal.” Since rolling out that initial game, Ross’ team has worked on a variety of game-related projects. For instance, as part of Windows 7 testing, they invited native-language speakers within the company to play a game that involved assessing the linguistic quality of the product across thousands of dialects and 100 different languages. Over 4,500 employees took part in the game and completed more than half a million tasks, which contributed to a high-quality Windows 7 release.Then last fall, Ross’ team partnered with the company’s IT organization to get beta feedback on Microsoft Lync 2010. Out of this effort they launched Communicate Hope, which became one of the largest productivity games ever launched within Microsoft. Thousands of employees got on board and “gamers” contributed at 16 times the rate of non-gamers. Ross says the secret to the success of the game – any game that involves asking for help – is getting people “excited about taking time to participate.” With this in mind, Communicate Hope was established as a benefit for disaster relief. Participants joined a team playing on behalf of a particular disaster relief agency and earned points for the team by completing predetermined tasks. At the end of the game, the available donations were allocated to the agencies based on the number of points earned by the team on their behalf.Playing the game required some effort, but the quality of the software improves when a lot of people get involved. “That’s where the motivational potential of games is a key,” says Ross. Fortunately for him, all of the hard work paid off when the team received much more feedback than they anticipated. 42Projects has also helped showcase similar efforts within other groups across the company. For example, the Office Labs team created Ribbon Hero and Ribbon Hero 2, both of which are designed to help customers learn more about Office; and the Security team created Elevation of Privilege, a physical card game that they use for threat modeling. The work in Microsoft Research and Games for Learning represents a close collaboration in thinking about the future of game mechanics in the workplace. This has helped form a strong community of productivity game developers across the company.As Gen X, Gen Y and Millennial gamers enter the workforce, and as social and mobile game numbers skyrocket, it’s only a matter of time until these trends permeate the workplace. Based on what he’s done with the Lync Client Test team, I expect Ross and his friends will be ready and waiting, and will do whatever it takes to continue building a workplace that encourages experimenting, trust and creativity. Geek note, Greetings, Professor Falken: the title of the post is an homage to War Games…for those that are old enough to remember. // <![CDATA[
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// ]]&gt;Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

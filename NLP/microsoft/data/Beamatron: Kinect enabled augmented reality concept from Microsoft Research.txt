@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 13, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Last week I mentioned how closely I follow the work of Hrvoje Benko – he works pretty closely with Andy Wilson. The pair of them always have something interesting cooking in their labs – for Benko last week at TechForum it was the wearable projector, while Andy demonstrated Holoflector. There was one other demo that Andy and Benko showed which I received video of today. Welcome to Beamatron.Beamatron is an example of the trend we’re exploring that blends the physical world with the virtual world. It’s augmented reality concept that combines a projector and Kinect sensor on a pan tilt moving head – of the kind you may find in a nightclub. The setup utilizes KinectFusion to build a 3D model of a space and enables projected graphics to react in physically appropriate ways. For example a virtual car can be driven around the floor of the room bumping into actual obstacles and running over real ramps. Benko had great fun “driving” the car over my shoes as I stood watching.The moving head of the projector means the image can be displayed almost anywhere in a room while the depth camera enables the correct projection relative to physical surfaces.Aside from the fun aspect, another application the team mentioned is the ability to bring notifications and other graphics to the attention of a user by automatically placing the graphics within the user’s view.Let the blurring of physical and virtual commence!Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 30, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+For Kinect owners who are familiar with Forza Motorsport 4’s Auto Vista mode you’ll be comfortable stepping inside of vehicles using gestures. Now IdentityMine and Critical Mass have used Kinect for Windows to enable consumers to virtually explore the concept for the 2013 Nissan Pathfinder. This experience goes beyond gestures and uses the skeletal tracking of the Kinect for Windows SDK to track full-body movements such as walking around the car, kneeling to inspect the suspension and wheels.First shown at the Chicago Auto Show back in February it got me thinking about how this approach could be applied to other environments. An obvious one would be reviewing hotel rooms from afar. Others you can think of for virtual showroom experiences?Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

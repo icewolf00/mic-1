@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 10, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+It’s always inspiring to see the creative ways people use Kinect for Windows to improve everyday experiences. The Kinect for Windows Blog recently posted about three new examples from nsquared, an Australian company that has created a variety of innovative touch- and gesture-based experiences for education, hospitality and gaming.Shown in the video above, sky spelling is an educational game that helps kids improve their spelling skills. Spreading their arms like wings, they can fly through the sky as a dragon, biplane or butterfly, capturing letters in order to complete words along the way.The hotel kiosk app is an interactive concierge for travelers that uses new gestures included in the latest Kinect for Windows SDK. The app lets hotel guests discover local events and points of interest, and features maps to help them find their way.The versatile mediaviewer app lets users browse images and video displayed in a skin-able carousel. Designed for building lobbies, events, and a variety of other applications, mediaviewer also uses Windows Azure.The original Kinect for Windows blog post has more detail on all three apps, and you can learn more at this month’s BUILD conference about the new Kinect for Windows sensor and SDK on the way next year.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

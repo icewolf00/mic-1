@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 2, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Earlier this week, our News Center team profiled an application for Windows Phone 7 by Clever Sense – these guys are a Microsoft BizSpark One startup. The reason it caught my eye is their use of artificial intelligence to create exclusive search results. My NUI radar is well and truly up and when I read about their app using real world data to deliver information in context I was intrigued. This is the way we’re going you see – as I type this I have half an eye on the iPad 2 announcement and while it’s interesting, it’s not all about gadgets and speeds and feeds. There is still a world of software engineering that is going to change our lives as it we tap in to the vast amounts of data that are around us to build more intelligent interfaces and devices. As it happens, Seymour is available on Windows Phone 7, with releases for iPhone and Android expected.Back to Seymour – the article notes that it uses distributed web crawlers to locate information that is then pushed in to something called the Extraction Engine (sounds like my dentist). This engine uses natural language processing, statistical machine learning and data-mining algorithms to make sense of the information. Ahhh, my new found friend machine learning. The Clever Sense platform then applies their Serendipity Engine which uses artificial intelligence to learn about users interests and preferences. Reminds me of Project Emporia from our own FUSE Labs. Like Emporia, the more you work with Seymour the more he learns about you and your personal tastes. In the case of Seymour, the app can make recommendations based on location, time, intent (hmmm, Bing like) and social context. I just tested Seymour to look for a Chinese food place for lunch near my current location and it did a great job – showing me places I never knew existed with brief reviews and photos. I was even more impressed with the UI as it didn’t require me to enter search terms – I simply clicked through a series of questions such as to build a query for lunch places serving Chinese food near my current location. There is still work to do as it didn’t find the nearest coffee places to my home in downtown Seattle that I would have expected and it seems limited to the US right now…but it looks very promising. Adding a voice entry interface would be cool too!Grab it from the Marketplace and read more from GigaOm who covered it this week. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

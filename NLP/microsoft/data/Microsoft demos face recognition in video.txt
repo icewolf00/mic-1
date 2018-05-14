@@ -1,0 +1,42 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 9, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+
+
+<!--
+document.write("<script type='text/javascript' src="" + (window.location.protocol) + "//c.microsoft.com/ms.js" mce_src="http://blogs.technet.com/controlpanel/blogs/posteditor.aspx/&quot; + (window.location.protocol) + &quot;/c.microsoft.com/ms.js"" +"'>");
+// -->You’ve probably all seen face recognition in software like Windows Live Photo Gallery, Picasa and recently on Facebook. Today at Microsoft Research TechFest, I saw a demo of face recognition in video. Imagine watching a TV program or movie and being able to identify everyone in the scene just by pointing. In a movie this could mean annotations that show you what other movies the actor has been in, in a soccer game this could identify every player on the field and show you their stats, their previous clubs, recent goals etc. The tech behind this comes from our team in Israel and was on show today at Microsoft Research TechFest. I spent some time watching different folks walk up to the booth and agree to be tagged – the system could then track them throughout a video. It was impressive stuff as the OneVision technology behind the demo indexes an entire movie frame by frame, tagging individuals as it does so. The video above shows that it works pretty well in low resolution environments and at long distance. It can also identify multiple people at a time and track between scenes and at different angles – back to my football analogy above, once a player is tagged it would track them regardless of their position on the pitch or whether they were looking directly at the camera or not.The potential applications for this technology multiply each time I think about it. We’re moving towards a world that is more and more clickable. I’m not sure I like all of the implications of that, but I would love to see this technology inside my TV![update] the team direct me to a second video showing real time face recognition and pose detection. 
+
+
+
+<!--
+    document.write("<script type='text/javascript' src="" + (window.location.protocol) + "//c.microsoft.com/ms.js" mce_src="http://blogs.technet.com/controlpanel/blogs/posteditor.aspx/&quot; + (window.location.protocol) + &quot;/c.microsoft.com/ms.js"" + "'>");
+// --> <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

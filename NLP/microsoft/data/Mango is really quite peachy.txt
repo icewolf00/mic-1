@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 29, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+A lot of things changed when Microsoft moved from Windows Mobile to Windows Phone 7 and as someone who worked on the original smartphone efforts at Microsoft I can attest to how big those changes are.Back in the Orange SPV days, it seemed to take forever to add a few small features yet with the forthcoming Mango release of Windows Phone, the team has managed to include some big changes such as IE9 and multi-tasking and as well as lots of stuff that would have fallen in to the “nice to have” category back in the old days like IRM support and local scout. What’s perhaps more interesting for me is the amount of attention to detail and fit and finish work that the team seems to be focusing on as well. The releases seem altogether more polished, more focused. Engadget wrote a comprehensive review of Mango yesterday that had similar sentiments. Today, developers get an early look at Mango too and though it’s far from finished, there is a lot to like about this update.Engadget covers it way more comprehensively than I will and I agree with them that there isn’t a single feature in this update that will blow people away, but collectively the 500+ improvements lead to a very satisfying overall product.  Of course I’m bound to say that but having gone through 5 years of working closely with operators and handset manufacturers to launch phones in the past, I come with some prior knowledge of what it takes to synchronize all these changes and get them to sing together. I used to spend countless hours in small dark rooms with operator testing folks and on the phone to HTC in Taipei debating which things would make the cut this time around. It’s a tough environment with many masters but when you choose to make the end customer your master, it brings things in to focus somewhat and you end up with enjoyable features like Bing Vision, threaded email conversations, linked inboxes, and a very fast browser. You also find room for features like battery saver which helps you save juice when you’re down to your last few drops. Other features like custom ringtones and support for hidden SSID networks show that the team is listening and responding and fine details like settings now being saved in the camera app make me smile. Make customers smile and life will be good. Well, it’s not that easy but you know what I mean.The image above is my phone that has been running Mango for the last week and I’m a very happy customer – I even like the red theme despite initial reservations. Today, developers can get their hands on some early Mango bits to install on phones and begin testing and developing. The dev tools have been updated too you can find out more on the Windows Phone Developer Blog.There is plenty more to come from Mango – I’m especially keen to try out the Twitter integration which isn’t in the build – but for now, things are looking quite peachy.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

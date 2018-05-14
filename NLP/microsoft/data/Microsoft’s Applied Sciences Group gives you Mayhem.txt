@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 7, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+At Microsoft Research TechFest earlier this year I saw a demo of Mayhem but we never covered it here on NEXT. I was reminded of it when I saw on{X} from our Bing team earlier this week and decided it was time for some Mayhem love.Mayhem is an open source Windows application that lets pretty much anyone ‘program’ their computer to do stuff automatically across all their devices. I say ‘program’ because it’s really a very simple task of selected an event and the resulting reaction. What can you do with it? How about…  There are add-ons for INSTEON-brand lighting and home automation devices, Phidgets devices that include various sensors, servo motor controller, and digital I/O, for devices using serial communication and phone modules for Windows Phone, Android, and iOS.Mayhem was originally developed by Microsoft to allow everyone to harness the power of programming to connect devices and services, without programming. Ownership of Mayhem was transferred to the Outercurve Foundation as an open source project, and is freely available for download, use, and extension.Head to makemayhem.com to download and try it out. I’ll tell you, it’s quite addictive and I now have some INSTEON goods on their way to Casa Clayton with a plan to automate the whole place. When the sun comes out in Seattle, I want my roller blinds to automatically roll down, the A/C to switch on and my audio system to start playing summertime by DJ Jazzy Jeff & The Fresh Prince. Who wouldn’t? 🙂Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

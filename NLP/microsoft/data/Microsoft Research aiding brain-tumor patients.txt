@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+October 17, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Examples of the interactive and automatic segmentation results for five patients.Microsoft Research is home to a lot of expertise in the fields of machine learning and computer vision – the kind of technology you find in Kinect amongst other things. So when I read about those two technologies being used to aid brain tumor patients, I was somewhat intrigued.A few weeks back my colleague, Rob Knies, wrote a fascinating post over on the Microsoft Research site that explains all, and I’d highly recommend reading his original post. My abbreviated explanation is below. Antonio Criminisi is a senior researcher at Microsoft Research Cambridge. Along with his research partner, Darko Zikic, they have been working with physicians from Cambridge University Hospital to build tools that assist surgeons and oncologists in treating patients glioblastoma – the most aggressive type of malignant tumor. Their aim is to automatically delineate high-grade tumors from individual tissue components in MRI scans.The team has two tools they’re testing – the first of which is focused on automated segmentation of a 2D image. Such segmentation typically takes an oncologist an hour – though that could be reduced to 15 minutes using the tool.The second tool aims to provide fully automatic, 3-D tumor delineation, and applies machine learning techniques to learn from them the annual segmentation and labeling an oncologist would perform. Testing has shown that this automated process isn’t perfect – but it shows much promise. As you can read in Rob’s piece, the reaction from the medical community is one of excitement at the potential to assist their work, and to ultimately help patients.When people ask me what Microsoft Research does, I often show them projects such as Kinect Fusion, Illumishare or Digits – and then I tell them about the work of researchers such as Criminisi and Zikic or David Heckerman’s work.And you thought we just made cool videos?   (I should note that Criminisi and Zikic are two members of a group who have authored a paper on the topic – Ben Glocker, Ender Konukoglu, and Jamie Shotton of Microsoft Research Cambridge. Çağatay Demiralp, a 2011 intern at that lab; and Jena Price, Dr. Owen Thomas, and Tilak Das of Cambridge University Hospitals have also been involved)
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

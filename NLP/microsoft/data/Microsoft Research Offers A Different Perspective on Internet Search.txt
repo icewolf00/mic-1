@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 7, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+We talk about Bing as a “decision engine” that anticipates your intent and surfaces search results to help you quickly make an informed decision. Built into this concept is the assumption that productivity is your chief goal. The Socio-Digital Systems group in Microsoft Research Cambridge has been studying how people use the internet for functions rather than getting things done, where it’s more about the journey than it is the destination.Out of that they’ve developed some intriguing new search experiences that are on display this week at TechFest, and these experiences cast new light on how online content can be consumed and curated. For example, one experience surfaces results about the stuff you care about—formula one racing, for example—and over time it “grows,” becoming a flower with each petal representing a different search result.Another example uses a scrap book paradigm that lets you save your favorite search results, with each one being represented by an image and short snippet of text. What I really like about this is the ability to combine links to your favorite sites with visuals and text. And in both cases you end up approaching online search from a different mindset or vantage point.My words really don’t do the work justice as it’s something you really need to see for yourself – we’ll have a video demo of this up very soon too so be sure to check back!Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

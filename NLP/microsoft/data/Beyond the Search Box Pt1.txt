@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 1, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+I’m down in San Francisco today at UCSF attending FarSight 2011: Beyond the Search Box. The event is organized by Big Think with support from our Bing team – but this is no Bing “show and tell” – it’s gathering of “big heads” for presentations, panels and discussions on what the future of search may be. People are starting to arrive – Esther Dyson is sat chatting with Blaise Augera y Arcas, Kevin Kelly is stalking the room and team Blekko have taken up a flank position alongside me and a crowd has formed around Danny Sullivan – no doubt discussing his post this morning. I decided to forgo the comfortable seats (and the power outlets) to bring you a roving report of sorts. I’m not going to live blog the event – I think that makes it impossible to actually listen and learn – so check back here later this morning for an update on what I learnt. Right now, Vivek Wadwha is up on stage – he’s our emcee for the day and is talking about how we wants search that helps him find he perfect Indian restaurant.You can follow the stream live as followsFlashSliverlightWindows Media 300kWindows Media 700kWindows Media 1m<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

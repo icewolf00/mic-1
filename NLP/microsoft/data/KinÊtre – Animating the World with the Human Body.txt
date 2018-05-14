@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 7, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+When I first saw the KinÊtre project from Microsoft Research I wasn’t quite sure what to make of it – a novel use for Kinect yes, but what would it be used for other than some fun? And then I thought about my childhood watching cartoons with inanimate objects, animated to behave like humans.KinÊtre is being presented at SIGGRAPH 2012 this week in Los Angeles. A project from Microsoft Research in the UK, it uses the capabilities of Kinect for Windows to map your virtual limbs to the geometry of a variety of household objects such as a chair or lamp. After scanning a physical objects using KinectFusion (another project from Microsoft Research in Cambridge, England) a 3D mesh of that object is created. A spoken command (possess) attaches your limbs (virtually) where they overlap with the mesh and the virtual object then follows your movements. This is far easier to understand by simply watching the video above.KinÊtre isn’t targeted at professional animators but for those with zero experience in the field of animation, it’s a fun tool and another demonstration of how our own researchers are continuing to push the boundaries with Kinect – and advance the state of the art in graphical-based technologies.Find out more at research.microsoft.com/animateworldTweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 7, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+The Bing guys announced an app for iPad today and it looks pretty sweet – Greg Sterling at Search Engine Land is effusive in his praise. Stefan and Zach take you through the details in the video above. I love audio search in particular….and Stefan’s use of the word boom. Heard that somewhere before. His new word – searchploration? Not so much.Anyway, you can make your own decision on what you think of the app but I wanted to mention something I think is often missed at Microsoft. Design chops. I know great design and Microsoft are not exactly synonymous but there is definitely a design underbelly here that is starting to peek through. I see it in Windows Phone 7, Kinect and the Xbox UI. I also see it in hardware like the Arc Touch Mouse and the less well know Arc Keyboard. A few weeks ago I mentioned Manuel Lima – an interaction designer on the Bing team. He’s one of many design folks over there. The real test of the success of their work is that you don’t notice it – it just looks an feels beautiful. I think they’ve achieved that with this app for iPad. Download through the Apple App store.[update] i think Chris Pirillo likes the app Second video below is included purely so you can see the Microsoft coffee stand that makes the finest dry cappuccino on our campus. A regular haunt of mine. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

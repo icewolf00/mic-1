@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 11, 2014
+
+									|										
+David Chen - MSFT - Microsoft News Center Staff
+
+It all started with a snow day.Walter Sun, Development Manager for the Core Ranking team at Bing, was examining search queries in the winter of 2008, when he noticed an interesting pattern: periodically, a strong spike of queries would come up for specific school districts (e.g. “Lake Washington School District”) at around the same time in specific regions. “What I noticed is that these queries always preceded a potential snow event. The likely reason was that people would query school districts to figure out whether there were closures at their local schools,” Sun recalls. By seeing when and where these queries arose, Sun could accurately assess the time and location where a snow storm might occur without actually looking at the weather forecast.Examples such as this confirm that aggregate search information can be used to infer specific facts, but Bing had never used this data to make public predictions before. Sun wanted to see if this was possible.“About a year ago, I suggested that we create a prediction engine using the strength of our machine learning models to infer outcomes on several events, starting with television shows,” Sun recalled. “We tried multiple features in our models and the best performing algorithms on the features we used ended up being similar to our Bing search ranking models. In particular, for voting shows, our search machine learning models did a good job in predicting the ranks of show participants.”Several months later, Bing Predicts was live.One of the first shows that Bing Predicts focused on was American Idol. Bing ranked the final 13 contestants and accurately predicted the winner of this year’s competition. According to Sun, “At the beginning of the season, according to Las Vegas odds, Caleb Johnson was a 12 to 1 underdog, meaning he had a roughly 1 in 13 chance of winning. Other contestants, like Sam Woolf at 5 to 1 and CJ Harris at 6 to 1, had much higher probabilities. But as early as late March, our data clearly showed that Caleb Johnson was the favorite to win. Even on finale week in mid-May, Jena Irene was the favorite over Caleb. But Caleb Johnson did win. The interesting thing about this year is that it was a more competitive contest and yet our models were able to discern who the better contestant was even though the smart money did not.”Since going public, Bing Predicts accurately predicted the outcome of every single week of American Idol. It also was highly accurate in predicting the outcomes for The Voice and for Dancing with the Stars, correctly predicting every week except one for each show.One of the most surprising elements was how large of a factor popularity was for reality shows that were ostensibly skill-based and dependent only on each week’s performance. “The premise of these shows is that you have to watch every week and vote for the best singer or contestant from that week’s performance,” Sun says. “What’s interesting is that the initial model of generic popularity is a pretty strong indicator. If you’re looking at the general public’s voting patterns, the preference people have at the beginning plays a pretty big role – a stronger role than one would expect.”Today, Bing Predicts turns its attention towards the World Cup, which brings a whole new set of forecasting challenges. Rather than rely on signals like general popularity (which doesn’t make much of a difference for sports contests), Bing needs to use more relevant data. “The number of people who are fans of Brazil don’t necessarily improve its chances of winning. Instead, you want to model the competitive strength of teams and then leverage expert opinions, with prediction markets as a proxy for that,” Sun says.For its predictions on the World Cup, Bing Predicts also draws on the work of David Rothschild, whose predictions have been highly accurate in the past. Blog readers may recall that Rothschild accurately predicted 21 out of 24 Oscar categories this year. Rothschild is creating APIs that will allow his data to be pulled into Bing Predicts.For Rothschild, these predictions are an opportunity to demonstrate Microsoft’s prowess around data sets. Rothschild explains, “I think that the analytics from Microsoft Research, as well as our partners in Bing Predictions and other groups that are working with these large data streams, is competitive to what’s in the marketplace. I want to create outlets and opportunities for the company to demonstrate the data collection, infrastructure and analytics that exists here at Microsoft.”Soon, Bing Predicts plans to move into predicting other events, such as the NBA draft selection order and political elections. “The main goal is to show people that Bing algorithms and data itself is a pretty powerful force in terms of what we can do,” says Sun. “Being able to just parse out this information to predict a winner for a voting contest, or the order of a draft that’s coming up, or the likely outcome of the World Cup – those kind of things are an interesting way to show users that Bing has a lot of horsepower beyond just providing good search results.”
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 12, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+[reposted from the Kinect for Windows blog]I grew up in the UK and my female cousins all had Barbie. In fact Barbies – they had lots of Barbie dolls and a ton of accessories that they were obsessed with. I was more of a BMX kind of kid and thought my days of Barbie education were long behind me, but with a young daughter I’m beginning to realize that I have plenty more Barbie ahead of me, littered around the house like landmines. This time around though, I’m genuinely interested thanks to a Kinect-enabled application.This week, Barbie lovers in Sydney, Australia, are being given the chance to do more than fanaticize how they’d look in their favorite Barbie outfit. Thanks to Mattel, Gun Communications, Adapptor, and Kinect for Windows, Barbie The Dream Closet is here.The application invites users to take a walk down memory lane and select from 50 years of Barbie fashions. Standing in front of Barbie’s life-sized augmented reality “mirror,” fans can choose from hundreds of outfits in the digital wardrobe—virtually trying them on for size.The solution, built using the Kinect for Windows SDK and using the Kinect for Windows sensor, tracks a users’ movements and gestures enabling them to easily browse through the closet and select outfits that strike their fancy. Once an outfit is selected, the Kinect for Windows skeletal tracking determines the position and orientation of the user and the application rescales Barbie’s clothes, rendering them over the user in real time for a custom fit.One of the most interesting aspects of this solution is the technology’s ability to scale – with menus, navigation controls and clothing all dynamically adapting so that everyone from a little girl to a grown woman (and, cough, yes, even a committed father) can enjoy the experience. To facilitate these advancements, each outfit was photographed on a Barbie doll, cut into multiple parts, and then built individually via the application.Of course, the experience wouldn’t be complete without the ability to memorialize it. A photo is taken and, with approval/consent from those photographed, is uploaded and displayed in a gallery on the Barbie Australian Facebook page. (Grandparents can join in the fun from afar!)I spoke with Sarah Sproule, Director, Gun Communications about the genesis of the idea who told me: “As soon as the Kinect for Windows SDK became available last spring, we knew we wanted to incorporate Kinect into our work. We started working with Mattel and Adapptor on Barbie The Dream Closet six months ago and everyone has been thrilled by the simplicity, flexibility, and innovation Microsoft has poured into Kinect for Windows. Kinect technology provides brands with great opportunities to engage their audiences in new ways.” Barbie The Dream Closet, was opened to the public at the Westfield Parramatta in Sydney today and will be there through April 15. It’s first day, it drew huge crowds, with hundreds of people experiencing Barbie’s Dream Closet and it’s expected to draw even larger crowds over the holidays. It’s set to be in Melbourne and Brisbane later this year.Meantime, the Kinect for Windows team is just as excited about it as my daughter: “The first time I saw Barbie’s Dream Closet in action, I knew it would strike a chord,” notes Kinect for Windows Communications Manager, Heather Mitchell. “It’s such a playful, creative use of the technology. I remember fanaticizing about wearing Barbie’s clothes in the 1970s when I was a little girl. Disco Ken was a huge hit in my household back then…Who didn’t want to match his dance moves with their own life-sized Barbie disco dress? I think tens of thousands of grown girls have been waiting for this experience for years…Feels like a natural.” That’s the beauty of Kinect – it enables amazingly natural interactions with technology and hundreds of companies are out there building amazing things; we can’t wait to see what they continue to invent.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

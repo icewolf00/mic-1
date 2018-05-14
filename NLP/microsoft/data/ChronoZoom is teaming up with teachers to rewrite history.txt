@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 2, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Editor’s note: The following is a post from Mark Hanson, a staff writer for Microsoft News Center.There’s an effort underway to rewrite the history books and it’s all being driven by a group of time travelers from the future. Just ask Donald Brinkman, a Program Manager with Microsoft Research who is allegedly acting on behalf of these time travelers to alter history – or at least the way it’s taught in the classrooms – to help tomorrow’s leaders make better choices.Brinkman has a history of working on unusual projects, such as distributing thousands of epiphytes to influential researchers around the world. Now he is working with the National Council for Social Studies, the American Historical Association, and the LearnNC program at the University of North Carolina at Chapel Hill on the ChronoZoom project.Together, this team of teachers, researchers, internationally recognized historians and curriculum developers are writing a series of curriculum modules for Middle School and High School students. Once completed, the curricula will map to Common Core and C3 Social Studies Standards and help teachers incorporate technology into the classroom – in this case, the use of ChronoZoom, a tool designed for visualizing history across massive time scales.Brinkman is no stranger to revolutionary thinking within the classroom. Through his work at Microsoft Research he has helped develop a rationale for how to enhance the learning experience with a healthy amount of game play and technologies such as ChronoZoom.Says Brinkman: “What we’ve found is that digital education technology is great for capturing complexity and sharing materials broadly. But for things like person-to-person interactions, it can sometimes get in the way.”In the case of the ChronoZoom project, the team is blending traditional, paper-based materials with the digital experience to create three separate curriculum modules: one on World War I (timed with the 100-year anniversary of that conflict), one on the impact of European Colonization on the Americas, and a third, more general, module that helps students learn how to “think historically”.Middle School history teacher Samantha Shires helped develop the World War I curriculum and piloted it with her class of 7th and 8th graders in Greensboro, NC. What stood out to her was ChronoZoom’s usefulness as a presentation and assessment tool.“There’s a certain amount of messiness to history that can make it a challenge to fully understand,” says Shires. “ChronoZoom provides a visual representation that helps my students make sense of the messiness and act as an operator of history, rather than merely a bystander.”Like many teachers, Shires’ limited classroom technology includes an aging PC and projector. In the absence of additional technology, her students can manipulate the timeline cards that come with the curriculum to get a better sense of everything that transpired in the run up to World War I, and develop their own point of view about which events played the most critical role.Once they have conducted their primary research, students can create timelines and presentations within ChronoZoom and share their work with Shires and the rest of the class to demonstrate their mastery of the topics they are studying.Yet for all the value of digital technology, the importance of tangible materials like the cards can’t be understated, which is why Shires and Brinkman are working with the USC Interactive Media and Games Department on a series of five analog game prototypes that could connect into ChronoZoom.“We need to bring tangible experiences into the classroom that make it easier for teachers to work alongside students,” says Shires. “Kids need to have fun and they’ll tune me out if they don’t buy into whatever it is I’m saying. These cards breathe life into whatever they’re doing.”Brinkman, Shires and other members of the ChronoZoom project recently attended the National Council for Social Studies Conference, where they were joined by students from the Whitfield School in St. Louis, which is also taking part in the pilot program.Long term, Brinkman’s goal is that schools across the country and around the world would begin taking advantage of tools such as ChronoZoom to provide a more engaging classroom experience.To this end, the curriculum is available as a free download under Creative Commons attribution-only license, giving teachers the right to make whatever modifications or additions they choose. In addition, Microsoft Research has released an Authoring Guide that further simplifies the process of creating and publishing your own ChronoZoom timeline.There is also the possibility, however remote, that the ChronoZoomers Guild, a secretive association founded in 2118 to conduct responsible use of time travel, will leverage the work of the students to investigate whether World War I might be averted for the betterment of humanity.Whether this is a real opportunity or just an elaborate prank by his coworkers, Brinkman can’t confirm. Either way, he’s confident that helping students around the U.S. to examine history is a good thing.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

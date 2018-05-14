@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 8, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Today is the first day of Microsoft Research (MSR) TechFest here on our main campus in Redmond. This is my first TechFest so I’m intrigued to see what it’s like and will be reporting back here later in the day with my findings and videos. You can find out more over on the official TechFest page from Microsoft Research. Rob Knies also posted a good intro yesterday.What does the title of this post mean though? It was the subtitle on a banner I saw at TechFest last night during the setup (shown in the image above) and initially it confused me. Then it was obvious – TechFest is about technology transfer – about connecting our MSR teams with our product teams. This happens year round but TechFest is a point in time when a lot of MSR ideas can be exposed to a lot of other team in a short space of time. There are always obvious connections between some areas of research and our products teams (e.g. folks working on search in MSR connect regularly with the Bing team) but other connections can be more serendipitous, hence why TechFest can be a spark for entirely new collaborations. Technology transfer may seem a simple process on the face of it but as I have learnt in the last 7 months in Redmond, it’s not quite as simple as throwing a research project over a wall and expecting a product team to catch it and integrate in to a product the following week. Imagine a product team receiving that gift a few days or weeks before they’re due to ship their product – it’s like someone giving you the winning lottery numbers 30 mins after the draw took place (well, maybe not exactly like that, but you get the idea). Back in October last year, Dan Reed (our Corporate VP of tech strategy and policy and the extreme computing group) wrote what I thought was an excellent post on the topic of tech transfer – he acknowledged the broader definitions and then zoned in on tech transfer as “the mechanism via which research ideas are communicated to and adopted by companies and their product groups”. In his post, Dan talked about the mechanisms of tech transfer such as research papers – when you read the Wired account of the birth of Kinect, it’s clear that such papers were of significance to Alex Kipman and the team seeking to build their impossible dream that became Kinect. Without those papers, Kinect probably wouldn’t be with us today. Dan also talks about demonstrations of the type that will be shown at TechFest tomorrow and the value that a real prototype can deliver as seeing is believing. Finally, Dan talks about the contact sport element – the social aspect of tech transfer that is vital for success. This can be in the form of embedding researchers with a product team or long term engagement and partnership and the context that affords over a collaboration based on written words alone. When people come together they spark ideas, they exchange thoughts and they build on top of each other’s insights. When you mix that up with folks from many different backgrounds, countries, discipline and experiences you get a heady mix that can ignite some remarkable ideas. I suspect TechFest is a fertile ground for this sport and will report back what I see from the playing field this week. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

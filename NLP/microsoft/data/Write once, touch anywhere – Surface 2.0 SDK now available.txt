@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 14, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ A couple weeks ago I featured a video of the technology and visionary talent behind Surface 2.0.  Some pretty amazing stuff if you haven’t already seen it – essentially  transforming a 40” HDTV into a touch screen computer on steroids.The Surface team were down in Los Angeles this week at Worldwide Partner Conference, talking about the SDK and had three Samsung SUR40’s in their booth. Each time I went by, it was packed out and though they announced the SDK last week, it was formally made available here at the conference. I spent time talking with partners like Headcandy who are already doing amazing things with Surface 1.0 and showed me some amazing ideas for 2.0 they have in the works.The SDK gives developers a bunch of tools to start creating applications and games for Surface 2.0. Included in the mix are code samples, guidelines for designing the interface, and a few hands-on labs to help developers get their “sea legs” with using new features such as the Pixel Sense touch interface. I can’t wait to see what companies like Infusion, Razorfish, Headcandy and Vectorform come up with.Oh and one final thing – with this SDK, developers can target Microsoft Surface Hardware and Windows 7 Touch enabled PCs. The Surface team informally calls this feature “Write once – touch anywhere”.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

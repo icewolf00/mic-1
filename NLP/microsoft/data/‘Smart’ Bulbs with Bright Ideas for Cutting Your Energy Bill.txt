@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 20, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Whenever talk turns to the internet of things, the home of the future is one of the first examples to come up. We could probably each think of at least a half-a-dozen ideas of how to make our homes more comfortable with technology. For better or worse, one of the first to see the light of day was the web-enabled recliner. I suppose it had its merits, but I can’t help chuckling when comparing it to where things are headed today – especially when it comes to home automation.In the last few weeks I’ve posted a video of the Microsoft Home, and a few others highlighting the imaginative ways companies are thinking about technology in the home. The videos are full of a lot of high-concept ideas and some pretty sweet looking products, some of which are bit on the expensive side. But the secret sauce behind the whole “home-of-the-future” vision is embedded systems. While name brands like Kohler, Ericsson and AGA are busy creating shiny, new, connected appliances to fill your kitchens and bathrooms, a few other companies are working on the technologies that tie it all together.For example, ARM has created the mBed microcontroller, which helps developers toy around with their rough ideas until they’ve settled on the final version of an embedded app. Having tools like this is sure to set  imaginations ablaze with new ideas for smart home appliances.The mBed project was part of a Wired.com article about wireless energy sensor technologies. The story also features EnOcean, a Germany-based manufacturer of wireless lighting and thermostat controls that capture solar, thermal and kinetic energy. For example, by harnessing the kinetic energy of a spring-loaded light switch or thermostat controls, the ECO 100 can send a signal to a web interface that’s much like your average router. What this means is that from any computer hooked up the internet you could double check whether you left the lights on, or you could turn the heat up before you pull into the driveway. There’s even the obligatory mobile app that lets you do this from your phone. Residential use isn’t really in the sweet spot of the current batch of EnOcean products, but that’s apparently where the company is headed.Another great technology in the offing is focused on smart lighting options being developed by NXP, a Netherlands-based semi-conductor maker.  NXP is installing its IP-based “Green Chip” in  compact fluorescent and LED light bulb.  The light bulbs can then ‘communicate’ with the light switches, and like EnOcean, homeowners can control the light bulb from any internet-connected computer, mobile device or TV so they can cut down on how much energy they use. This video gives a more in-depth explanation, and as you can see, it’s not just about making things more convenient. It also puts the tools in place to create a smart grid that helps cut down on the amount of energy that we use.One of the cool things about the Green Chip is that it includes short-range wireless technology that can be used for more than just energy efficient lighting. NXP is making its programming interface available as open source too, so appliance makers can “light up” next year’s model of refrigerator or clothes washer with some internet smarts. There’s a great Fast Company article that talks about the Green Chip’s potential in more detail.The best part of all may be the price and availability. Fast Company suggests that by year’s end you could purchase a pack of five energy-efficient, Green Chip bulbs – along with the remote – from most big box stores for around $50. Sure, that might be a bit more than you typically pay, but I think the energy efficiency and potential value ad of other smart home ideas makes it well worth the few extra dollars out of pocket.The more people who install these in their house, the more opportunities there will be for cool new appliances – and perhaps a new version of the web-enabled recliner.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 19, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ Add this one to the Kinect files – another creative use of the 3D sensor.The Sonos Studio in LA is currently hosting an exhibition titled “Missing” in collaboration with The xx, media producer Aramique Krauthamer, media artist Kyle McDonald and engineer Matt Mets. The exhibition features 50 robotic Sonos PLAY:3’s that follow the movement of visitors as they pass through the space. How do the players follow the guests? You guessed it, with Kinect.Each speaker is suspended from the rig and incorporates a small motor and circuit board to enable movement. Two Kinect’s are mounted in the upper corners and the depth data of they space the sensors gather enables direction of the PLAY3 to have the music ‘follow’ guests around. Notcot has some great images including the hardware setup and 3D map of the space.Sonos says the result is a moment of ‘unexpected coexistence between man, sound and machine’. I need to hear it to verify that claim….LAX here I come.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

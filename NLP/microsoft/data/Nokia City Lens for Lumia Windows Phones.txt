@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 8, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Nokia City Lens first showed up at CES and is now available for the Nokia Lumia 710, Nokia Lumia 800 and Nokia Lumia 900. It can be downloaded from Nokia Beta Labs.It’s much like other augmented reality apps you may have seen for smartphones in that it uses a combination of the compass and screen to give you a heads up display of sorts. This allows you to see landmarks, restaurants, hotels, shops and public transport stations in your immediate vicinity simply by holding your phone up and panning around. As you’d expect you can filter based on the stuff you’re interested in and it’s has a Metro style interface.  If you’re on your desktop browser you need to transfer the link to your phone to install the app. If you’re browsing this page on your Nokia Lumia phone, you can install Nokia City Lens from the Windows Phone Marketplace. (Note: opening the Marketplace link on a desktop browser will give the error “App not found”.)Final note: this app doesn’t work on the Nokia Lumia 610 as that device has no compassTweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

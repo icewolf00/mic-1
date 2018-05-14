@@ -1,0 +1,40 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 15, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+When I saw the title of this new video, I thought it was going to be an update to the Office 2019 video – instead, it’s a look at the history of productivity from Microsoft and I like it. There’s some fun history in there such as the boxed product for Microsoft Multiplan and our old friend clippy. The long time fictitious Contoso company is used throughout and a Compaq iPaq makes a subtle appearance around 45s and the video finishes with monochrome logos for the latest productivity lineup from Microsoft – Office, Exchange, SharePoint, Lync and Office 365.  
+
+<!--
+    document.write("<script type='text/javascript' src="" + (window.location.protocol) + "//c.microsoft.com/ms.js" mce_src="http://blogs.technet.com/controlpanel/blogs/posteditor.aspx/&quot; + (window.location.protocol) + &quot;/c.microsoft.com/ms.js"" + "'>");
+// --> A second video in the series it titled Future of Productivity Vision Video- A Look at Today and shows the possibilities with that lineup of products deployed and also brings Windows Phone in to the mix. 
+
+<!--
+    document.write("<script type='text/javascript' src="" + (window.location.protocol) + "//c.microsoft.com/ms.js" mce_src="http://blogs.technet.com/controlpanel/blogs/posteditor.aspx/&quot; + (window.location.protocol) + &quot;/c.microsoft.com/ms.js"" + "'>");
+// -->There are several other shorter videos in the series that use clips from the second video. Business Intelligence capabilities are shown, remote collaboration, social networking, staying connected on the go, kiosk workers and IT administration. The first video up there is the pick of the bunch for me <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

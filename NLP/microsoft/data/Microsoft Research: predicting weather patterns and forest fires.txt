@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 7, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+One of the stand out projects from TechFest last year was FetchClimate! — a browser-based tool that lets you access and visualize all sorts of climate and atmospheric data from around the world in a Bing Maps interface.It’s an amazing tool for a couple of reasons: it gives you access to actual climate data from sources such as NOAA and the MET at the click of a mouse, and it gives you this really useful and visually engaging interface that helps you drill down into a host of different factors as they relate to weather conditions. It really was an amazing display of how big data could be visualized.This year, Microsoft Researchers Drew Purves and Vassily Lyutsarev went a step further. They developed the prototype for a browser-based probability engine that could use all of that climate data to make predictions about weather patterns, forest fires and other atmospheric conditions.The title of their project is “Predictive Decision Making at the Speed of Thought” and it’s really about being able to access all of this data in the cloud, applying it to a scenario, such as the yield of wheat outlined in the video above, and projecting into the future what sort of growth patterns a farmer could anticipate — all within a few  minutes and a few clicks of a mouse.As cool as that is, it gets better: Drew and Vassily also designed their prototype so you could easily send your database to others to help do additional research. And  as the project has moved from Silverlight to be entirely built on HTML 5, you can get the same data visualization experience on a smartphone. This is just one of several big data-related projects that were on display this week at TechFest 2013, all of which provided an amazing experience for either visualizing big data or making predictions based upon it. If you haven’t done so already, go watch some of the demo videos on the microsite for this year’s event.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

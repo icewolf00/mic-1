@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 23, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Microsoft Research Cliplets is an freely downloadable application that gives you the power to create “Cliplets” – a type of imagery that sits between stills and video, including imagery such as video textures and “cinemagraphs”. You may have seen the recent resurgence in popularity of the animated GIF file format – this application makes creation of that type of imagery very easy while – giving you a lot more capabilities to play with.I covered Cliplets back in March as part of our TechFest coverage but during a visit last week from Lance Ulanoff of Mashable, I got a chance to take a deeper look at the application. It’s creator, Neel Joshi, took Lance and I through a thorough demo and you can see the resulting Mashable post titled Cliplets Lets You Make Your Own Moving ‘Harry Potter’ Photos.The video above is my first Cliplet. I shot a 20 second video with my Flip camera this afternoon while in Bellevue and then did 5 minutes of editing having checked out the tutorial on the MSR page. My waving flag is far from perfect but for a 5 minutes job, not bad. The trick with these types of things is to ensure you have a few moving obviously elements in the scene.For the moment, Cliplets are restricted to a 10 second clip length but with a number of filters you can apply, this is more than enough to have some fun with. The video below shows you some of the capabilities and you can see more in the gallery. Head over to the Cliplets project page where you can download the app for free in 32 and 64 bit Windows flavors.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

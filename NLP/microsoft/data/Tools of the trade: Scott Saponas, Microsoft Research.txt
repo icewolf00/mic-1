@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 11, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+I’m writing this on a flight back from San Francisco where we held a gathering to chat about NUI. A perfect time to interrogate Scott Saponas about his tools of the trade – I managed to glean the info from him during a cab ride to the airport. Before we delve in to the details, who is Scott? I first heard of him when he was honored as one of Technology Review’s 2010 Young Innovators Under 35. I headed to Building 99 to track him down and found a young kid hanging out in his office…turns out it was Scott. He’s a Researcher in the Computational User Experiences (CUE) group within the VIBE area at Microsoft Research. What does all of that mean? He does research in to Human-Computer Interaction exploring what he calls “off-desktop interfaces” – stuff like using your body as an interface mechanism. Scott has developed software that can process the signals that arise when, for example, you pinch your index finger with your thumb. This research could enable you to remotely control a media player whilst jogging simply by moving your fingers. Alternatively, in clean room type environments, devices could be controller without having to physically touch the device in question. This is all better explained by his “air guitar video”. So…what are Scott’s Tools of the Trade?Our cab ride was long enough that I also got the details on what Scott has inside (and just outside) of his office So there you have it, everything a budding Microsoft Researcher needs. Quite an exhaustive list…but all necessary when you’re building the future Check out the video below of Scott on air guitar using one of his own creations to show how muscles can be used as input mechanisms. You can also follow Scott on Twitter. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

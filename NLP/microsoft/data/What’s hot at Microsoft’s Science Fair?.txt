@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 11, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+It’s fair time at Microsoft – Tech Fest is on the horizon and our Product Fair follows a little later in the year. I’ll be following (and blogging) about each of them and giving you some insight in to what goes down at these events. Today was Science Fair at The Commons and I was one of the judges so I got an extensive tour of what’s on offer (and a white lab coat) and then toured again with Josh Lowensohn of CNET who has just posted his views on the event. Science Fair is run by the folks behind The Garage at Microsoft  which I covered in a recent post. In a nutshell, it’s hobbyist development inside Microsoft. So what did we see at Science Fair today that I can tell you about? Human Beat box – this enables you to play a virtual, Kinect-driven instrument using body movements and gestures. I declined to test this out myself (using the excuse of just having had lunch) but I did get to watch Josh do some mixing. I have the photos Josh  .NET Gadgeteer – they have a ton of cool gadgets they’ve built and they tap into hobbyist hardware development. It’s an area which is really exploding with places like metrixcreate.com popping up. I actually felt my gadget tendencies for a moment as I saw how quickly you could get results by snapping together hardware with almost Lego like simplicity and then code with consummate ease inside Visual Studio. The most impressive part I heard about this was the explanation of how devices could easily be connected to the cloud AND how you’re using same tools to develop whether it’s these devices running the .NET Micro Framework or Azure in the cloud….and everything in between.    Seamless Desktop – I love this project – it’s just so obvious and easy to use. Basically, it allows you to seamlessly move your mouse across multiple computers, drag and drop files, and copy and paste like they were all one desktop. I’ve been using this one for a while to navigate the 4 screens on my desk and it it also replicates keystrokes across machine, allows you to do stuff like seamless logon to multiple desktops etc. It’s simple, elegant and extremely useful if you run multiple machines. And the best part? It’s going to be downloadable very soon. 10,000 Softies are already using it and no surprise that it won a “golden volcano award today”. Next up….TechFest in mid March.  <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

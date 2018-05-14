@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 5, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+This slipped in under my radar last week – the Microsoft Touch Mouse will be updated for Windows 8. More updates to come on that so stay tuned to the  Microsoft Hardware blog for more.What really slipped under my radar though was the a new beta app for Windows 8 – Microsoft Device Center. This app helps you customize your Microsoft mouse and keyboard, combining the existing mouse software (IntelliPoint) and keyboard software (IntelliType) into one simple solution. The application supports remapping your mouse buttons or assigning keys on your keyboard to your favorite file or webpages. One neat trick is the ability to apply application specific settings for buttons. I also had no idea I could turn off the haptic scroll on an Arc Touch Mouse until I installed Device Center. Microsoft Device Center beta for the Windows 8 Consumer Preview is ready for download in 32 and 64 bit flavors.Note: This app is intended as a Beta release for the Windows 8 Consumer Preview and is currently available only in English.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

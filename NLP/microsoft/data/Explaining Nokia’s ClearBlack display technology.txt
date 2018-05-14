@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 9, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ [image credit: Nokia]As you may have gathered, I’m quite pleased with my Nokia Lumia 800. Being a geek at heart, I’m always keen to understand the technology under the covers so I was intrigued by a recent post by Ian Delaney at Nokia on their ClearBlack display technology that is employed in the Lumia.He begins by extolling the virtues of bright, touch-driven displays and how they’ve changed our mobile world – but in the quest to beat the sunshine reflecting on those displays, Nokia has sought to find a balance that gives you a better reading experience but doesn’t simply amp up the brightness at the cost of battery life. Hence, the ClearBlack display which uses a sequence of polarizing layers to eliminate reflections. My Oakley shades are polarized and work in a similar fashion, reducing reflections and glare, but the ClearBlack technology is more detailed than my Oakley’s as the light rays are processed many times on their way in and out of my Lumia’s screen. As Ian notes: There’s both a linear polarizer and retardation layers between the surface of your phone and the display. When light hits your screen, this is what happens: The obvious question is how does the light from the phone display make its way through all of this? Ian answers that part too… Because it only goes through the second half of this journey so the light is unpolarized when it hits the final filter and goes through. Neat…here endeth today’s geek lesson.via Nokia ConversationsTweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

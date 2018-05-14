@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 20, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Nope, that’s not a spelling mistake in the title. I stumbled across another great example of how the internet of things is taking shape via my good friends at PSFK – they brought my attention to EVRYTHNG, a developer toolkit that lets you endow most any physical object with an “Active Digital Identity” (ADI), which they liken to a Facebook profile.This ADI lets you write applications, which you can then use to interact with the object. As I’ve said before, this has some pretty amazing potential for squeezing more value out of the stuff you already have, or for creating new stuff. I love some of the examples on the EVRYTHNG site about how this could be used, such as:Your Nikon D90 might, with your permission, suggest times and place to get the best photos: “19th November looks like a clear night with a full moon– go to the foot of Tate Britain at 7.15 for the perfect night shot of St. Paul’s Cathedral.” What’s really great about EVRYTHNG is that they’re taking a very democratic approach. They have an offering for commercial applications, and they also have one for the hobbyist just getting started – kind of like a Heathkit for the internet of things.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

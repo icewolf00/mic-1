@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 27, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+In a post on the Kinect for Window blog yesterday, Craig Eisler announced that Kinect for Windows is coming to more countries in the coming months – specifically Hong Kong, South Korea, and Taiwan in late May.  In June, Kinect for Windows will be available in Austria, Belgium, Brazil, Denmark, Finland, India, the Netherlands, Norway, Portugal, Russia, Saudi Arabia, Singapore, South Africa, Sweden, Switzerland and the United Arab Emirates.And in May, the 1.5 version of the Kinect for Windows release will add a number of new features, most notably “seated” or “10-joint” skeletal tracking which provides the capability to track the head, neck and arms of either a seated or standing user. This capability works in both default and near mode. Also coming in the 1.5 release is Kinect Studio, an application that will allow developers to record, playback and debug clips of users engaging with their applications as well as four new languages for speech recognition – French, Spanish, Italian and Japanese.Head over to the Kinect for Windows blog to find out more.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

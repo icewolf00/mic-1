@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 24, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Pier Fawkes and his team at PSFK posted their Future of Work report this week and among the themes they highlighted was the use of telepresence to help colleagues interact with each other across the distances. One of the technologies they mentioned was Illumishare, an MSR project that I’ve blogged about more than once. And as I’ve said before, one of the most impressive thing about Illumishare is the deceptively simple and easy to use solution it created, while overcoming some rather challenging hurdles. I’ll leave the rest to the video. CORDIS is taking a different approach. They’ve created a robot that uses a variety of technologies such as haptic response, virtual reality and computer vision to convey non-verbal communications. Pretty impressive stuff, but the robot looks a bit like one of my favorite late night characters who goes by the name Geoff.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

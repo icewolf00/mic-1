@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 1, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+There’s a great article on Microsoft News Center today that provides some interesting context around the development of the Kinect.Back in the early 2000s, Bill Gates and other Microsoft execs had been talking a lot about enabling a connected media center for people’s homes, alluding at that time mostly to the Media Center PC. The problem? The traditional PC interface wasn’t widely accepted by people in their living rooms. Perhaps people didn’t want a keyboard on their coffee table.At a certain point, the Xbox team realized they had a foothold in the living room like no other device, so their product was the natural one to bring Bill’s vision to reality. They built an entirely new kind of interface so people could access their entertainment in a more natural way – the result of that work was the Kinect, a big part of which is the audio or speech capability.What’s interesting is the collaboration involved to create a device “that feels like Star Trek.” The underlying technologies powering Kinect’s speech interface had actually been in development at Microsoft for a long time, but no one had put them together in such a seamless way.The Xbox team worked with one of the company’s senior researchers, Ivan Tashev, to “purify” the audio signal and allow our speech-recognition platform to do its job despite the often spacious and noisy characteristics of many people’s living rooms. As Tashev says in the article, “Basically in Kinect I have technologies that are a summary of the research I did for seven years.” You can read more about Tashev’s contribution to the project in this related article published by Microsoft Research and in a post here on Next.The speech-recognition technology used in Kinect is provided by Microsoft Tellme, a flexible speech service also used to power the speech experiences in Windows Phone, Bing Mobile and other key Microsoft products. Microsoft acquired Tellme in 2007 to add to the company’s already robust research efforts in speech recognition and to gain valuable expertise in running cloud-based speech services. These guys make it sound easy, but applying chalkboard-sized algorithms to cancel out random noises in a microphone audio stream is an epic challenge, and just one of many the team had to overcome in building the first Kinect. This is kind of the technology version of a quest story, like Jason and the Argonauts. You have heroes like Microsoft Tellme and Tashev overcoming villains like ambient conversations and echoes. Fortune steps in, in the form of the keyword “Xbox,” which ends up being a unique phonetic construction and thus the perfect choice for an aural “push to talk” button. In the end, three separate technology threads have been woven together in a way that advances the entire industry.This is what I love about technology — it may be geeky, but it’s never dull.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

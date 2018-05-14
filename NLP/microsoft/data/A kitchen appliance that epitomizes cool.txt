@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 27, 2014
+
+									|										
+Steve Clayton - NEXT - Microsoft News Center Staff
+
+ There’s been some pretty amazing work the last couple years in extending first world infrastructures into the outlying areas of developing countries – like the White spaces initiative that’s part of the 4Afrika project.  But what happens when the infrastructures goes down, or simply doesn’t exist? A company in Wales has spent the last few years tackling that question, specifically as it relates to refrigeration technology. Most people wouldn’t consider refrigeration to be cutting edge technology, but in this case I think it would certainly qualify. Sure Chill designed an ingenious refrigerator that uses the laws of fluid thermodynamics to keep things like vaccines cool for up to 10 days without being plugged in. In a nutshell, the refrigerator contains a block of ice across the top. When the power supply is lost and the refrigerator warms up, the warm water rises to the top of the reservoir, where it is cooled down by the ice and then sinks back to the bottom of the tank. (The video does a much better job of explaining.)The World Health Organization is already using Sure Chill refrigerators in 40 countries and last year the Bill & Melinda Gates Foundation commissioned Sure Chill to develop a unit that would keep things cool for two weeks or more. It’s easy to take things like refrigeration and dependable power supplies for granted, but sometimes it can seem like everything is stacked against a patient getting better. Just ask Microsoft Researcher Bill Thies, who is using technology to help doctors in Bangalore monitor the treatment of tuberculosis patients. Something as basic as a better cooling system could make all the difference in helping doctors get the upper hand. (Hat tip to PSFK.)
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

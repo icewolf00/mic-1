@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 10, 2015
+
+									|										
+Allison Linn
+
+Here are two things we know about the weather: We have tons of data about it, and we care very deeply about it.It’s those two factors that led Microsoft researchers Ashish Kapoor and Eric Horvitz to turn to the latest advances in artificial intelligence to try to find a better answer to that age-old question: What’s the weather forecast?They found that their approach, drawing upon methods developed within a subfield of artificial intelligence called machine learning, was more accurate at predicting weather patterns in the coming 24 hours than a traditional forecasting model.That’s giving them hope that this method could eventually be used to help solve some of the more difficult weather puzzles, such as understanding how climate change is affecting weather patterns or making more accurate long-term weather predictions.“That’s where I think we could actually leverage the power of machine learning methods,” said Kapoor, a senior researcher at Microsoft.Of course, climatologists and meteorologists have long been tracking weather data and using that data to make forecasts.Unlike more typical weather forecasting approaches, which have traditionally relied on physical simulations, Kapoor said their research took a data-centric approach: They just looked at the data and didn’t try to make restrictive assumptions about how nature tends to act.This kind of approach is possible because of recent advances in machine learning, which lets people take very large data sets and analyze them using large-scale computing systems. Machine learning centers on the development and use of algorithms that can learn to make predictions based on past data.The researchers used historical data for several weather variables — atmospheric pressure, temperature, dew point and winds — to train their systems to make predictions about future weather patterns based on past data.To make their predictions, they applied a mix of physical models and a combination of machine learning methods, including deep neural networks. That’s the same technique that has recently been used to vastly improve the accuracy of things like image classification, speech recognition and translation.The work builds on Kapoor and Horvitz’s previous research on making more accurate wind forecasts by using thousands of airplanes as wind sensors. That work is behind a live wind prediction service called Windflow, which can be used by pilots to optimize flight times.The weather forecasting effort also is closely related to another project that Kapoor is working on, helping Red Bull Air Race pilot Kirby Chambliss improve his air race times.Aditya Grover, an intern who worked on the weather prediction project with Horvitz and Kapoor, will present the team’s findings at the ACM SIGKDD Conference on Knowledge Discovery and Data Mining, an industry conference that begins Monday in Sydney, Australia.Grover was an undergraduate when he came to Microsoft Research, and was so inspired by the weather forecasting work that he decided to pursue a career in artificial intelligence. He’s starting graduate school at Stanford University in the fall.“To be honest, this was the driving factor that pushed me towards applying to graduate school,” Grover said.Microsoft researchers and their colleagues from other universities and research institutions will present a number of other papers at KDD2015. They include:Related:A Deep Hybrid Model for Weather ForecastingFollow Eric Horvitz on TwitterThe next evolution of machine learning: Machine teachingAllison Linn is a senior writer at Microsoft Research. Follow her on Twitter.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

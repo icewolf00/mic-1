@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 30, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+This post has been in the making for quite some time – based on a talk Craig Mundie gave a few months back at the Cleveland Clinic. If you’re interested in natural user interfaces, the entire talk is well worth a watch. If you can’t make the time to watch it all, allow me step you through what I thought were some of the best parts. In the video above, Craig discusses our goal of creating computers that behave “more like us” and are capable of emulating the five senses. He follows that with a series of short videos highlighting some of our work in this area. You can watch the vignettes at around the 11:05 mark in the above clip below but if you get chance, take a look at the build up to these vignettes as Craig talks above the move from GUI to NUI and the changing nature of what a computer is. We’re now surrounded by computers – hundreds of them in our homes, cars and around us on the street. All types of products now have computers built in and they’re increasingly Internet connected. Given the audience, Craig also took time to look at some of the creative work being done to address basic needs such as the shortage of skilled healthcare providers. For example, researchers at the University of Washington have combined a Microsoft Kinect sensor with force-feedback technology to determine whether it’s possible to telegraph physical feeling. In a portion of  the next clip, Craig explains how a surgeon might use this application to remotely perform surgery on a patient in another city or on the front-lines half-way around the world. The robot would be an extension of the surgeon’s own hands, and the haptic – or force-feedback – technology provides the sensation of touch. Words don’t do this justice, so check it out and then consider the possibilities. Craig ended his presentation with a demonstration that combines machine vision, machine learning, Bayesian inference systems and avatar generation. Though somewhat rudimentary, it demonstrated how these technologies could be collectively used to create a virtual triage nurse that has access to the knowledge needed to address the basic medical needs of the poor. In this scenario, a mother and her son in a remote village go ‘see’ the nurse, which asks a series of questions and evaluates the urgency of the patient’s medical needs.Admittedly, this is a hypothetical scenario but it helps open the mind to what is possible and how even rudimentary systems could have a dramatic impact. As the cost of technology continues to tumble and we combine many fields of research, these systems get ever closer to reality. NUI isn’t all about great consumer experiences – it has the potential for quite profound societal changes. [update] full transcript of the talk is also available// <![CDATA[
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// ]]&gt;Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

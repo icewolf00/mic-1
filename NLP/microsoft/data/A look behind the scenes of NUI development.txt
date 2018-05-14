@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+October 17, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Natural user interface is a trend that Microsoft is deeply invested in and I have covered many times here on Next at Microsoft. Sometimes though, a video can tell the story that’s hard to convey in a blog post, so we put together this short video to highlight just some of the work going on across Microsoft in the quest to develop technology that is more natural to use. The video just posted over on the Official Microsoft Blog.In the video you get to see some of the people I chat with regularly around Microsoft who are doing some of the leading edge work around NUI – Stevie Bathiche, Andy Wilson and Curtis Wong, to name a few though there are many more as this trend is literally impacting all of Microsoft. You also get another glimpse inside the Microsoft Home which is chock full of NUI prototypes like the kitchen counter that helps you prepare meals and provide reminders of medication, as well as a look inside Stevie’s lab which isn’t mocked up for this video – it actually looks just like that, a crazy scientists workshop. As it turns out, Sharon Chan just posted a lengthy profile of Stevie in The Seattle Times which is well worth a read. Here’s a choice quote from that piece“I view him as one of the major people on a global basis” in 3-D displays and optics, said Jaron Lanier, a Microsoft researcher who pioneered virtual reality and recently wrote the book “You Are Not a Gadget.” “He’s the most creative and productive engineer in that particular field working in the world today.”Head on over to the Official Microsoft Blog to check out the video and see Stevie and others in action. Oh and let me know if you have any questions on NUI.[update] a big day for NUI it seems…there’s a post over on Microsoft Research with some new projects from the folks there. check out Two Extremes of Touch InteractionTweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

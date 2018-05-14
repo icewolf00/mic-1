@@ -1,0 +1,33 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 8, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+ I was following the Super Bowl via Twitter on Sunday and saw the tweet above.I laughed and made a mental note to watch it when I got back in front of my TV. The problem? How do you find the utterance of a single phrase in 4+ hours’ worth of video. I gave up as I as trying to find that precise moment in the broadcast was a classic needle in a haystack problem. What if I could just search for utterances of the phrase “camera man tackle” and leap to that point in the recording. That’d be cool. Well it’s not quite the Super Bowl but you can do exactly that as of today with videos from the U.S. Department of Energy (DOE). Scientific videos highlighting the most interesting R&D sponsored by DOE are now searchable thanks to a Microsoft Research project known as MAVIS. (Microsoft Research Audio Video Indexing System). A search for specific words results in direct links to the precise moment that word was uttered in a video. You can try out the DOE’s ScienceCinema today to see how this works against 1,000 hours of content. There is some interesting tech at play in the background here. Rather than using Phonetic indexing, MAVIS uses Large-vocabulary continuous speech recognition or LVCSR with automatic vocabulary adaptation and special indexing
+techniques to improve the search.Without boring you with the details (you can get a primer from Wikipedia), these techniques result in higher accuracy – but that accuracy requires significantly more processing power – enter Windows Azure. The service uses our Azure cloud which affords massive scale, on demand computing capability to crunch through the videos.It’s clear to me that this research has a ton of potential. Imagine being able to  then sit back and issue a query in to your PC for a movie simply by asking for a line from the movie. Or speaking to your TV and saying “I’m interested in watching anything related to South African safari” and you get back a list of films, documentaries and speeches where someone has mentioned the phrase “South African Safar”. Applying this technology to entire television archives would be phenomenal in my opinion. I could sit back and view content with searches like “show me the episode of Top Gear where they talk about the Ferrari 458 Italia”….bam, I get back the 3 episodes without me sorting through hundreds of episodes available.As it stands today, you can check search DOE videos at ScienceCinema. Also available are Microsoft videos from events like PDC, MIX 2010, Channel 9.I can’t wait to see MAVIS used more widely – it’s another example of technology becoming more natural. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

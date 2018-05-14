@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 30, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Like it or not, errors have been part of the indsutry for a long time – only recenlty I mentioned the origin of the term “computer bug” in my post about the Computer History Museum. Some people will say Windows is buggy, but the fact is that we spend an incredible amount of time testing what is the most widely used operating system in the world.It is hard work, but Windows support engineers have done some impressive work to improve the performance and user experience. Part of that includes creating the Windows Error Reporting Tool (WER). If systems errors and crashes are the lemons, then you could probably consider it to be the lemonade.We released the first version of the tool about 10 years ago, as part of Windows XP. Unlike earlier bug detection products, the Windows Reporting Tool was designed to send critical information about the error to Microsoft, where the errors would be classified, prioritized and analyzed.Of course, a lot of people are concerned about the privacy of any information sent over the internet, which is why we make sure to strip out anything that would be considered personally identifiable. And the default preference is set to NOT send us your information. Changing that to transmit data requires an additional step on your part.One of the best parts about the reporting tool is that it automatically provides users with recommendations on how to fix their problem.  In fact, the recommendations are so effective that bugs are roughly five times more likely to be fixed when automatically reported to Microsoft, instead of a person trying to identify and fix the problem themselves.Perhaps that’s why more than 700 companies rely on the Windows Error Reporting Tool to debug their own software. (You can read more about this in a 6-year old post by Raymond Chen) and can read more about the history of WER in a recent Communications of the ACM article titled Debugging in the (Very) Large: Ten Years of Implementation and Experience – the paper is also available via Microsoft Research and is a fascinating read in to dealing with vast amounts of data to improve the quality of software.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

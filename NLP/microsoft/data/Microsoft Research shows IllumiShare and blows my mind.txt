@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 27, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+This was the demo from Craig Mundie’s TechForum earlier today that really caught my eye. IllumiShare enables remote people to share any physical or digital object on any surface. It is a low-cost, peripheral device that looks like a desk lamp, and just like a lamp lights up a surface at which it is pointed and turns it in to a shared space.To do this, IllumiShare uses a camera-projector pair where the camera captures video of the local workspace and sends it to the remote space and the projector projects video of the remote workspace onto the local space. With IllumiShare people can sketch together using real ink and paper, remote meeting attendees can interact with conference room whiteboards, and children can have remote play dates in which they interact with real toys.Yesterday, I spoke with Sasa Junuzovic, one of the researchers behind the project. I remarked at how IllumiShare blew my mind because it was so “simple” yet elegant and blindingly obvious. He agreed but then went on to point out how you get to that point – by overcoming some real technical challenges – a key one being “video echo”. With a camera constantly capturing what is on your surface, and projecting, how do you ensure it doesn’t capture what you’re projecting from your surface and re-project it back. That’s where some very smart MSR thinking comes in.I can foresee a ton of uses for IllumiShare. For example, I showed it to some friends who work in architecture and they wanted it right now. Education uses are obvious, also gaming and business. Imagine being able to capture a document you collaborated on in this way and then load it up again next time you meet.Endless possibilities!Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 12, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+This week, the Microsoft News Center is publishing a series on Big Data and where Microsoft plays a role. There’s an interview with the CIO of The Weather Company about how weather impacts businesses, something that’s especially timely with last weekend’s wintry blast. Apparently there’s more data about weather than any other topic, and the Weather Company uses that data to create forecasts, which it broadcasts via the Weather Channel. It provides the same data to customers like aviation and energy companies that must respond to changes in the weather.On a somewhat related note, last fall Microsoft’s technical computing team built a  a weather forecasting service demo on top of Windows Azure and Windows Azure HPC Scheduler. The service uses NOAA data to generate three-day forecasts of precipitation, temperature, snow, water vapor and wind temperature. You can use Bing Maps to pinpoint where you want the forecast and the service creates an animated three-day weather outlook around that location for an area up to 180 square kilometers.Pretty impressive stuff, and with additional super computing resources in Windows Azure, crunching all of that data to build a forecast has dropped from 5-6 hours to just a few minutes. I created a few forecasts of my own for my ZIP code (it’s raining) and there is an entire gallery you can view on the Northwind Weather Research site. 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

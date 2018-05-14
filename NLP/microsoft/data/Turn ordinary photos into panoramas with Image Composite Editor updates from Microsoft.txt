@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 5, 2015
+
+									|										
+David Chen - Microsoft News Center Staff
+
+
+Without a doubt, the biggest benefit of the digital photography revolution has been the ability to manipulate a less-than-stellar photo into something you feel comfortable sharing. After all, few of us have the time or inclination to become the next Ansel Adams or George Norman Barnard, one of the pioneers of panoramic photography.For the rest of us there are tools such as Image Composite Editor (ICE), which uses computer vision techniques to stitch together multiple pictures into a seamless, ultra-wide-angle masterpiece. Today the Interactive Visual Media group of Microsoft Research released new features for ICE that make the process even easier.ICE was first released in 2008, and every day it’s downloaded around 1200 times, mostly by people who spend a fair share of free time behind a viewfinder. The Interactive Visual Media group has done some amazingly cool stuff with ICE, such as the Gigapixel ArtZoom experiment, which stitched together nearly 2400 22-megapixel images (taken with a Canon 1Ds Mk III and 400 mm lens). The result is a 360-degree view of the Seattle cityscape captured in stunning detail.Beyond its usefulness as a stand-alone tool, ICE also provides the foundational technology for experiences such as the aerial and Streetside imagery in Bing Maps. In fact, the Interactive Visual Media group’s primary purpose is to build test beds for technology developed in Microsoft Research labs, before being adopted by product teams across the company.A few days ago I met with Eric Stollnitz, principal engineer for ICE, who walked me through a few of the updates. What’s most noticeable is the user experience, which includes a number of new features and improvements. One that’s especially cool is Automatic Image Completion. Say, for example, you poorly frame one of your pictures and are left with a void in one area of your panorama. Automatic Image Completion will use pattern recognition technology to fill it in.And with this version of ICE you no longer need to start over if you make a mistake half-way through creating a panorama. Hit the ‘Back’ button, make whatever changes are necessary to the images you selected and continue from where you left off.There’s a pretty slick video-to-panorama feature that helps you quickly select frames from a video and stitches them together into a stroboscopic motion panorama, where the person in the video appears intermittently across the entire range of the static image.You can also apply a variety of lenses or projections to your image creating nearly a dozen effects, such as fish-eye, spherical, orthographic and stereographic.
+Eric and team have succeeded in building an easy-to-navigate process that helps you create a panorama in four steps: import, stitch, crop, and export. In the final export step, the panorama can be saved as an ordinary image or a Deep Zoom web page, or shared on the Photosynth web site.Having all of these tools at my disposal almost makes me feel guilty, but then I’m reminded: even Mr. Adams had the ability to manipulate his work post-production. The only real difference was that it frequently took him an entire day while stuck in a dark room.
+The best way to grasp ICE’s potential is to go out and use it, so take some photos, download the software and experience the results for yourself.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

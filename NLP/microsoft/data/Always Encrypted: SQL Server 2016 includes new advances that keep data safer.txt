@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 27, 2015
+
+									|										
+Allison Linn
+
+The next version of SQL Server will include an additional layer of security that keeps valuable personal data such as Social Security numbers, private healthcare data or credit card information protected even when the data is being used.The new feature, called Always Encrypted, is available for an early look as part of SQL Server 2016’s first public preview, which was announced May 27.Always Encrypted adds an extra measure of security when the data is being used. That’s the point at which data can be most susceptible to attack, said Ken Eguro, a Microsoft researcher who was part of the team that developed the technology.The new security layer addresses that vulnerability by keeping the data encrypted even during transactions and computations, and by only giving the client keys to decrypt it. That means that if anyone else, including a database or system administrator, tries to access that client’s database, the credit card information or other sensitive data would just look like gibberish.Always Encrypted improves security in two ways, said Bala Neerumalla, a principal software engineer with SQL Server.“We reduce the attack’s surface area, and the number of people who have access to the data goes down,” Neerumalla said.The goal is to have little to no application changes and minimally impact performance while adding that layer of security.The fact that the data is more secure, and the client is the only one holding the keys to unlock it, gives clients more reason to feel comfortable that their customers’ sensitive personal data is safe whether it’s being stored in cloud-based servers or on the clients’ on-premises servers, Neerumalla added.“This has raised the bar significantly,” he said.The system also is designed to be user-friendly, so much of the work is done behind-the-scenes.“For most people using the system, it will be no different than what they were doing before. All of the complexity needed to make things work is hidden from the user,” Eguro said.The Always Encrypted project, which is aimed specifically at database security, is one of many ways that Microsoft’s security and privacy researchers are working on keeping data safer in the cloud, as part of the company’s overall intelligent cloud strategy. Eguro said security is such a significant focus because people see big advantages to moving to the cloud, but want to make sure their data will still be safe.“That is the No. 1 concern that companies have about moving to the cloud,” Eguro said.Related: A lockbox in the cloud: Microsoft research project reveals new method for keeping data privateCryptographer’s challenge: Keeping genetic secrets while advancing genetic researchChannel 9: SQL Server 2016 Always EncryptedListen to Harry Shum, executive vice president of Technology and Research for Microsoft, discuss the “Invisible Revolution” at the company’s Ignite Conference. Follow Ken Eguro and Bala Neerumalla on Twitter.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

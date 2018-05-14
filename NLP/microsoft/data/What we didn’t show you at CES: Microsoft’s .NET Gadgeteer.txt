@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 15, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ [Dean Kamen stops by to hear about KinectFusion – and .NET Gadgeteer]At CES last month we had the good fortune to have Dean Kamen stop by our What’s Next booth and as I  toured him around the space, he quickly gravitated towards the Kinect Fusion demo. Given Dean’s geek credentials, it was probably no surprise given this was the most ‘raw’ demo we had in the space and showed Microsoft Research at work. What I hadn’t banked on was the geek out that he and Steve Hodges from our MSR Lab in the UK had regarding the technology on display – in fact, there was as another technology in the booth that got Dean even more excited than KinectFusion. That technology is Microsoft .NET Gadgeteer. I’ve written about the platform previously but having seen Steve give us an impromptu demo, I decided it was worthy of another post. NET Gadgeteer combines flexible hardware and our .NET-based software to enable users to create all kinds of smart “gadgets” within a few hours — sometimes even quicker. Using the collection of components Steve had at CES, he ‘”built” a digital camera in about 90 seconds. I say “built” because he literally snapped these things together like LEGO. That’s the real beauty of Gadgeteer – the modularity and simplicity of the design. The array of easily attached modules give Gadgeteer the ability to take pictures, play sound, sense the surrounding environment, communicate with other devices, or interact with a user via various interfaces. USB ports and other connections enable the resulting device to be linked to a PC or other computing devices.The second part of the magic of Gadgeteer is the programming of the hardware. Nicolas Villar and James Scott, researchers in the Sensors and Devices Group that Hodges heads, wanted to marry the modularity of the hardware with modular software that would get users up and running quickly with no need to learn low-level language assembly, or C. They landed on the .NET Micro Framework which matched perfectly as it provides small, resource-constrained devices many of the same development tools used for PCs and is modular. It’s based on Visual Studio and the IntelliSense feature makes for easy programming as it auto-complete lines of code and prompts users to choose particular code packages that meet their intent. That’s my kind of programming and I really am quite tempted to build something like the stop motion camera unit below, just for kicks What started out as an internal tool at Microsoft Research for rapid prototyping is now available to anyone – and is open source. For teachers and students I think there is huge potential here – I would have had way more fun and learnt more in my computing and design classes at school with tech like this available to me. It’s precisely why the .NET Gadgeteer team have recently embarked on school pilots in the UK and US, not only teaching groups of students how to build cool electronic devices using .NET Gadgeteer, but also creating learning resources that can be shared broadly with schools, enabling them to develop exciting lessons that teach electronics and programming skills in a fun way. It’s also what piqued Dean’s interest given his involvement with the FIRST robotics competition. Get hands on and you learn much faster…and stay engaged.For as little as $99, you can get started with a FEZ Hydra Basic Kit that contains the FEZ Hydra Mainboard, USB Client SP Module, LED7R Module, Joystick Module and a LightSense Module.It’s seriously cool stuff and if you want to know more follow @netgadgeteer, check out the Facebook page and head over to the .NET Gadgeteer website.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

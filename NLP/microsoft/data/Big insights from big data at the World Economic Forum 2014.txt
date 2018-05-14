@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 22, 2014
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+I’m at the World Economic Forum in Davos this week – where the world’s leaders, thought leaders and innovators gather to discuss the political, social and economic forces that are transforming the world and our lives. The other force that the World Economic  Forum calls out in their program (above all else) are the technological forces.Microsoft’s Vision Center sits directly across from the congress hall where all of these forces are being discussed and inside the center we’re showing how our technologies are helping turn data in to insight. As part of their work, the World Economic Forum produces a large volume of data and indices covering 148 countries. When I saw this data set in an Excel spreadsheet I knew it was ripe for transformation using Power BI for Office 365. As you can see in the video above, we’ve taken all of that data and are helping to deliver insight from it using Power View, Power Map and our Q&A technology. When you see health data below over a time period mapped country by country it really bring the data alive. When you can compare educational data across regions, countries and by type of education, once again the data comes alive. The real treat for me has been using Q&A to ask questions of the data much as you would ask questions of a data scientist. If you’ve not had a chance to see Power BI in action I’d encourage you to take up a trial of Office 365 and download the Power BI tools from PowerBI.com – it puts the decision making from data in the hands of anyone and I believe will help to deliver insights that answer some of the big questions at Davos this week and in the future. Source: World Economic Forum, Global Competitiveness Report series (various editions)
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

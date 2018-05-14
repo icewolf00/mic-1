@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 30, 2014
+
+									|										
+David Chen - MSFT - Microsoft News Center Staff
+
+When you’re stressed out, you probably speak and act differently to your friends and family. But do you use your computer differently? Do you type harder or faster on your keyboard, or grip your mouse more intently? What if your mouse and keyboard could tell you the answer? Microsoft researcher Mary Czerwinski and her research team set out to answer these questions in “Under Pressure: Sensing Stress of Computer Users,” one of two research papers she co-authored and is presenting in Toronto this week at the Conference on Human Factors in Computing Systems (CHI 2014). Organized by the Association for Computing Machinery, CHI 2014 assembles some of the best thinkers in the world to dissect the relationship between people and technology. As in years past, the work of Microsoft Researchers is well represented, contributing to more than a quarter of the 27 papers that have been submitted for this year’s conference. Czerwinski was concerned about trending research that showed how much stress people endure on a daily basis in the workplace. “When we started reading about how bad stress was for you, in terms of your heart, your cholesterol, obesity, we thought there was something we should do about it,” Czerwinski recalls. One avenue of detecting stress that Czerwinski’s colleague, Javier Hernandez, uncovered was pressure-sensitive keyboards. “A lot of keyboards actually have the capability to recognize pressure data,” Czerwinski explains, “But not too many of them are able to make use of that knowledge.” In order to test user behavior, Czerwinski’s team gave subjects very difficult tasks while subjecting them to irritating, loud noises that made them feel stressed out and under pressure. All the while, researchers measured subjects’ keyboard activity. What Czerwinski and her colleagues found was that when you’re stressed out, you type (or pound) on your keyboard harder. You hold your mouse differently too; many subjects in the study put an extra finger on their mouse and gripped it more tightly. Czerwinski’s other paper, “The Rhythm of Attention and Online Activity in the Workplace,” examines the modern workplace and tries to determine if there are patterns in people’s behaviors. By asking subjects to wear cameras, and harnessing information on their whereabouts, their appointments, and their computer activity, Czerwinski’s team was able to decipher rhythms that happen throughout the week. What they found was that Mondays are typically challenging for workers, in that they may have difficulty diving immediately into work tasks. Mornings are less productive than afternoons. Workers are happiest when they’re completing work that is easy, and that doesn’t require much concentration or focus. And, contrary to some schools of thought, when it comes to mood and productivity, breaks are actually good for employees. “People just can’t humanly be 100 percent on and focused and attentive all day at work. If you were focused 24/7 at work without ever taking a break, you would just be chronically stressed. So, there’s something to be said for allowing your workers/team to have those highs and lows because they need them. You’ll see better creativity, better decision-making. The rhythm of work is a natural one,” Czerwinski says. So how can her team’s findings help improve how we work? By informing the design of the technology we use. Czerwinski believes that more could be done in our designs to make task-switching and interruptions less egregious. “There are ways you can design software that would alleviate stress,” Czerwinski says. “And there are populations that really need help with stress reductions.” “Think about it,” she adds. ”If you’re a software designer or a tech designer, and you’re trying to figure out what makes people frustrated and what makes people happy, you’re obviously going to design better tools. With pressure-sensitive keyboards, we could harness the signal and make great use of it. I get super excited about increasing users’ happiness and the positivity we can bring to design.” Be sure to check out the papers that Czerwinski co-authored, and take a look at much more of Microsoft Research’s groundbreaking work at CHI 2014. 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

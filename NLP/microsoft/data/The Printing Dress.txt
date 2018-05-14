@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 3, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Last week I profiled Sheridan Martin Small – an amazing creative mind within our Xbox incubation group. In doing so, I mentioned a project called The Printing Dress – a collaboration between Sheridan and Asta Roseway of Microsoft Research. The video above, courtesy of Electricfoxy, does a far better job of explaining the dress than I can. It’s not called out in the video (but is on the the blog post from Jennifer Darmour’s) that the dress won Best Concept and Best in Show at International Symposium on Wearable Computers in San Francisco last month.The dress was inspired by an earlier paper dress that Sheridan had created and by combining the talents of Sheridan and Asta with Tom Blank in our MSR hardware shop, they ended up with what you see above. I got to take a close up look last week and it’s beautifully well crafted, from the sewing of the paper to the intricate use of Lilypad Arduinos and laser cut acrylic for the capacitive keyboard.It’s an interesting take on where fashion and clothing meets technology and delivers “wearable text. In many ways it’s also an homage as to how we used to communicate – on paper and with letters typed using a mechanical keyboard. It turns out that looking to the past can inspire our future directions.Sure, you’re not going to go buy this next week (though I know some people who would) but it allows for a series of “what if” explorations that help us understand what the benefits are, what the downsides are and what it would take to make something like this. That’s much easier to do with an actual working object that with a conceptual discussion. It’s worth remembering that this is precisely the business Microsoft Research is in – exploring and pushing boundaries.Where next for this work I asked Asta? “The future is wide open” she said. It’s kicked off a discussion inside and outside of Microsoft and inspired further work in Microsoft Research in this arena. Stay tuned!Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,34 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 17, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+
+
+Last month, IBM demonstrated how far supercomputing has come by besting some of Jeopardy’s best trivia masters with Watson. What’s perhaps most striking about this win, though, is that it highlights how far the industry has come in helping computers understand a person’s intent.Much closer to home, Bing is bringing intelligence to search and recently launched a new shopping feature built on natural language. It won’t necessarily help you win fame or fortune, but it does make it easier to shop as you would in a store. Instead of second guessing your word choice or using stilted language to accommodate a search engine, you can speak – or type – naturally. Until now, a search for something like HDTV’s under $1500 would have required you to do a lot of filtering of the results to get what you really need. As you can see in the video, Stefan’s search results in a MUCH more helpful set of results that are visual, accurate (they’re all under $1500) and easy to sort through by brand, price and availability. Let’s try another search tough – something a little more ambigious (but something you may well ask a store clerk) – “hey I wanna see LCD monitors around the $350 mark”. Impressive results….especially when you compare to Google. These improvements were based on the work taking place within the Natural Language Processing Group at Microsoft Research – the same efforts that contributed to Kinect and the voice recognition capabilities in Bing’s mobile app. One of the biggest obstacles to natural language is the ambiguous nature of the words we use, but the folks at MSR are working on technology that will “translate” what we say into practical improvements for routine, everyday activities. The ultimate goal is that you’ll be able to interact with your computer or hand-held device in much the same way as you would with a friend or – in this case – the shoe salesman at your local department store. The video above provides a better understanding of the feature improvements in Bing, and where the team is taking natural language technology. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

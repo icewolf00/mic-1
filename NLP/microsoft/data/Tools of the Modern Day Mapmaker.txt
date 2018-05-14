@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+October 31, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ When cartographers made the first maps, the tools they relied on were fairly basic:a compass, a sextant, a surveyor’s transit, a notebook and a keen eye for landmarks and writing stuff down. That’s a far cry from the tools that are carried about by your average three-dimensional digital mapmaker. A story in The Atlantic from a couple weeks ago looks behind-the-scenes at the technology in the True car, which is behind some of the award-winning work of Navteq and its parent company, Nokia.As the article points out, each car is stocked with: three laptops, six cameras for capturing street signs, a panoramic camera for creating Bing Street View imagery, two GPS antennae (on the wheel and on the roof),  and a LIDAR (light detection and ranging) system that shoots 64 lasers 360 degrees around the car, taking 1.3 billion point measurements per second to create 3D images of the landscape the car passes through. Together, this equipment helps Nokia to capture as many as 400 different pieces of information for each segment of road.Navteq has a team of 1200 geographic analysts around the world whose sole job is to capture and update mapping data and the True Car is just one of a variety of specially designed collection tools. Pretty impressive stuff that I’m seeing the benefits of on my Nokia Lumia 920. It’s well worth a read of the full story. 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

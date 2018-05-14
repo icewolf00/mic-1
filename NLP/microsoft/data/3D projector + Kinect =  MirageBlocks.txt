@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 10, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+The title of the post isn’t entirely accurate as MirageBlocks, a demo shown at Microsoft Research TechFest this week, has plenty of software smarts so it’s not quite as simple as duct taping together a 3D projector and Kinect sensor.In the video above you see Hrvoje Benko demo MirageBlocks – a research project which uses Kinect to be instantaneously digitized and represented in 3D. The original object can then be removed from the scene and the digital representation manipulated. Of course because you now have a digital representation, you can manipulate it in ways not possible with the physical object – making is larger, smaller or changing color and orientation in space. The telepresence potential for this is pretty interesting – in field likes manufacturing or design, what was once CAD model that two people collaborated on could be a virtual 3D image that two designers could collaborate on. There are obvious applications in gaming and online shopping could be a customer for this type of technology. I recently bought some snowboard boots on the web without ever having seen them in real life – with something like MirageBlocks, I could have taken a much closer look and even “handled” the good before hitting buy. It’s early days for MirageBlocks but I can see the potential already. These are just the idea off the top of my head though…I’m sure you have better ones. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

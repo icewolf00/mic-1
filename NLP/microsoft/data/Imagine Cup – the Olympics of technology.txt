@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 28, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Sometimes one of the best things that a technology company can do is to encourage and bring to light the revolutionary things that young people are doing. Right now we’re doing this with the Imagine Cup, the international competition for students – it’s sort of like the Olympics of technology. The U.S. Finals for this year’s competition are just around the corner and now is the time to cast your vote in the People’s Choice competition for software design and game design.I will be helping to judge the U.S. Finals on April 11 — which means I can’t give you much help choosing among the projects but what I can tell you is that they’re all fantastic examples of the kinds of creative problem-solving that smart young kids are so good at: A smartphone app to help diagnose malaria in the developing world. A database and analysis system that lets researchers track childhood cancer and understand previously unrecognized patterns. A text-to-video converter for children with learning disabilities. A cloud-based solution for storing and processing ultrasound images. Games where the player protects an ocean rig, halts the spread of a pandemic or distributes emergency relief supplies instead of just shooting zombies. Cool stuff. The theme of this year’s competition is “Imagine a world where technology helps solve the toughest problems.” It’s clear that this challenge to change the world is what is motivating the more than 300,000 students who have entered this year. Yes, there are cash prizes, and the chance for a trip to New York City for the Worldwide Finals in July, and the opportunity to get recognition and support for your work. But these games and software applications and digital presentations are all focused on helping people, and in a lot of cases they’re the natural growth of ideas that the competitors were already passionate about before they registered for the contest. Andy of ZoMGHACKS talks about this, saying that even though he’s sad he didn’t make the finals he’s glad he put in the work on his project:  Another thing that’s great is that this year’s lineup of contestants is the most diverse since the competition began nine years ago. More than 74,000 students from the United States registered for the competition and for the first time there are teams from several Historically Black Colleges and Universities taking part. The competition is really drawing the best and brightest minds to solve real problems. I’ve always wanted to get involved in The Imagine Cup as everyone I know who has been involved in the past has clearly been touched by the event. I know it sounds corny to say it’s an honor just to be involved, but it’s true nonetheless.Learn more about the finalists in software design and game design on the Imagine Cup Facebook page, and vote for the ones you like the best.  <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

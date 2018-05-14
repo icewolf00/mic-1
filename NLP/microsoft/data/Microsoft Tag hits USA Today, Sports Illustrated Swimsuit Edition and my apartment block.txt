@@ -1,0 +1,33 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 15, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Microsoft Tag seems to be everywhere right now. I walked out of my apartment building last week and something out of the corner of my eye caught my attention. The Ligne Roset shop nearby was sporting a Microsoft Tag logo in their window (a good example of how you can customize your logo) and then I noticed USA Today had a Tag on the front page last week – here’s what they tweeted  USA Today plans to feature at least one Tag in every print section to give readers with access to videos and online content.Then today, Sports Illustrated Swimsuit edition announced they had partnered with Microsoft Tag. Readers will be able to:
+ The Tag action isn’t limited to the magazine as Tags will appear on phone kiosks in subways, NYC and Vegas signage. The trend of augmented reality has gotten a lot of coverage in the last year and this is another angle on it – augmented media. Tagging of various types has been around for a while of course and there’s always been the chicken and egg situation of not having a tag reader on your device. That’s largely been sorted as the mobile apps needed to interact with tags are downloadable from appstores or by going to sites like gettag.mobi. Media franchises like Sports Illustrated will also help move things – SI reaches more than 60 million people each year. Good news for Tag for sure and though there are other solutions in the AR space a real benefit of Tag is the ability to dynamically change the content – Tags “live” in the cloud and can be changed at any time to reference a different location…and for the publisher you get a ton of stats.Places I would like to see Tag – wine would be my first choice. There is only so much real estate on a wine bottle so it’d be great to be able to read more about it from a Tag, get ratings from Robert Parker or even better, a Tag that linked to ratings from my friends. Social Tags…now that’d be cool. Back in December, I had a long chat with one of the main guys behind Tag and hope to have a post up soon with the details I can share from that.Our world is becoming more and more clickable<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

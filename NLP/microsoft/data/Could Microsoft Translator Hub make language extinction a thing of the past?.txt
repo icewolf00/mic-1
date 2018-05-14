@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 28, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+(Please visit the site to view this video)Language extinction is something you don’t see in the headlines that often, at least in most English, Mandarin or Spanish-speaking countries. But of the roughly 6,800 “living” languages, about a quarter are spoken by fewer than a thousand people. And linguistic experts predict that close to half of the languages still in existence — about 3,000 — will become extinct by the turn of the next century.If Microsoft Research Connections has its way, the trend of languages and cultures dying off will reverse course. To help reach that goal, today they released the Microsoft Translator Hub. Kristin Tolle directed a team of 20 researchers to build the translator hub, which also incorporates more than a decade of work by the Natural Language Processing team at Microsoft Research.What’s really cool about the Microsoft Translator Hub is that it combines all of this great work in machine translation with machine learning and high performance computing capabilities available on Windows Azure. And there’s also a crowd sourcing element to ensure and improve accuracy. So you have raw computing power that’s looking for patterns and correlations in the language, backed up by the innate expertise of native language speakers, whose feedback teaches the tool.Some people might have a difficult time fully appreciating the importance of  language preservation, but for Hmong speakers, the translator hub could be exactly what’s needed to keep the dialogue going. [update] Translator Hub went live shortly after this post was published!Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

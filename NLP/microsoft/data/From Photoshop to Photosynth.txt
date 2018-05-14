@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 5, 2010
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Photosynth is one of my favorite technologies of the last few years – enabling images to be mashed together to create a 3D scene from a collection of photographs. Not only that, you have the ability to zoom in and out of the 3D space, seeing the detail in each frame in a smooth, seamless way. If you’ve never seen it before, take a look at St Paul’s Cathedral by Adriano Gomes. It’s a mashup of 170 photos that is classed as 100% synthy. I’d say it’s 100% groovy.If you’re already familiar with Photosynth, you may be pleased to hear that Microsoft Research has released a free download to enable stitched panoramas to be exported from Photoshop or Photoshop Elements directly in to the Photosynth web service. Previously you needed to use another Microsoft Research tool the Image Composite Editor, or ICE but with the widespread use of Photoshop, it made perfect sense to hook it up to Photosynth for amazing scenes like the one below – Larry Robinson’s annotated panorama of Mt. Rainier thanks to Marc Holmes for the heads upTweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

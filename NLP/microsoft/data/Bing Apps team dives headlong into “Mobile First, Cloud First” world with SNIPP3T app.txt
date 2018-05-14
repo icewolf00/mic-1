@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 11, 2014
+
+									|										
+David Chen - Microsoft News Center Staff
+
+The celebrity data was excellent.In late 2013, Donald Soon, Program Manager for Microsoft, was working with the Bing News team to compare Bing’s celebrity news search results with Google’s. After running numerous tests, he realized these search terms were one of the areas where Bing’s results and data excelled. “That wasn’t the only segment Bing was popular in, but it was one of our strong points in terms of freshness and also depth of content,” Soon recalls.To capitalize on this advantage, Soon and his team have built SNIPP3T, a new iOS app powered by Bing that lets users stay up-to-date on their favorite celebrities.After seeing how well Bing’s data compared, Soon realized that there was an opportunity in the market for a service that aggregated Bing’s celebrity information. Users loved following celebrity updates, but when Soon examined sites such as TMZ, People, or E! Online, he found that no one had an app that let you follow specific celebrities and get comprehensive news just about them. The closest thing was following a specific celebrity on Facebook, Instagram or Twitter, but this often didn’t give a complete picture of what was going on.Soon believed Bing could do it better. “We didn’t just have social sources, we essentially had the entire Internet indexed to provide content from,” Soon said.So why build a mobile app?  According to Emma Williams, General Manager of Bing Studios, it’s because apps are how the vast majority of smartphone users prefer to get their information. “Users spend 86 percent of their time in apps on mobile devices, and only 14 percent in web browsers,” Williams explains. “And, in fact, the percentage of time that they’re spending in apps is actually rising year over year. Apps are where the user engagement is, and that’s where we need to be.”Soon assembled a team of four core individuals to build SNIPP3T, operating with significant autonomy in Bing’s Beijing office. Aside from checking in every one or two months, Soon’s management was hands off with the app’s development. Soon recalls, “We didn’t go through very much bureaucratic process and project development was more rapid than a typical project because we were creating something new from the ground up.”Bing is not just Bing.com; it’s also a platform. And one of the goals of SNIPP3T was to demonstrate that Bing could be useful as a platform in a variety of scenarios. “We’re showing here that we can actually use the existing data that we have and then put it into maybe a slightly different skin, an app experience, and then provide an awesome experience to a user,” says Soon.SNIPP3T is just the latest manifestation of Microsoft’s new strategy, ushered in by CEO Satya Nadella (read his letter to the company outlining its future direction). According to Williams, SNIPP3T is part of Microsoft’s plan to create software and services that are useful in every aspect of people’s lives. “We want to have engagement with and resonate with users, through helpful experiences across both life and work,” Williams says.Alisher Saydalikhodjayev, a Bing Product Marketing Manager, helped shepherd SNIPP3T to its completion. He believes that SNIPP3T, along with other apps currently in development at the Microsoft, will help the company seize the mobile future. That’s one of the reasons why SNIPP3T is launching on iOS first. “We’re no longer just an OS company. We’re evolving into more of a services and cloud company.  And within services you have to go after users,” Saydalikhodjayev says.SNIPP3T is also an opportunity for Bing to experiment with smaller-sized “snack apps,” that let people have short, informative experiences on mobile devices. Moving fast and being able to iterate on it will help Bing become even better over time.“Bing is the home of experimentation,” Williams explains. “For us, this is about a way for us to learn, to experiment, to understand user behaviors better in the mobile world, and to build the right experiences over time that will make our users even bigger fans of Bing.”
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

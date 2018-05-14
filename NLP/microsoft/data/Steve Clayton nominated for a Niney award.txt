@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 2, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Gosh…I’ve been nominated for a Niney!! Okay, technically this award is for my Geek in Disguise blog but given almost all my blogging happens here now, I figured it would be appropriate to mention here too, I’m surprised and honored – especially with the esteemed company in the category of favorite Microsoft Blogger. I’m up against Larry Osterman, Scott Guthrie, Mark Russinovich, Raymond Chen and Scott Hanselman. Seriously….me in the same group as these guys. I feel ashamed to call myself a geek.Nevertheless, I’ll be there at MIX11, quivering in my seat when the winners are announced and smiling charmingly when I don’t win. Cast your vote now in the favorite Microsoft Blogger category – all of the others guys write killer blogs so if you chose to vote for me, you have my eternal thanks and a guaranteed beer in Vegas or coffee in Seattle.  <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

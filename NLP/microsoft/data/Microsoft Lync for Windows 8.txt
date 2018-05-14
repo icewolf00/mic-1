@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+October 26, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+The Lync client for Windows 8 just popped up in the Windows Store. As the backbone of my inter and intra-office communications it’s a welcome addition to my Windows 8 desktop and my incoming Surface with Windows RT.As you can see in the screenshots below, it makes great use of Microsoft design principles for a clean, elegant experience. It supports multiparty audio and video and one especially nice feature that Windows 8 enables is the ability to run it in snap view alongside another app you may be using to takes notes, view web pages etc. Note before installing: Microsoft Lync won’t work without Lync Server or an Office 365/Lync Online account. Also, some functionality might require an update to Lync Server or might not be available to all users. If you’re not sure about your account status, please contact your IT department.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

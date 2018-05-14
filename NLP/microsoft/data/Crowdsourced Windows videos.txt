@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 23, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Hot on the heels of the @brandonfoy video for Windows Phone shown during the day 2 keynote at MIX11, comes this video titled Detention – the winner of the Windows video contest in association with MOFILM . Contestants were asked to submit a short video aimed at students with the chance to win over $20,000 in prizes. The Grand Prize was huge: a trip to the Tribeca Film Festival in NYC for 2, a special screening of their film and $8,000 and Josh Soskin, a filmmaker from California picked up the big prize. Congrats!Check out the latest contest which includes a trip to the south of France for one grand prize winner and see the Windows Team Blog for the 4 runner up videos. I’m a fan of this one from Cyril Gfeller in the UK. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

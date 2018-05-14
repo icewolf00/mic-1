@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+September 30, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+As someone who used to spend an inordinate amount of time playing Sega OutRun in my youth, I have a lot of appreciation for the advances in the graphics and gameplay seen in modern games. With Forza Motorsport 4, the cars look even more real thanks to techniques such as High Dynamic Range photography and Image Based Lighting in last weeks post. One thing that has always intrigued me though is how games like Forza convey the handling characteristics of the 500+ cars they have in the game. In our third installment talking about Forza 4, I thought it would be interesting to chat with some of the folks at Turn 10 Studios who make that happen. Welcome to the Vehicle Research Team.I sat down with Aaron Brooks who has been with the Turn 10 team for the last 3 years. Aaron studied mechanical engineering and classes himself as a “vehicle dynamics hobbyist”. In short, he’s part of a team who I think we can safely say are “car geeks”. When I asked Aaron what his own car was, he couldn’t quite remember if he had 5 or 7 cars but he definitely has a penchant for BMW’s – as does Allen Mattila, who is also on the team. Meanwhile, their colleague, Reed Knetzger is a Lotus Elise man. This led to a long exchange about the merits of Caterham cars which could have taken up all of our time. But I digress….what role do Aaron and the team play in the production of Forza Motorsport 4?The large bookshelves next to their workspace in the studio hold some clues. The shelves house back issues of Road & Track magazine dating back to 1962. They’re also subscribers to Evo, Top Gear, Car Magazine and many more – all of which nestle alongside brochures from every car manufacturer you can think of and color swatches from companies like Ferrari and PPG. The real clue comes in the database of cars that they maintain. All of those magazines and books are key sources for building an enviable compendium of data. All of which is fed in to the physics engine of Forza – which ultimately determines how a car handles. Aaron and team meticulously hunt down details for each car – data you would expect such as 0-60mph time, BHP, torque and top speed but also other crucial data such as down force coefficients, ground clearance, center of mass. In all, around 250 data points per car. Details matter in this game. As an example, knowing the center of mass is crucial to knowing what effect it will have when you upgrade the engine in a car.In the internet age you’d think it’d be relatively easy to gather all of those data points, but with many historic cars on the Forza Motorsport 4 roster, the team needs to hunt down facts that might only exist on paper. Each one is added to the database with a citation of the source. Car manufacturers are also of great assistance, and the Forza team is proud of the relationships they have built within the automotive industry over the years. For example, did you know at the inside and outside of a wheel on a Bugatti Veyron are different sizes? Neither did the team until the kinds folks at Bugatti informed them. Of course, some information is tricky to come by, especially for the multitude of race cars in the game. Partnerships with race series like the American Le Mans Series, however, ensure that the data for even these incredibly precise, purpose-built race machines are as accurate and true-to-life as possible.Each car requires around half a day for initial research and then a full day (or sometimes more) to collect the detailed data to make up the 250 data points. And then the team tests and tests to ensure the cars handle as they ought to – sometimes professional race car drivers are invited in and can help with small tweaks. But more often than not, the physics engine nails it – meaning when you choose a Ferrari 458, it feels different to a Ferrari 599 GTO. There’s no cut and paste at work here.I finished up by asking Aaron what his favorite car Forza 4 was quickly realized I’d stepped on a landmine. “That’s too hard” he told me, “they’re all my babies”. It led to a healthy debate in the team on the merits of several cars and, in the end, it was far easier to reach consensus on which car they liked the least. I can’t tell you that though….trade secret What I can tell you is the same passion and commitment to creating an amazing experiences goes in to the handling of the cars as it does to the looks of the cars and the beauty of the tracks. We’re now only a few weeks away from the launch of Forza Motorsport 4 but the work doesn’t stop for these guys. After all, Turn 10 is already hard at work on creating new cars that will be part of the studio’s monthly downloadable content. A constant stream of new content requires all the same dedication – to keep on building the most amazing virtual garage on the planet.One word of advice – never play Top Trumps with these guys. They don’t even need cards as they can play from memory and tell you the quarter mile time for a vehicle as easily as they could tell you their date of birth.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

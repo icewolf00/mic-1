@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 13, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’m a fan of lots of technology from Microsoft Research and MAVIS is a particular favorite – I wrote back it back in Feb 2011 on this blog. MAVIS is an acronym for Microsoft Research Audio Video Indexing System. It enables you to search across audio and video files (think movies, TV, radio) and find the precise moment when a word was uttered. Imagine being able to talk to your TV and say “take me to the point in the movie where Nicholson says you can’t handle the truth” – or asking your TV to find all shows that contained the word “architecture”.That’s precisely what MAVIS enables by indexing audio streams. If you’re interested in the technology behind this, I’d highly recommend checking out the project page from Microsoft Research or watching a great talk from MIX2010 titled Unlocking Audio/Video Content with Speech Recognition. MAVIS is designed to enable searching of 100s or even 10,000s of hours of conversational speech with different speakers on different topics and has been used by a number of organizations including the State of Washington Digital Archives and ScienceCinema, a website that highlights leading-edge research from the U.S. Department of Energy as well as the European Organization for Nuclear Research (CERN). You can also search all the talks from our recent /BUILD conference.Now it’s set to be used much more widely. GreenButton is a cloud services company from New Zealand recently announced the availability of GreenButton inCus – a cloud based audio indexing solution powered MAVIS. Running on top of Windows Azure, the service provides audio indexing on demand citing content such as recordings of meetings, conference calls, voice mails, presentations, online lectures, and Internet video as being ideal for the service.The service doesn’t care where the media to be indexed is stored either with their website noting that as long as it is accessible, it can be indexed. Accessible means the service can access media from its current location through an HTTP or an HTTPS connection. “Simply create an RSS feed using the location(s) of your archives, submit it to the web portal, and the service will access & index your media” says the GreenButton site. A simple 5 step process (for fully hosted, 6 step for self hosted) gets you from raw media to searchable media. Pricing is dependent on where you host and how many “media hours” you’d like to index.There are copyright issues to be considered with this kind of indexing, but for media organizations looking to make their content more accessible it seems to me that there is huge untapped potential here.Would I like to sit back on my sofa and command my TV to find me the Top Gear episode where Clarkson talks about Senna? Yes. I had that exact desire last week and this technology could take my search time down from minutes to seconds.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

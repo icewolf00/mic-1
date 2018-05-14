@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 9, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ In part 2 of this series I finished up saying this part would look at Kinect projects outside of Microsoft. Where do I start? Hardly a week goes by without another innovative use of Kinect being sent my way. I’ve featured many of them here so I’m going to attempt a personal collection of Kinect projects that I think demonstrate the variety of ways it’s ushering in a NUI world.Before I do that I’d be remiss if I didn’t include the Kinect Effect video. I vividly remember this video being put together in Microsoft – there were hushed tones about what would be in it and excitement from those who got an early viewing. I actually got to view it quite late in the process and was blown away – in one short video it captured the magic of Kinect and what others had seen in it that we’d perhaps missed. Having gotten to know the people behind Kinect, I couldn’t help thinking it must have been incredibly humbling for them to see what their creation was being used for. This advert still gives me goose bumps – which is perhaps why it’s on TED’s Ads Worth Spreading list. &amp;amp;amp;#160; When we put the video together, many of the scenarios in it were dreams. Now almost all of them are being used in real world scenarios.At Sunnybrook hospital in Toronto and St Thomas’ in London, surgeons are using Kinect to view MRI scans during surgery without the need to scrub in and out of surgery. Kinect is being used in rehabilitation for stroke patients in the UK and in numerous projects to assist children with autism. In education I’ve seen kids using avatar creation to learn life skills, using bowling for numeracy and Kinectimals to help with sentence construction.In the days after Kinect became available I dragged my family out to Nordstrom’s flagship store in Seattle to see what they had done with Kinect in their window. That was just the beginning of its use in retail and another favorite of mine in that field is Facecake’s Swivel virtual fitting room which made its way to Bloomingdale’s for New York Fashion Week.  What are my other favorite uses of Kinect for NUI?The auto industry is very active in its explorations with Kinect – Nissan built an interactive customer experience for the 2013 Pathfinder with Kinect and in partnership with Razorfish, Audi has reimagined their premiere London showroom.&amp;amp;amp;#160;Nike used Kinect to impressive effect in a retail space in London too and another amazing Kinect project from Second Story shows us what the future of art galleries or retail displays may look like thanks to Kinect and a Planar EL screen.In Germany Gortz built the world’s largest shoe store using Kinect.&amp;amp;amp;#160; And finally, check out the 30 minutes of NEXT demos I hosted at the Worldwide Partner Conference in July – we had two killer Kinect demos from Ubi Interactive and MANCTL. The former uses Kinect to turn any surface in to an interactive display, the latter turns a Kinect sensor in to a low cost 3D scanner and when hooked up to a 3D printer, the results are amazing. In the final part in the series, I’ll look beyond Kinect at other uses of NUI and the role of context, big data and machine learning.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

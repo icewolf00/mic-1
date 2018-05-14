@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 8, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+It’s easy to see the impact that NUI could have on the landscape of entertainment, with the ability to touch, point, gesture and speak to computers.  At TechFest today there were several examples of other applications of NUI. How about screening for colon cancer?Today this is an invasive process that scares many people away from what can be life saving procedure as the idea of sending a tube with a camera in to your body isn’t especially appealing. A collaboration between Microsoft, Intel, Vectorform and Massachusetts General Hospital enables much faster and less invasive colonoscopies. This had led to a virtual colonoscopies (using a CT scanner) that now take about 3 minutes instead of 30+ minutes. Previously the process took a lot longer due to the time needed to run algorithms to “clean” the CT images. These images are then reconstructed in to a 3D view of the colon and as you can see above, these 3D views can be navigated  through using a gesture based interface. There is a lot of other technology at play here –  our high performance computing (HPC) platform, Microsoft .Net 4.0, and the Intel Parallel Studio 2011 developer tool as well as a fully parallelized GPU-based volume rendering engine developed by Microsoft Research. I know…that sounds like a mouthful but when it can help save lives and reduce invasive procedures, it’s  worth it. Check out the video to see more…<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

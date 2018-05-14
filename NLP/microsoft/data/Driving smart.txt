@@ -1,0 +1,33 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 19, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+ As you may have noticed, we have a real focus on natural user interfaces here on Next so I was intrigued today to see a new app from T-Mobile and Location Labs called DriveSmart Plus. The app, currently on Android devices, automatically sets a phone in to a driving mode when it detects a user may be driving. How does it do this? It uses GPS to determine when a user is in motion (hence driving). It’s a pretty smart idea though I see two flaws from the outset – one with marketing and one with the implementation.The marketing pitches this as an app targeted at teenagers (or their parents) to keep them safe while driving. In my experience, adults are just as bad, if not worse than teenagers for calling or texting while driving. Maybe a reverse marketing campaign for teenagers to implement on their parents phones is afoot From a tech point of view, the use of GPS to detect motion presumably means anyone – including passengers – in the vehicle has their phone disabled as soon as movement begins. The explanatory video confirms that there is an override mode so it’s not a biggie but makes me wonder if there are smarter ways that technology could isolate driving from movement. All that aside, it’s encouraging to see tech like this begin to enter the mainstream. hat tip to Techflash for the heads up on this<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

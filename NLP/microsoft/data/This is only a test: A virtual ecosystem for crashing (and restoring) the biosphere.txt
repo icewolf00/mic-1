@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 23, 2014
+
+									|										
+Steve Clayton - NEXT - Microsoft News Center Staff
+
+Imagine pulling together reams upon reams of data and scientific knowledge to create a simulation of the environment – not just of a county or a region, but of the world. It’s some pretty heady stuff, but that sums up the work of a few researchers within the Computational Ecology and Environmental Science Group at Microsoft Research Cambridge.If you’ve followed this blog for any length of time then you’re no doubt familiar with Drew Purves and his work around FetchClimate, a really amazing tool that lets anyone access data from a variety of different organizations, such as NOAA and the MET, and use that data to get a better understanding of things like average wind speed, dew point or ambient air temperature for almost anywhere in the world.FetchClimate is very effective at what it does, and yesterday Drew’s group released a new version, along with a handful of tools that make it easy for anyone to create their own private version of FetchClimate. Microsoft Research Connections goes into more detail on its capabilities, and also hints at some yet-to-be-released tools that have the potential to make any climatologist beside themselves with joy.As it turns out, FetchClimate is related to a much larger scientific project that Drew, and his scientist colleagues in his group are working on – along with researchers from the U.N. and a handful of universities around the world.Dubbed the Madingley Model, this project is all about creating an enormous simulation model of the ‘biosphere’ – all of the living stuff on Earth.I recently spoke with Drew while he was on a well-deserved holiday on the English coast and he likened it to a flight simulator that creates a virtual ecosystem – whether it be a lake, a forest, an ocean or some other biome.Formally speaking, the Madingley Model is the first ever ‘general ecosystem model,’ which has been under development for three years. And while there’s certainly disagreement about the effectiveness of trying to model something as complex as the world’s ecosystems, Drew and his colleagues are convinced of its value.Says Drew: “We’ve taken ecology, a subject that is quite separated, and put all of these pieces, or disciplines, together so we can start looking at the implications of invasive species, or climate change or pollution on an entire virtual ecosystem. Then we can test out all kinds of possible interventions in silico to find the best approach, before doing anything in reality.”But Drew is also quick to point out that the Madingley Model is more about the vision of what’s possible and about getting computer scientists, ecological scientists and researchers to collaborate, sharing data, models and ideas to eventually create a solution that’s up to the task.Taking all of that into consideration, it only made sense for the team to open source Madingley, letting other scientists take it and improve upon it in the years to come.In the meantime, keep your eyes on the horizon: the team at Microsoft Research Cambridge is hard at work creating a set of tools that Drew considers “quite a lot more advanced” than FetchClimate.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

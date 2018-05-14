@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 11, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+A friend in the UK tipped me off to a new app in the Windows Store this week. GetAbout.Me is a UK Bizspark partner who have taken their popular web app for social media sentiment analysis and turned it in to a beautiful and powerful Windows 8 application.It provides near real time sentiment analysis for Twitter and generates infographics such as the ones shown above and below from Twitter and Facebook. I now know when I tweet and post most (Tuesday PM it seems) my Facebook friends generally fall in the 21-51 age range and I get a B minus overall for my “socialness”.You can setup search terms on Twitter using free text and hashtags albeit with a limit for the free version and their YouTube video at the end of this post shows the product in action.I’ve been playing with it this afternoon and so far I’m pretty impressed – sentiment analysis is a fairly expert domain but this app puts decent capabilities in the hands of a novice like me! 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

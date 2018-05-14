@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 10, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Next at Microsoft took center stage today at one of Microsoft’s biggest events of the year – the Microsoft Worldwide Partner Conference in beautiful Toronto.I joined Jon Roskill, our Corporate Vice President of Worldwide Partner Group, before 16,000 people at Air Canada Centre to show off some of the great pieces of technology that I’ve been sharing with you on the blog. Today we brought these stories to life.First to join me on stage was Stefan Weitz from our Bing team. Stefan took us though a brief tour of the search engine’s newest and coolest features. He also spent time to talk about the technology that flows from Microsoft Research and our other labs into our products, showcasing Bing Translator and Photosynth on Windows Phone. Both apps are available in the Windows Phone Marketplace today.David Brown joined us from the Microsoft Technology Center in the UK to showcase the capabilities of the Samsung SUR40 with PixelSense by showing the results of the NUIVerse application he developed. PixelSense is a technology that enables this 40 inch panel from Samsung to “see” as well as display and sets it apart from other touch screen devices you may be familiar with. The ability to see means the SUR40 can recognize and react to objects placed on the display and also makes the SUR40 a multi-user multi-touch device. These capabilities are why the device has found success in many commercial environments with customers such as FUJI.  A brief demo by yours truly showed the Big Data visualization capabilities of FetchClimate from Microsoft Research and led us on to a partner demo. MAVIS is another fascinating Microsoft Research technology – one that enables audio and video indexing of content. The result is an ability to search across this content in the same way we’re used to searching for text based information. MAVIS goes on step further and actually takes you to the exact spot in an audio or video stream with the utterance of what you’re looking for. The technology has recently been made commercially available via GreenButton, a Microsoft partner from New Zealand. Dave Fellows, CTO of GreenButton, demonstrated the service they call inCus by searching across content from NASA’s Jet Propulsion Lab. Imagine being able to sit on front of your TV and searching for your favorite spot in a movie simply by speaking the phrase – or searching for any content about Toronto and jumping to the exact spot in a documentary.From here we took a left turn, literally, off the stage to demonstrations from two of the Microsoft Accelerator for Kinect teams.Nicolas Burrus and Nicolas Tisserand of Manctl wowed the crowd by showing how Kinect can be used as a low cost yet incredibly powerful 3D scanner. They built real time, high quality 3D models of Jon and I in the environment around us. And they didn’t stop there – having caught some earlier models of us, they showed how 3D rendering can become real by sending them to a Makerbot 3D printer and leaving Jon and I with a small mannequin of ourselves. This is the blending of the physical and digital worlds made real and I personally think this has huge, huge potential.  David Hajizadeh of Ubi-Interactive showed us a breathtaking demonstration of how Kinect can turn any surface into an interactive touch screen, enabling any Windows application to be displayed on walls, tables, store windows and pretty much any other surface. Jon Roskill and I had fun playing Angry Birds on a transparent screen and navigating the globe with gestures. A wall in my house will soon be lit up with the Windows 8 Metro style interface, allowing me to see the beautiful weather app, watch a stream of my photos and enjoy that fast and fluid interface at life scale. We finished up our Next nexus by showing one of my favorite projects from Microsoft Research, IllumiShare. Sasa Junuzovic and Kori Inkpen Quinn made great use of the huge stage by showing how two remote participants could collaborate on shared virtual desktops. IllumiShare looks like a large desk lamp, yet that conceals the small projector and depth camera contained in each unit – along with some sophisticated software that makes the real-time collaboration possible. Imagine kids being able to draw on the kitchen table along with grandparents from the other side of the world, being able to save the drawing, digitally clear the table for dinner and then come back to it anytime. Imagine placing a map of Toronto on your desk and having a friend annotate all of the locations they suggest you visit – and at the click of a button, it’s saved as an image and stored on your phone. The possibilities are endless.And that’s where we wrapped things up – though much of what we showed is also on show at the Solution Innovation Center here at the conference. If you’re on site, head over there to find out more.If you love this kind of stuff, follow me on Twitter and keep coming back here as it’s what Next at Microsoft is all about.…and now it’s time for a Canadian beer or two Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

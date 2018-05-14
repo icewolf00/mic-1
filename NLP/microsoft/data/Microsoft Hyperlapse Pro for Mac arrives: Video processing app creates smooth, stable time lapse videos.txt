@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 12, 2015
+
+									|										
+Athima Chansanchai
+
+Microsoft Hyperlapse Pro creates something very appealing to video aficionados: stabilized time lapses from the first-person perspective, at a very affordable price.In response to Mac users who have asked for Hyperlapse Pro, now those who work on those devices have access to the same features as those using the previously released Windows version.It had always been planned for cross-platform use, says Josh Weisberg, a principal program manager within Microsoft’s Technology and Research organization. “The Mac has some great video editing tools a lot of enthusiasts and professionals use, and there are other time lapse applications out there. But nothing as smooth and sophisticated as Hyperlapse Pro,” he says. “Users have been asking for Hyperlapse for the Mac ever since we first shipped the Windows desktop versions last spring.”Microsoft Hyperlapse Pro for the Mac is now available from the Microsoft online store for $49.99. Video stabilization apps typically cost hundreds, even thousands, of dollars, but this release gives users a rich set of features without a big investment. A free trial version of the software is available, though a watermark is part of every hyperlapse created with the trial software.In addition to Windows and Mac, Hyperlapse apps are also available for Android, Windows Phone and Microsoft Azure Media Services. The user experience is consistent across platforms, though each adopts conventions specific to the operating system.  Delivering Microsoft Hyperlapse across these platforms aligns with the company’s goal to deliver great experiences across all devices.This easy-to-use desktop app processes videos taken on phones, GoPro cameras and other devices. (Wide field of view action cameras are especially effective sources.) Users can save as many speeds as they want, from 1-25 times, and can produce hyperlapses that can be released at different resolutions and frame rates.The popularity of video makes something like Hyperlapse Pro even more valuable, especially given its ease of use.“A lot of people are recording video – millions have bought GoPros – but a lot of this video doesn’t get watched, or it gets watched once. And it’s hard to share,” Weisberg says. “I liken it back to when I was a kid and my dad brought out the slide projector and screen, clicking through vacation slides, going soooo slow.”Hyperlapsing the videos, he says, makes it much more shareable, more exciting to watch. The computational photography technology behind Hyperlapse delivers a real sense of smooth, forward motion without losing quality or content. It becomes an enjoyable experience.“It’s almost like a different effect, like a new style, you’re moving with the camera,” Weisberg says. “People get mesmerized by it.”Download Hyperlapse Pro for Mac now.Related Content:  Microsoft Hyperlapse makes first-person videos smooth and speedyAthima Chansanchai
+Microsoft News Center Staff
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

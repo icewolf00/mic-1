@@ -1,0 +1,36 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 16, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+
+
+<!--
+    document.write("<script type='text/javascript' src="" + (window.location.protocol) + "//c.microsoft.com/ms.js" mce_src="http://blogs.technet.com/controlpanel/blogs/posteditor.aspx/&quot; + (window.location.protocol) + &quot;/c.microsoft.com/ms.js"" + "'>");
+// -->I soooo need this laptop – I was literally talking to a couple of friends yesterday and telling them that sure, their Lenovo X120 was nice and all but this is the bad boy I want. Josh gives my buddy Ben Rudolph a run for his money here…(just kidding Ben). Why do I need the Samsung? Design mainly – these guys have put a lot of effort in to making this thing beautiful. From the backlit keyboard (at last!!!) to the Duralim housing, Core i5 processor, SSD and HDMI out. Normally I would build my own PC but buying at the store means it’s preloaded with Microsoft Signature (and no trial bloatware). Nice. I’m headed down to the store this evening. Question is, will I walk out with the Samsung?<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

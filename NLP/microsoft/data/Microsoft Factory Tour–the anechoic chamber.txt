@@ -1,0 +1,35 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 13, 2010
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+
+ 
+Another week, another tour video – this time inside Microsoft’s anechoic chamber. It turns out this is one of a few chambers we have on campus and there is another even larger chamber I’ll introduce you to in a few weeks. On this tour, Larry Larsen joins Kevin Schofield for part 1 of a 3 part tour of Microsoft Research locations. They meet Ivan Tashev and step inside the chamber to scream like animals – then step outside to see what the results are. When I first arrived on campus a few months back and was invited to one of our chambers I naively asked why we even had these things. I mean really, who do software right? I associated anechoic chambers with audiophiles and research laboratories for healthcare etc. Duh. Microsoft has plenty of use for these things when I stopped for a moment to think about it – audio capture in Windows and the associated hardware, microphones of all types in PC’s, headsets, webcams, music devices like Zune HD and of course Windows Phone 7 and Kinect. As mentioned above, I’ll dig in to more detail on  one of the other chambers in a future post and talk about how some of our engineers are pushing the boundaries of what you can do with software modeling of audio environments to speed up the test process for all manner of devices. Speech is really starting to become a first class citizen when it comes to user interface and the trend of Natural User Interfaces in particular. As that trend develops, audio quality and testing gets more and more important, hence why we need not only these types of facilities but folks who are audio wizards to run them. thanks to Nic and the team for the video<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

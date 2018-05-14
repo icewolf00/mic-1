@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 28, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Our final video from TechForum is Lifebrowser, a project from Eric Horvitz that shows the potential when you harness machine learning.Lifebrowser applies machine learning and reasoning to help people to navigate through large personal stores of their own information – including appointments, photos, their history of searching and browsing on the Web over days, months and years. The prototype learns about and infers “memory landmarks” — events and activities that people would find important and memorable — and builds a timeline around these landmarks. Once built, a user can zoom in on details of the timeline around landmarks with a “volume control” or search across the corpus of information.I’ve seen Eric demonstrate this a few times now and it’s seriously impressive, even as a prototype and a very compelling way to navigate your digital history.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

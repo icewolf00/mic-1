@@ -1,0 +1,33 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 28, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+My friends over on Channel 9 took the wraps off Coding4Fun this week – a website to show off fun and cool open source hardware and software projects. The projects span the range from beginner to advanced to the downright crazy. See exhibit A below…an email Clint Rutkas received “inviting” him to build a keynote demo. I also found Currency Converter for Windows Phone 7 on Coding4Fun and I’m currently reading about FaceLight – Silverlight 4 Real-Time Face Detection.  Coding4Fun started out in 2005 as a bunch of MSDN articles but has now matured in to this site full of code samples, downloads and a glimpse inside the after hours work at Microsoft. One to watch.  <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 6, 2014
+
+									|										
+Steve Clayton - NEXT - Microsoft News Center Staff
+
+Few words sum up the concept of play quite like “LEGO.” The toy company started by an entrepreneurial Danish carpenter in 1949 has helped children around the world have fun while developing their creativity and fine motor skills. And over the last 15 years, the LEGO Group has extended its strength from creating some amazing building block sets (like the Architectural Studio) into the realms of programming and robotics with MINDSTORMS.The result is this potent blend of raw tactile and technical elements that are the secret sauce behind some of the world’s greatest inventions.That’s entirely the point, says Michael McNally, LEGO Systems Senior Director of Brand Relations.McNally calls LEGO MINDSTORMS the “original smart toy” and when the company started working on MINDSTORMS, the goal was to create a solution that works for the youngest of tech-savvy kids to the oldest of hackers.“When people from opposite ends of the spectrum take the same materials and make such radically different solutions, that’s what’s amazing to us, and that’s the whole idea of LEGO play,” says McNally.The LEGO Group recently invited a handful of companies from the Seattle area to live out the LEGO idea as part of a robotics competition called “Build for Good.” The inspiration for the competition was the work of Shubham Banerjee, a middle school student who built a braille printer using nothing more than an EV3 kit and a couple items from the hardware store.Teams from Amazon, Egencia, Expedia, HTC, Microsoft, Nordstrom and Zulily each had three weeks to build a solution using an EV3 kit. The only guidance was that they “[create] a robot that solves a problem or otherwise improves someone’s daily life.” A couple of weeks ago the teams came together at the Experience Music Projectto show off their work.As you’d expect, most all of the robots incorporated some element of the company: HTC’s Selfiebot assisted in taking pictures, Egencia and Expedia both built robots around a travel-related theme and Microsoft built a set of robots around one of the most popular Xbox games, Zoo Tycoon.Microsoft’s project was perhaps the most ambitious of the bunch, incorporating three robots, five Windows Phones and a Surface tablet with custom Windows Runtime apps. The team built the app running on the phones and the app running on the Surface using the Universal App template, so the apps share a lot of the same code base. Even better, they made their work available on CodePlex, so anyone can take advantage of it. You can also learn more about their development process.The three robots are connected to the Surface via Bluetooth. Most impressive, though, was the use of Microsoft Azure Web Services to connect the Windows Phones to the app. The Web Service listens to requests from the Windows Runtime app and from the phone apps. When it receives those requests, it queries an Azure SQL Databaseand returns data to the apps, which in turn send information to the robots.“You know, most everybody on this team is from the Operating Systems Group, where it’s all about connected devices and services, baby. And that’s what we’ve delivered,” says team captain Eric Schmidt.In his spare time, Schmidt volunteers for CoderDojo, teaching school-aged children how to write code. And along with two other members, he’s involved in the First LEGO League. So when the team was coming up with an idea for their project, encouraging kids to pursue careers in science, engineering and technology was one of the first that came to mind.“We spent a lot of time talking about LEGO blocks and robots and building cool LEGO robots. And as we were talking about it, we realized we wanted to build the robots that we would have played with as kids, says Schmidt. “We thought that would be a great way to show kids how engineering, science, and technology can be cool and awesome, and would help impel more kids towards STEM careers.”That thinking is right in line with the philosophy of LEGO play.“At The LEGO Group we always bring technology back to the playroom floor. And you will always have to touch a brick and put something together before you can take it to the next level with the tech,” says McNally.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

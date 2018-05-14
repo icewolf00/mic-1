@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 1, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Helping tackle some of the most urgent global challenges is firmly on the agenda for Microsoft Research (MSR) – applying our experience, our depth and breadth of expertise, our partnerships and the power of software to tackle these challenges. In the case of searching for a vaccine for HIV, all of this comes in to play as we’re applying high-powered computation, fighting HIV with data and perhaps surprisingly, using our experience of building email spam filters to find a solution.More than 1.8 million people die of HIV-related causes each year — approximately 5,000 deaths per day. One of the great challenges in fighting HIV is that the virus is constantly mutating to avoid attack by the immune system — so much so that it can change as much within one infected person as the influenza virus has throughout recorded history. This makes it incredibly difficult to accurately analyze the virus and develop therapies that attack its elusive weak points. Each mutation means another variable to identify and understand. To complicate things even more, individual immune response varies greatly; some people’s immune systems are able to robustly combat the virus, allowing them to live for years without treatment, while others become sick more quickly as their bodies fail to resist the invasive attack.As with many MSR projects, this work is being undertaken in partnership with several other experts in the field. Testing of a vaccine in Durban, South Africa is being led by Bruce Walker, at the Ragon Institute at Massachusetts General Hospital, MIT and Harvard, and a professor of medicine at the University of KwaZulu-Natal. They are joined by the Centre for the AIDS Programme of Research in South Africa and the KwaZulu-Natal Research Institute for Tuberculosis and HIV. This testing program generates vast quantities of data, the analysis of which presents a huge hurdle.That’s where David Heckerman and Jonathan Carlson of Microsoft Research along with a Microsoft Computational Biology Tool called PhyloD come in. This software enables efficient data mining which then leads to specific cell analysis that helps detail virus patterns for further analysis. PhyloD contains an algorithm, code and visualization tools to perform complex pattern recognition and analysis – enabling Heckerman and his colleagues to learn how different individual immune systems respond to the many mutations of the virus.  Ordinarily the computing power required to process the number of variables and possible correlations would take years, but combining the PhyloD tool with Microsoft’s high-performance computing center, this work can be done in hours. Working with two groups, one led by Christian Brander in Barcelona, and another led by Paul Goepfert at the University of Alabama, Heckerman and his team have discovered roughly six times as many possible attack points on the HIV virus as had been previously identified.“When we first met Bruce, he had a very tricky problem to analyze,” remembers David Heckerman. “He had this great data set but he didn’t know how to analyze it. We happened to have just the right algorithm for it and this large bank of computers at Microsoft that could do this massive amount of computation. He gave us the problem on Friday. On Monday, we had a completed analysis for him.”What I personally find most fascinating about this work is that it builds on previous work Heckerman undertook to build an email spam filter. The same principles that are being used to fight spam in Hotmail, Outlook and Exchange are being used to tackle HIV. It turns out there are a lot of similarities between the way spammers evolve their approaches to avoid filters and the way that the HIV virus is constantly mutating.As much as I love the day to day excitement of our industry with new devices and new software announced on a weekly basis, it’s work such as this that I find truly inspiring. As Bruce Walker notes,“everything we learn here is going to be applicable not just to HIV but to breast cancer and prostate cancer—and will ultimately change the way medicine is practiced”I love the pace and excitement of our industry and Microsoft’s part in that – but it’s also rewarding to know that I work for a company that is applying our brains and technology to global challenges like these and seeking to truly change the world with the power of software. You can read more about this work on the Microsoft Research site and coverage on Techmeme.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

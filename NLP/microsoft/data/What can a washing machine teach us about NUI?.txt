@@ -1,0 +1,40 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 2, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+I had the pleasure of speaking at the inaugural PHARE Conference in Ghent, Belgium last week. I’m not sure I’ve presented in a city more pretty than Ghent though I didn’t get enough time to look around as I would have liked – suffice it to say, I’ll be back!I talked about Natural User Interface for about 45 minutes with a mix of slides, videos and demos (thankfully the web connection was fast!) and enjoyed it a lot. it was the first outing for a slide deck I’d put together that leant heavily on recent talks from Craig Mundie. He talks a lot about computers becoming more like us and more natural. My favourite two slides in the deck are the ones above and below which aim to use the washing machine as a metaphor for how complex things have gotten with technology and how simple they could become. Seriously, a washing machine is far more intelligent than I am about how to wash clothes so why am I left with 50 options (at least) when all I really need is two? Dark or light clothes? A sensor inside of the machine drum could probably work that out better than I could as well (trust me, I’ve had my fair share of whites with the colored’s incidents at home). I was pleased to be asked to come and talk at PHARE and feedback afterwards was (as far as I could tell) pretty positive. My aim was not to try to sell the attendees anything – other than a vision for a future natural interfaces. Most people seemed intrigued – although a few on Twitter reminded me that Belgium uses the metric system and that videos don’t count for anything. I agree…which is why I ended with my the Future or Productivity vision video. 2 years on, it’s still a great vision for where technology can/will take us. What’s even better is that 2 years and 6 months in to my new gig, I have seen pretty much all of this technology in some form or other in Microsoft’s lab. As one of my closing slides said (referencing Alan Kay) – The best way to predict the future is to invent it. My slide deck from the conference is below should you be interested  – I’ll add the list of videos I showed too….just as soon as a spare moment presents itself![update] videos I usedOh and Koen Peeters has just posted his review of my talk.  
+<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+
+
+
+
+
+
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

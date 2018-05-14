@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 18, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I was thinking this week was going to be  slow on the blog but apparently not – so many stories to share. I’m an unabashed fan of Blaise Aguera y Arcas and the latest work from his team broke cover today with the Photosynth app for iPhone. The app lets you capture panoramas of places to share with your friends and on with the world via Bing Maps or Facebook. If you’re not familiar with Photosynth, check out something like the Seattle Japanese garden. Now you can create something like that directly from your iPhone.   The app is available for a variety of iOS devices, including the iPhone 4, iPhone 3Gs, iPod Touch Fourth Generation, and the iPad 2 running iOS 4.1 and later. The Photosynth app is coming next to a Windows Phone near you. Download from the iTunes App Store ….oh and to answer the obvious question (that  Kip Kniskern on Liveside acknowledged)….see last line below. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

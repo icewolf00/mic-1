@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 22, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I wanted to have the title of this post be “Kinect in spaaaaaaaaaaaace” but worried that The Muppets reference may have got lost.So what is Kinect doing in space? I saw this story last week in Gizmag explaining that Kinect is being used to enable tiny satellites to dock with one another. Surrey Satellite Technology Limited (SSTL) is working with the University of Surrey in England to launch a pair of nano-satellites into orbit that are equipped with Kinect sensors. The intention is that the sensors will enable the minisats to find each other and dock to form a new, larger satellite.Making modular satellites could be a real breakthrough for longevity, cost effectives and flexibility reasons. Imagine a satellite today with a broken part being written off a space junk. This technique could mean a satellite could be fixed by having a replacement part dock with it.Is there any limit to what Kinect can be used for?Check out more on STRaND2 at sstl.co.ukTweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

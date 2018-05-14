@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 1, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Our Holodesk video was a hit so I here’s another video from our Microsoft Research team in Cambridge of some similarly cool Kinect related work.A project titled Augmented Projectors shows the potential to augment environments with digital graphics – this becomes particularly interesting when the projector has an awareness of the environment in which they’re being used. Yes, projectors that understand the room they’re in. David Molyneaux and Steve Hodges are two of the researchers behind this work which has been submitted to Pervasive 2012 and when I showed it to some architect friends, it drew oooh and ahhs.Me? I thought of this video when shopping (in real life, not online for a change) for a new bookcase last week – wondering if in the future I’d be able to look at bookcases online and then project them in to different spaces in my home to see how it may look or fit. That’s just my starter for ten…I’m sure readers of this blog can come up with at least nine more creative ways this could be used.More Kinect goodness in the week we announced the Kinect Effect and read more on this project at the Inside Microsoft Research blog.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

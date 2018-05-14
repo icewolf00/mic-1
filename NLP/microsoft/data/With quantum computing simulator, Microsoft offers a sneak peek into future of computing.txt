@@ -1,0 +1,31 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 13, 2015
+
+									|										
+Allison Linn
+
+Despite all the advances in computing power, scientists say there are still problems that are so complex it would take a regular computer the lifetime of the universe to solve them.That’s where the power of quantum computing comes in: Using the principles of quantum physics, researchers believe a quantum computer could solve some of those same problems in a matter of hours, or maybe even minutes.“Some of these problems, which we think of as very hard on a digital computer, may be easy on a quantum computer,” said Krysta Svore, a senior researcher who manages Microsoft Research’s  Quantum Architectures and Computation Group, also known as QuArC.There’s no full-scale, working quantum computer yet, but the potential is so great that computer scientists are already building systems that will allow quantum computer scientists to hit the ground running as soon as one becomes available.Next week, at the SuperComputing 2015 conference in Austin, Texas, Dave Wecker, a lead architect on the QuArC team, will discuss the recent public release on GitHub of a suite of tools that allows computer scientists to simulate a quantum computer’s capabilities. That’s a crucial step in building the tools needed to run actual quantum computers.“This is the closest we can get to running a quantum computer without having one,” said  Wecker, who has helped develop the software.The software is called Language-Integrated Quantum Operations, or LIQUi|>. The funky characters at the end refer to how a quantum operation is written in mathematical terms.The researchers are hoping that, using LIQUi|>, computer scientists at Microsoft and other academic and research institutions will be able to perfect the algorithms they need to efficiently use a quantum computer even as the computers themselves are simultaneously being developed.“We can actually debut algorithms in advance of running them on the computer,” Svore said.Svore also hopes that, by making the system more broadly available to developers, it will help draw more computer scientists and students into the quantum computing field because they will get a better sense of its potential.“If they have no way to play with quantum and understand how it works, they’re not going to be attracted to quantum computing,” she said.Microsoft’s broad-based quantum effort
+LIQUi|> is one of a number of quantum computing projects Microsoft researchers have been spearheading for more than a decade, in the quest to create the next generation of computing that will have a profound effect on society.In addition to the QuArC research group, Microsoft’s Station Q research lab, led by renowned mathematician Michael Freedman, is pursuing an approach called topological quantum computing that they believe will be more stable than other quantum computing methods.The idea is to design software, hardware and other elements of quantum computing all at the same time.“This isn’t just, ‘Make the qubits.’ This is, ‘Make the system,’” Wecker said.A qubit is a unit of quantum information, and it’s the key building block to a quantum computer. Using qubits, researchers believe that quantum computers could very quickly evaluate multiple solutions to a problem at the same time, rather than sequentially. That would give scientists the ability to do high-speed, complex calculations, allowing biologists, physicists and chemists to get information they never thought possible before.Fertilizer, batteries and climate change
+Take fertilizer, for example. Fertilizers are crucial to feeding the world’s growing population because they allow plants to develop better and faster. But synthetic fertilizer relies on natural gas, and lots of it: That’s expensive, depletes an important natural resource and adds to pollution.Using a quantum computer, Wecker said scientists think they could map the chemical used by bacteria that naturally creates fertilizers, making it easier to create an alternative to the current, natural-gas based synthetic fertilizer.The incredible power of quantum computers also could be used to figure out how to create organic batteries that don’t rely on lithium, and Wecker said they could help to create systems for capturing carbon emissions effectively, potentially reducing the effects of climate change.Researchers believe that quantum computers will be ideal for challenges like this, which involve mapping complex physical systems, but they also know that they won’t be the best choice for all computing problems. That’s because quantum computers operate very differently from classical digital computers.Although quantum computers can process data much faster, it’s much more difficult to get the results of their calculations because of how qubits are structured. A person using a quantum system needs to know the right question to ask in order to efficiently get the answer they want.For now at least, quantum computer scientists also are struggling to create systems that can run lots of qubits. Because qubits are essentially a scarce resource, Svore said another big research focus is on how to minimize the number of qubits needed to do any algorithm or calculation. That’s also one of the main focuses of Station Q, which is using an area of math called topology to find ways to use fewer qubits.Wecker said that’s another major advantage to a system like LIQUi|>: It will help researchers figure out how best to use these unique computers.“LIQUi|> is helping us understand what we can best solve with a quantum computer,” he said.Computer scientists, academics and developers interested in exploring the LIQUi|> tool suite can download it here.Related:Allison Linn is a senior writer at Microsoft Research. Follow her on Twitter
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

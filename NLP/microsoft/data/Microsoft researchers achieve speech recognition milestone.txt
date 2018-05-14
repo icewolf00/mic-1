@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+September 13, 2016
+
+									|										
+Richard Eckel
+
+Microsoft researchers have reached a milestone in the quest for computers to understand speech as well as humans.Xuedong Huang, the company’s chief speech scientist, reports that in a recent benchmark evaluation against the industry standard Switchboard speech recognition task, Microsoft researchers achieved a word error rate (WER) of 6.3 percent, the lowest in the industry.In a research paper published Tuesday, the scientists said: “Our best single system achieves an error rate of 6.9% on the NIST 2000 Switchboard set. We believe this is the best performance reported to date for a recognition system not based on system combination. An ensemble of acoustic models advances the state of the art to 6.3% on the Switchboard test data.”This past weekend, at Interspeech, an international conference on speech communication and technology held in San Francisco, IBM said it has achieved a WER of 6.6 percent.  Twenty years ago, the error rate of the best published research system had a WER of greater than 43 percent.“This new milestone benefited from a wide range of new technologies developed by the AI community from many different organizations over the past 20 years,” Huang said.Some researchers now believe these technologies could soon reach a point where computers can understand the words people are saying about as well as another person would, which aligns with Microsoft’s strategy to provide more personal computing experiences through technologies such as its Cortana personal assistant, Skype Translator and speech- and language-related cognitive services. The speech research is also significant to Microsoft’s overall artificial intelligence (AI) strategy of providing systems that can anticipate users’ needs instead of responding to their commands, and to the company’s overall ambitions for providing intelligent systems that can see, hear, speak and even understand, augmenting how humans work today.Both IBM and Microsoft cite the advent of deep neural networks, which are inspired by the biological processes of the brain, as a key reason for advances in speech recognition. Computer scientists have for decades been trying to train computer systems to do things like recognize images and comprehend speech, but until recently those systems were plagued with inaccuracies.Neural networks are built in a series of layers. Earlier this year, Microsoft researchers won the ImageNet computer vision challenge by utilizing a deep residual neural net system that utilized a new kind of cross-layer network connection.Another critical component to Microsoft researchers’ recent success is the Computational Network  Toolkit.  CNTK implements sophisticated optimizations that enable deep learning algorithms to run an order of magnitude faster than before. A key step forward was a breakthrough for parallel training on graphics processing units, or GPUs.Although GPUs were designed for computer graphics, researchers have in recent years found that they also can be ideal for processing complex algorithms like the ones used to understand speech. CNTK is already used by the team that helps Microsoft’s virtual assistant, Cortana. By combining the use of  CNTK and GPU clusters, Cortana’s speech training is now able to ingest 10 times more data in the same amount of time.Geoffrey Zweig, principal researcher and manager of Microsoft’s  Speech & Dialog research group,  led the Switchboard speech recognition effort.  He attributes the company’s industry-leading speech recognition results to the skills of its researchers, which led to the development of new training algorithms, highly optimized convolutional and recurrent neural net models, and the development of tools like CNTK.“The research team we’ve assembled brings to bear a century of industrial speech R&D experience to push the state of the art in speech recognition technologies,” Zweig said.Huang adds that the speech recognition milestone is a significant marker on Microsoft’s journey to deliver the best AI solutions for its customers. One component of that AI strategy is conversation as a platform (CaaP); Microsoft outlined its CaaP strategy at the company’s annual developer conference earlier this year.  At that event, CEO Satya Nadella said CaaP could have as profound an impact on our computing experiences as previous shifts, such as graphical user interfaces, the web or mobile.“It’s a simple concept, yet it’s very powerful in its impact.  It is about taking the power of human language and applying it more pervasively to all of our computing,” Nadella said.Related:Follow Richard Eckel on Twitter
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 16, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+It’s rare that someone develops a product they hope will never be used, but the Microsoft Citizenship team did just that today with the release of Microsoft HelpBridge. HelpBridge is designed specifically to help friends and family stay connected in the wake of natural disasters. It also provides an easy way for survivors to donate money or supplies, or roll up their sleeves to help out.There’s a few things I really like about this app, the first being its simple, straightforward design that takes away any ambiguity about what to do. It also  offers more than one way to communicate—SMS, e-mail or Facebook—and it uses GPS to identify your location. If you don’t have time to type out a message on your Qwerty keyboard, your friends or family will at least know your location. The other thing that’s great about HelpBridge is that it connects you with around 25 disaster relief organizations and gives you more than one way to donate to their efforts: you can give small amounts of money via SMS, larger amounts using PayPal, or donate your time or gifts in kind using AidMatrix.The motivation for creating HelpBridge stems from Microsoft’s involvement in disaster and humanitarian response over the past several years. In the wake of ,earthquakes, hurricanes and other natural disasters, an app much like HelpBridge was created, but in each case the app was specific to that particular disaster or to the needs of a specific organization. Microsoft saw the need for an app that wasn’t specific to any region, disaster or relief organization.There’s a version of HelpBridge for your smartphone OS of choice, including Windows Phone, iOS and Android, and the download is free. You can get more information on the HelpBridge website.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

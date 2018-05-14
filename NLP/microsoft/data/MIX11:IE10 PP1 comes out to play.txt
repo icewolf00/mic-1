@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 12, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+  As usual, the MIX keynotes prove to offer some big news and a few surprises – Day 1 of MIX11 didn’t disappoint. IE9 has only been out for a couple of weeks and we’re already releasing a test preview of the next version. Dean Hachamovitch announced availability and Steven Sinofsky put in a surprise appearance to help out with the demo. Our friends at Channel 9 can bring you right up to speed…which is sorta what IE is all about, speed. Oh and HTML5. More on all of this via the IE blog where the the topic of progress, not just activity, points a not too subtle jab at the cadence of competitive browsers. After several years on the sidelines, I think it’s great that the IE team has their mojo back and is competing hard. The IE test drive site comes with a bunch of new demos (the fish have a new life) and Dean used a“paintball” test to show how IE 10 stacks up against Chrome. One final thing – the IE10 demo was running on a 1GHz ARM chip…and thus by association, a future version of Windows Among the demos was  handful of websites already taking advantage of IE9’s support for HTML5. Among those foursquareplayground.com that pinpointed me in Seattle Airport at the time of the keynote. – check out video of foursquare playgroundI had to check out at that point as I was catching a flight – the one other item of note was the Sinofsky announcement of that a Microsoft developer conference is scheduled for Sept. 11-13, 2011. I can’t imagine what we’ll be talking about by then but my calendar is marked. Check back here later today/tomorrow for more news from MIX. Plenty more to come. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

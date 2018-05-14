@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 13, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+This is a guest post by Kevin Schofield, General Manager, Microsoft Research One of the more interesting – and sometimes surreal – parts of my job in Microsoft Research (MSR) is when Hollywood comes calling. The constant flow of science fiction movies and TV shows requires them not only to understand what technology might look like in the future, but also to differentiate from everyone else’s movies and shows. They need to look edgy and futuristic, while still being plausible. So from time to time they will ask Microsoft Research for advice on what lies ahead.About a year ago, the writers and producers of Iron Man 3 contacted MSR, and we had a great discussion around the future of computing technologies. They were thinking hard about the kinds of interactive technologies that we would see Tony Stark using in his lab and with the Iron Man suit. Much of our conversation revolved around large immersive and 3-D displays, gesture-based interaction, and the intersection of the two. At MSR we’ve done a lot of work around both of these topics, as evidenced by products such as Kinect for Windows and more recent research prototypes such as Holodesk and  IllumiRoom, and we were happy to share what we’ve learned. We are of course not the only company that Hollywood asks for advice – and therein lies another tale.Fast forward to this week. On Tuesday May 7th, I was privileged to take part in a panel discussion hosted by the Science and Entertainment Exchange, a program of the National Academy of Sciences. The panel was a discussion on the science behind Iron Man 3, and it was an honor to share the stage with Stephen Broussard and Drew Pearce, executive producer and co-screenwriter for Iron Man 3, as well as Russ Angold from Ekso Bionics  and John Underkoffler from Oblong Industries. It was another great discussion, talking about how quickly technology is moving forward and the challenges that creates for making a movie when technological progress is happening sometimes faster than they can make a movie about it. It was interesting to hear from Stephen and Drew about their inspirations in making the movie, though I think we talked just as much about how those of us who work in tech are equally inspired by science fiction. So the good ideas flow in both directions, and we feed off each other. I spoke about the work that Microsoft is doing around natural user interfaces, and John showed some of the fantastic work his company is doing to build large-display environments to facilitate team collaboration (and showed off a system that uses a Kinect for Windows device to incorporate gestural support). But I was truly inspired by the work that Russ and his company are doing with the medical community to create exoskeletons, at this point primarily to assist people (often combat veterans) who have spinal injuries or other severe debilitations to once again be able to move on their own. So while having an Iron Man suit may still be a long way off, the idea of an exoskeleton suit is already here and making a real difference in people’s lives.The icing on the cake was that the panel session was held at the El Capitan Theatre on Hollywood Boulevard, and was immediately followed by a screening of Iron Man 3 (in 3D, no less). The whole event was a ton of fun, with just the right mix of inspiring people, big ideas, and exciting entertainment.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

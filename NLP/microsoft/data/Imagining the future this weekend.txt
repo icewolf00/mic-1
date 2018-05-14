@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 6, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+This weekend we’re hosting the US finals of the Imagine Cup here in Seattle. I’ve waited a while for a chance to get involved in this event and I’m excited about it. Over the years, plenty of my friends at Microsoft have been involved and told me it’s something I simply have to do at some point. They’ve spoken about being inspired by the work of kids who have used technology to address the worlds biggest challenges. I’m inspired that 70,000 students registered! That’s been whittled down to 22 teams who are joining us this weekend. My role next Monday will be to help determine who is the winner from the USA and will go forward to the global finals in New York in July. I can’t blog during the event but plan to post some photos and perhaps an interview or two with the finalists. It may all be too hectic for that but we shall see.You can get to know the teams on Facebook and follow the action on Twitter. As for the video above, yes it was hot under the lights <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

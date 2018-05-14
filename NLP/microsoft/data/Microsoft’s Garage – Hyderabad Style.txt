@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 17, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Back in January I featured a post on The Garage, a community on campus where following your creative hunches is the rule and volcanoes still explode at science fairs. When the Garage was just starting out, some of our colleagues in India saw all the fun we were having in Redmond and decided they wanted to start the Garage in India.The Hyderabad Garage has now been open for a bit more than two years and every indication suggests that it’s been a success. In June they held the second annual Garage India Science Fair and 50 exhibits were on display – up from 22 last year. And this year’s event drew participants from Bangalore and Russia.What’s so striking about the Garage in India is how it started from the bottom up. Quinn Hawkins, who helped start the Redmond Garage, says it all started with an e-mail from Sidharth Sehgal, a developer in Hyderabad. The conversation focused on Stay Late and Code (SLAC), a Garage event being held in Redmond where employees stay late, have some pizza, and imbibe their favorite brew, while working on their side projects.To help jump start the unofficial overseas expansion, the Redmond Garage agreed to spring for the pizza, as long as Sidharth would take care of the rest. Sidharth teamed up with his friend, Shrikanth Balla, to plan the meetings and recruit people from the Hyderabad office (and I assume confirmed that the pizza wouldn’t be delivered from Redmond).That seems to have been all it took for the Garage to firmly take hold in Hyderabad. Since that time, the IT department in India has stepped to the plate to fund the science fairs and the Garage has become a permanent fixture in Microsoft India, with hundreds of employees participating.One of the themes of the Garage India Science Fair this year was “Code for Her,” which was all about creating applications for women. And one of the most popular projects in this category was Immunization Tracker, an app that helps mothers keep track of when and for what diseases their children have been inoculated. Another great one was Doctoso, a Windows Phone 7 app that translates Office documents and books into 15 languages and lets you listen back to them on your phone.There was also a pretty cool project called DriveSafe that uses sensors to detect unsafe driving behavior, like driving down the highway with one hand on the steering wheeling and the other fiddling with your phone. What makes it work is a pressure sensor in the steering wheel that detects your one-handedness. And depending on factors such as your speed, the time of day, and the wetness of the road, it might encourage you to put the phone down and return both hands to the wheel.You might not like the idea of your car chiding you, but the rest of us on the road wouldn’t mind  What’s really great about DriveSafe is that it apparently cost less than $30 to build, so it doesn’t seem too unlikely that smart car systems like this could start showing up, even in the cheap cars.The Garage Science Fairs often provides these little glimpses of the not too distant future, which is one of the reason people keep coming back.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

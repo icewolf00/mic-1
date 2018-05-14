@@ -1,0 +1,33 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 12, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+While the tech world focused on CES last week, our chief research and strategy officer, Craig Mundie, was speaking to a sold-out crowd of 700 healthcare professionals at the Cleveland Clinic’s “Ideas for Tomorrow” lecture series. Craig is our top futurist, and responsible for the company’s long-term tech strategy. He’s a big believer that the most exciting developments in tech are in the field of natural user interfaces (NUI) – a recurring theme on this site. NUI will help realize the dream of computers that will adapt to how we work, rather than the other way around, I like the way Craig describes this as computing without the learning curve.In Cleveland, Craig elaborated on the idea of new ways that we’ll interact with technology and how tech will become much more intuitive. Much of this shift will rely on sensors that are already around us and making their way into everything from cars to washing machines to homes. These sensors are enabling computing to become pervasive and invisible – woven into the fabric of our lives – and aided by the increased precision and falling cost of both sensors and display technologies.Craig showed a bunch of prototype demonstrations, many from Microsoft Research, to bring things to life and show how these technologies could be applied to the challenges facing global healthcare. One video showed a robotic triage nurse, which uses Bayesian inference to make smart determinations about symptoms and care for people in rural environments – it’s a pretty impressive solution to the challenge of scarce and often expensive care in these types of environments. How scarce? Well Craig noted that today, the developing world needs an additional 1.8 million doctors to ensure adequate care. Wow…that’s a big number to reach one doctor per 1,000 people so it’s clear to see that technology has a ton of potential here to help close that gap.Craig also highlighted a pilot underway at Washington Hospital Center in Washington D.C. who are working with our Healthcare Solutions Group. The pilot is exploring how gesture can be used in a live operating theater to help surgeons maintain a sterile, touch-free operating environment while reviewing patient records during surgery. This was followed by a demo of a research project with the University of Washington – they’re using haptic feedback with a Kinect sensor for use in robotic surgeries when the surgeon cannot be physically present. Craig gets to show off some of the coolest technology in the company but he also gets to show the potential technology has to change the world – for good. His Rethinking Computing site is a good one to keep tabs on as he covers some of the most groundbreaking ideas and projects that go on around here. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 23, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+If there’s one thing I haven’t talked about much on /Next, it’s developers and development tools. I spend a fair amount of time focusing on the fruits of all their hard work, but developers don’t always get the recognition they deserve (an “injustice” that they’re seeking to address). Insanely long programming marathons are the stuff of legend around Microsoft and back in the day they contributed to the company’s mystique.Well today the Server & Tools team here in Redmond announced the beta of Visual Studio 11 will be available next week (2/29) and it’s worth noting because it reflects a significant shift that’s taken place. For the longest time, developing software was characterized by lengthy development cycles during which developers primarily worked in isolation. Then along came agile development, with shorter, focused development cycles, and a team of developers that work together rather than apart.When developers open Visual Studio 11 beta, they’ll find a complete redesign of the user interface that reflects this shift. One of the primary goals was to help developers eliminate distractions and remain “in the zone” where they can create some incredible experiences.Some of the changes are small — such as reducing the number of toolbar commands or using color more judiciously. Other changes are more significant. Collectively, they represent a thoughtful approach to efficiency, and letting developers do what they do best: write code that enables fantastic user experiences, across a multitude of platforms.The idea of eliminating distractions makes sense regardless of how you develop software. Come to think of it, eliminating distractions is at the core of much of the work we do, from the likes of voice control, Metro and NUI, to MSR projects that are focused on preventing distracted driving.For more details on Visual Studio 11, check out the feature story on Microsoft News Center.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

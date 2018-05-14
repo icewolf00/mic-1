@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 7, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Just in case you’re getting tired of hearing from me on Natural User Interface, the infographic above from Michell Zappa of trendwatching.com includes NUI as a whole planet. The graphic is titled Envisioning the near future of technology and is inspired by a wide variety of sources – Wired, Kevin Kelly, Ray Kurzweil, Clay Shirky, Clive Thompson, John Battelle and others. It looks at what technology will be of importance over the next 15-20 years. As well as NUI, other major hubs are Internet (connectivity), Ubicomp (hardware), Green (energy), Space, Materials, Biotech, Money, Robotics, Artificial Intelligence and Warfare. It’s a pretty interesting mix and has some good overlap with the recent trends slides I presented in Belgium – always good to get some external validation!On the NUI hub, I think a lot of the right nodes are the right ones – certainly speech, gesture, machine vision, AR and telepresence. To that I’d add machine learning, contextual awareness and language as there is much more to NUI than input and output. Check out the image at Michell’s site which he’s also kindly made available in PDF and PNG formats – note that size of hubs/nodes relate to predicted importance and the center of the map is where we are today with farther out points being off in the future (2025+). hat tip to Fast Company design for flagging and you can expect a lot more on the future of technology on this blog over the next 48 hours as Microsoft’s TechFest kicks off tomorrow. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

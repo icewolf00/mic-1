@@ -1,0 +1,33 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 13, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Pretty cool infographic from The Washington Post on the heels of CES that shows the price and penetration of devices over time. Interesting to see the price drop off of the standard cellphone vs. the smartphone which still has a relatively high premium. The charts also show the speed of penetration is picking up which also shows how dynamic some of these markets are. The leaders in some fields were not even on the map a few years back…and who knows if they will be a few years ahead. Be sure to check out the original version of the infographic on the WP site as it’s fully interactive and has more data for computers, TV, video, photo and audio. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

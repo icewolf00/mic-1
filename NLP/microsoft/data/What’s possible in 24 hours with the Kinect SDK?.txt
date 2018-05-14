@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 16, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I spent the morning participating in and watching the announcements around the Kinect SDK and it’s been a blast to see what developers can do in just 24 hours with the kit. As I mentioned in my earlier post, we ran a code camp for the last 24 hours and following the webcast this morning I took some time to head down to the camp and see what the teams had created.Remember Pong? One of the earliest arcade games got an pretty serious service pack this morning – you! The human body became the controller of the paddles as two guys from Lewis and Clark built a natural user interface version of Pong that used the skeletal tracking capability. Nick Wilson and Julian Dale showed up with no experience of coding on Windows – both being Emacs developers. Within 24 hours they’d both picked up Visual Studio, learnt C# and built their version of Pong. They were so impressed they told me they were heading back to college and planned to use this with their football team and saw a ton of potential to track quarterbacks in real-time and use it for coaching purposes.Josh Blake, of OpenKinect fame, was also at the code camp – I was personally really pleased to see him there and his enthusiasm for the official SDK was great. His team built Virtual Kinductor who enables you to conduct an orchestra using gestures and speech. As cool as it was, Josh was more excited about the potential apps that are yet to be built.The application that seemed to catch the most attention was he flying quadrocopter – Alex Wiggins, Ruma Paul and Fabio Matsui hooked up a the flying machine and enabled it to be controller by their body. They took over the lobby of building 50 here at Microsoft for a while and drew quite a crowd – and scared a few receptionists  I managed to shoot a quick video on my phone…What I’m really looking forward to seeing is developers take advantage of the audio capability as I think that’s part of the palette that’s been less used – so far. I asked Nick and Julian if they’d tried adding audio to Pong and they confirmed they had – albeit at 3am and every other developer at code camp had the same idea, so it was sorta noisy If you can built that kind of stuff in 24 hours, I’m eager to see what happens in another 24 hours, 24 days and 24 months. It’s really just the beginning of the NUI movement.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

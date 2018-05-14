@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+September 26, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ I get to spend a lot of time hanging out with Microsoft Research folks here in Redmond and they never cease to amaze me – though our Redmond lab is only one of a number of labs around the world. The video above on Kinect-based Object Digitization shows the work from our lab in China that enables “Build a Buddy” and “Googly Eyes” in Kinect Fun Labs. I don’t need to know about Poisson surface reconstruction, but fortunately our teams in MSR do, and they harness the power of the Xbox 360 CPU and GPU to use the technique in bringing rendering of an object down from 20 seconds to 2 seconds.There is a lot of excitement across the company about Kinect and a project we recently highlighted here on Next at Microsoft is KinectFusion – also from MSR and this time out of our lab in Cambridge, England. It’s well worth another look so check out the video below – Engadget called it jaw dropping.  I’d hate you to think MSR is only exploring the potential of Kinect though. The 850 or so researchers we have across the labs are pushing the boundaries in many more areas, and MSR is unusual as an industrial research organization in their dedication to basic and applied research. Industrial research is typically applied research, meaning it is undertaken with a specific goal to create a product. MSR doesn’t work with those constraints and hence can genuinely look over the horizon and conduct blue sky research – and advance science in the process. You only have to look to the work of folks like Andrew Phillips who we recently profiled to see this in action – or look at MSR’s representation at major conferences, such as the Association for Computing Machinery’s (ACM’s) SIGCHI, SIGIR, SIGMOD, and SIGGRAPH.Similarly though, I’d hate for you to think that MSR doesn’t have an epic contribution to Microsoft’s products. Kinect itself is one example that has been well documented but pretty much every Microsoft product that is released has benefitted from a Microsoft Research contribution. Just recently we highlighted how Zing from MSR has been instrumental in building USB 3.0 support for Windows 8 – that follows in a long list across many products.Bing is one product team that has benefitted from MSR contributions, and earlier today Craig Mundie highlighted a project known as  “Tiger” that aids the next-generation index serving platform for Bing. Index serving is the most critical infrastructure for any search engine and the new architecture in Tiger uses emerging Solid State Disk (SSD) to improve overall efficiency and open doors for further improvements. You can hear more about this project in the video below.  It’s fair to say Microsoft would not have enjoyed the success it has without the work of Microsoft Research – often behind the scenes, but always there. Their work is regularly recognized externally, as are the researchers themselves who between them have an incredible set of accolades. From a personal point of view, I love hanging out with these people as you can’t help but be amazed by their work and their commitment not only to Microsoft but to applying technology to solve some of the toughest challenges the world faces.Tomorrow, Microsoft Research are celebrating their 20 year anniversary so congratulations to them and I look forward to their next 20 years of work!Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

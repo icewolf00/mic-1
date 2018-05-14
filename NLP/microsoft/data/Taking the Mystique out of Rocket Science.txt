@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 30, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+One of the things I heard at the PSFK San Francisco event that really stuck with me was during a presentation by Ariel Waldman, an interaction designer with more than a passing fancy for space exploration. A few years ago she had the luck of landing a job at NASA, only to discover that you don’t have to be an astronaut, or work at NASA, to be involved in space exploration.What Ariel said is that “doing something changes how you see it.” Unfortunately, in the fifty years since space exploration actually took off, only 500 people have actually been in space, so for most people, space exploration as nothing more than an exorbitant waste of tax payer money. Ariel set out to fix that by launching spacehack.org, a site that provides information on all sorts of science projects that the average person can get involved in, from finding new planets to developing the next lunar rover or analyzing galaxy data.It seems safe to say that one of the most audacious space-related projects is the space elevator, a concept that’s been around since the 1800s, but wasn’t given serious thought until the discovery of carbon nanotubes in the mid 90’s. Since that time there’s been a flurry of competitions to build climbing robots, a laser beam that would power them, and strong and lightweight elevator shafts that are long enough to reach outer space (roughly 100,000  kilometers in length).Maurice Franklin is a software test engineer at Microsoft, who works on the space elevator during his spare time. He likens it to building the transcontinental railroads. The initial cost of laying the track was labor and money intensive, but once in place it provided a much cheaper way to send goods from coast to coast. If you pencil out the numbers, Maurice says that the cost of a trip on the elevator could drop to less than a hundred dollars per kilogram.Earlier this year, Maurice and a former colleague, David Horn, organized the 2011 Space Elevator Conference, which was hosted at the Redmond campus. As part of the event, they created a competition for middle and high school students to design and build the robots that would climb the shaft into orbit. More than a dozen teams took part and they’re already at work on plans for next year’s competition.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

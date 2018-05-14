@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 20, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+As you may know, I’m a big fan of a Microsoft Research technology known as MAVIS – it indexes audio and video content and then allows you to search for a word or phrase across that content and jump to the exact point at which it was uttered.It’s one of those things that’s easier to try for yourself than for me to explain so check out this search I performed across all of the content from our /BUILD conference for the word Metro. The key is to hover over the “bubbles” that appear beneath the text to jump to the precise moment in the video.A recent post by Rob Knies on the Inside Microsoft Research blog details so new advances in our speech technology – something with the mysterious name Deep-Neural-Network Speech Recognition. MAVIS is being updated to include this technology and it’s the first time deep-neural-networks (DNN)-based speech-recognition algorithm in a commercial product. It’s been heralded as a breakthrough and the “Holy Grail of speech recognition”. So what is DNN?In a post from August last year when the technology was first presented, Janie Chang explained:Commercially available speech-recognition technology is behind applications such as voice-to-text software and automated phone services. Accuracy is paramount, and voice-to-text typically achieves this by having the user “train” the software during setup and by adapting more closely to the user’s speech patterns over time. Automated voice services that interact with multiple speakers do not allow for speaker training because they must be usable instantly by any user. To cope with the lower accuracy, they either handle only a small vocabulary or strongly restrict the words or patterns that users can say.  The ultimate goal of automatic speech recognition is out-of-the-box speaker-independent services that don’t require user training. That’s where DNN comes inArtificial neural networks (ANNs), mathematical models of the low-level circuits in the human brain, have been a familiar concept since the 1950s. The notion of using ANNs to improve speech-recognition performance has been around since the 1980s. The Speech group at Microsoft Research Redmond became interested in ANNs when recent progress in building more complex “deep” neural networks (DNNs) began to show promise at achieving state-of-the-art performance for automatic speech-recognition tasks. A speech recognizer is essentially a model of fragments of sounds of speech. An example of such sounds are “phonemes,” the roughly 30 or so pronunciation symbols used in a dictionary. State-of-the-art speech recognizers use shorter fragments, numbering in the thousands, called “senones.” The research took a leap forward the group proposed modeling the thousands of “senones”, much smaller acoustic-model building blocks, directly with DNNs.By modeling senones directly using DNNs, the system outperformed state-of-the-art conventional speech-recognition systems by more than 16%. That may not sound like a lot but it’s considered extremely significant in  research arena that has been an for more than five decades. What’s more, this was all being achieved without expensive hardware that may typically be required. Further testing revealed a 33% relative improvement compared with results obtained by a state-of-the-art conventional system.And in under a year, this is all being rolled in to the MAVIS system.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

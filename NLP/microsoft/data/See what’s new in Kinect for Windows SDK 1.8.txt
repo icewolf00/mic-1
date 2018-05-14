@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+September 17, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Kinect for Windows has been used to power natural user interfaces in a staggering array of innovative applications, from kinder, gentler cancer treatment for kids to revolutionary retail experiences, and now it’s available to businesses and developers in an updated Version 1.8 SDK with even more capabilities.Key features of Kinect for Windows SDK 1.8 include:A new green-screen effect that lets you remove a background behind the active user, then swap in an artificial background in its place.Enhanced 3D modeling capabilities that allow you to scan the color of a scene as well as its contours, enabling you to 3D print objects in full color or add fidelity to assets for games and other applications.An adaptive UI sample that shows you how to build an application that adapts based on the distance between user and screen for gesture and touch.Read more about the breakthrough new Kinect for Windows SDK 1.8 in this post on the Kinect for Windows Blog, and see more examples of Kinect for Windows in action here.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

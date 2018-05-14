@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 15, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+In late October and early November, Craig Mundie visited students and faculty at the University of California, Berkeley and the University of Texas at Austin to share his thoughts on the future of computing, as well as to hear the thoughts and ideas of the next generation of technology innovators.This is an annual trip for Craig, and if you’re familiar with what he has done in past years, you’ll know that these college engagements offer a great opportunity to hear from him regarding how technology is transforming and what our interactions with technology may look like in the future.While today’s college students have come of age during a time of rapid technological transformation, the world into which they graduate will be very different from what they might have imagined when they started school. Their world has already been transformed by computing, but even more radical change is to come in the years ahead.During his visits, Craig discussed several major trends that are driving this change—one among them the rise of multi-device experiences. With the aid of a massive 82” interactive Perceptive Pixel display, Craig demonstrated a few examples of how varied computing surfaces can allow us to move easily between all sizes of displays and devices. He showed how you might use Microsoft OneNote 2013 to work on a large display and then, moments later, pull up your annotations on your personal Surface. He also showed off the capabilities of Xbox SmartGlass, illustrating how you can seamlessly shift content across your tablet, phone, and Xbox. Today, these technologies are at the leading edge of interconnected, multi-device experiences.Craig talked about how computers are becoming more like us, and increasingly blending the physical and digital worlds in more natural ways. Along these lines, Craig illustrated how we might remotely collaborate and incorporate telepresence in the future via Microsoft Research’s research project Illumishare. I’ve spoken about Illumishare here before — it’s a low-cost, peripheral device that looks like a desk lamp, lighting up a surface while also turning it into a shared space. You can imagine how this technology could be used to brainstorm, collaborate, and troubleshoot in real time with someone in another location anywhere in the world. This enhanced remote collaboration might also be a big part of how we transform education in the future.Examples like these show the tangible ways that technology is transforming, but there is much more happening “under the hood” that will revolutionize our experiences and enhance our world—namely, the use of big data and machine learning to help people make informed decisions and elicit previously hidden insights about their world. To illustrate this, Craig showed how the Monterey Bay Aquarium Research Institute is using Microsoft Research’s Layerscape to visualize their research data of the microbial population in the Pacific Ocean bordering Southern California. With Layerscape, they have been able to combine measurements from remote monitoring vessels with surface data collected by satellites, leading to valuable marine insights that wouldn’t have been possible without advanced machine learning capabilities.With machine learning, increasingly, the software will be able to learn from the data on its own, producing new insights that were previously impossible for humans to glean using analytics alone. This is going to change the world tremendously, from how we approach solving some of society’s biggest problems down to how we conduct basic science.Whether you’re a college student or not, it’s always fascinating to reflect on where technology is heading and how it will impact all aspects of our lives.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

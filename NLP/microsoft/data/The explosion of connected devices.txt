@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 23, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+As I’ve been researching posts for this week of “things” on Next, I’ve stumbled across lots of data – these connected things create massive amounts of data themselves and there are already a lot of them. A recent report from Cisco showed that sometime around 2008/2009, our world had more connected devices than people. By 2015, there will be over 3 times the amount of connected devices as people on the planet. Separately, Dr. Abel Sanchez of MIT’s Geospatial Data Center echoed this assessment by commenting the number of products with serial numbers attached to them are currently in excess of 10 trillion.These connected devices come in all manner of shapes and sizes – over 1000 buildings in the USA and Canada contain digital signage from Captivate, running on Windows Embedded. The Empire State Building and Rockefeller Center in New York; Willis Tower (formerly Sears Tower) in Chicago; Gas Company Tower in Los Angeles; the Prudential Center in Boston; and Embarcadero Center in San Francisco all have connected LCD screens in the building.As we connect more devices to the net, we’re going to need to shift to new protocols pretty quickly as the world starts to run out of IP addresses – that’s what the recent IPv6 Day was all about – preparing us for the future of billions of connected devices. All of those devices are going to drive up bandwidth and storage demands and create entirely new businesses around analysis and use of that data. Imagine what you could do if every traffic light in a city was connected and monitored traffic flow and every car was connected. You could dramatically optimize traffic patterns but you’d need some big number crunching capability and some serious math. That’s where the cloud comes in, with almost infinite computing power on demand. Too obvious a scenario? How about Sparked, a startup who were mentioned in The Economist for their implanting of sensors in to the ears of cattle, enabling farmers to track the health and movement of their herd. It turns out a cow generates around 200mb of data a year. We’re heading to the point, as Tim O’Reillyputs it, that we’ll be able to instrument the world  via the 10 trillion objects Dr. Sanchez referenced.As we move to this world of connected “things” (cows or otherwise) we’re going to become familiar with terms like Zettabyte and Yottabyte and it may be that the trend of Big Data becomes even more important than the Internet of Things (more on that soon). People with skills in data analysis and visualization are going to be in high demand as we try to make sense of all of this data.Nick Sigler is one such individual and there is some irony that his infographic of the Cisco’s Visual Networking Index report is arguably more insightful than the paper itself. It takes the raw data from that report and charts the growth of storage and bandwidth and helps us understand the terminology. For now, I’ll leave it there but in writing this post it’s struck me that there are a set of trends I’ve covered on this blog that are converging and increasingly hard to separate as we look to the future of technology. The Internet of Things is woven up with cloud and social as key trends. Big data and visualization are two others and machine learning is the magic behind the curtain that could unlock a world that truly does bring physical and digital together and make the seams invisible.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

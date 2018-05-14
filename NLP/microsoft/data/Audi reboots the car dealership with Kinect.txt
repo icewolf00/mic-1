@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 30, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Another week, another Kinect project. In fact this one has been doing the rounds of my favorite websites for the last week or so  – I’m just catching post conference season.Audi City London worked with Razorfish to build a revolutionary customer experience that takes the car showroom in to the digital world. The store, near London’s Ritz Hotel on Piccadilly, displays full sized cars on huge displays. Given the price premium in land in London, it’s a smart way to get up close with vehicles without Audi having to pack the store with actual cars.Of course what caught my eye is their use of Kinect. Customers can configure their vehicle on multi touch displays and have the resulting vehicle shown on the hi def wall sized displays in photorealistic 3D. From there, customers can explore every angle and detail using Kinect. It sounds a lot like the Auto Vista experience on Forza Motorsport and I can’t wait to try it out. That’ll hopefully be possible soon as Audi plans to roll out many more of these digital showrooms.Nothing can truly replace the full tactile experience of sitting in a car hence the incorporation of an a RFID-enabled USB stick that stores a customers configuration that is then used in a personal consultation area that includes fabrics and color swatches.Back in January at CES we announced the Kinect for Windows SDK and the fact that over 300 companies were already signed up and building things on top of the platform. A little over six months on and we’re seeing projects deployed for real – that’s the Kinect Effect  in action. I’ll keep on cataloging the wave of creativity it’s unleashed so keep checking back here. Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

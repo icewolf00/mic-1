@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 4, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ This is possibly my favorite hidden space on Microsoft Campus – I found it within a few weeks of starting my new gig and everyone I have taken there has been blown away. Not only by the space but the team who works there…and the work they do. What I love about the model shop is it’s not something people expect from Microsoft. When people visit, they initially ask why we have such a facility but soon realize that we make a good amount of hardware – mice, keyboards, webcams, headsets, Zune, Xbox and associated accessories. As you walk around the shop, it’s fascinating to see the full range of hardware prototyping that is done – from very simple models, carved by hand all the way through to 3D printed objects that are then finished in the paint room. I’ll have a profile on Karsten who works in the shop next week which also highlights the range of talent involved. From toy makers to mechanical engineers – I love spending time in there, seeing craftsmen at work. thanks to our Channel 9 team for the video work!// <![CDATA[
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// ]]&gt;Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

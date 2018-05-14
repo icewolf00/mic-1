@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+September 19, 2016
+
+									|										
+John Roach
+
+Scientists at Microsoft’s research labs are trying to use computer science to solve one of the most complex and deadly challenges humans face: Cancer.And, for the most part, they are doing so with algorithms and computers instead of test tubes and beakers.One team of researchers is using machine learning and natural language processing to help oncologists figure out the most effective, individualized cancer treatments for their patients.Another is pairing machine learning with computer vision to give radiologists a more detailed understanding of how their patients’ tumors are progressing.Yet another group of researchers has created powerful algorithms that help scientists understand how cancers develop and what treatments will work best to fight them.And another team is working on moonshot efforts that could one day allow scientists to program cells to fight diseases, including cancer.While the individual projects vary widely, they share the core philosophy that success depends on both biologists and computer scientists bringing their expertise to the problem.“The collaboration between biologists and computer scientists is actually key to making this work,” said Jeannette M. Wing, Microsoft’s corporate vice president in charge of the company’s basic research labs.To learn about these efforts to solve cancer with the help of algorithms and computers, read the full story.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

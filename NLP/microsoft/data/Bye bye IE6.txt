@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 4, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+This morning we launched http://ie6countdown.com – 10 years on from the launch of IE6, this site is dedicated to watching IE6 usage drop below 1% worldwide. C’mon IE6, it’s time for a modern web so nice knowing you and all that but….buhbye!I talked about the topic of IE6 with some web developers in Belgium last week and it’s clearly one of the biggest hurdles they face in their work and in helping us all move to the beautiful new world of HTML5. We’re trying to help put IE6 to bed once and for all. What else can you do to help? <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 27, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’m a big fan of this whole “Internet of Things” idea and as a consequence, a number of items under my Christmas tree this week feel in to this category. Yes, while normal people ask for books, music, clothes or more regular gadgets, I asked for a Twine.The device itself is shown above and it resembles a bar of soap. The rubberized unit houses WiFi, on-board temperature and orientation sensors, and an expansion connector for other sensors. It’s connected to the cloud and powered by micro USB or two AAA batteries. I ordered an optional magnetic sensor for my unit.So what’s it all about? After some basic setup you go to a web based dashboard that enables you to setup some simple rules that trigger messages. There is obvious stuff like sending myself a text message when my apartment temperature rises or falls but that’s about us useful as a thermostat – and I have one of those. What’s more interesting are rules that send me a text or email when the device orientation changes. For example, if the device is sat atop a pile of presents under the Christmas tree and a small person decides to “move” said presents, send me a text message. That’s right, I rigged my Christmas tree to stop peeping eyes getting an early look at their presents. Ironic I know that I pre-opened one of my presents to monitor pre-opening of other presents. All in the name of research you see.   It’s quite addictive toying around with the unit and I have some ideas for the magnetic sensor too – such as alerting me to movement of my favorite whisky bottle by attaching a small piece of metal to it. All good fun and I’m sure I’ll come up with some actual real world usage scenarios soon too.While Twine isn’t going to change my life, it’s an interesting look at a trend that is on a path to become integrated in to our lives. Do I want a temperature sensor (something much smaller) in the child’s crib for very localized readings? Yep that’d be useful. Do I want to remotely monitor my bike garage? Yep. Do I want lights I can control using rules and devices such as this – yes, and it may come soon thanks to another Kickstarter project, Spark.   A few other notes about Twine – their packaging is beautifully done. Apple raised the bar on packaging several years back and we’re all reaping the benefits. The web interface for rule building is also very nicely done – simple and effective.If you’re interested in this stuff (it’s the future after all), Twine is now available on Amazon.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

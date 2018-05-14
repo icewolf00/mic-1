@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 6, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+With most digital cameras these days, you can shoot still photos or video. The critical question, then, is which one to use when you’re at your child’s soccer game or out with a group of friends: a picture often won’t do it justice, whereas shooting video can be quite challenging for the average person. A group of Microsoft researchers has now rendered that decision moot with a new interactive app called Cliplets.Essentially, Cliplets allows you to take a snippet of video around 10 seconds in length and freeze certain parts of the frame, while allowing others to continue playing. The result is this really cool “photo” that blends the best qualities of still and dynamic imagery. The secret sauce behind Cliplet is computer vision, which allows the software to keep images aligned. You can see a demo of Cliplets in action with one of the researchers, Neel Joshi.What’s really great is that Cliplets is available for download today from the Cliplets project page (also featured on the TechFest landing page). The team has clearly put a lot of work into this, also posting a series of tutorials, a support forum and a Youtube channel with a handful of sample Cliplets that give you a sense of what’s possible. Download it today and see for yourself. 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

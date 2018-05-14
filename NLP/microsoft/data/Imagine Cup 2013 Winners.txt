@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 11, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+For the past 11 years the Imagine Cup has put college students from around the world through a crucible of creativity, testing their ability to problem solve, write code and work together as a team. For the last few days the winners from each region of this year’s competition have been competing in St. Petersburg, Russia. Today we announced the winners.First place in the Games competition went to Zeppelin Studio, a team from Austria that created a puzzle game using Windows and Visual Studio. Portugal’s Ana Ferraz took home the blue ribbon for World Citizenship with a solution that can help emergency medical personnel determine a person’s blood type in five minutes.    Meanwhile, four fellows from the UK won the Innovation division for their work on soundSYNK, a mobile app that can connect a virtually unlimited number of devices—including Windows Phone 8, iOS and Android.SoundSYNK was inspired by a bit of a serendipitous “failure” at the outset of the competition and it uses Windows, Windows Phone 8, Visual Studio and Bluetooth to connect multiple devices. For the sake of Imagine Cup, the team focused on synchronizing the devices so they can play the same song simultaneously. In the long term, they envision licensing soundSYNK’s impromptu social network (ISN) technology to companies or developers. According to the website, soundSYNK manages the bandwidth, network configuration and syncing of the devices so users can create ad hoc mesh networks that make it easier to share information .The app should be available in the next few months and sounds like something worth keeping an eye on.  There’s more information on soundSYNK’s website. Check out the press release for more details on the winners.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

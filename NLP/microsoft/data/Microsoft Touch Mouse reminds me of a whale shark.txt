@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 2, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Last month I was given a Microsoft Touch Mouse to play with and after marveling at the architecture of the box in which it came, I set out to use it on my home system. I wasn’t sold on it and put it back in the box for a few weeks as I set out traveling and returned to my trusty Arc Touch Mouse.Last week, I took another look at he Touch Mouse and started to really enjoy using it. I have to confess it takes some getting used to as the mouse I generally use at home is a Wireless Mouse 5000. The key difference between this and the Touch Mouse (for me) is that the button system on the latter relies on the entire mouse to be “clicked” rather than a button being clicked. Once I got used to it, I was reminded of my favorite mouse of all time – the Starck Mouse – which operates in a similar fashion. The similarities between the Starck and the Touch mouse end there though.The Touch mouse is the product of significant research – in fact it’s a collaboration between Microsoft Research (MSR) and our Applied Sciences Group and based on an award winning research paper.Hrvoje Benko (better known simply as Benko) is a researcher in MSR and in an post on their site he details why the capacitive touch sensing approach was selected for this mouse over a number of other options. From chatting with the folks in our model shop, that presented interesting challenges as to how you “curved” the capacitive touch surface correctly. In addition to Benko, a team from our Cambridge lab in England worked on the gesture technology in the mouse. This is what has sold me on the product. The MSR post explains the challenges here – trying to build a mouse that can detect when my hand is resting on it versus trying to gesture.Those gestures are pretty cool – especially with my dual screen setup at home. Flicking an application from one screen to another is literally that simple – just a flick of my finger on the mouse across the surface of the mouse. Seeing what applications I have running is perhaps my favorite gesture – as you swipe three fingers forward on the mouse, all of your running applications . You can pan, maximize and minimize by using gestures too. It takes some getting used to but it’s pretty cool when you’re used to it and there are 9 gestures in total.Other features of note include BlueTrack technology (which means the mouse tracks on almost any surface and the nano transceiver which hides in a recess on the underside of the mouse when not in use. One thing to note is that this mouse only works with Windows 7.I know there have been many comparisons between this mouse and Apple’s Magic Mouse. I’ve not used Apple’s mouse beyond a few moments in the Apple Store and though I hear good things about it, one key difference is that the Touch mouse works just as a regular mouse does in terms of pointing and clicking and then adds gesture support on top.Two final things. The lack of a scroll wheel is a bit disconcerting but once you get used to the indented scroll line, it’s quite enjoyable…and the looks of this mouse? To me it looks like a whale shark…mean and menacing!Will it become my daily mouse? I travel a lot so the Arc Touch will continue to be my main mouse but at home, the Touch mouse is now the weapon of choice. Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

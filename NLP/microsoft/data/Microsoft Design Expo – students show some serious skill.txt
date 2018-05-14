@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 26, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+If you asked the average experience designer which companies they most want to work for, it’s a safe guess that Microsoft would not cross their lips. But one read through last week’s profiles of Manuel Lima, Sharon Martin Small or Rochelle Benavides should demonstrate that all is not as it seems when it comes to design at Microsoft.The field of experience design is fairly new and also a bit ambiguous in nature, so a few years ago we started a program called Design Expo that gives college and post-graduate students practical training in the field, the chance to share ideas with other students around the world, and to be mentored by some of our top-notch designers. Design Expo is the brainchild of Curtis Wong, Principal Researcher at Microsoft Research and part of Microsoft Research Connections –  which is all about working closely with universities and research institutions to tackle some of the world’s thorniest challenges.After roughly six months of researching, concepting, prototyping and finalizing their concepts, this year’s program wrapped up its eighth year last week with one team from each of six schools pitching their ideas to a panel of designers. The theme of this year’s event was “Get Connected, Stay Connected,” which Curtis says is intentionally general to see how each team interprets the idea.In the U.S. we tend to think about connectedness in terms of the different technologies. Curtis considers that as the “most obvious way” to think about connectedness and suggested that the Design Expo would show how culture plays into your perspective.We had teams from Universidad IberoAmericana Mexico in Mexico City, IUAV University of Venice, Tongji University in Shanghai, OCAD University in Toronto, New York University in NYC, and the University of Washington in Seattle, so the cultural differences were definitely hard to miss.You can read descriptions of all the projects on the Design Expo site, but one that really stood out from a design standpoint was the entry from IUAV University in Venice. The school took an interesting approach in that students’ design couldn’t use a keyboard, couldn’t use a monitor and could only use ambient communication – nothing verbal.On top of that, course instructor Gillian Crampton-Smith told the students that they had to focus on the family unit. “Otherwise, we thought we would get teenagers keeping in touch with their boyfriends and girlfriends,” she said. Wise woman. So, the students interviewed 27 families to find out what was really important to people when they were separated.Of the school’s nine entries the winning design was Voglia, a technology-laden locket that is quintessentially Italian. It’s objective? To keep the “home fires” burning, as it were, while away from your spouse or partner. The video below should clear up any ambiguity about its purpose.Voglia has a fairly impressive design: Inside the pendant is a video camera, a 1.4” touch screen, a microphone, a Bluetooth radio and on/off switch. The pendants are sold in pairs and are designed to act as a peripheral to your smartphone. They will only communicate with their ‘”partner” pendants, so there’s no concern with dialing a wrong number. Opening the locket initiates a call, and the other one vibrates to notify your significant other. When they open their pendant it accepts the call. They can then kiss the screen to take control of the “conversation” and share their feelings (which are hopefully amorous). The call ends when either of you blow on the microphone.As Gillian put it, the team was fairly brave to concentrate on what she describes as the “erotic” aspect of a relationship, but judging from the website, they did their homework to create something that’s both unique and significant.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

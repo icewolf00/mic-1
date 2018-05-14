@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 9, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Microsoft Research recently released two excellent new apps for testing and tracking the speed of your internet connections. Network Speed Test is available for Windows 8 and Windows Phone 8, and the design of the free apps is simple and easy to understand as the name. Fire up either app and hit “Start” and a speedometer-like gauge lights up, testing your upload speed, download speed and network delay. The apps also serve up handy information like which activities your current connection can handle, and saves a history of your tests so you can compare speeds over time.There’s more information about the apps on the Microsoft Research site, and both the Windows Phone 8 and Windows 8 versions are now available for download.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

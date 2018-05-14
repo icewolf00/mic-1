@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 22, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Towards the end of 2011 and in the first few weeks of 2012, the usual raft of technology predictions started to spread across the web. I’ve enjoyed reading many of them given that I spend my time talking to people across Microsoft about where they think the future lies and what technologies and trends they think are the important ones.One of my favorite reports is the Accenture Technology Vision 2012 and in particular the first trend they call out – Context Based Services. I actually wrote about this myself back in December in a post titled Looking beyond CES at what’s next and I’m in total agreement with Accenture that this is set to be a huge trend. I also presented on this at our IMAGINE event in London late last year, positing as Accenture does, that this is much more than location based services of really cool new smartphones. It’s about the trend of Big Data and the underlying technology of machine learning coming together to deliver services that anticipate our intentions and even make smart predictions about them. This isn’t about the dystopian world of technology running (over running) our lives, but more about technology becoming smarter and helping us get things done. A very simple example today is the airfare prediction service on Bing. It helps you not spend more money than absolutely necessary on an airfare. Nothing dystopian about that, just downright useful.What I really like about Accenture’s report is they make things actionable – it’s targeted at CIOs so it’s not actionable for everyone but nonetheless, it’s good to see advice on what this means. The report also points to a number of existing services seen as great examples of content – such as reach.ly that connects hotels with guests in real-time, by scanning Twitter.The overall report is a great read and the context section in particular is about the best explanation I have read of this trend. If you have any interest in how big data, the Internet of Things, machine learning and natural user interfaces come together, this is a great primer.Download the full Accenture Technology Vision 2012 report. [PDF, 3.56MB]Download the Accenture Technology Vision 2012 Executive Summary. [PDF, 492KB]Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

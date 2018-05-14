@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 31, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’ve been looking for a great newsreader for Windows Phone for a while now and have tried several but until now, I’ve not found one that met my needs. Those needs include easy integration (and bi-directional sync) with Google Reader, strong social integration (ability to tweet, instapaper etc) and a solid UI. I’m a fan of apps like Flipboard and Zite and hoped someone would bring something similar to Windows Phone. While Fuse doesn’t have all of the features of those two apps, it does everything I want on my phone and in a very elegant way. Despite my sloppy dress sense, I like elegant you see.Rudy Huyn is the man behind this application and it went live in the Windows Phone Marketplace this week with a trial version and full version at $1.29The application has 3 interfaces with my personal favorite being “ribbon” which will be a familiar sight to Windows Phone users as it takes the dynamic tile metaphor and lays out each story in your newsfeed with an image and a dynamic tile. The color of the text indicates a the read/unread state of the post and I was pleased to find a tap and hold on a feed allows you to mark all as read. Once I had loaded in my Google Reader feed, I had the option to select which categories of feeds I wanted on my home screen – the app makes a lot more sense if you have categorized your feeds, which thankfully I have. The square interface options is a variation on ribbon with even more of a metro tile feel and ipsum reminded me of the large font styling of the  Zune hardware interface – not unpleasant but slightly jarring for my tastes.Another great feature is the ability to work offline with all changes synced the next time you connect. Equally if you make changes to your Google Reader account, these are reflect on the next sync.In summary, it does everything I’d want to see from a Windows Phone newsreader and I hope Rudy has ambitions to bring this to Windows too.wpcentral has a great video of Fuse in actionTweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

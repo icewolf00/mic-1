@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 14, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+IE6 is being escorted out of the back door and in the front door this evening we welcomed Internet Explorer 9 (IE9). I remember over a year ago sitting in a meeting in Paris and being told IE9 was on the way – I thought a year sounded like far too long in response to Chrome and Firefox but it’s been worth the wait. Although I still have Chrome on my PC for comparison purposes, IE9 is my firm browser of choice. Not just because I’m a Softie but because it’s ushering in a more beautiful web in the way it enables developers to take advantage of the performance of the PC. Over 1000 sites are already takign advantage of the capabilities of IE9 (e.g. Facebook, Twitter, Amazon, EBay & LinkedIn). Features like pinning (to the taskbar) and jump lists from the taskbar also make IE9 a pleasure to use. Most of all though, it’s fast. That’s the one thing people notice in a browser – speed. And IE9 is no slouch.Grab IE9 now.  <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,35 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 15, 2010
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+
+ 
+The second in a series of looking at what our folks in Microsoft Research are up to – this time, Larry Larsen hooks up with Michel Pahud and they take a look at the integration of pen and touch. Michel talks about the “fat finger problem” and show us a few demos on Surface and a Tablet PC. Things get really interesting when he whips out a smartphone and uses movement to change the UI on the phone – moving the phone up and down for zoom for example. For those of you who are followers of this kind of stuff, you may have seen Bill Buxton show some of this work. One of the questions I often get it when will this stuff show up in products – that’s not necessarily what this work is about. It’s often about asking the question “would this make sense to have in a product?”. I have a longer post on this coming up where I’ll explain in more detail what MSR does, how they do technology transfer in to products like Windows, Office and Xbox and what I think sets MSR apart from other labs. Anyway, go check out the video and we’ll have another up here in a week to finish off the MSR series. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

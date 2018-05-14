@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 11, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Last week we featured a video tour of the Model Shop at Microsoft and I mentioned it was probably my favorite hidden space – both for the work they do in the shop and the people that work there. One of those people is Karsten Aagaard and if you thought I had landed my dream job, you have to hear Karsten’s story.It starts in Denmark where he was born and his family moved to the U.S. in 1972 when he was 3 years old. They settled in a suburb of Chicago and as a kid Karsten was always building (and breaking) things. He was always drawn to building things that did something – not static models but things that moved and worked somehow. He developed an interest in remote-control cars and through that passion took a job at  a hobby store. He bought a small desktop lathe and mill – to replicate plastic parts in aluminum and make stronger parts for people whose toys broke. His career then took him in another direction that would prove a useful diversion. He studied at college and took a role as an AutoCAD draftsmen. The story then takes an interesting – and ultimately decisive – turn when during a heated debate, Karsten’s brother challenges him to cold-call the first, randomly chosen wanted ad in the paper. Karsten accepted the challenge and the first ad turned out to be for a model maker. He picked up the phone, dialed asked the owner what a model maker was. Suffice it to say, he didn’t get the job as the company was looking for an experienced hand. A few weeks later, the phone rang and the owner of the model shop said he was looking for a toymaker’s apprentice and remembered Karsten’s resume. Karsten headed to the interview where the owner threw a Matchbox motorcycle across the table and asked if he could make it. Karsten said “yeah, I think I can”. He got the job and went from “drafting and wearing nice clothes” to sitting at a bench with clay and cutting plastics and gluing stuff together. That set in motion a series of events that led him to Microsoft – but it was an elongated route. He worked as a toymaker for 8 years and learned his craft surrounded by a handful of artisans who hand-crafted everything that the company turned out. They built prototypes of toys for many of the largest toy companies in the world and earned a reputation as the company who could build seemingly impossible things – pioneering prototyping methods and skills such as color casting with silicon. His next move was to Motorola where he was hand-picked to help build a model shop for the electronics giant. He and a small team turned an old photo lab into a model shop and set about building concept phones before another unusual turn in the story. After 5 years at Motorola, he decided to leave the Chicago area and move to Tennessee – to build houses with his father-in-law. His 3D modeling skills came in handy and a successful home-building business was established – but Karsten could feel himself being drawn back to the world of tinkering and prototyping. While still in Tennessee he began helping a friend design motorcycle bags and as this work grew, Karten knew this was his calling and he had to get back to building models and working in that world. His passion was strong enough that he set about building out his own model shop – an expensive and risky business. In the search for clients, Karsten contacted some old friends from his days in Chicago who had moved to Microsoft. Another twist of fate – at that exact time, Vince Jesus who runs the Microsoft Model Shop was looking for an outsourcing manager – a perfect fit for Karsten. Within a month he was in Seattle. That was July 2004.I love this story – not least because when I enter the model shop and see Karsten I see someone who has found himself in the wonderful spot of his passion being his job. He had some lucky coincidences along the way but I’m a believer that you make your own luck and sometimes, things happen for a reason. I also love the model shop because it’s not what many people expect at Microsoft. They don’t expect to come across craftsmen who can carve a mouse design by hand from a piece of foam….and then turn their hand to a CAD machine or C&C machine or 3D printer and bring it to life. Arguably their real craft is in helping others – our designers and artists bring their ideas to life in the most efficient way possible. As Karsten reminded me, machines are just tools – there is a craft and a knowledge that you need to run things efficiently and know when to adapt and what tool to use. I finished by asking Karsten what he’d be doing if he wasn’t at Microsoft. His answer probably won’t surprise you – he’d build his own model shop to build (and presumably break) his own things. I assumed he must have a great model shop at home. Nope, just a 1956 14-foot bowling alley and a small fishing boat. No time for home hobbies said the hobby shop guy who became a Microsoft toymaker – my hobby is my work!// <![CDATA[
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// ]]&gt;Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

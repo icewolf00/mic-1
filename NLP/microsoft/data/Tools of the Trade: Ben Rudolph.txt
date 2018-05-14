@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 10, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Some of you may recognize Ben “The PC Guy” Rudolph. He’s our PC Evangelist from the Windows team and the man to know if you’re thinking of getting a new PC. He’s always got the latest gear in his bag so I figured he’d be a fine candidate for a Tools of the Trade post and asked him to do the honors…here’s his kit, followed by the rundown, from left to right. Depending on what I’m up to and where I’m heading, I carry one of three laptops with me:When I need to stay connected to corpnet, I carry the Lenovo ThinkPad t410.  It’s a big box, but it packs a punch – mine has 8GB RAM, a Core i7 processor, and a 256GB Corsair Performance 3 SSD inside.  Nothing beats a ThinkPad for durability and ergonomics, and having TPM for Direct Access and BitLocker is a huge plus.My current everyday PC is the brand new Sony VAIO SB. It’s light, looks great, has a second-gen Core i5 (plus 8GB RAM and a 256GB Crucial RealSSD), and with the “sheet battery” gets about 15 hours of juice.  When I’m knocking around the office or on a short hop, I rock the shiny new Samsung 900x.  Thinner and lighter than a MacBook Air, made of the same aluminum that’s used in fighter jets, and gets about 7 hours of battery.  And it’s silly fast.Other stuff in my bag:Laptop power cord.  Because even 15-hour batteries need a recharge.Sony NEX-5 & charger.  This is my go-everywhere camera – it’s small like a point-and-shoot, but has DSLR power.  I use both the 16mm super wide-angle lens and the 18-55mm telescopic.  Check one out and don’t forget to try out the killer “rapid fire” mode.Arc Touch Mouse. If I’m parked in one spot for a while, I prefer to use a mouse over a laptop trackpad or trackpoint.  The ArcTouch is the best I’ve seen so far.Power cords for my Dell Venue Pro and Zune.  Nothing is more frustrating than a dead device.USB SmartCard Reader.  This keeps me connected to CorpNet on the road when I’m using a consumer PC, like my Samsung 900x or Sony VAIO SBFlash Drives & extra SD card. You never know when they might come in handy.USB A-to-B cable. Ditto for this one.  Most consumer peripherals use this combo, so I can connect virtually anything to my PC on the road.Retractable Ethernet cable.  You’d be surprised how many places don’t have wireless, but do offer wired connections.  This is one of the best $5 investments I’ve ever made.Notebook and folder.  OneNote is awesome, but for a quick note on the go, you can’t beat paper.Bose QuietComfort 15 headphones.  Awesome for movies and games, and great for blocking out the clamor of a noisy airport, airplane or coffee shop.Kindle.  Because you can only play so much Fruit Ninja on a 9-hour flight across the Atlantic. Sunglasses.  In the grey of the Northwest, not so necessary.  But over the last month I’ve been in Lisbon, London, LA, Miami and Chicago where they actually get to see the sun!20/20 Lifestyles Protein Bars. I get cranky when I’m hungry. Pens & pencils. Seriously, can you ever have too many?Sharpie.  Every good techie carries one.  Great for labeling stuff on the fly.Halls Honey Lemon drops.  Airplanes are notoriously dry.  This helps combat the problem.Vitamins.  I never leave home without them.  It’s how I avoid getting sick when I travel.Business Cards. I love meeting customers and partners, and I try to make myself as accessible to them as possible.  I try to carry at least 20 of these wherever I go.Orbit Sweet Mint gum. Aforementioned customers and partners are usually more responsive and friendly if you have fresh breath.First Aid Kit.  Fun fact:  I’m an Eagle Scout.  This means that I live by the Boy Scout Motto “Be Prepared”.  Everyone mocks this one until they need a band-aid or an aspirin.Wet-Ones Disinfectant wipes.  I spend a lot of time in planes.  Planes are disgusting. I try to make them less so by disinfecting everything I might possibly touch.I schlep everything around in a Sandpiper of California Three-Day Elite backpack.  SOC makes military grade hardware designed for use in the field.  This one has tons of pockets, is easily configurable, and can withstand the weight of 5 laptops + accessories.  It hasn’t let me down yet.In my pocket is a Dell Venue Pro Windows Phone 7.  Best phone I’ve ever had.Back at the office my desktop is a monster that I’ve created out of a Dell Studio XPS 450.  I’ve upgraded the processor to an Intel Core i7-820 and loaded it up with a Corsair Performance 3 256GB SSD (with a 2TB Western Digital Caviar Black drive behind it for data), NVIDIA GTXZ470 GPU, 12GB of Corsair Dominator Gaming RAM, and 2 27” 1920 x 1200 HD displays.  It kind of rocks.  Check out Ben’s work on the Windows Experience blog and follow him on Twitter// <![CDATA[
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// ]]&gt;Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

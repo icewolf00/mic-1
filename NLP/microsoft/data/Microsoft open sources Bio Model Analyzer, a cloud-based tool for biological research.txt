@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 6, 2017
+
+									|										
+Allison Linn
+
+Microsoft is making Bio Model Analyzer, a cloud-based tool that allows biologists to model how cells interact and communicate with each other, available on GitHub as an open source offering.Bio Model Analzyer, or BMA for short, creates computerized models that allow researchers to compare the normal processes of healthy cells to the abnormal processes that occur when disease strikes. The ability to do this kind of work “in silico” – or using computers instead of more traditional models – allows the researchers to quickly test many more possibilities than were previously possible.That, in turn, can speed up research in areas like drug interaction and resistance, and it could eventually provide patients with more personalized and effective cancer treatments, said Jasmin Fisher, a senior researcher in the programming principles and tools group in Microsoft’s Cambridge, U.K., research lab and an associate professor in the biochemistry department at Cambridge University.BMA is one of several Microsoft research projects that aim to use computer science to speed up breakthroughs in cancer research and treatment.“We are trying to change the way research is done on a daily basis in biology,” Fisher said in a report last year.Related:Allison Linn is a senior writer at Microsoft. Follow her on Twitter.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

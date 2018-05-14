@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+September 1, 2015
+
+									|										
+Allison Linn
+
+Chris Bishop loved chemistry as a child, studied physics at university, worked in fusion research in his first job, then went on to become an expert in machine learning and artificial intelligence.He’s also written two major textbooks and made videos designed to get kids – and adults – excited about science. Oh, and he’s also an airplane pilot.“I’ve always loved learning new things,” Bishop says.On Tuesday, Bishop will add one more accomplishment to his list of achievements: He’ll become the new director of Microsoft Research Cambridge, the European arm of Microsoft’s research organization. Bishop also is a Microsoft distinguished scientist and had previously served as the lab’s deputy managing director.He succeeds Andrew Blake, who will soon begin his role as the first director of the Alan Turing Institute in London.Bishop says his new position will allow him to do what he likes best: Learn more about different areas of science and technology, and find connections between them.That’s the kind of cross-disciplinary work that he believes is both exciting and important to achieving significant breakthroughs. It is also, he notes, one of the main advantages of a lab like Microsoft Research Cambridge, where researchers are studying everything from biological computation to computer security.“Our breadth is one of our great strengths,” he says.A scientist from childhood No one who has spent any time with Bishop will be surprised to find that, even as a young child at school, he had already earned the nickname “professor.”“I was quite geeky and was always fascinated by science and technology,” he recalls.Bishop isn’t the sleep-inducing professor type – he’s the infectiously enthusiastic kind who peppers his comments with references to everything from Albert Einstein to the movie “2001: A Space Odyssey”.Despite his teenage fascination with the visceral “smells and bangs” of chemistry, Bishop says he decided to study physics when he went to university at Oxford.“Physics was more about gaining a very fundamental understanding of the universe, and the elegance and beauty of mathematics,” he says.After earning his Ph.D. in theoretical physics from the University of Edinburgh, Bishop began working at the Culham Centre for Fusion Energy, a UK national research laboratory focused on discovering ways to use fusion as a new clean source of energy.His fusion research eventually drew him back to another area of scientific research he had been fascinated with as a teenager: Artificial intelligence and machine learning, in which systems get better at something as they receive more data.Bishop started applying a machine learning technique called a neural network to research in nuclear fusion. Instead of being programmed by hand, neural networks learn for themselves how to solve problems by analyzing large sets of data. Machine learning techniques such as neural networks have become increasingly popular for things like understanding and translating speech and recognizing images.Eventually, Bishop decided he wanted to work on artificial intelligence full time, and he went on to head up a research group focused on machine learning at Aston University in Birmingham, UK.Bishop was on leave from his university position, running a six-month program on machine learning and neural networks at the Isaac Newton Institute for Mathematical Studies in Cambridge, when he was approached by the founding director of Microsoft Research Cambridge. He joined the lab soon after it opened and has been with Microsoft ever since.Bishop has won multiple awards and honors for both his research achievements and his broader contributions to the field of science. He’s also maintained his involvement in academia as a computer science professor at University of Edinburgh.Throughout all of this he has continued to cultivate his interest in cross-disciplinary research. In recent years, his work has explored everything from childhood asthma to rocket science.“My career is characterized by moving from one area to another, and that’s because I love new ideas,” he says.Related:Learn more about Christopher BishopThe next evolution of machine learning: Machine teachingThe future of artificial intelligence: Myths, realities and aspirationsAllison Linn is a senior writer at Microsoft Research. Follow her on Twitter.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

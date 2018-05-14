@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+September 14, 2017
+
+									|										
+John Roach
+
+From the outset, Microsoft Pix has used artificial intelligence to help people more easily capture better pictures of family and friends with an iPhone. Now, you can use the smartphone camera app to take better pictures of documents, whiteboards and business cards, too. Because, let’s face it, we all use our cameras to take photos of more than just people and places.“We have data that shows people are taking a lot of whiteboard photos at work, they are doing a lot of document scanning,” said Josh Weisberg, a principal program manager in the Computational Photography Group within Microsoft’s research organization in Redmond, Washington.Based on the app data and customer feedback, Weisberg’s team released an update on Thursday to Microsoft Pix that includes enhanced deep-learning capabilities around image understanding to address several productivity scenarios. The update is available for download via iTunes.The updated app automatically detects whiteboards, documents and business cards in real time and intelligently adjusts camera settings for these types of photos. Once the shutter clicks, the app uses AI to improve the image, such as cropping edges, boosting color and tone, sharpening focus and tweaking the angle to render the image in a straight-on perspective.Microsoft Pix’s image correction and alignment algorithms are similar to those found in Microsoft Office Lens, a mobile app used to take pictures of whiteboards and documents that can be saved to OneDrive or converted into editable Office applications such as Word and PowerPoint.The two applications are complementary. Office Lens remains the best tool to easily integrate productivity images across the suite of Office products, while Microsoft Pix is out front pushing the boundaries of using AI to take better pictures of everything from a snapshot of your kid in new sneakers to the whiteboard in your morning meeting. The research thrust behind Microsoft Pix informs innovation across apps, including Office Lens.The addition of productivity scenarios to Microsoft Pix, said Weisberg, is part of a broader push to augment the app’s ability to infer user intent and offer intelligent actions. “In this case, we get you a much better photo of a whiteboard without any effort on your part,” he said. “In the future, we will continue to improve Pix’s AI capabilities to work on your behalf and save you time and give you better results.”Consider, for example, a text from your spouse at the grocery store saying that he left a printout of a recipe for tonight’s dinner on the kitchen counter. Your solution? Open Microsoft Pix, which automatically detects and classifies the sheet of paper with the recipe as a document, adjusts the settings and produces an image that resembles the original document that allows your spouse to finish the shopping for dinner.In addition to the productivity scenarios, the update to Microsoft Pix includes a set of effects that can be applied to the images of whiteboards and documents, such as adding lines to a whiteboard image so that it looks like a sheet of notebook paper. The effects leverage the same style transfer technology the Microsoft Pix team released in June.“The team had this idea that the styles we shipped a few months ago shouldn’t be limited to just fun photos,” noted Weisberg. “So we built a number of effects that are more appropriate for these productivity types.”Related:John Roach writes about Microsoft research and innovation. Follow him on Twitter.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

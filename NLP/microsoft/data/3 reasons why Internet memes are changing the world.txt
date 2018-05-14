@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 7, 2014
+
+									|										
+David Chen - MSFT - Microsoft News Center Staff
+
+“Memes and Egyptian hieroglyphics are not that different from each other. They both include cats and they are both about describing daily life.”Andres Monroy-Hernandez is jokingly explaining to me the transcendent qualities of Internet memes (an idea he’s paraphrasing from a colleague). Monroy-Hernandez has been a researcher at the FUSE Labs at Microsoft for two years, and this weekend he’ll be at SXSW presenting a panel entitled “The LOLs of Nations: Understanding Global Memes.” The panel is focused on how memes – those funny Internet pictures with names like Scumbag Steve and Grumpy Cat – can be used to express both political dissent and support internationally. Why has the creator of the Scratch Online Community (an educational resource used by millions of students) taken an interest in funny cat pictures with text superimposed on them? It turns out that memes have the potential to change the world. “In 2012, there was a presidential election in Mexico,” Monroy-Hernandez recalls. “The leading candidate made a mistake on camera. They asked him what his three favorite books were, and he kind of stumbled and couldn’t answer the question. That triggered the creation of tons and tons of image macros making fun of him, repurposing memes from the U.S. and from other ad campaigns around the world.” At first, Monroy-Hernandez thought these memes were just a fun gag. However, as time went on, he saw the memes take on a life of their own. They became a social movement organized mainly by students, who were savvier at communicating with the public through image macros and YouTube videos, rather than newsletters and emails. “That was one example where I saw these funny things on the Internet spreading to the public and having an actual impact on polls. He almost lost the election because of this activism against him,” Monroy-Hernandez says.What makes memes special? Why are they a perfect carrier for both humor and political activism? Monroy-Hernandez lists three reasons: 1) They defuse tension – “In many of these places, things that are serious like politics tend to get tense. In some ways, deferring this responsibility to a cat who has a funny face releases that pressure, allowing you to talk about taboo topics, or topics that you wouldn’t otherwise talk about explicitly. You and everyone else can treat it like a joke, but in reality it is very serious. The power of diffusing something very serious via humor is what makes memes special.”2) They offer shortcuts – “A lot of these image macros really capture a set of emotions. They come with a package of a lot of different understandings, so people who are participating in Internet culture know that when you’re looking at Business Cat or Bad Luck Brian, there’s a lot of understanding of what that actually means. You save words, in a lot of ways. Emoticons are like a very ‘thin’ slice of that. Memes are like macro emoticons.” 3) “The cute cat theory of digital activism” – Monroy-Hernandez cites Ethan Zuckerman’s “cute cat theory.” Paraphrased, it states that any piece of technology that is sufficiently powerful to allow people to post cute cat photos also has the power of enabling activists. In other words, the power of the meme comes from its technological capabilities – the ability to quickly create shareable imagery and disseminate it to millions of people within a matter of minutes. “Things that are useful for activists and memes tend to be the most powerful pieces of technology, because people are able to cover a wide spectrum of interests,” Monroy-Hernandez explains. You can check out Monroy-Hernandez’s SXSW panel on international memes this weekend, or learn more about his work at Microsoft Research.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

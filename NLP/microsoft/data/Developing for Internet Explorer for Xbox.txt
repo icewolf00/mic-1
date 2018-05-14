@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 27, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Accessing the Internet on TV isn’t any thing new. In the late 90’s a few brave souls ditched their remote for a keyboard, which they used to search online through their television set. The experience seemed more about finding information that it was to expand entertainment.Now the living room is one of many points of convergence where device platforms and technologies like Xbox Smartglass work together to offer a smorgasbord of entertainment options, and user experiences that are out of this world. But there are some obvious (and not so obvious) differences between surfing the Internet on a flat screen, a tablet device  and a smartphone.A couple weeks ago I stumbled across a great resource that addresses some of the design considerations for developing with Internet Explorer for Xbox.  Thought it was worth sharing.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

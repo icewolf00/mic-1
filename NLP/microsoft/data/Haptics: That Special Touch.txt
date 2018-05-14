@@ -1,0 +1,33 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 16, 2010
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+I managed to bag an Arc Touch Mouse (above) a few days after arriving in Redmond – much to the annoyance of my colleagues – and it’s become the main rodent I use. It lightweight and small yet retains a good feel and has a rather excellent haptic strip instead of a scroll wheel. That’s my favorite part to demo as it purrs like a cat when you stroke it. It got me thinking about haptics. Just a few years ago, “multitouch” was the revolution in user interfaces and we all poked at our smart phones with two, three and four fingers. Speech input is now a standard feature on PCs, cars and smart phones and last month, Kinect introduced the concept of “controllerless” interaction. Exciting stuff, to be sure, but it begs the usual question: what’s next? No one can say for sure, of course, but some believe the answer lies in the field of “haptics.”The word haptic, from the Greek “haptikos,” relates to the sense of touch – but when it comes to future tech, it goes well beyond simple touch screens and vibrating game controllers. The most exciting developments in haptics today are about representing virtual objects in real space using touch. Some on-screen keyboards on smartphones can emit a small vibration when you press a key, simulating a keypress on a real keyboard. Future phones will use advanced materials to let you “feel” actual keys even on a touch screen. Imagine moving your mouse across a window border and feeling the “bump” of the window edge. Or dragging shapes across your tablet screen with your finger and feeling the screen “push back” as it lines up with nearby items. I think gaming is probably the most exciting area for this tech. The idea of actually picking up an object on the screen — say, a sword in a fighting game — and feeling it in my hand, feels like “Star Trek Holodeck” stuff to me. But research on this is happening in computer science today and advanced “telemedicine” already allows a surgeon to operate on someone from miles away using a robot that can provide her the critical haptic feedback needed for a successful procedure. Really, it’s just a matter of time before this kind of experience shows up on our desks and in our living rooms.To date, touch has been a way for us to send our commands to the computer. In the future, our PCs, games and smartphones will use touch to “talk” to us. If you thought setting aside your keyboard and mouse was an exciting change, you ain’t seen nothing yet.<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// --></!--
+(function()>Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

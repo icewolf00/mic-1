@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 18, 2015
+
+									|										
+Allison Linn
+
+ When Microsoft released the Multiplayer Beta for the hotly anticipated Halo 5: Guardians late last year, they noticed something strange: Every few minutes, players appeared to be winning a medal that is supposed to be both rare and difficult to snag.The game makers were able to spot that pattern, and then root out the glitch causing the issue, thanks to two tools developed by Microsoft Research. Those analytics tools, Trill and Tempe, let groups like the Halo team very quickly analyze large amounts of real-time customer data for any unusual activity. Then, they can hunt down any bugs that may be causing those abnormalities.Watch the video to find out more.Related:E3: ‘Halo 5’ headlines greatest holiday lineup in Xbox history Watch the Halo 5: Guardians Warzone trailerTrill moves big data faster, by orders of magnitudeTo learn more about Microsoft’s data analysis research, follow researcher Badrish Chandramouli on Twitter.Allison Linn is a senior writer at Microsoft Research. Follow her on Twitter.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

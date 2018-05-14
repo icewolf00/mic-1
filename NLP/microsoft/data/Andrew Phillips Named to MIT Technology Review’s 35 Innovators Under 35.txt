@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+August 31, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+MIT Technology Review has published its annual list of 35 Innovators Under 35, and I’m quite pleased to see that Andrew Phillips, who we featured a few weeks back in our People Week v2 is one of the 2011 winners. The magazine searches for candidates around the world who are bringing transformative approaches to important problems. Winners are chosen by a panel of judges that includes leading figures from computer science, engineering, genetics, neurobiology and other fields.ANdrew heads the Biological Computation Group at Microsoft Research in Cambridge, and his work is already having a tremendous impact on genetic research. In synthetic biology, scientists create engineered microbes to fight disease or enable other kinds of research, but creating the DNA sequences required for a microbe’s proteins to execute a specific action is time-consuming and difficult. Andrew has created software that helps automate that coding process, taking the desired result and creating DNA instructions that will produce it. The software can even generate multiple DNA sequences for the different ways a cell might produce the same result, enabling researchers to better understand what might work more effectively. Ultimately researchers will be able to spend less time creating cells that fail and more time studying what happens when the cells execute the actions they’ve been coded for. Here he is talking about the work in a video created this spring:Microsoft has been fortunate to make this prestigious list year after year; previous winners include danah boyd, Johnny Lee and Desney Tan. It’s a particularly great honor because it’s judged by experts in technical field who have a real understanding of the work that their up-and-coming peers are doing and how it will change the world.In case you missed it first time around, here’s Andrew talking about his work. Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

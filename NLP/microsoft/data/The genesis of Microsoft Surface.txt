@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 25, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+A bit of nostalgia for a Friday – a video of the first prototype of Microsoft Surface. Cool to see even then the team was demonstrating stuff such as digital objects showing physical properties and multi user multi touch. We see objects that light up objects as analog ‘knobs’ to control the UI. Oh and remote control tanks that are tracked …and now we have Surface 2.0 – a 4” thin screen with pixels that see instead of cameras. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+May 17, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Earlier this week our Windows Embedded team launched a new blog that I thought was worth highlighting – not that you don’t have enough to read already and I cover their work regularly here on NEXT, but if you want a deeper dive in to Intelligent Systems, this is the place to go.Kevin Dallas laid out our roadmap for Intelligent Systems last year and the blog is an opportunity to share how things are progressing and where the team thinks the future lies. Automotive is a key area for them and just this week Kia Motors rolled out UVO eServices which which includes a suite of telematics tools to monitor a vehicle’s performance and help customers stay current with factory maintenance schedules.As you may expect, this is all built on our Windows Embedded Automotive software platform. It also highlights how Microsoft continues to take assets such as our speech platform (Microsoft Tellme) and integrate across our product line to give customers a consistent experience. The same technology is in Xbox and Windows Phone.So check out the blog, add it to your RSS feeds and to get a better sense of Intelligent Systems, click the infographic below to learn more.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

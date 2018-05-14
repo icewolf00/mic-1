@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 16, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+  [image courtesy of Ariel Stallings]Say machine learning to most people and they’ll look at you suspiciously – even people in the tech industry have a degree of caution is it conjures up notions of machines taking over the world in some sort of Terminator/singularity way. I think it’s because people translate it in to “machines that learn” which as it turns out, is a perfectly good way to think about this topic. I decided to dig a little deep and get past the jargon as I think it’s an increasingly important field and will help unlock the potential for natural user interfaces and technology that anticipates our needs and feels more human. To get some answers, I headed to Building 99 on Microsoft Campus to track down John Platt. Before we get in to machine learning though, a little background John…I was curious why he had a statue of Oscar from Sesame Street in his office? “That represents the real Oscar I won” is John’s sheepish response. A real Oscar as in Academy Award? I ask“Yes, it’s a technical academy award I got for research in to how you represent flexible objects in movies in a simulated way – the kind of stuff you regularly see in movies from Pixar and the like” So I add Oscar winner to the list of people we have working at the company. Checking John’s Wikipedia entry a day later I also notice he discovered two asteroids while studying under astronomer Gene Shoemaker at Caltech. We can safely say John has kept himself busy. (Todd Bishop covered the Oscar story in 2006 so head there if you’re interested in the back story).Back to machine learning – as I mentioned the field is concerned with exploring ways to have machines learn and is considered a branch of artificial intelligence. Back when I studied computing at university, we learnt about Alan Turing and coded very primitive expert systems. Such systems are built using a predetermined set of rules to reach an outcome whereas machine learning is concerned with taking huge gobs of data and techniques such as pattern matching to infer probabilities of events. The data act as examples of variables and with enough examples, a system can begin to learn. That’s my rudimentary explanation of machine learning and as you can hopefully see, it’s dependent on data – in fact the more data you have the better as that reduces uncertainty. This is why machine learning is becoming extremely interesting as we have enormous amounts of data in our increasingly digital world. The quantity of data is doubling every 9 months – in fact in the next 5 years, we will collect more data than has been collected in all of human history. Look around your home, office, car, building, street or pretty much anywhere and you’ll begin to notice data is everywhere. From traffic lights, GPS, engine management systems, heating systems, weather monitoring, oceanographic studies, voicemail systems, search history, social networks, genomic data…all digital, all data.Now we have all of this data, we can begin to do interesting things with it and help systems learn and predict. In fact this is already happening – take a system like Farecast. The airfare prediction website uses historical data to predict when is the optimal time to buy a certain flight on a certain route. It doesn’t take much of a leap to realize you could apply that same approach to many other situations such as traffic management, weather, or the music I’m likely to enjoy. We see this today in services like Pandora and Netflix and with more data, they’ll only get better. Recent projects like Emporia from our own FUSE Labs show how machine learning can provide personalized news that is always adapting and learning what you like and don’t like. It uses a technology known as  Matchbox. Where else could this type of intelligence be applied? I’m interested in seeing it applied to really bring natural user interfaces to life….stuff likeSome of this is already happening of course though the real magic lies in connecting elegant user interfaces that recognize my voice and different ways I may utter a word – a problem that can also be tackled with machine learning. My examples above are all pretty trivial – machine learning can be applied to solving global scale problems, some of which are the greatest challenges of our time in energy, global health and climate control. As we have now learnt, data is the fuel of machine learning and now we have so much of it, I wondered what role the cloud, especially our own cloud with Windows Azure, could play in applying intensive compute to the data to speed up the learning.  “Azure will be important precisely because of the ability to crunch data in. However, we still have the challenge that data is heavy so you want the computation to go to the data as opposed to the data to go to the data computation” by this John means the volume of data is so enormous that we’re bandwidth constrained rather than computing horsepower constrained. echoing Jim Gray, John acknowledged that “the highest bandwidth for shifting data around is still a 747 filled with disk drives (aka sneaker net)”.  I had a fascinating 40 minutes or so chatting with John and it set me off exploring more of this world of machine learning – it really does hold the key to unlocking an amazing new future with technology. If you’re interested in learning more about the subject, I’d recommend checking out the Embracing Uncertainty site…or go hardcore and watch Chris Bishop’s Turing Lecture of 2010 which explains how Machine Learning is used in Xbox Live, Bing ads and more. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

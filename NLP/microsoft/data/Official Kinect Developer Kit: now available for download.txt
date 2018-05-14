@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 16, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+When we launched Kinect last year it was greeted with amazing enthusiasm by consumers, resulting in sales of over 10m units at last count – and a place in the Guinness World Book of Records as the fastest selling consumer electronics device of all time. Another community greeted Kinect with just as much enthusiasm – developers. Developers, developers, developers – they took to Kinect in an instant, surprising Microsoft with the breadth of their imagination. Within days, they’d hooked the USB port to their computers and figured out that they could read the streams of data and build some pretty fantastic applications. I spoke with Alex Kipman in the days following these so called “hacks” and he was blown away with the creativity we were seeing. Since that moment, there has been demand for some sort of developer kit for Kinect and in keeping with our heritage of building platforms for others to build upon; we announced back in February that we’d be launching a non-commercial SDK by the end of Spring. We showed some of the progress of that work at MIX11 in March and restated our ambition to encourage grass roots invention with Kinect. I’ve been monitoring the tweets over the last few weeks as the pent up demand led to a thorough examination of precisely when Spring ends. For the record, it’s June 22nd. But that’s all irrelevant now. As of this morning, the SDK is officially available for download – at no cost – from Microsoft Research. It provides access to Kinect’s “raw sensor streams” – which means developers can work with the high speed skeletal tracking capabilities, depth sensor, color camera sensor and the microphone array. Oh and over 100 pages of high quality documentation and sample code to demonstrate how to use the sensor. Channel 9 is running a 4 hour live broadcast today with in depth sessions on how to program on Windows using the SDK and under cover of darkness they have been running a Code Camp here on Microsoft Campus for the last 24 hours. They invited a select group of 50 developers to our HQ to see what they could create in just one day with access to the SDK. I spent some time in the room with them yesterday and it was true to a code camp – heads down, code cranking stuff with more Kinect sensors in one place than I have ever seen and the usual litany of quadricopter drone’s and Channel 9 guys. The results were shown this morning during the keynote announce and some highlights can be seen below. Check back later today and I’ll have more info on a few of these. I expect this to inject a new wave of creativity to what we’ve already seen at sites like KinectHacks and as you would expect, this SDK will be fully supported. In addition to the documentation there are tools to get people up and running quickly such as the tools at Coding4Fun. So – it’s time to let your imagination run free and see what folks can do with Kinect and the SDK. What started out as a dream of a bunch of engineers a few years back is now in 10 million homes around the world – a device that can see, hear and begin to understand us. That’s an amazing palette to work from and I can’t wait to see what gets created. The NUI era is truly upon us. For more info, check out these resources Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

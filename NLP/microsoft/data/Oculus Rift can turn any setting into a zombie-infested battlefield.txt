@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 18, 2014
+
+									|										
+David Chen - MSFT - Microsoft News Center Staff
+
+My first virtual reality experience was in the Boston’s Children Museum when I was in elementary school. The headset was large and unwieldy, and the graphics were pixelated and unconvincing. The functionality within was incredibly limited; I had control of a single disembodied hand and could try and grasp random objects that appeared in front of me. It didn’t inspire a lot of confidence that a Lawnmower Man-esque future would be upon us anytime soon. Fast forward a few decades and now we seem on the cusp of having a revolutionary new user-friendly virtual reality system in the Oculus Rift. The folks over at Oculus VR have come really close to figuring out how to effectively handle latency while still delivering convincing graphics through the headset. The project above, entitled Zombie Fort: Smackdown and developed by Zero Latency, shows one practical application of this technology: killing hordes of zombies. With the ability for the headset to track real-world body movement, a whole level of immersive experience seems within reach.Check out Project Grey for more info on this project by Zero Latency.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

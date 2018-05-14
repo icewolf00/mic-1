@@ -1,0 +1,34 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 25, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+
+
+This is one of the demos from Microsoft’s Research TechFest that I forgot to post about – it was a busy week. File this one under technology that is making our interactions more natural. (NUI for those that are keeping up). I got to play with this one and it was indeed very natural. Most impressive was how it figured out I wanted to erase something, simply by the way I held the object. The project could do with a more snappy name though – Recognizing Pen Grips for Natural User Interaction isn’t too natural to say How does this work? By using sensors – multitouch and orientation sensors specifically. Hands up, where do you see this being used? Games, art, CAD? Others?<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

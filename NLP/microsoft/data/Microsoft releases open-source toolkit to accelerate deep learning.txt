@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 1, 2017
+
+									|										
+John Roach
+
+A toolkit used across Microsoft to achieve breakthroughs in artificial intelligence is generally available to the public via an open-source license, a team of researchers and software engineers announced today.“The 2.0 version of the toolkit is now in full release,” said Chris Basoglu, a partner engineering manager at Microsoft. He has played a key role in developing Microsoft Cognitive Toolkit (previously known as CNTK).The full release of Microsoft Cognitive Toolkit 2.0 for use in production-grade and enterprise-grade deep learning workloads includes hundreds of new features incorporated since the beta to streamline the process of deep learning and to ensure the toolkit’s seamless integration throughout the wider AI ecosystem.New with the full release today is support for Keras, a user-friendly open-source neural network library that is popular with developers working on deep learning applications. Code written for Keras, explained Basoglu, can now take advantage of the performance and speed available from the Cognitive Toolkit without requiring any code change. Toolkit support for Keras is currently in public preview.The Cognitive Toolkit will continue to accelerate training capabilities by supporting the latest versions of  NVIDIA’s Deep Learning SDK and advanced graphical processing unit (GPU) architectures such as NVIDIA Volta.Since the beta release of the Cognitive Toolkit in October 2016, the technology has been embraced by companies and organizations worldwide to define and train neural networks, which are systems that can learn how to perform specific tasks in a way that resembles how scientists think the human brain learns.For example, Annapolis, Maryland-based Chesapeake Conservancy is working with Microsoft researchers to use the toolkit to define and train a neural network that accelerates the creation of up-to-date one-meter resolution land cover datasets. This information can be used to prioritize restoration and protection initiatives throughout the Chesapeake Bay, which spans approximately 64,000 square miles in six states and Washington, D.C.These new datasets have 900 times the information of existing 30-meter resolution datasets, but without AI require months of data entry and image processing to create. The new neural network compresses the workflow into a single algorithm that will produce a similar map in a fraction of the time. The AI technology could scale to aid national and global conservation efforts, according to project partners.In China, medical intelligence startup Airdoc is using Microsoft Azure cloud services, Cognitive Services and Cognitive Toolkit for a technology that rapidly and accurately detects the onset of diabetic retinopathy, a complication of diabetes that can lead to blindness without proper treatment, from photos of patients’ retinas.The Cognitive Toolkit was originally developed to accelerate training of deep neural networks and other machine learning models used by Microsoft researchers and engineers for applications such as video search on Bing and the company’s breakthrough speech recognition system that can recognize the words in a conversation as well as a human.Microsoft researchers realized the same tools could help meet the growing demand for artificial intelligence applications such as speech understanding and image recognition everywhere from small startups to major technology companies and throughout government agencies, non-profit organizations and academic institutions.Basoglu and his team tweaked the tools in a way that makes them accessible to enthusiasts with basic programming skills and a laptop while at the same time allowing for full customization by highly-skilled developers in search of tools to accelerate training their own deep neural networks with massive datasets across multiple servers running the latest GPUs.In addition to Keras support, other new features being released today include the addition of Java language bindings for model evaluation and new tools that compress trained models to run in real time even on resource-constrained devices including smartphones for applications such as image recognition.The toolkit is part of Microsoft’s broader initiative to make AI technology accessible to everyone, everywhere. In addition to the Cognitive Toolkit, developers can access a suite of cloud computing applications via Microsoft Azure such as easy to use and deploy machine-learning application programing interfaces, or APIs, via Microsoft Cognitive Services.“Originally, people handwrote their own mathematical functions and created their own neural networks with their own private code and figured out how to feed it with data all by themselves,” said Basoglu. “But now the data is so large, the algorithms are so complex and optimization across multiple GPUs, CPUs and machines is so prohibitive that it is not feasible for someone to write their own. They need tools.”Related:John Roach writes about Microsoft research and innovation. Follow him on Twitter.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 13, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Microsoft Tag has been quietly growing it’s footprint of users – as I made my way through my backlog of magazines this weekend, I noticed more and more brands with a Microsoft Tag. In fact since 2010, 187 million magazine issues have had Tags printed in them. I still see plenty of ads still using QR codes though and our team hasn’t let that pass them by. Earlier today Tag announced support for QR codes – as well as Near Field Communications (NFC).For consumers, it means a simpler experience – one reader for Tag, QR and NFC. For brands, it ensues they can choose the most appropriate method for their audience. Tag has some great benefits over QR though, not least customization, analytics and an SDK that spans iPhone, Android and Windows Phone Mango. Personally, I want to see more use of Tag as a way to bring our physical and digital worlds closer With real time location capability and the ability to dynamically change a Tag, there is so much potential. A report from PSFK on mobile tagging provides a lot of inspiration for clever uses. A few ideas I like  and as NFC becomes a more prominent technology, things are going to get even more interesting with smart posters and the like. Interesting times ahead as our physical and digital worlds continue to blur.If you don’t have a reader for your phone, search your app store for Microsoft Tag or head to www.gettag.mobi and be sure to check out who is using Tag. It’s a long list of big names.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

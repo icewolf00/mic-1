@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 31, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+As I said in my earlier post on Jaron Lanier, the Microsoft Advertising team put on a solid event this week called Imagine 2011 here on Microsoft Campus. Yesterday we were treated to a great presentation from Qi Lu. Granted Qi can sometimes go a bit in to the tech details (which I personally enjoy) and he did at times in his presentation at Imagine, but he also delivered one of the best talks I’ve heard him give. More than once he paid humble deference to Google but also made it very clear what the ambitions for Bing are. When Qi speaks, there is a strong tendency to believe him as he’s not a man given to hyperbole or overpromising.This was a pretty punchy speech from Qi. He talked about the role of Twitter and Facebook remarking that the latter enables people and their context to become first class citizens of digital online experiences. Groupon as an example of the redefinition commerce on the web. He also acknowledged the consolidation of the search industry (Google and Bing) and said that search isn’t just a normal online service – it’s the gateway for consumers to access the richness of the digital cloud. Things then started to get really interesting as Qi talked about the structure of the web (stick with me…). He pointed out that the web of today is a topical graph which is good, but not good enough. Fortunately, he then went on to explain that by topical graph he meant that the web of today is one of nouns and phrases – topical labels. His point being that a topical web as fine 10 years ago but things have changed. We’ve changed as a society in how we interact with the web and technology has moved on. The web is evolving in to a full blown digital society. Today were seeing the beginning of that world coming together. Increasingly, when you perform a search on Bing , the results are presented with social information embedded in the form of contextual Facebook results woven in. This trend said Qi moves us to a world where we can make decisions based on 3 types of opinion: Popular opinion, trusted opinion and expert opinion. Think about buying something in the real world today, or going to a restaurant and you very often tap in to one or more of those opinions. The web should be the same way. Qi also talked about the importance of a geo-spatial web – particularly on mobile devices. Again, if you relate to the physical world and we connect to people and products in a geographical manner. When I want to visit a bar, I typically want do to so with the context of where I am currently, or where I’m going. If I want to buy a car, it’s likely that I’ll be interested in doing so from a dealer near to my home. Search should know that – it does know that. Through mapping investments, Microsoft, Google and Nokia are building a digital copy of the planet said Qi. I suspect it wasn’t lost on many that Microsoft and Nokia just combined forces on the mobile side of the house and as Qi said, every physical location will be richly digital represented in the future. He then delivered his money quote….it’s time to reorganize the web. By reorganize the web, Qi talked about the capacity we now have for task completion and understanding user intent. You can see the baby steps Bing is taking here today – I’ve covered these recently with Bing’s air fare technology, Auto Search and simple tools like a search for BMI (compare with Google). There are those we think the game of search is over…but Qi and team think it’s really time to move away from ten blue links. It’s time to make the web work for us, not the other way around. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

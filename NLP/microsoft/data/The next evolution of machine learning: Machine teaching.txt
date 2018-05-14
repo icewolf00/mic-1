@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 10, 2015
+
+									|										
+Allison Linn
+
+Microsoft researchers are at the forefront of efforts to help people without a machine learning background teach their systems to get better based on experience.They’re calling this new evolution machine teaching.“No one has really built a machine learning tool for the layman,” said Patrice Simard, a distinguished engineer with Microsoft Research who is leading a new machine teaching research project at Microsoft Research.Machine learning, in which systems get smarter as they receive more data, has proved incredibly useful for building more personal computing experiences.Thanks to machine learning, your e-mail inbox is mostly free of spam and other unwanted e-mail, and your smart phone can constantly improve its understanding what your personal needs are based on what you say and do.Machine learning also is key to some of the most cutting-edge technologies available today, such as the real-time voice translation found in Skype Translator, and it’s increasingly being used for corporate tasks like rooting out fraud or predicting revenue growth.It’s expected to get even more important as technology undergoes an “invisible revolution,” in which advances increasingly happen in the cloud and beyond the confines of traditional computing hardware.Machine learning has proved so useful that it’s created a supply and demand problem: There just aren’t enough people with machine learning expertise to do all the projects businesses and organizations want. That’s prompted more efforts to make machine learning available to a broader group of people.Microsoft is already deeply involved in those efforts with Azure Machine Learning, a cloud-based set of algorithms and tools that let data scientists more quickly and easily develop machine learning models.With Azure ML, other developers without a machine learning background can then use those models to add deep machine learning capabilities, instead of always having to rely on a data scientist or machine learning expert. That saves time and money.Microsoft Research’s machine teaching project builds on that effort by creating tools that would allow anyone to teach a computer how to do machine learning tasks, even if that person has no expertise in data analysis or computer science.Eventually, Simard hopes that a subject matter expert –such as a doctor, an information worker or a chef – could use these machine teaching tools to train models capable of doing tasks on their behalf.For example, the machine teaching tools could be used to sift through large amounts of data to find medical records, emails or a recipe that meets very specific criteria. The tools also could be used for automatically filing, sounding an alarm or taking action when certain conditions are met.For some machine learning researchers, this new approach represents a major shift, Simard said. Until now, many machine learning researchers have focused on how they can build better, faster and more precise algorithms. Simard believes far larger gains can be made by increasing the number of people who can create, teach and maintain these models.To do that, Simard said researchers instead need to think about creating tools that are more autonomous, and that include a simple, understandable user interface.An early version of the group’s machine teaching technology is already being used in Language Understanding Intelligent Service, an invite-only beta that enables applications to easily understand what users mean when they say or type something using natural, everyday language.Dubbed LUIS, it’s part of Project Oxford, a set of technologies that allows developers to create smarter apps that can do things like recognize faces and interpret natural language even if the app developers are not experts in those fields.As machine learning becomes more widespread, Simard expects more applications like that. He said it’s just impractical to assume that every company who wants to personalize an exercise app or build a self-help system for their customers will be able to hire a machine learning expert.“The solution is to democratize machine learning,” he said.Related:Microsoft Research’s machine teaching groupStanding the test of time: Microsoft researcher honored for prescient machine learning workMicrosoft’s Project Oxford helps developers build more intelligent appsLearn more about Azure Machine LearningAllison Linn is a senior writer at Microsoft Research. Follow her on Twitter.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+November 29, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+ Add this to the list of amazing artistic projects making use of Kinect. It’s a project titled unnamed soundsculpture by Daniel Franke & Cedric Kiefer of onformative who explain it as follows – but my explanation is “beautiful”.The basic idea of the project is built upon the consideration of creating a moving sculpture from the recorded motion data of a real person. For our work we asked a dancer to visualize a musical piece (Kreukeltape by Machinenfabriek) as closely as possible by movements of her body. She was recorded by three depth cameras (Kinect), in which the intersection of the images was later put together to a three-dimensional volume (3d point cloud), so we were able to use the collected data throughout the further process.The three-dimensional image allowed us a completely free handling of the digital camera, without limitations of the perspective. The camera also reacts to the sound and supports the physical imitation of the musical piece by the performer. She moves to a noise field, where a simple modification of the random seed can consistently create new versions of the video, each offering a different composition of the recorded performance. The multi-dimensionality of the sound sculpture is already contained in every movement of the dancer, as the camera footage allows any imaginable perspective.The body – constant and indefinite at the same time – “bursts” the space already with its mere physicality, creating a first distinction between the self and its environment. Only the body movements create a reference to the otherwise invisible space, much like the dots bounce on the ground to give it a physical dimension. Thus, the sound-dance constellation in the video does not only simulate a purely virtual space. The complex dynamics of the body movements is also strongly self-referential. With the complex quasi-static, inconsistent forms the body is “painting”, a new reality space emerges whose simulated aesthetics goes far beyond numerical codes.Similar to painting, a single point appears to be still very abstract, but the more points are connected to each other, the more complex and concrete the image seems. The more perfect and complex the “alternative worlds” we project (Vilém Flusser) and the closer together their point elements, the more tangible they become. A digital body, consisting of 22 000 points, thus seems so real that it comes to life again. You can also check out the making of video below 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

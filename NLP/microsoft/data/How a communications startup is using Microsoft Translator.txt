@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 24, 2017
+
+									|										
+Allison Linn
+
+Layer, a messaging startup funded in part by Microsoft Ventures, aims to make communication easier and more natural. So, it makes sense that the company would want to break down one of the oldest communications barriers of all – language.At the World Economic Forum in Davos, Switzerland, last week, Layer provided messaging tools as part of the Forum’s app that allowed one user to send a message in her native language – and another user to receive it in his native language.“The attendees are obviously from all over the world, and they’re all seeking to understand one another, so being able to facilitate that communication is pretty powerful,” said Ron Palmeri, Layer’s chief executive.To add the instant translation ability, Layer used the Microsoft Translator API, which lets developers build translation into their apps and other tools. Layer said it only took about four hours to add the translator to their messaging tool using Microsoft’s API, and Palmeri said they expect to use translation capabilities for other clients in the future.Romain Dorange-Pattoret who is in charge of product management for the World Economic Forum, said connecting 3,000 leaders from 100 different countries has always been a challenge, and the high-quality inline translations helped attendees connect, communicate and schedule meetings much more easily.Dorange-Pattoret noted that twice as many messages were sent this year compared to last year.Layer makes real-time communications services available to businesses who want to add to highly customized, branded mobile and Web experiences.  Layer customers including business-to-business and business-to-consumer clients in industries such as retail, financial services, real estate and healthcare.The company says its messaging tools aim to be as easy and intuitive to use as the consumer messaging apps people use on their mobile phones and favorite social media platforms.“It’s important for it to perform and behave as well as the best-in-class apps that we use in our personal lives every day,” Palmeri said.Layer is partially funded by Microsoft Ventures, which invests in startups that are focused on mobile- and cloud-first technologies. Microsoft Ventures launched in May of 2016 and has announced 20 investments so far.Microsoft Ventures sees a lot of possibilities for using Layer with technologies such as bots, and Microsoft is exploring deeper partnership opportunities.Related:Allison Linn is a senior writer at Microsoft. Follow her on Twitter.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

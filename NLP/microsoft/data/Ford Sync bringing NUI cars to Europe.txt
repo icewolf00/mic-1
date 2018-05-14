@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 28, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Just a quick post to acknowledge the announcement at CeBIT today that Ford SYNC is coming to Europe. Over 3 million customers are using SYNC in cars in North America and now Europe is about to get the NUI goodness too. What do I mean by that? The ability to control your entertainment and connectivity systems with your voice. I recently saw a video showing an in car system controlled by gesture and almost fell of my chair laughing. It’s all about the right input mechanism for the situation (hint: mice and keyboards are not going away). In a car, your voice is arguably the best way to control your systems while maintaining control. I got a full on demo of this recently and it was pretty cool stuff. If you get chance, wander down to your local Ford dealer and ask them for a demo.[bonus link] a comprehensive look at in car tech from Mashable<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

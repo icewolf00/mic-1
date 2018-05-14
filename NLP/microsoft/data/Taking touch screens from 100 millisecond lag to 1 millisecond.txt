@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 12, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Several sites picked up this video over the weekend and they’re right to be excited about the potential shown to dramatically speed up touch screen display tech. Our Applied Sciences Team has been exploring this field and last week demonstrated a touch screen that had only 1 millisecond of lag. TechCrunch calls it staggering and said it makes other panels look silly – I got to try this out myself and I can confirm that it’s VERY VERY impressive.The demo I was given took me from 100ms to 50ms to 10ms and finally 1ms as in the video above. At that final step, it was impossible for me to “outrun” the screen with my finger. It changes your perception significantly about the physical connection to the screen and I imagine it gives you the perception that any device running such a touchscreen is just hyper fast. We talk a lot about Natural User Interface on this blog and this makes drawing feel WAY more natural on a touch screen that it currently is.…and here’s another thing to consider, as touch screens gets bigger and you start to drag stuff across an area bigger than your average 4” smartphone, the current lag is really going to start to show. As Paul explains, at 1 meter per second, your finger is going to be 10cm ahead of whatever you’re dragging. TechCrunch is right when they say Microsoft isn’t in the business of making displays but do we care about enabling great experiences on them? For sure…check out this video.To be clear though, 1ms touch screens aren’t around the corner. This was a prototype system and as Paul says, it’s going to be a journey over the next decade perhaps. Still, amazing tech!Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

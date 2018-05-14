@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 22, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+A couple weeks ago I told you about the public preview of GeoFlow a pretty amazing data visualization plug-in for Excel. One of the reasons tools like these are in such high demand is because of the lack of qualified professionals who can make sense of big data. Data visualization has the potential to help bridge this skills gap.Great examples of this come courtesy of Microsoft Research Cambridge and Microsoft Research Connections. Researchers at Microsoft Research, LACCIR Virtual Institute and Pontifical Catholic University of Chile (PUC) have developed a new cross-device platform called LiveANDES. Announced today, LiveANDES enables researchers and citizen scientists to map the distribution of endangered wildlife in Latin America and identify threats to their survival.Among other Microsoft technologies, LiveANDES visualizes geo-tagging data through Bing Maps and runs on Windows Phone and Android, making it easy to take a photo or video of wildlife and upload it. For more information, check out this post on Microsoft Research Connections. Along the same lines,  Drew Purves heads up the Computational Ecology and Environmental Science Group at Cambridge. At TechFest 2012, he demonstrated FetchClimate, and this year he was back with his colleague, Lucas Joppa, in tow. Lucas has been working closely with the International Union of Nature Conservation on a project that’s code-named Swavesey and relates to the Red List of Threatened Species Project. What’s really cool is that with Swavesey you can create a flexible SQL Azure 2012 database with just a couple of clicks and upload geo-spatial data to conduct your own research. It’s amazing to see the difference that tools like these can have on work around the environment, which is a big focus for Drew. While at TechFest, I asked him about his biggest source of inspiration. In his response, Drew also touched on how tools like Swavesey, FetchClimate and LiveAndes could help scientists tackle some of the toughest questions about the environment.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

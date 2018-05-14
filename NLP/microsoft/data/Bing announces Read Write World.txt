@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 20, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+More to come on this soon but I wanted to get the videos up to show you this new project from Bing, called Read/Write World. This project was announced today, at the Where 2.0 Conference in San Jose, CA, by Microsoft Distinguished Engineer Blaise Aguera y Arcas. More info on the Bing blog too[update] by far the eaisest way to understand what this is all about is to hear direct from Blaise. He noted that this project is extremely alpha and it’s clearly ambitious stuff that includes a proposed new markup language, RML, for tagging geo media.  
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 19, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Whenever talk turns to the Internet of Things, energy management and home automation solutions usually come immediately to mind – like the services offered by utility providers or products sold at your local big-box home improvement store.While at Faculty Summit this week I learned that some of the really hard and meaningful work around the Internet of Things is being done by researchers who are looking at how connected devices and home sensors could address a number of more vexing problems – such as monitoring the health and mobility of an older adult so they can live independently for as long as possible.For example, a sensor could be installed that monitors a person’s gait when they wake up in the middle of the night and notifies a relative or health care provider when the person seems at risk of falling. Ideally, preventive measures could then be taken that allow the individual to continue living independently.During field studies, researchers install as many as 300 sensors in a single home, making it difficult to maintain sensors and collect data across a statistically significant number of homes. In response, a couple years ago a team at Microsoft Research started working on an OS that would tie together the numerous devices throughout the home.This week the Lab of Things team released an SDK that’s based on the HomeOS and designed to make it easier for scientists to conduct field research. (TNW has a pretty good rundown of how it works.)And with the SDK researchers from around the world can collaborate on their field studies, providing more depth and diversity to their findings. Arjmand Samuel also points out that the results of some of this research will be more long term, but could ultimately lead to scenarios where sensors and other technology are built into the actual structure of a home, rather than being retrofitted to an existing structure. Pretty cool stuff.   
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

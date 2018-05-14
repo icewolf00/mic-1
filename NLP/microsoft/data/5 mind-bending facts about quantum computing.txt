@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+July 24, 2014
+
+									|										
+Steve Wiens - Microsoft News Center Staff
+
+Thanks to brilliant minds from Newton to Einstein, we have a pretty solid understanding of matter, motion, time, space, and how the universe generally functions. But over the last hundred or so years, scientists looking closely at life on an atomic and sub-atomic level started noticing some inconsistencies with traditional physics. Questions and theories started piling up about how and why particles seem to behave predictably on a large scale (like plants and birds and rocks and things), but on a nanoscale it is … well, particles gone wild.That’s where quantum physicists come in, and their findings could have game-changing applications for computer science. Here, in GIF form, are five of the most mind-bending things they’ve learned:1: In a quantum state, particles can achieve something we call superposition, where they exist in multiple states simultaneously.2: A quantum computer could solve problems in a few minutes that would take a traditional computer roughly … the lifetime of the universe.3: For years, particles and waves were considered separate things. But at a microscopic level, particles – little balls of solid matter – can act like waves.4: A quantum computer would run on quantum bits, or qubits. Unlike traditional bits, which are either a “1” or a “0,” those clever qubits can act as a “1,” a “0” or both, and have exponentially greater computing power.5: In a quantum state, two particles can enter a state of profound entanglement, remaining eerily connected to each other no matter how far apart they become.Craving more quantum? Read this new feature story about Microsoft’s quantum computing research over at microsoft.com/stories.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

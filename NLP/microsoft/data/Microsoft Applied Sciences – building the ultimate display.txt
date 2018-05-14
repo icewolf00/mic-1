@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 24, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Without question on of the smartest, nicest guys I know at Microsoft – Steven Bathiche, better known as StevieB. He manages the Applied Sciences group who are doing some amazing work to explore the future of smart displays. You may remember the opening scene of the Office Labs 2019 video…it shows two children on opposite sides of the world, talking through screen with their language translated in realtime. Stevie’s team are working on the tech that would make the screen part of this possible – using something called “the wedge” that enables refraction of light to produce an image on a thin screen without the need for projectors. A second and perhaps even harder problem is how you create a screen where the participants are looking at each other, rather than a camera that in normal video conferencing is positioned above or below the screen. This usually means a very un-natural feel to a conference but by placing cameras behind a transparent screen OLED screen, you can align the eyesight of the participants and have a conversation face to face in a very natural way. I’ve seen it work in Stevie’s labs (and you’ll see it in the video above) and it’s impressive stuff. Another technique that makes things feel more natural is created using a Kinect sensor to track a user’s position relative to a 3-D display to create the illusion of looking through a window and has real potential in creating realistic telepresence environments. Stevie’s team is also working on creating 3D images without the need for glasses – something they called “Steerable AutoStereo 3-D Display”. They use a the Wedge technology behind an LCD monitor to direct a narrow beam of light into each of a viewer’s eyes. By using a Kinect head tracker, the user’s relation to the display is tracked, and thereby, the prototype is able to “steer” that narrow beam to the user. The combination creates a 3-D image that is steered to the viewer without the need for glasses or holding your head in place. Trust me, it works…and another application for it is a “Steerable Multiview Display” that enables an LCS to shows two separate images to two people looking at the same display. Using Kinect to track the user, if the two users switch positions, the same image continuously is steered toward them. Finally in the video, Stevie shows “Retro-Reflective Air-Gesture Display”. Sometimes, it’s better to control with gestures than buttons – maybe in an operating theater for example or when cooking in a kitchen. Using a retro-reflective screen and a camera close to the projector makes all objects cast a shadow, regardless of their color. This makes it easy to apply computer-vision algorithms to sense above-screen gestures that can be used for control, navigation etc. Best seen in the video than explained here Enjoy and expect more coverage on Stevie and his team very soon. Todd Bishop spent some time with Stevie this week talking to him about creating “the ultimate display”. On seeing the technology Stevie and his team are building, one reporter said “this changes the web”. High praise indeed…..oh and Todd and asked him the questions you’re probably asking….when?? <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

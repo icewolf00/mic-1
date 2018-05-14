@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 14, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I decided to go back and watch Mike Angiulo’s presentation and demo of Windows 8 at Computex. Like many, I was caught up in the hoopla of the D9 demo and the subsequent videos. Angiulo’s presentation lasted  for almost half an hour and covered a lot of similar ground but also touched lots of additional topics of interest. The image above is a screenshot from the video where Mike shows a Qualcomm MSM 8660 ARM processor. As you can see this thing is pretty tiny but it packs in a 1.2GHz single CPU/GPU with an integrated 3G/4G model. He also talked of the impending quad core CPU’s on ARM which is mind-blowing when I think of my first PC with it’s 8MHz clock speed and 40mb hard drive – all hooked up to a 9.6k modem. In addition to all of that power, these ARM processors will be always on, always connected with instant wake and low power drain. If you have any interest in hardware and where things are going, this video is well worth a look – we see a hardware accelerated HTML5 demo on ARM as well as some brief discussion about screen sizes and the emergence of UEFI which Mike mentions has shown cold boot come down to the 6-7 second range. He also talks about the increasing sensors we’ll see in our devices which is a real topic of interest for me of late as it’s the key to making our devices smarter about their surroundings and offering software the ability to be contextual by understanding our proximity to other technology, people or places. Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

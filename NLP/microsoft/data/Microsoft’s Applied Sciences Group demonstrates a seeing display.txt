@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 28, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Last night (Pacific Time), I showed you a prototype from our Applied Sciences team of a see through 3D desktop and mentioned there would be more to come from Stevie Bathiche and his team. This latest video shows the progress being made to create the magic window that you may have seen in the Office 2019 video and is a great example of the the blending of our physical and digital worlds.The vision of the magic window is to create a a large telepresence wall that supports interactions that are close to the screen – and far away at the same time. In the image above, taken from the “2019” video, two kids talking from opposite sides of the world are interacting with one another through such a window. They’re able to see into each others room with depth and perspective, and they can display objects on the “window” as well as touch and interact with them. It’s a wonderful dream with lots of technical hurdles, not least the need to capture light through the screen. In the video above, Stevie demonstrates how a special lens called “the wedge” and a transparent OLED shows how some of this is possible.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

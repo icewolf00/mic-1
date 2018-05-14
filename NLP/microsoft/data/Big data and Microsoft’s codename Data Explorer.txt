@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+December 6, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’m fascinated with the potential for using big data at the moment. Of course Big Data (note the capitals) is one of the memes of the moment and on a recent trip to the UK I read a whole section of The Guardian newspaper dedicated to the topic…though I can’t find it online sadly.As more and more devices get connected to the world, the amount of data is going to explode but amassing data has never really been a problem. Making sense of that data has which is why I was keen to hear more about a project from our SQL Azure Labs known as “Data Explorer” – I think it holds real potential. It promises a tool to combine data from sources such as Excel spreadsheets, files, SQL Server databases and mash them up with data from Windows Azure Marketplace. The marketplace is a store of trillions of data points from many different providers – weather data from the UK’s Met Office, US Producer Price Indexes, postcode services, employment data and so much more.What this all provides is a powerful way to gain a lot more insight from data – and to visualize it in something more than rows and rows of a spreadsheet. Data Explorer can generate data feeds in open RESTful standard enabling consumption (and further mashup) by other applications. The Data Explorer Walkthrough shows you the tool in action and I was (pleasantly) surprised to see a Metro style interface. As you add existing data in to your project, Data Explorer recommends potentially useful data sets not only from the Azure Marketplace but also Bing that can be used. Those recommendations are based on semantic analysis of your data, your profile and the context of your task. Speaking of Bing, this June 15th post on Information Week gives some interesting additional context on the role Bing plays in how we think about Big Data at Microsoft. It notes that Bing’s infrastructure is comprised of 250,000 Windows Server machines and manages some 150 petabytes of data…that’s big big data.I’m going to be exploring more of data explorer in the coming months but you can sign up to try “Data Explorer”, you can follow this link to sign upTweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

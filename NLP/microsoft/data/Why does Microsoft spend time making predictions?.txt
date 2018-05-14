@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+March 18, 2014
+
+									|										
+David Chen - MSFT - Microsoft News Center Staff
+
+Microsoft researcher David Rothschild accurately predicted the winners of 21 out of 24 Oscar categories this year. Today, he’s at it again with a new set of predictions for March Madness (be sure to check them out here and learn more about his methodology from Microsoft Research). I’ve marveled at the accuracy of Rothschild’s predictions in the past, but I’ve also wondered why he devotes time and resources to predicting the outcomes of events that are debatably frivolous. I chatted with him about the importance of these predictions and as it turns out, there’s a method to his madness. “We have started using techniques that we feel, in the near future, will be useful internally for Microsoft to answer questions that are important for how we allocate our resources,” Rothschild says. “Market intelligence is an industry that is worth billions of dollars a year. At major companies, they talk and think a lot about big data, but it hasn’t really ‘made it’ and become widely accepted yet. We hope to be on the forefront of that, as decisions really start to get made and research really starts to get allocated based on how this data is flowing in and what it’s saying.” For Rothschild, predicting elections and basketball tournaments helps him to hone models that will be useful in settings where predictions are critically important from a business standpoint. Four characteristics are essential to the success of his predictions: 1) Accuracy – Accuracy is not just a binary equation (e.g. “Is it right or wrong?”). Rather, if you provide a probability for an occurrence, accuracy can refer to how well calibrated that probability is. 2) Timeliness – Rothschild uses models that update continuously, rather than periodically. In our information age, Rothschild believes the real-time nature of his predictions is essential. “Think about the business questions and economic indicators,” Rothschild says. “You want to be as up-to-date as possible and as early as possible for people to allocate resources efficiently based off of your predictions and indicators. You want it to be granular over time because being granular over time is what allows us to isolate the impact of major events.” 3) Relevancy – When it came to the elections, Rothschild didn’t just predict the national popular vote. He had predictions for every state, every Senate race, every gubernatorial election, and more. He also created a system that allowed users to see any combination of outcomes. “In theory, you could’ve queried 284 outcomes,” Rothschild states, “More than enough to satiate anyone’s possible curiosity.” 4) Scalability – Rothschild designs his models to scale in order to answer all sorts of questions. “If you don’t build a scalable system, you’re not really building something for the future,” Rothschild says. “We use all sorts of things to make our models more scalable, including machine learning. Using crowdsourced platforms helps us to create something innovative too.” With these priorities, Rothschild can use fundamental data to predict elections, Oscars, and sporting events. But his methods will also equip Microsoft to do the same thing for business questions in the near future. “Politics and Oscars are exciting, but we’re really starting to pivot to doing things for internal market research, where beyond being accurate, it becomes so much more important to have solutions that are scalable, to answer relevant questions for the stakeholders, and to keep things up to date and always moving.” Rothschild says. “If I was just doing all this work just to predict the Oscars, that would be kind of lame.” 
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

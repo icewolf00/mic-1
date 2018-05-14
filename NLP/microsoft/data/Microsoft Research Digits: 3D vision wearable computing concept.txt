@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+October 8, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+The 25th ACM Symposium on User Interface Software and Technology (UIST) is underway this week in Cambridge, Massachusetts. UIST brings together researchers and practitioners from diverse areas that include traditional graphical and web user interfaces, tangible and ubiquitous computing, virtual and augmented reality, multimedia, new input and output devices and more. That’s a good check list against some of the work that goes on in Microsoft Research and as always, MSR will be there in force.We’re a gold sponsor of the event and Hrvoje Benko of Microsoft Research is one of the program chairs – regular readers will be familiar with Benko’s work on projects such as the wearable multi-touch projector.A number of Microsoft Research projects will be shown at UIST and one caught my eye in particular – Digits. The project highlights the ongoing work of MSR in the field of natural user interfaces and the blending of the physical and virtual worlds. Digits employs wearable vision technology to enable freehand gesture input that could potentially be used with personal computing such as a mobile phone, laptop or gaming console. I had the chance to speak with David Kim, one of the researchers behind the project who helped me understand how it works.David explained that Digits was inspired by a desire to enable 3D interaction that was not bound to a physical space in the way an earlier project known as Holodesk was. The team wanted to make spatial interaction mobile and turned to a combination of computer vision techniques and off the shelf hardware to build the “wristband” that you see in the video.The combination of an infrared (IR) laser, IR camera, IR diffuser for illumination and an inertial measurement unit enables tracking of fingers. The current setup  can only see five points, which normally would make it difficult to get an accurate view of the hand pose, so the vision system is allied to a biomechanical model of the hand for a full Kinematics model that delivers a very a high  degree of accuracy in modeling the hand pose. There are still some occasions when the tracking is affected by occlusion, for example when the hand is in a certain pose – though David mentioned the potential to apply a machine learning algorithm that would help alleviate these issues and further improve the accuracy.The video already shows some pretty cool applications of the technology – and I’ve no doubt we’ll hear more ideas this week as Digits get shown at UIST and around the web. As is often the case, it’s the result of a a multidisciplinary team that has come together and built a concept in relatively short order using off the shelf components. Imagine what’s possible with more bespoke components and the inevitable miniaturization?
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

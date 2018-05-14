@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 23, 2011
+
+									|										
+stevecla01 - Microsoft News Center Staff
+
+Earlier this week, Craig Mundie hosted his annual TechFourm on our Redmond campus – I posted about this on the Official Microsoft blog (locally known as OMB) yesterday. Given the NUI focus I’ve had on this site for the last month or so, I figured it was worthwhile posting here too as a big focus on the day was natural user interfaces and computing becoming more like us. Craig has been using that latter statement a lot recently to explain how technology is now starting to have the capability to behave more naturally and intuitively as it gains senses like the ability to see, hear and increasingly understand. In the video above you get to see some of the demos that were on show – many for the first time. They included a demo of creating 3D images of objects by using a standard digital camera (not a 3D camera) and fusing a set of images in to a seamless 3D image. Another demo showed a 3-D, Photo-Real talking head with freely controlled head motions and facial expressions. You see this one a few times in the video above and it’s driven by a text to speech engine. Again, the demo I got of this was very impressive. To my untrained eye, it looked like something that could find a use on the animated movie business. I’ll have a more detailed post on this one soon. A demo by Andy Wilson (of LightSpace fame) showed the use of 3-D projection, combined with a Kinect depth camera to capture and display 3-D objects. Any physical object brought into the demo can be instantaneously digitized and viewed in 3-D. We saw a simple modeling application in which complex 3-D models can be constructed with just a few wooden blocks by digitizing and adding one block at the time. Lots of potential telepresence applications for this one. There were also a ton of demos from on of my favorite teams at Microsoft – the Applied Sciences Group who focused on smart interactive displays. More on that in another post.Byron Acohido called the demos sizzling research projects in his report and Josh has a great report. too over on CNET<!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

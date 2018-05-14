@@ -1,0 +1,30 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+February 24, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+I’ve been thinking of building myself a time-lapse camera using .NET Gadgeteer of late – I’ve always like that style of photography but never had the patience for it. That was until I came across Timelapse Pro for Windows Phone of course. This simple yet powerful little application creates an animated GIF from a series of photos. You can specify the time interval between photos, set the screen to auto shut off (to conserve power) and set the point of focus.An earlier version was frustrating as there was no way to export the video from the phone but with the latest version it will now create the animated GIF and has the option to upload to SkyDrive built in.Okay, one downside is it means you have to leave your phone lying around in one spot for a while…but now I have a Nokia Lumia 800 I’ve made my Samsung Focus my dedicated time-lapse phone!Here’s a creation from my apartment window in Seattle.Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

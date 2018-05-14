@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+October 10, 2012
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+Cell is a project a saw a while back and realized I hadn’t shared here – it’s another creative, artistic use of Kinect that I love. To quote the developers, James Alliban and Keiichi Matsuda Cell was commissioned Alpha-ville for the 2011 festival, this interactive installation plays with and proposes alternative landscapes in the technological ether surrounding our everyday movements. The result is a mesmerizing display that culls data from online profiles to create a display that reflects your online persona. It’s an artistic way to explore the blending of the physical and digitals worlds. Cell currently includes a series of fictional personas, one of which is applied to a user as they approach the installation – though I imagine it could be setup to allow you to connect to your actual online persona. That has some pretty interesting applications from a marketing and branding point of view. You can see more behind the scenes videos on the work to build Cell at installcell.com where James explains how the team used four Kinect sensors to enable an installation that could support 8 simultaneous users.If you’re interested in installing Cell at an event, be sure to contact the team.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

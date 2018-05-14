@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+January 30, 2013
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+This is a guest post from Stefan Weitz, Director of Search at MicrosoftThose who follow my many digital personas know I travel – a lot. That has many implications on my life, like how much stuff I want to lug around. Being constantly on the go means the time I have to actually live my life is shrinking. I know many of you can relate – up in the air or otherwise.As a result, I rely on a number of tactics to keep me both light and sane. Until recently, that was a hassle with any number of jury-rigged systems that never quite worked together. Not so in 2013.In fact, I’m coining 2013 as the year of the “Alchemic Cloud.” It’s when data transfer speeds, the devices we use to create data and a more intelligent cloud all come together to enable a life that can keep up with you, wherever you are. A number of factors are driving this transformation:Let me give you some examples of how I use these new systems to reduce my physical and cognitive load:The amazing amount of bandwidth available to me on my mobile devices is staggering. Whether on the cellular data network or on my home WiFi, moving things between my phone or tablets and the cloud is amazingly easy.One of the things I’m grateful for is that my HTC 8X Windows Phone is constantly uploading photos I take to Skydrive, which guarantees I’m not going to lose my pictures if I lose my phone. Best of all, Skydrive uses sensors in my connected device to tell me where in the world I took the picture so I’ll never wonder which airport that cool massage lounge was located.Next, part of my job is to actually track what’s happening in the search and technology space to understand how Bing needs to adapt. I rely on a lot of smart cloud apps to help with this, but one in particular that I can’t live without is If This Then That. IFTTT is a cloud service that creates connections between different apps, which can then take action on your behalf. I use IFTTT for lots of things but one of my favorites I learned from my friend Andrew McLaughlin at Betaworks.Let me explain.How often are you scanning your Newsfeed or someone sends a link to an article you JUST HAVE TO READ RIGHT NOW, but there’s no time to do so? A combination of a connected device and smart cloud apps save the day. First, I use Pocket to bookmark articles to the cloud that I want to read later. Meanwhile, I set up an IFTTT rule that moves anything bookmarked in Pocket over to Instapaper.Instapaper then delivers a collection of all those articles to my Amazon Kindle at 3am every day. Voila – now I can read all the articles I meant to read during the day when I have some down time on the weekends (or late at night in bed), on a device that makes reading them easy on the eyes.Another connected device I’m especially excited about is the Livescribe Sky, which automatically converts my handwritten notes into digital form and wirelessly syncs them to the cloud. Even when I leave my notepad at the office, all my notes stay with me on any web connected device. When I lose my notepad — which happens at least once a month — all my missives are easily accessed from my Surface tablet using Evernote.The thing I’m most excited about that really exemplifies all three of the 2013 trends is the OliveOne, pictured at the top. It’s a fully cloud-connected device that leverages smart cloud apps and my great bandwidth, giving me access to all of my music services in one seamless interface. Not only does it have a 1TB storage capacity (Hello, high quality music!) that can be accessed from anywhere in the world. It actually talks to all the cloud music services to which I have subscribed and finds whatever I want to hear. And it does all of this with a single, beautiful touchscreen interface. I just wish time travel was a 2013 trend so I could fast forward to July when they start shipping.So that’s what I am watching in 2013. Five years ago I talked about “better living through copper” which referred to the fact that most of my life seemed to be lived through the copper cable modem line coming into my house. Now, the “Alchemic Cloud” brings together the magic of software, connected devices, and a wireless network fabric that binds everything together to lighten our physical and mental loads.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,29 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+June 23, 2014
+
+									|										
+Steve Wiens - Microsoft News Center Staff
+
+Editor’s note: The following is a post from Geoff Carter, a writer for microsoft.com/stories. When you watch the video, you think, wow, the man is cool. Amir Netz is cool.The video in question, which is easily found on YouTube, shows Netz introducing Power BI for Office 365 to an audience of thousands at the 2013 World Partner Conference. Watch it and you’ll see a TED-quality speaker who pretty much owns the room. He’s effusive, upbeat and genuinely funny, even giving a sort of stand-up routine: Using Power BI’s data visualization features, Netz analyzes some 50-plus years of number-one pop songs, from Elvis Presley to Rihanna, with a breathless, dizzying flair. With rapid-fire delivery, he describes Mariah Carey’s 1990s run of number one hits as if she were a soccer player advancing on goal (“she faking to the left!”), offhandedly dismisses Paula Abdul (“what’s she doing here?”) and sums up Nelly’s music as “songs my kids love but I cannot stand.”It’s a tour-de-force presentation, one worthy of a concert stage. And when it ends with a shouted, “Thank you, Rihanna! Thank you, Power BI! Thank you all!”, the audience erupts in well-deserved, deafening cheers for Amir Netz.I half-expect the rock star when I interview Netz, but what I get is a soft-spoken, thoroughly modest fellow. He politely shrugs off the rock star comparisons—“I don’t have any groupies,” he says, grinning—and immediately begins talking to the thing that put him in front of that crowd in the first place: his work with Microsoft’s Business Intelligence team.Netz is quietly proud of his work on BI, which has touched a number of products that include Power Pivot and Power View for Excel. He loves doing design work (“It’s a great passion of mine, a passion I discovered fairly late”) but you can tell that the real fire driving his engine is data. He loves taking hard data—like, say, that of Mariah Carey’s 1990s record sales—and making it into a tune you can hum along with.Read the full profile at microsoft.com/stories.
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:

@@ -1,0 +1,32 @@
+
+
+
+Try Microsoft Edge
+A fast and secure browser that's designed for Windows 10
+
+
+No thanks
+Get started
+
+
+April 4, 2011
+
+									|										
+Steve Clayton - Editor - Microsoft News Center Staff
+
+We had two master storyellers here on Microsoft Campus last week – Ron Howard and Brian Grazer. Neither of them really need an introduction but if you need the background, click on their names and I’ll see you back here in about an hour. They’re responsible for movies like Apollo 13, A Beautiful Mind, Frost/Nixon, and The Da Vinci Code. Oh and little know series called 24. Given I’m supposed to be a storyteller, and my recent note about studying at the feet of the best, I decided I should go hear what they had to say and what I could learn. The video above gives you the highlights of a Q&A they did on stage at our Imagine 2011 event. A few things I observed and heard:It was fun to listen to two guys who are masters of their craft. In the digital age, they’re curious about how the palette for storytelling gets extended. During a lunch conversation with them we discussed transmedia, 3D and how to embrace these things without sacrificing the story. I’ve certainly seen my fair share of movies with tech overload of late and even if they had a good story, it was buried in special effects and a narrative that became too complicated. What I took away from these guys is to find the story and then turn to the palette for telling that story, not the other way around. Obvious but often forgotten. With a few stories on their hands right now, Brian and Ron spent four hours with Microsoft Research and walked away impressed by what they’d seen. Brian mentioned on stage and in a subsequent tweet…….I noted to them that I get to do this every day….seeing glimpses of the future and only wish I could take more people on tours around Building 99 and other places. The next best thing is taking a camera in to these places and showing you what I’m allowed to. In fact, I’m off to shoot a movie of my own now…a quick tour around the Microsoft Home. It’s not going to win any academy awards but check back here soon to see the finished product. <!--
+(function() {var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];s.type = 'text/javascript';s.async = true;s.src = 'http://widgets.digg.com/buttons.js';s1.parentNode.insertBefore(s, s1);})();
+// -->Tweet
+
+			Dec 13, 2017							  |  
+						Allison Linn 
+			Aug 16, 2017							  |  
+						Allison Linn 
+			Apr 18, 2018							  |  
+						Microsoft Translator Blog 
+			Apr 5, 2018							  |  
+						John Roach 
+			Apr 4, 2018							  |  
+						Allison Linn 
+			Apr 2, 2018							  |  
+						John Roach Follow us:Share this page:
