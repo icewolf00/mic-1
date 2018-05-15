@@ -4,6 +4,20 @@ import os
 import json
 from bs4 import BeautifulSoup
 
+def rank_company(company_all_list):
+    company_all_rank_list = list()
+    while len(company_all_list) > 0:
+        compare_rank = 3000
+        for i, j in enumerate(company_all_list):
+            rank = int(j[0])
+            if rank < compare_rank:
+                compare_rank = rank
+                company = j
+        company_all_rank_list.append(company)
+        company_all_list.remove(company)
+    return company_all_rank_list
+
+
 def main(url):
     html = requests.get(url).text
     ajax_json = json.loads(html)
@@ -75,11 +89,12 @@ def main(url):
         except:
             company_list.append(None)
         company_all_list.append(company_list)
-    with open('forbes.csv', 'w') as csvfile:
+    company_all_rank_list = rank_company(company_all_list)
+    with open('forbes_rank.csv', 'w') as csvfile:
         fieldnames = ['position', 'rank', 'name', 'uri', 'imageUri', 'industry', 'country', 'revenue', 'marketValue', 'headquarters', 'state', 'ceo', 'thumbnail', 'profits', 'assets', 'squareImage']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
-        for i in company_all_list:
+        for i in company_all_rank_list:
             writer.writerow({                
                 'position': i[0],
                 'rank': i[1],
@@ -98,16 +113,6 @@ def main(url):
                 'assets':i[14], 
                 'squareImage':i[15],
             })
-
-def rank_company(company_all_list):
-    company_all_rank_list = list()
-    compare_rank = 0
-    for i, j in enumerate(company_all_list):
-        
-        if int(j[0]) < compare_rank:
-
-
-
 
 if __name__ == '__main__':
     main('https://www.forbes.com/ajax/list/data?year=2017&uri=global2000&type=organization')
