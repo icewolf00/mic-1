@@ -1,0 +1,224 @@
+name,uri
+Apple,apple
+Alphabet,alphabet
+Microsoft,microsoft
+Amazon.com,amazon
+Facebook,facebook
+Tencent Holdings,tencent-holdings
+Alibaba,alibaba
+General Electric,general-electric
+Samsung Electronics,samsung-electronics
+AT&T,att
+China Mobile,china-mobile
+Verizon Communications,verizon-communications
+Oracle,oracle
+Intel,intel
+Cisco Systems,cisco-systems
+IBM,ibm
+Taiwan Semiconductor,taiwan-semiconductor
+SAP,sap
+3M,3m
+Siemens,siemens
+Honeywell International,honeywell-international
+Nippon Telegraph & Tel,nippon-tel-tel
+Broadcom,broadcom
+Booking Holdings,booking
+Qualcomm,qualcomm
+Texas Instruments,texas-instruments
+Deutsche Telekom,deutsche-telekom
+Softbank,softbank
+Accenture,accenture
+Tata Consultancy Services,tata-consultancy-services
+KDDI,kddi
+Vodafone,vodafone
+Adobe Systems,adobe-systems
+Netflix,netflix
+Baidu,baidu
+Salesforce.com,salesforce
+NVIDIA,nvidia
+ASML Holding,asml-holding
+Telefónica,telefonica
+Hon Hai Precision,hon-hai-precision
+ABB,abb
+Keyence,keyence
+America Movil,america-movil
+Automatic Data Processing,automatic-data-processing
+JD.com,jd
+SingTel,singtel
+Yahoo!,yahoo
+Etisalat,etisalat
+Applied Materials,applied-materials
+Schneider Electric,schneider-electric
+RELX Group,relx-group
+Telstra,telstra
+BCE,bce
+Sony,sony
+China Telecom,china-telecom
+Orange,orange
+BT Group,bt-group
+Emerson Electric,emerson-electric
+VMware,vmware
+Saudi Telecom,saudi-telecom
+Netease,netease
+eBay,ebay
+NXP Semiconductors,nxp-semiconductors
+Infosys,infosys
+Crown Castle International,crown-castle-international
+China Unicom,china-unicom
+SK Hynix,sk-hynix
+Micron Technology,micron-technology
+Equinix,equinix
+Altice,altice
+Telkom Indonesia,telkom-indonesia
+Hewlett Packard Enterprise,hewlett-packard-enterprise
+Nokia,nokia
+Intuit,intuit
+Mitsubishi Electric,mitsubishi-electric
+HP,hp
+Analog Devices,analog-devices
+Philips,philips
+Hikvision,hikvision
+Murata Manufacturing,murata-manufacturing
+Nidec,nidec
+Chunghwa Telecom,chunghwa-telecom
+Panasonic,panasonic
+TE Connectivity,te-connectivity
+Hitachi,hitachi
+Corning,corning
+Fiserv,fiserv
+Western Digital,western-digital
+Snap,snap
+Telenor,telenor
+Vivendi,vivendi
+Naver,naver
+Rogers Communications,rogers-communications
+Infineon Technologies,infineon-technologies
+Swisscom,swisscom
+Dassault Systemes,dassault-systemes
+Amadeus IT Group,amadeus-it-group
+Amphenol,amphenol
+Bharti Airtel,bharti-airtel
+Ericsson,ericsson
+Level 3 Communications,level-3-communications
+Lam Research,lam-research
+Fortive,fortive
+LARGAN Precision,largan-precision
+Sharp,sharp
+Kyocera,kyocera
+TELUS,telus
+Wipro,wipro
+Symantec,symantec
+Expedia,expedia
+Skyworks Solutions,skyworks-solutions
+Autodesk,autodesk
+HCL Technologies,hcl-technologies
+BOE Technology Group,boe-technology-group
+Telecom Italia,telecom-italia
+Hoya,hoya
+Fujifilm Holdings,fujifilm-holdings
+Tokyo Electron,tokyo-electron
+Check Point Software,check-point-software
+Vestas Wind Systems,vestas-wind-systems
+Agilent Technologies,agilent-technologies
+Teliasonera,teliasonera
+Secom,secom
+MTN Group,mtn-group
+Workday,workday
+Renesas Electronics,renesas-electronics
+SK Telecom,sk-telecom
+Microchip Technology,microchip-technology
+Legrand,legrand
+Liberty Broadband,liberty-broadband
+Capgemini,capgemini
+Focus Media Information Technology,focus-media-information-technology
+Rakuten,rakuten
+Red Hat,red-hat
+KLA-Tencor,kla-tencor
+Advanced Info Service,advanced-info-service
+Best Buy,best-buy
+SBA Communications,sba-communications
+AAC Technologies Holdings,aac-technologies-holdings
+ServiceNow,servicenow
+CGI Group,cgi-group
+Xilinx,xilinx
+Delta Electronics,delta-electronics
+Seagate Technology,seagate-technology
+Harris,harris
+STMicroelectronics,stmicroelectronics
+Dell Technologies,dell-technologies
+WW Grainger,ww-grainger
+CenturyLink,centurylink
+CA,ca
+Iliad,iliad
+Citrix Systems,citrix-systems
+Olympus,olympus
+ATOS,atos
+Taiwan Mobile,taiwan-mobile
+Advanced Micro Devices,advanced-micro-devices
+Maxim Integrated Products,maxim-integrated-products
+KPN,kpn
+Fujitsu,fujitsu
+Ametek,ametek
+Mediatek,mediatek
+NetApp,netapp
+Maxis,maxis
+Juniper Networks,juniper-networks
+Proximus,proximus
+LG Electronics,lg-electronics
+Axiata Group,axiata-group
+Akamai Technologies,akamai-technologies
+Advanced Semiconductor,advanced-semiconductor
+Garmin,garmin
+ZTE,zte
+Liberty Interactive,qurate-retail
+LG Display,lg-display
+Samsung SDS,samsung-sds
+OMRON,omron
+CDW,cdw
+Ooredoo Telecom,ooredoo-telecom
+Nomura Research Institute,nomura-research
+Amdocs,amdocs
+VeriSign,verisign
+F5 Networks,f5-networks
+Flextronics International,flextronics-international
+Open Text,open-text
+Samsung SDI,samsung-sdi
+Toshiba,toshiba
+Quanta Computer,quanta-computer
+Lenovo Group,lenovo-group
+TDK,tdk
+Pegatron,pegatron
+Emirates Integrated Telecom,emirates-integrated-telecom
+Asustek Computer,asustek-computer
+China Railway Signal & Communication,china-railway-signal-communication
+KT Corp,kt-corp
+Turkcell,turkcell
+Legend Holding,legend-holding
+VEON,veon
+Tsinghua Tongfang,tsinghua-tongfang
+TCL Corp,tcl-corp
+Arrow Electronics,arrow-electronics
+NEC,nec
+G4S,g4s
+Avnet,avnet
+LG Uplus,lg-uplus
+Rexel,rexel
+Jabil Circuit,jabil-circuit
+Yamada Denki,yamada-denki
+China Great Wall Computer,china-great-wall-computer
+China Communications Services,china-communications-services
+Nanya Technology,nanya-technology
+Konica Minolta Business Solutions,konica-minolta
+Innolux,innolux
+SYNNEX,synnex
+AU Optronics,au-optronics
+Sistema,sistema
+Tech Data,tech-data
+Compal Electronics,compal-electronics
+Inventec,inventec
+Frontier Communications,frontier-communications
+Wistron,wistron
+WPG Holdings,wpg-holdings
+Synnex Technology Intl,synnex-tech-intl
+Oi,oi
+Intelsat,intelsat
