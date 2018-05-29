@@ -27,6 +27,18 @@ def get_currency_rate(x, y):
     print(r)
     return r
 
+def get_currency_rate2(x, y):
+    try:
+        api_key = '14ee46c12ed9a7f8d68e7e92/'
+        url = 'https://v3.exchangerate-api.com/bulk/' + api_key + x
+        response = requests.get(url)
+        data = response.json()
+        r = data['rates'][y]
+        print(r)
+        return r
+    except:
+        return ''
+
 def market_cap_format(market_cap_str):
     market_cap_str = market_cap_str.replace('.', '')
     market_cap_str = market_cap_str.replace('億', '0'*8)
@@ -63,7 +75,7 @@ for i, j in enumerate(company_market_cap_list):
     try:
         company_market_cap_list[i].append(get_currency_rate(j[-1], 'USD'))
     except:
-        company_market_cap_list[i].append('')
+        company_market_cap_list[i].append(get_currency_rate2(j[-1], 'USD'))
 
 for i, j in enumerate(company_market_cap_list):
     try:
