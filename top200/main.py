@@ -129,19 +129,3 @@ df = df.replace(np.nan, '')
 now = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
 path = 'datasets/' + now + '.csv'
 df.to_csv(path, index=False)
-
-# path = 'datasets/' + today + '.csv'
-# with open(path, 'w', newline='') as csvfile:
-#         fieldnames = ['name', 'market_cap', 'place', 'symbol', 'rate', 'market_cap_format', 'market_cap_USD']
-#         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-#         writer.writeheader()
-#         for i, j in enumerate(company_market_cap_list):
-            
-#             writer.writerow({'name': j[0],
-#                              'market_cap': j[1], 
-#                              'place': j[2], 
-#                              'symbol': j[3], 
-#                              'rate': j[4], 
-#                              'market_cap_format': j[5], 
-#                              'market_cap_USD': j[6],
-#                             })
