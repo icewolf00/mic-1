@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+import numpy as np
 import datetime
 import csv
 import os
@@ -48,7 +49,14 @@ def market_cap_format(market_cap_str):
     print(market_cap_int)
     return market_cap_int
 
-today = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
+def get_lift(i):
+    if i > 0:
+        return '+ ' + str(i)
+    elif i < 0:
+        return '- ' + str(i)
+    else:
+        return '+ ' + str(i)
+
 company = pd.read_csv('company.csv')
 company_name_list = company['name']
 company_market_cap_list = list()
@@ -93,7 +101,8 @@ for i, j in enumerate(company_market_cap_list):
 
 path = 'datasets/'
 last = max(os.listdir(path))
-df_last = pd.read_csv(last)
+path = path + last
+df_last = pd.read_csv(path)
 
 df = pd.DataFrame(columns=['rank', 'lift', 'name', 'exchange', 'code', 'rate', 'market_cap'])
 for i in company_market_cap_list:
@@ -103,15 +112,23 @@ for i in company_market_cap_list:
                     'rate': i[4],
                     'market_cap': i[6],
                    }, ignore_index=True)
+
 df = df.replace('', np.nan, regex=True)
 df = df.sort_values(by=['market_cap'], ascending=False)
 df = df.reset_index(drop=True)
+
 df['rank'] = df.index + 1
 df['lift'] = df['rank'] - df_last['rank']
+lift_list = df['lift'].tolist()
+for i, j in enumerate(lift_list):
+    lift_list[i] = get_lift(j)
+lift_series = pd.Series(lift_list)
+df['lift'] = lift_series
 df = df.replace(np.nan, '')
 
-
-
+now = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
+path = 'datasets/' + now + '.csv'
+df.to_csv(path)
 
 # path = 'datasets/' + today + '.csv'
 # with open(path, 'w', newline='') as csvfile:
