@@ -128,7 +128,7 @@ df = df.replace(np.nan, '')
 
 now = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
 path = 'datasets/' + now + '.csv'
-df.to_csv(path)
+df.to_csv(path, index=False)
 
 # path = 'datasets/' + today + '.csv'
 # with open(path, 'w', newline='') as csvfile:
