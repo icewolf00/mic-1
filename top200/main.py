@@ -2,6 +2,7 @@ import requests
 import pandas as pd
 import datetime
 import csv
+import os
 from bs4 import BeautifulSoup
 from forex_python.converter import CurrencyRates
 
@@ -90,19 +91,40 @@ for i, j in enumerate(company_market_cap_list):
         company_market_cap_list[i].append('')
 
 
-path = 'datasets/' + today + '.csv'
+path = 'datasets/'
+last = max(os.listdir(path))
+df_last = pd.read_csv(last)
 
-with open(path, 'w', newline='') as csvfile:
-        fieldnames = ['name', 'market_cap', 'place', 'symbol', 'rate', 'market_cap_format', 'market_cap_USD']
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writeheader()
-        for i, j in enumerate(company_market_cap_list):
+df = pd.DataFrame(columns=['rank', 'lift', 'name', 'exchange', 'code', 'rate', 'market_cap'])
+for i in company_market_cap_list:
+    df = df.append({'name': i[0],
+                    'exchange': i[2],
+                    'code': i[3],
+                    'rate': i[4],
+                    'market_cap': i[6],
+                   }, ignore_index=True)
+df = df.replace('', np.nan, regex=True)
+df = df.sort_values(by=['market_cap'], ascending=False)
+df = df.reset_index(drop=True)
+df['rank'] = df.index + 1
+df['lift'] = df['rank'] - df_last['rank']
+df = df.replace(np.nan, '')
+
+
+
+
+# path = 'datasets/' + today + '.csv'
+# with open(path, 'w', newline='') as csvfile:
+#         fieldnames = ['name', 'market_cap', 'place', 'symbol', 'rate', 'market_cap_format', 'market_cap_USD']
+#         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+#         writer.writeheader()
+#         for i, j in enumerate(company_market_cap_list):
             
-            writer.writerow({'name': j[0],
-                             'market_cap': j[1], 
-                             'place': j[2], 
-                             'symbol': j[3], 
-                             'rate': j[4], 
-                             'market_cap_format': j[5], 
-                             'market_cap_USD': j[6],
-                            })
+#             writer.writerow({'name': j[0],
+#                              'market_cap': j[1], 
+#                              'place': j[2], 
+#                              'symbol': j[3], 
+#                              'rate': j[4], 
+#                              'market_cap_format': j[5], 
+#                              'market_cap_USD': j[6],
+#                             })
