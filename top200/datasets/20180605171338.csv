@@ -1,0 +1,224 @@
+rank,lift,name,exchange,code,rate,market_cap
+1,+ 0,Apple, - Apple Inc. (NASDAQ),USD,1.0,94287100000000.0
+2,+ 0,Amazon.com," - Amazon.com, Inc. (NASDAQ)",USD,1.0,80803400000000.0
+3,+ 0,Alphabet, - Alphabet Inc Class A (NASDAQ),USD,1.0,79534800000000.0
+4,+ 0,Microsoft, - Microsoft Corporation (NASDAQ),USD,1.0,78115100000000.0
+5,+ 0,Facebook," - Facebook, Inc. Common Stock (NASDAQ)",USD,1.0,55947400000000.0
+6,+ 0,Alibaba, - Alibaba Group Holding Ltd (NYSE),USD,1.0,53515300000000.0
+7,+ 0,Tencent Holdings, - 騰訊 (HKG),HKD,0.1275,50872500000000.0
+8,+ 0,Samsung Electronics, - Samsung Electronics Co Ltd (KRX),KRW,0.0009,32948100000000.0
+9,+ 0,Intel, - Intel Corporation (NASDAQ),USD,1.0,26482800000000.0
+10,+ 0,Cisco Systems," - Cisco Systems, Inc. (NASDAQ)",USD,1.0,20495200000000.0
+11,+ 0,Taiwan Semiconductor, - 台灣積體電路製造 (TPE),TWD,0.03355557,19932008580000.0
+12,+ 0,AT&T, - AT&T Inc. (NYSE),USD,1.0,19903000000000.0
+13,+ 0,Verizon Communications, - Verizon Communications Inc. (NYSE),USD,1.0,19758700000000.0
+14,+ 0,Oracle, - Oracle Corporation (NYSE),USD,1.0,19317500000000.0
+15,+ 0,China Mobile, - 中國移動 (HKG),HKD,0.1275,18870000000000.0
+16,+ 0,NVIDIA, - NVIDIA Corporation (NASDAQ),USD,1.0,16077400000000.0
+17,+ 0,Netflix," - Netflix, Inc. (NASDAQ)",USD,1.0,15727600000000.0
+18,+ 0,SAP, - SAP SE (ETR),EUR,1.1737,14198366270000.0
+19,+ 0,Adobe Systems, - Adobe Systems Incorporated (NASDAQ),USD,1.0,12476200000000.0
+20,+ 0,3M, - 3M Co (NYSE),USD,1.0,11936800000000.0
+21,+ 0,Siemens, - Siemens AG (ETR),EUR,1.1737,11337237780000.0
+22,+ 0,Texas Instruments, - Texas Instruments Incorporated (NASDAQ),USD,1.0,11330000000000.0
+23,+ 0,Broadcom, - Broadcom Inc (NASDAQ),USD,1.0,10529200000000.0
+24,+ 0,Accenture, - Accenture Plc (NYSE),USD,1.0,10252700000000.0
+25,+ 0,Booking Holdings, - Booking Holdings Inc (NASDAQ),USD,1.0,10012500000000.0
+26,+ 0,Nippon Telegraph & Tel, - Nippon Telegraph And Telephone Corp (TYO),JPY,0.0091,9909900000000.0
+27,+ 0,Salesforce.com," - salesforce.com, inc. (NYSE)",USD,1.0,9728200000000.0
+28,+ 0,ASML Holding, - ASML Holding NV (AMS),EUR,1.1737,8948288800000.0
+29,+ 0,Qualcomm," - QUALCOMM, Inc. (NASDAQ)",USD,1.0,8704500000000.0
+30,+ 0,Softbank, - SoftBank Group Corp (TYO),JPY,0.0091,8044400000000.0
+31,+ 0,Deutsche Telekom, - Deutsche Telekom AG (ETR),EUR,1.1737,7469074690000.0
+32,+ 0,Keyence, - KEYENCE CORPORATION (TYO),JPY,0.0091,7443800000000.0
+33,+ 0,Vodafone, - Vodafone Group plc (LON),GBP,1.3387,7052137730000.0
+34,+ 0,KDDI, - KDDI Corp (TYO),JPY,0.0091,6897800000000.0
+35,+ 0,Micron Technology," - Micron Technology, Inc. (NASDAQ)",USD,1.0,6854200000000.0
+36,+ 0,Sony, - Sony Corp (TYO),JPY,0.0091,6215300000000.0
+37,+ 0,SK Hynix, - SK Hynix Inc (KRX),KRW,0.0009,5962500000000.0
+38,+ 0,Automatic Data Processing, - Automatic Data Processing (NASDAQ),USD,1.0,5914000000000.0
+39,+ 0,Hikvision, - 海康威視 (SHE),CNY,0.1561,5767270600000.0
+40,+ 0,VMware," - VMware, Inc. (NYSE)",USD,1.0,5748300000000.0
+41,+ 0,Applied Materials," - Applied Materials, Inc. (NASDAQ)",USD,1.0,5494000000000.0
+42,+ 0,JD.com, - JD.Com Inc(ADR) (NASDAQ),USD,1.0,5473300000000.0
+43,+ 0,Intuit, - Intuit Inc. (NASDAQ),USD,1.0,5301500000000.0
+44,+ 0,Hon Hai Precision, - 鴻海精密 (TPE),TWD,0.03355748,5134294440000.0
+45,+ 0,America Movil, - America Movil SAB de CV (BMV),MXN,0.0502,5120400000000.0
+46,+ 0,Schneider Electric, - Schneider Electric SE (EPA),EUR,1.1737,5031182420000.0
+47,+ 0,Saudi Telecom, - Saudi Telecom Company SJSC (TADAWUL),SAR,0.2666484,4922329464000.0
+48,+ 0,Tata Consultancy Services, - Tata Consultancy Services Limited (NSE),INR,0.0149,4902100000000.0
+49,+ 0,Telefónica, - Telefonica SA (BME),EUR,1.1737,4685645140000.0
+50,+ 0,Nidec, - NIDEC CORPORATION (TYO),JPY,0.0091,4641000000000.0
+51,+ 0,RELX Group, - Relx NV (AMS),EUR,1.1737,4615457880000.0
+52,+ 0,Orange, - Orange SA (EPA),EUR,1.1737,4569214100000.0
+53,+ 0,Emerson Electric, - Emerson Electric Co. (NYSE),USD,1.0,4505800000000.0
+54,+ 0,Crown Castle International, - CROWN CASTLE In/SH SH (NYSE),USD,1.0,4305900000000.0
+55,+ 0,China Unicom, - 中國聯通 (HKG),HKD,0.1275,4236774000000.0
+56,+ 0,Philips, - Koninklijke Philips NV (AMS),EUR,1.1737,4018748800000.0
+57,+ 0,SingTel, - Singapore Telecommunications Limited (SGX),SGD,0.7497,4015318230000.0
+58,+ 0,Axiata Group, - Axiata Group Bhd (KLSE),,1.0,4000000000000.0
+59,+ 0,Infosys, - Infosys Ltd (NSE),INR,0.0149,3948500000000.0
+60,+ 0,eBay, - eBay Inc (NASDAQ),USD,1.0,3883500000000.0
+61,+ 0,China Telecom, - 中國電信 (HKG),HKD,0.1275,3879901500000.0
+62,+ 0,NXP Semiconductors, - NXP Semiconductors NV (NASDAQ),USD,1.0,3830300000000.0
+63,+ 0,BCE, - BCE Inc. (USA) (TSE),CAD,0.7748,3784898000000.0
+64,+ 0,Dassault Systemes, - Dassault Systemes SE (EPA),EUR,1.1737,3745511440000.0
+65,+ 0,HP, - HP Inc (NYSE),USD,1.0,3732500000000.0
+66,+ 0,Analog Devices," - Analog Devices, Inc. (NASDAQ)",USD,1.0,3697300000000.0
+67,+ 0,Amadeus IT Group, - Amadeus It Group SA (BME),EUR,1.1737,3590935150000.0
+68,+ 0,Hitachi," - Hitachi, Ltd. (TYO)",JPY,0.0091,3512600000000.0
+69,+ 0,Murata Manufacturing," - Murata Manufacturing Co., Ltd. (TYO)",JPY,0.0091,3439800000000.0
+70,+ 0,Panasonic, - Panasonic Corporation (TYO),JPY,0.0091,3394300000000.0
+71,+ 0,Vivendi, - Vivendi SA (EPA),EUR,1.1737,3358425180000.0
+72,+ 0,Lam Research, - Lam Research Corporation (NASDAQ),USD,1.0,3356200000000.0
+73,+ 0,Nokia, - Nokia Oyj (HEL),EUR,1.1737,3348448730000.0
+74,+ 0,TE Connectivity, - TE Connectivity Ltd (NYSE),USD,1.0,3315100000000.0
+75,+ 0,Tsinghua Tongfang, - 清華同方 (SHA),,1.0,3287000000000.0
+76,+ 0,ServiceNow, - ServiceNow Inc (NYSE),USD,1.0,3242000000000.0
+77,+ 0,Infineon Technologies, - Infineon Technologies AG (ETR),EUR,1.1737,3240233590000.0
+78,+ 0,Tokyo Electron, - Tokyo Electron Ltd (TYO),JPY,0.0091,3175900000000.0
+79,+ 0,Equinix, - Equinix Inc (NASDAQ),USD,1.0,3172000000000.0
+80,+ 0,Mitsubishi Electric, - Mitsubishi Electric Corporation (TYO),JPY,0.0091,3121300000000.0
+81,+ 0,Netease, - NetEase Inc (ADR) (NASDAQ),USD,1.0,3117900000000.0
+82,+ 0,Fiserv, - Fiserv Inc (NASDAQ),USD,1.0,3040500000000.0
+83,+ 0,Red Hat, - Red Hat Inc (NYSE),USD,1.0,3010700000000.0
+84,+ 0,Autodesk," - Autodesk, Inc. (NASDAQ)",USD,1.0,2970500000000.0
+85,+ 0,Chunghwa Telecom, - 中華電信 (TPE),TWD,0.03355748,2863523527612.0
+86,+ 0,Workday, - Workday Inc (NASDAQ),USD,1.0,2756800000000.0
+87,+ 0,BT Group, - BT Group - CLASS A Common Stock (LON),GBP,1.3387,2738846330000.0
+88,+ 0,Amphenol, - Amphenol Corporation (NYSE),USD,1.0,2655300000000.0
+89,+ 0,Fortive, - Fortive Corp (NYSE),USD,1.0,2588100000000.0
+90,+ 0,Western Digital, - Western Digital Corp (NASDAQ),USD,1.0,2539100000000.0
+91,+ 0,Telstra, - Telstra Corporation Ltd (ASX),AUD,0.7666,2525487040000.0
+92,+ 0,Ericsson, - ERICSSON/SH B (STO),SEK,0.1144,2438905040000.0
+93,+ 0,Hewlett Packard Enterprise, - Hewlett Packard Enterprise Co (NYSE),USD,1.0,2413700000000.0
+94,+ 0,Focus Media Information Technology, - 分眾傳媒 (SHE),CNY,0.1561,2409590820000.0
+95,+ 0,Microchip Technology, - Microchip Technology Inc. (NASDAQ),USD,1.0,2376500000000.0
+96,+ 0,Swisscom, - Swisscom AG (VTX),CHF,1.0165,2342219300000.0
+97,+ 0,Corning, - Corning Incorporated (NYSE),USD,1.0,2334900000000.0
+98,+ 0,Capgemini, - Capgemini SE (EPA),EUR,1.1737,2261250420000.0
+99,+ 0,BOE Technology Group, - 京東方A (SHE),CNY,0.1561,2258017720000.0
+100,+ 0,Hoya, - HOYA CORPORATION (TYO),JPY,0.0091,2256800000000.0
+101,+ 0,Kyocera, - Kyocera Corp (TYO),JPY,0.0091,2256800000000.0
+102,+ 0,Bharti Airtel, - Bharti Airtel Limited (NSE),INR,0.0149,2145600000000.0
+103,+ 0,TELUS, - TELUS Corporation (USA) (TSE),CAD,0.7748,2097538560000.0
+104,+ 0,Teliasonera, - Telia Company AB (STO),SEK,0.1144,2072092880000.0
+105,+ 0,Agilent Technologies, - Agilent Technologies Inc (NYSE),USD,1.0,2043900000000.0
+106,+ 0,Fujifilm Holdings, - FUJIFILM Holdings Corp (TYO),JPY,0.0091,2011100000000.0
+107,+ 0,Legrand, - Legrand SA (EPA),EUR,1.1737,2009609140000.0
+108,+ 0,LARGAN Precision, - 大立光電 (TPE),TWD,0.03355557,2003012506668.0
+109,+ 0,Naver, - Naver Corp (KRX),KRW,0.0009,1999800000000.0
+110,+ 0,Best Buy, - Best Buy Co Inc (NYSE),USD,1.0,1969400000000.0
+111,+ 0,NetApp, - NetApp Inc. (NASDAQ),USD,1.0,1909500000000.0
+112,+ 0,CenturyLink, - Centurylink Inc (NYSE),USD,1.0,1903100000000.0
+113,+ 0,AAC Technologies Holdings, - 瑞聲科技 (HKG),HKD,0.1275,1880561250000.0
+114,+ 0,HCL Technologies, - HCL Technologies Ltd (NSE),INR,0.0149,1832700000000.0
+115,+ 0,Skyworks Solutions, - Skyworks Solutions Inc (NASDAQ),USD,1.0,1827100000000.0
+116,+ 0,SBA Communications, - SBA Communications Corporation (NASDAQ),USD,1.0,1825500000000.0
+117,+ 0,Harris, - Harris Corporation (NYSE),USD,1.0,1815400000000.0
+118,+ 0,KLA-Tencor, - KLA-Tencor Corp (NASDAQ),USD,1.0,1811900000000.0
+119,+ 0,Toshiba, - Toshiba Corp (TYO),JPY,0.0091,1792700000000.0
+120,+ 0,Advanced Info Service, - Advanced Info Service PCL (BKK),THB,0.0313,1791364730000.0
+121,+ 0,Expedia, - Expedia Group Inc (NASDAQ),USD,1.0,1785000000000.0
+122,+ 0,Xilinx," - Xilinx, Inc. (NASDAQ)",USD,1.0,1782200000000.0
+123,+ 0,WW Grainger, - W W Grainger Inc (NYSE),USD,1.0,1747900000000.0
+124,+ 0,Ametek," - AMETEK, Inc. (NYSE)",USD,1.0,1730400000000.0
+125,+ 0,Secom, - Secom Co Ltd (TYO),JPY,0.0091,1729000000000.0
+126,+ 0,Mediatek, - 聯發科技 (TPE),TWD,0.03355557,1722279896934.0
+127,+ 0,Wipro, - Wipro Limited (NSE),INR,0.0149,1713500000000.0
+128,+ 0,Renesas Electronics, - Renesas Electronics Corporation (TYO),JPY,0.0091,1710800000000.0
+129,+ 0,Maxim Integrated Products, - Maxim Integrated Products Inc. (NASDAQ),USD,1.0,1701300000000.0
+130,+ 0,Dell Technologies, - Dell Technologies Inc (NYSE),USD,1.0,1695100000000.0
+131,+ 0,Telecom Italia, - Telecom Italia SpA (BIT),EUR,1.1737,1680973140000.0
+132,+ 0,VeriSign," - Verisign, Inc. (NASDAQ)",USD,1.0,1660100000000.0
+133,+ 0,Seagate Technology, - Seagate Technology PLC (NASDAQ),USD,1.0,1649700000000.0
+134,+ 0,SK Telecom, - SK Telecom Co Ltd (KRX),KRW,0.0009,1617300000000.0
+135,+ 0,Samsung SDS, - Samsung SDS Co Ltd (KRX),KRW,0.0009,1577700000000.0
+136,+ 0,Check Point Software, - Check Point Software Technologies Ltd. (NASDAQ),USD,1.0,1568900000000.0
+137,+ 0,Snap, - Snap Inc (NYSE),USD,1.0,1550100000000.0
+138,+ 0,CA," - CA, Inc. (NASDAQ)",USD,1.0,1505100000000.0
+139,+ 0,Citrix Systems," - Citrix Systems, Inc. (NASDAQ)",USD,1.0,1458300000000.0
+140,+ 0,Advanced Micro Devices," - Advanced Micro Devices, Inc. (NASDAQ)",USD,1.0,1439500000000.0
+141,+ 0,LG Electronics, - LG Electronics Inc. (KRX),KRW,0.0009,1388700000000.0
+142,+ 0,Samsung SDI, - Samsung SDI Co Ltd (KRX),KRW,0.0009,1343700000000.0
+143,+ 0,Olympus, - Olympus Corp (TYO),JPY,0.0091,1328600000000.0
+144,+ 0,Akamai Technologies," - Akamai Technologies, Inc. (NASDAQ)",USD,1.0,1315000000000.0
+145,+ 0,Symantec, - Symantec Corporation (NASDAQ),USD,1.0,1314600000000.0
+146,+ 0,Nomura Research Institute, - Nomura Research Institute Ltd (TYO),JPY,0.0091,1301300000000.0
+147,+ 0,Sharp, - Sharp Corporation (TYO),JPY,0.0091,1283100000000.0
+148,+ 0,Fujitsu, - Fujitsu Ltd (TYO),JPY,0.0091,1274000000000.0
+149,+ 0,Liberty Broadband, - Liberty Broadband Corp Series A (NASDAQ),USD,1.0,1258800000000.0
+150,+ 0,TDK, - TDK Corp (TYO),JPY,0.0091,1237600000000.0
+151,+ 0,CDW, - CDW common stock (NASDAQ),USD,1.0,1234700000000.0
+152,+ 0,Garmin, - Garmin Ltd. (NASDAQ),USD,1.0,1208500000000.0
+153,+ 0,KPN, - Koninklijke KPN N.V. (AMS),EUR,1.1737,1171587340000.0
+154,+ 0,OMRON, - OMRON Corporation (TYO),JPY,0.0091,1128400000000.0
+155,+ 0,F5 Networks," - F5 Networks, Inc. (NASDAQ)",USD,1.0,1076800000000.0
+156,+ 0,Iliad, - Iliad SA (EPA),EUR,1.1737,1029100160000.0
+157,+ 0,Nanya Technology, - 南亞科技 (TPE),TWD,0.03355557,1017710238087.0
+158,+ 0,Amdocs, - Amdocs Limited (NASDAQ),USD,1.0,983900000000.0
+159,+ 0,Delta Electronics, - 台達電子 (TPE),TWD,0.03355557,976215420225.0
+160,+ 0,Liberty Interactive, - Qurate Retail Inc Series A (NASDAQ),USD,1.0,963000000000.0
+161,+ 0,Open Text, - Open Text Corp (USA) (NASDAQ),USD,1.0,944700000000.0
+162,+ 0,Juniper Networks," - Juniper Networks, Inc. (NYSE)",USD,1.0,941300000000.0
+163,+ 0,Rakuten, - Rakuten Inc (TYO),JPY,0.0091,928200000000.0
+164,+ 0,Proximus, - Proximus NV (EBR),EUR,1.1737,905744290000.0
+165,+ 0,Legend Holding, - 聯想控股 (HKG),HKD,0.1275,758561250000.0
+166,+ 0,Quanta Computer, - 廣達電腦 (TPE),TWD,0.03355557,738739295778.0
+167,+ 0,Flextronics International, - Flex Ltd (NASDAQ),USD,1.0,732400000000.0
+168,+ 0,LG Display, - LG Display Co Ltd (KRX),KRW,0.0009,729000000000.0
+169,+ 0,NEC, - NEC Corp (TYO),JPY,0.0091,722943130000.0
+170,+ 0,Asustek Computer, - 華碩 (TPE),TWD,0.03355557,694127165463.0
+171,+ 0,TCL Corp, - TCL集團 (SHE),CNY,0.1561,675101280000.0
+172,+ 0,Arrow Electronics," - Arrow Electronics, Inc. (NYSE)",USD,1.0,663200000000.0
+173,+ 0,KT Corp, - KT Corp (KRX),KRW,0.0009,642600000000.0
+174,+ 0,Altice, - Altice NV Class A (AMS),EUR,1.1737,635675920000.0
+175,+ 0,Pegatron, - 和碩聯合科技 (TPE),TWD,0.03355557,590141809590.0
+176,+ 0,G4S, - G4S plc (LON),GBP,1.3387,581799020000.0
+177,+ 0,Turkcell, - Turkcell Iletisim Hizmetleri A.S. (IST),TRY,0.2166,563723160000.0
+178,+ 0,Yamada Denki, - Yamada Denki Co Ltd (TYO),JPY,0.0091,497800030000.0
+179,+ 0,Jabil Circuit, - Jabil Inc (NYSE),USD,1.0,495700000000.0
+180,+ 0,LG Uplus, - LG Uplus Corp (KRX),KRW,0.0009,491400000000.0
+181,+ 0,Rexel, - Rexel SA (EPA),EUR,1.1737,465958900000.0
+182,+ 0,Konica Minolta Business Solutions, - Konica Minolta Inc (TYO),JPY,0.0091,465657920000.0
+183,+ 0,Avnet," - Avnet, Inc. (NASDAQ)",USD,1.0,454900000000.0
+184,+ 0,China Communications Services, - 中國通信服務股份有限公司 (HKG),HKD,0.1275,454779750000.0
+185,+ 0,VEON, - VEON Ltd (ADR) (NASDAQ),USD,1.0,453700000000.0
+186,+ 0,SYNNEX, - SYNNEX Corporation (NYSE),USD,1.0,439000000000.0
+187,+ 0,AU Optronics, - 友達光電 (TPE),TWD,0.03355557,423061915446.0
+188,+ 0,Innolux, - 群創光電 (TPE),TWD,0.03355557,390717701523.0
+189,+ 0,ABB, - ABB India Ltd (NSE),INR,0.0149,371230520000.0
+190,+ 0,Tech Data, - Tech Data Corp (NASDAQ),USD,1.0,336300000000.0
+191,+ 0,Oi, - Owens-Illinois Inc (NYSE),USD,1.0,305100000000.0
+192,+ 0,Inventec, - 英業達集團 (TPE),TWD,0.03355557,296735261067.0
+193,+ 0,Synnex Technology Intl, - 聯強國際 (TPE),TWD,0.03355557,269491493784.0
+194,+ 0,WPG Holdings, - 大聯大投資控股股份有限公司 (TPE),TWD,0.03355557,269152582527.0
+195,+ 0,Wistron, - 緯創資通 (TPE),TWD,0.03355557,214903292508.0
+196,+ 0,Intelsat, - Intelsat SA (NYSE),USD,1.0,204700000000.0
+197,+ 0,Frontier Communications, - Frontier Communications Corp (NASDAQ),USD,1.0,61500000000.0
+198,+ 0,ZTE, - 中興通訊 (HKG),HKD,0.1275,0.0
+199,+ 0,General Electric,,,1.0,
+200,+ 0,IBM,,,1.0,
+201,+ 0,Honeywell International,,,1.0,
+202,+ 0,Baidu, - Baidu Inc (ADR) (NASDAQ),USD,1.0,
+203,+ 0,Yahoo!,,,1.0,
+204,+ 0,Etisalat,,,1.0,
+205,+ 0,Telkom Indonesia,,,1.0,
+206,+ 0,Telenor, - Telenor ASA (SWX),CHF,1.0165,
+207,+ 0,Rogers Communications, - Rogers Communications Inc. (USA) Class B (TSE),CAD,0.7748,
+208,+ 0,Level 3 Communications,,,1.0,
+209,+ 0,Vestas Wind Systems, - VESTAS WIND Sys/ADR (OTCMKTS),,1.0,
+210,+ 0,MTN Group, - MTN Group Limited (JSE),ZAC,,
+211,+ 0,CGI Group, - CGI Group Inc (TSE),CAD,0.7748,
+212,+ 0,STMicroelectronics,,,1.0,
+213,+ 0,ATOS, - Atossa Genetics Inc (NASDAQ),USD,1.0,
+214,+ 0,Taiwan Mobile,,,1.0,
+215,+ 0,Maxis,,,1.0,
+216,+ 0,Advanced Semiconductor,,,1.0,
+217,+ 0,Ooredoo Telecom,,,1.0,
+218,+ 0,Lenovo Group,,,1.0,
+219,+ 0,Emirates Integrated Telecom,,,1.0,
+220,+ 0,China Railway Signal & Communication,,,1.0,
+221,+ 0,China Great Wall Computer,,,1.0,
+222,+ 0,Sistema,,,1.0,
+223,+ 0,Compal Electronics,,,1.0,
